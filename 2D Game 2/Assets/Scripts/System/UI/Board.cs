@@ -7,11 +7,14 @@ using System.Collections;
 
 public class Board : MonoBehaviour
 {
-    private static readonly KeyCode[] SUPPORTED_KEYS = new KeyCode[] {KeyCode.A, KeyCode.B, KeyCode.C, KeyCode.D, KeyCode.E, KeyCode.F,
-KeyCode.G, KeyCode.H, KeyCode.I, KeyCode.J, KeyCode.K, KeyCode.L,
-KeyCode.M, KeyCode.N, KeyCode.O, KeyCode.P, KeyCode.Q, KeyCode.R,
-KeyCode.S, KeyCode.T, KeyCode.U, KeyCode.V, KeyCode.W, KeyCode.X,
-KeyCode.Y, KeyCode.Z,};
+    private static readonly KeyCode[] SUPPORTED_KEYS = new KeyCode[] 
+    {
+        KeyCode.A, KeyCode.B, KeyCode.C, KeyCode.D, KeyCode.E, KeyCode.F,
+        KeyCode.G, KeyCode.H, KeyCode.I, KeyCode.J, KeyCode.K, KeyCode.L,
+        KeyCode.M, KeyCode.N, KeyCode.O, KeyCode.P, KeyCode.Q, KeyCode.R,
+        KeyCode.S, KeyCode.T, KeyCode.U, KeyCode.V, KeyCode.W, KeyCode.X,
+        KeyCode.Y, KeyCode.Z,
+    };
     
     [Header("States")]
     public Tile.State emptyState;
@@ -27,9 +30,11 @@ KeyCode.Y, KeyCode.Z,};
 
     public TTSSpeaker Class_speaker;
     public UIEvent uIEvent;
+    public EnemyHealth enemyHealth;
+    public PlayerHealth playerHealth;
 
     public string TextSpeech;
-    
+
     public int currentLevel = 1;
     public bool submitted;
     public float clearTime;
@@ -102,6 +107,7 @@ KeyCode.Y, KeyCode.Z,};
     {
         word = solutions[Random.Range(0, solutions.Length)];
         word = word.ToLower().Trim();
+        Class_speaker.Speak("Spell " + word);
     }
 
     private void Update()
@@ -178,13 +184,7 @@ KeyCode.Y, KeyCode.Z,};
             
         }
         
-        if(IsCorrect(row.word))
-        {
-            // guessed correctly
-            Debug.Log("Guess matches solution");
 
-
-        }
 
 
         if (!simpleSubmit)
@@ -290,6 +290,15 @@ KeyCode.Y, KeyCode.Z,};
         ClearBoard();
     }
 
+    IEnumerator NewGameTimer(float waitTime)
+    {
+        // Wait for the specified time
+        yield return new WaitForSeconds(waitTime);
+        enabled = true;
+
+        NewGame();
+    }
+
     private bool IsCorrect(string guess) 
     {
             if (guess == word)
@@ -301,14 +310,25 @@ KeyCode.Y, KeyCode.Z,};
 
     private void OnEnable()
     {
-
+        
     }
 
     private void OnDisable()
     {
-        StartCoroutine(ClearBoardTimer(clearTime));     
+        if (enemyHealth.currentHealth <= 0)
+        {
+            return;
+        }
+        StartCoroutine(NewGameTimer(clearTime));     
         uIEvent.Text(displayWord);
-        uIEvent.Appear();  
+        uIEvent.Appear();
+    
+        if(IsCorrect(rows[rowIndex].word))
+        {
+            // guessed correctly
+            Debug.Log("Guess matches solution");
+            playerHealth.AttackEnemy();
+        }
 
         for (int i = 0; i < rows.Length; i++)
         {

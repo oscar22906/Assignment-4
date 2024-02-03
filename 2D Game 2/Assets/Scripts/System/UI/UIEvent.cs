@@ -35,13 +35,13 @@ public class UIEvent : MonoBehaviour
             textColor.a = 0.0f; // Set alpha to 0 for full transparency
             soulsTitle.color = textColor;
         }
-        Debug.Log("Set text invisible");
+        // Debug.Log("Set text invisible");
     }
 
     public void Appear()
     {
         StartCoroutine(FadeInAndOutCoroutine(fadeInTime, fadeOutTime));
-        Debug.Log("Text appears and disappears");
+        // Debug.Log("Text appears and disappears");
     }
 
     IEnumerator FadeInAndOutCoroutine(float fadeInTime, float fadeOutTime)
@@ -54,12 +54,12 @@ public class UIEvent : MonoBehaviour
 
         // Fade out
         yield return StartCoroutine(FadeOutTextCoroutine(fadeOutTime));
-        Debug.Log("Text disappears");
+        // Debug.Log("Text disappears");
     }
 
     IEnumerator FadeInTextCoroutine(float fadeInTime)
     {
-        Debug.Log("Start fade in coroutine");
+        // Debug.Log("Start fade in coroutine");
         Color originalColor = soulsTitle.color;
         Color targetColor = new Color(originalColor.r, originalColor.g, originalColor.b, 1.0f);
 
@@ -78,7 +78,7 @@ public class UIEvent : MonoBehaviour
 
     IEnumerator FadeOutTextCoroutine(float fadeOutTime)
     {
-        Debug.Log("Start fade out coroutine");
+        // Debug.Log("Start fade out coroutine");
         Color originalColor = soulsTitle.color;
         Color targetColor = new Color(originalColor.r, originalColor.g, originalColor.b, 0.0f);
 

@@ -58,7 +58,7 @@ public class Tile : MonoBehaviour
 
     public IEnumerator FadeInTextCoroutine(float fadeInTime)
     {
-        Debug.Log("Start fade in coroutine");
+        // Debug.Log("Start fade in coroutine");
         Color originalColor = text.color;
         Color targetColor = new Color(originalColor.r, originalColor.g, originalColor.b, 1.0f);
 
@@ -81,7 +81,7 @@ public class Tile : MonoBehaviour
 
     public IEnumerator FadeOutTextCoroutine(float fadeOutTime)
     {
-        Debug.Log("Start fade out coroutine");
+        // Debug.Log("Start fade out coroutine");
         if (text.color.a < 1.0f)
         {
             Debug.Log("Cancel Fade Out");
