@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5aeb729f3918b4845a8fc408009fce3d
+timeCreated: 1500650303
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95453
+  packageName: Klattersynth TTS
+  packageVersion: 1.1.1
+  assetPath: Assets/Klattersynth/Examples/Files/KlattersynthTTS_Example_Pangrams_Controller.cs
+  uploadId: 338508

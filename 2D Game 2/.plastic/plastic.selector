@@ -1,4 +1,3 @@
-repository "2D Game 2@OscarsFace@cloud"
+rep "2D Game 2@OscarsFace@cloud"
   path "/"
-    br "/main"
-    co "/main"
+    smartbranch "/main"

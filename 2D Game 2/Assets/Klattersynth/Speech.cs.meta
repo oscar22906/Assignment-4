@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 73601986dbed79b4ea3f21f0fc530c8d
+timeCreated: 1499362371
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95453
+  packageName: Klattersynth TTS
+  packageVersion: 1.1.1
+  assetPath: Assets/Klattersynth/Speech.cs
+  uploadId: 338508

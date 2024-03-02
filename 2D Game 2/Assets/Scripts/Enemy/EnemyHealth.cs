@@ -4,15 +4,21 @@ using UnityEngine;
 
 public class EnemyHealth : MonoBehaviour
 {
+
     public float maxHealth = 100f;
-    public HealthSlider healthSlider;
     public float currentHealth;
 
-    public GameObject damageEffectPrefab; // Assign your particle effect prefab in the Unity Editor
+    public HealthSlider healthSlider;
+    
+    private HitEffect enemyHitEffect;
+    private EnemyController enemyController;
+
 
     void Start()
     {
         currentHealth = maxHealth;
+        enemyController = GetComponent<EnemyController>();
+        enemyHitEffect = GetComponent<HitEffect>();
     }
 
     void Update()
@@ -25,36 +31,28 @@ public class EnemyHealth : MonoBehaviour
         Debug.Log("enemy took damage");
         currentHealth -= damage;
         healthSlider.TakeDamage(damage);
+        enemyController.DamageUpdate();
 
         // Check if the enemy's health has reached zero or below
         if (currentHealth <= 0)
         {
+            enemyHitEffect.PlayFinalSound();
             Die();
         }
-        else
+        
+        if(currentHealth > 0)
         {
-            PlayDamageEffect();
+            enemyHitEffect.PlayNextHitAudio(currentHealth);
+            enemyHitEffect.PlayDamageEffect();
         }
     }
 
-    void PlayDamageEffect()
-    {
-        // Instantiate and play the damage particle effect
-        if (damageEffectPrefab != null)
-        {
-            GameObject damageEffect = Instantiate(damageEffectPrefab, transform.position, Quaternion.identity);
-            Destroy(damageEffect, 2.0f); // Adjust the time as needed
-        }
 
-        // You can add additional logic here for other effects or animations
-    }
 
     void Die()
     {
 
         // Destroy the enemy GameObject
-        Destroy(gameObject);
+        enemyHitEffect.PlayDamageEffect();
     }
 }
-
-

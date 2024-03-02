@@ -52,8 +52,6 @@ public class Tile : MonoBehaviour
         this.state = state;
         fill.color = state.fillColor;
         outline.effectColor = state.outlineColor;
-
-
     }
 
     public IEnumerator FadeInTextCoroutine(float fadeInTime)

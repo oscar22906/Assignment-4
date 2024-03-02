@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class UIEvent : MonoBehaviour
 {
-    [Header("Souls Title Popup")]
+    [Header("james thing")]
     public TextMeshProUGUI soulsTitle;
     public float fadeInTime = 2.0f;
     public float waitTime = 0.5f;

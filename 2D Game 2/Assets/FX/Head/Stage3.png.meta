@@ -1,0 +1,2503 @@
+fileFormatVersion: 2
+guid: be65b413d17229940b2610c3bf4595e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2331648077239511847
+    second: stage3_493x505_0
+  - first:
+      213: 4305410176815160689
+    second: stage3_493x505_1
+  - first:
+      213: -1457866712848355114
+    second: stage3_493x505_2
+  - first:
+      213: -6176545811219869247
+    second: stage3_493x505_3
+  - first:
+      213: -1953966128761562994
+    second: stage3_493x505_4
+  - first:
+      213: -7792641193058998054
+    second: stage3_493x505_5
+  - first:
+      213: 3712422125080487161
+    second: stage3_493x505_6
+  - first:
+      213: -3415307995341462790
+    second: stage3_493x505_7
+  - first:
+      213: -8941466541383001838
+    second: stage3_493x505_8
+  - first:
+      213: 8127905544025324069
+    second: stage3_493x505_9
+  - first:
+      213: 7486841924958611437
+    second: stage3_493x505_10
+  - first:
+      213: 5183415528596079801
+    second: stage3_493x505_11
+  - first:
+      213: -8631611768256776046
+    second: stage3_493x505_12
+  - first:
+      213: -3606914298927235088
+    second: stage3_493x505_13
+  - first:
+      213: -5287524226628590442
+    second: stage3_493x505_14
+  - first:
+      213: -7414638729243396799
+    second: stage3_493x505_15
+  - first:
+      213: -6640786627490671149
+    second: stage3_493x505_16
+  - first:
+      213: -4551235701732840218
+    second: stage3_493x505_17
+  - first:
+      213: -855410975291223441
+    second: stage3_493x505_18
+  - first:
+      213: 4632567533870470093
+    second: stage3_493x505_19
+  - first:
+      213: -763198303842061635
+    second: stage3_493x505_20
+  - first:
+      213: -8358812640984420679
+    second: stage3_493x505_21
+  - first:
+      213: 1620590708267714250
+    second: stage3_493x505_22
+  - first:
+      213: -356205514085729940
+    second: stage3_493x505_23
+  - first:
+      213: -4669975372705902260
+    second: stage3_493x505_24
+  - first:
+      213: -7488240428829697700
+    second: stage3_493x505_25
+  - first:
+      213: -2271481230559362211
+    second: stage3_493x505_26
+  - first:
+      213: -573496080289952240
+    second: stage3_493x505_27
+  - first:
+      213: -6938370079238027920
+    second: stage3_493x505_28
+  - first:
+      213: -7510112206489407814
+    second: stage3_493x505_29
+  - first:
+      213: 2393009549368413816
+    second: stage3_493x505_30
+  - first:
+      213: -6163137590780527323
+    second: stage3_493x505_31
+  - first:
+      213: -148868745016971773
+    second: stage3_493x505_32
+  - first:
+      213: 7781372935993657261
+    second: stage3_493x505_33
+  - first:
+      213: -8833417816573377391
+    second: stage3_493x505_34
+  - first:
+      213: -1002167459424460450
+    second: stage3_493x505_35
+  - first:
+      213: -4758537773813626496
+    second: stage3_493x505_36
+  - first:
+      213: 1462222860037554908
+    second: stage3_493x505_37
+  - first:
+      213: -89488271696251569
+    second: stage3_493x505_38
+  - first:
+      213: -3623205102822558991
+    second: stage3_493x505_39
+  - first:
+      213: 7672449013204996711
+    second: stage3_493x505_40
+  - first:
+      213: -3552279117739368910
+    second: stage3_493x505_41
+  - first:
+      213: -7711205109502837375
+    second: stage3_493x505_42
+  - first:
+      213: -9019556560272521862
+    second: stage3_493x505_43
+  - first:
+      213: 3732399739721020729
+    second: stage3_493x505_44
+  - first:
+      213: -5353542146316958129
+    second: stage3_493x505_45
+  - first:
+      213: 1917520333763420557
+    second: stage3_493x505_46
+  - first:
+      213: 2862976486133554924
+    second: stage3_493x505_47
+  - first:
+      213: 8392053421132754173
+    second: stage3_493x505_48
+  - first:
+      213: 9105310704168050595
+    second: stage3_493x505_49
+  - first:
+      213: -3677723745772625142
+    second: stage3_493x505_50
+  - first:
+      213: 1081999283071292757
+    second: stage3_493x505_51
+  - first:
+      213: -8166504058332586764
+    second: stage3_493x505_52
+  - first:
+      213: 7907908835854135871
+    second: stage3_493x505_53
+  - first:
+      213: -656937399502205283
+    second: stage3_493x505_54
+  - first:
+      213: 4489188063075639758
+    second: stage3_493x505_55
+  - first:
+      213: 2218273322725325815
+    second: stage3_493x505_56
+  - first:
+      213: -4684516157041386043
+    second: stage3_493x505_57
+  - first:
+      213: -1674740738332382718
+    second: stage3_493x505_58
+  - first:
+      213: 7480333644360953685
+    second: stage3_493x505_59
+  - first:
+      213: 5190386448810478161
+    second: stage3_493x505_60
+  - first:
+      213: -2236190907726587674
+    second: stage3_493x505_61
+  - first:
+      213: -8271305992105765997
+    second: stage3_493x505_62
+  - first:
+      213: 6623572318547330782
+    second: stage3_493x505_63
+  - first:
+      213: -1917861108151159406
+    second: stage3_493x505_64
+  - first:
+      213: -6420032483747281324
+    second: stage3_493x505_65
+  - first:
+      213: 5372452640807900161
+    second: stage3_493x505_66
+  - first:
+      213: 4299797282024388447
+    second: stage3_493x505_67
+  - first:
+      213: -6920509796521184657
+    second: stage3_493x505_68
+  - first:
+      213: 8228009122150089619
+    second: stage3_493x505_69
+  - first:
+      213: -5020960818527052995
+    second: stage3_493x505_70
+  - first:
+      213: -1529290411393450757
+    second: stage3_493x505_71
+  - first:
+      213: -5676359533944479654
+    second: stage3_493x505_72
+  - first:
+      213: 2891167394577068775
+    second: stage3_493x505_73
+  - first:
+      213: -6052187923949924743
+    second: stage3_493x505_74
+  - first:
+      213: 4400099100803232601
+    second: stage3_493x505_75
+  - first:
+      213: -1142567895091343616
+    second: stage3_493x505_76
+  - first:
+      213: 2501103607571318743
+    second: stage3_493x505_77
+  - first:
+      213: 2704908522353805015
+    second: stage3_493x505_78
+  - first:
+      213: 7159377587107523718
+    second: stage3_493x505_79
+  - first:
+      213: -1264160717974469505
+    second: stage3_493x505_80
+  - first:
+      213: -7980021859704934854
+    second: stage3_493x505_81
+  - first:
+      213: 4627067321426140222
+    second: stage3_493x505_82
+  - first:
+      213: 7721783770597366016
+    second: stage3_493x505_83
+  - first:
+      213: -705258966160036604
+    second: stage3_493x505_84
+  - first:
+      213: 6742159734312247828
+    second: stage3_493x505_85
+  - first:
+      213: -7763339023011196303
+    second: stage3_493x505_86
+  - first:
+      213: 7022053938578864179
+    second: stage3_493x505_87
+  - first:
+      213: -550082499202872130
+    second: stage3_493x505_88
+  - first:
+      213: -5936449814406372906
+    second: stage3_493x505_89
+  - first:
+      213: -7509444892154433462
+    second: stage3_493x505_90
+  - first:
+      213: -6206558213961400409
+    second: stage3_493x505_91
+  - first:
+      213: -862981582094331821
+    second: stage3_493x505_92
+  - first:
+      213: -8799057093860549330
+    second: stage3_493x505_93
+  - first:
+      213: -2192917393772917153
+    second: stage3_493x505_94
+  - first:
+      213: -630399742499548286
+    second: stage3_493x505_95
+  - first:
+      213: -9177823033866352375
+    second: stage3_493x505_96
+  - first:
+      213: 8637762278382947247
+    second: stage3_493x505_97
+  - first:
+      213: -366328704914671387
+    second: stage3_493x505_98
+  - first:
+      213: 4766492231646926083
+    second: stage3_493x505_99
+  - first:
+      213: -3856583751793036665
+    second: stage3_493x505_100
+  - first:
+      213: 3081066218061992005
+    second: stage3_493x505_101
+  - first:
+      213: 6431967438191101704
+    second: stage3_493x505_102
+  - first:
+      213: -2694763139359645985
+    second: stage3_493x505_103
+  - first:
+      213: 5194409032231570827
+    second: stage3_493x505_104
+  - first:
+      213: -6721932572464934599
+    second: stage3_493x505_105
+  - first:
+      213: 6749174102226933581
+    second: stage3_493x505_106
+  - first:
+      213: -1191797815150901288
+    second: stage3_493x505_107
+  - first:
+      213: 3281922208157293532
+    second: stage3_493x505_108
+  - first:
+      213: -1787904654715625435
+    second: stage3_493x505_109
+  - first:
+      213: 1375846647073013619
+    second: stage3_493x505_110
+  - first:
+      213: 321900251634347708
+    second: stage3_493x505_111
+  - first:
+      213: -6070881259572387910
+    second: stage3_493x505_112
+  - first:
+      213: 7251245047739788345
+    second: stage3_493x505_113
+  - first:
+      213: -8475241593420862686
+    second: stage3_493x505_114
+  - first:
+      213: -5355358317038728229
+    second: stage3_493x505_115
+  - first:
+      213: -3760170265736181005
+    second: stage3_493x505_116
+  - first:
+      213: 2531960857283452015
+    second: stage3_493x505_117
+  - first:
+      213: -3803697997098080252
+    second: stage3_493x505_118
+  - first:
+      213: -7287255926631618826
+    second: stage3_493x505_119
+  - first:
+      213: 7847145220945867170
+    second: stage3_493x505_120
+  - first:
+      213: -8943532482360304372
+    second: stage3_493x505_121
+  - first:
+      213: 6854681168510339902
+    second: stage3_493x505_122
+  - first:
+      213: 1576481239657884166
+    second: stage3_493x505_123
+  - first:
+      213: 2153969177381273234
+    second: stage3_493x505_124
+  - first:
+      213: -6003261768292684460
+    second: stage3_493x505_125
+  - first:
+      213: -2788127276106067324
+    second: stage3_493x505_126
+  - first:
+      213: 5512570578014295395
+    second: stage3_493x505_127
+  - first:
+      213: 5490092491197246755
+    second: stage3_493x505_128
+  - first:
+      213: 861373626616305936
+    second: stage3_493x505_129
+  - first:
+      213: 5585333797624586293
+    second: stage3_493x505_130
+  - first:
+      213: 7742456410882647756
+    second: stage3_493x505_131
+  - first:
+      213: 1040130015187910395
+    second: stage3_493x505_132
+  - first:
+      213: -8266609178088201478
+    second: stage3_493x505_133
+  - first:
+      213: 8423447460402703428
+    second: stage3_493x505_134
+  - first:
+      213: -7225233573788556521
+    second: stage3_493x505_135
+  - first:
+      213: 7436296516205545853
+    second: stage3_493x505_136
+  - first:
+      213: 1917814077925565961
+    second: stage3_493x505_137
+  - first:
+      213: 5023541087244042905
+    second: stage3_493x505_138
+  - first:
+      213: 6341870537317236249
+    second: stage3_493x505_139
+  - first:
+      213: -6149946634326560287
+    second: stage3_493x505_140
+  - first:
+      213: 5120545529735321771
+    second: stage3_493x505_141
+  - first:
+      213: -4984760794717236387
+    second: stage3_493x505_142
+  - first:
+      213: -668406799757010901
+    second: stage3_493x505_143
+  - first:
+      213: 1096040230685506068
+    second: stage3_493x505_144
+  - first:
+      213: -1067151565710012193
+    second: stage3_493x505_145
+  - first:
+      213: -2019472104645321598
+    second: stage3_493x505_146
+  - first:
+      213: 1235651068095689125
+    second: stage3_493x505_147
+  - first:
+      213: 495605879699161113
+    second: stage3_493x505_148
+  - first:
+      213: 8631909761195859028
+    second: stage3_493x505_149
+  - first:
+      213: 5643167299308996590
+    second: stage3_493x505_150
+  - first:
+      213: 2333248077639040018
+    second: stage3_493x505_151
+  - first:
+      213: -3884503295145216234
+    second: stage3_493x505_152
+  - first:
+      213: -9189577398296682218
+    second: stage3_493x505_153
+  - first:
+      213: 7391938757449265152
+    second: stage3_493x505_154
+  - first:
+      213: 8544285650478112184
+    second: stage3_493x505_155
+  - first:
+      213: -6635150485666761675
+    second: stage3_493x505_156
+  - first:
+      213: -3532198489558708483
+    second: stage3_493x505_157
+  - first:
+      213: -7782135700536216969
+    second: stage3_493x505_158
+  - first:
+      213: -7129056827054598234
+    second: stage3_493x505_159
+  - first:
+      213: -4099216535412405950
+    second: stage3_493x505_160
+  - first:
+      213: 6673840420143334468
+    second: stage3_493x505_161
+  - first:
+      213: -2133663248785576481
+    second: stage3_493x505_162
+  - first:
+      213: 1359199112580236821
+    second: stage3_493x505_163
+  - first:
+      213: -4043523681082797235
+    second: stage3_493x505_164
+  - first:
+      213: 2774902560831223490
+    second: stage3_493x505_165
+  - first:
+      213: 6002229942134530847
+    second: stage3_493x505_166
+  - first:
+      213: -4829483854344441715
+    second: stage3_493x505_167
+  - first:
+      213: 2169803403244780255
+    second: stage3_493x505_168
+  - first:
+      213: 1696216664372631109
+    second: stage3_493x505_169
+  - first:
+      213: -4920597486085277763
+    second: stage3_493x505_170
+  - first:
+      213: -7210970035020909091
+    second: stage3_493x505_171
+  - first:
+      213: 8168471402479937844
+    second: stage3_493x505_172
+  - first:
+      213: 5246692487551452922
+    second: stage3_493x505_173
+  - first:
+      213: 5792379700995776163
+    second: stage3_493x505_174
+  - first:
+      213: -3960934875921347898
+    second: stage3_493x505_175
+  - first:
+      213: -4043961990632242331
+    second: stage3_493x505_176
+  - first:
+      213: -332872710798573675
+    second: stage3_493x505_177
+  - first:
+      213: -585443000739821827
+    second: stage3_493x505_178
+  - first:
+      213: 3543325009982077058
+    second: stage3_493x505_179
+  - first:
+      213: -2269114165144028310
+    second: stage3_493x505_180
+  - first:
+      213: -1702151778151474915
+    second: stage3_493x505_181
+  - first:
+      213: -3878414647953263241
+    second: stage3_493x505_182
+  - first:
+      213: 7461102259564853678
+    second: stage3_493x505_183
+  - first:
+      213: -204855545710619839
+    second: stage3_493x505_184
+  - first:
+      213: -5967138367021135321
+    second: stage3_493x505_185
+  - first:
+      213: -2154456756038347304
+    second: stage3_493x505_186
+  - first:
+      213: -2685674771987170911
+    second: stage3_493x505_187
+  - first:
+      213: -4165224856947898392
+    second: stage3_493x505_188
+  - first:
+      213: 478942743620177852
+    second: stage3_493x505_189
+  - first:
+      213: -7008131179667380497
+    second: stage3_493x505_190
+  - first:
+      213: 8472555419809924419
+    second: stage3_493x505_191
+  - first:
+      213: 6626962640911178189
+    second: stage3_493x505_192
+  - first:
+      213: 2886414998507520749
+    second: stage3_493x505_193
+  - first:
+      213: -6602379903241500753
+    second: stage3_493x505_194
+  - first:
+      213: -1284666929802202062
+    second: stage3_493x505_195
+  - first:
+      213: -1609540338036032949
+    second: stage3_493x505_196
+  - first:
+      213: -9065638707676328553
+    second: stage3_493x505_197
+  - first:
+      213: 4967559982097369382
+    second: stage3_493x505_198
+  - first:
+      213: -4400373163871433108
+    second: stage3_493x505_199
+  - first:
+      213: -1929944595475107031
+    second: stage3_493x505_200
+  - first:
+      213: -6271426333226854450
+    second: stage3_493x505_201
+  - first:
+      213: 204080487180645604
+    second: stage3_493x505_202
+  - first:
+      213: -5701804239928929820
+    second: stage3_493x505_203
+  - first:
+      213: 2235703366827235097
+    second: stage3_493x505_204
+  - first:
+      213: 1245596582407131460
+    second: stage3_493x505_205
+  - first:
+      213: -9179073524736887265
+    second: stage3_493x505_206
+  - first:
+      213: -4235378992548407087
+    second: stage3_493x505_207
+  - first:
+      213: -5148356315653475072
+    second: stage3_493x505_208
+  - first:
+      213: -6328441414015305971
+    second: stage3_493x505_209
+  - first:
+      213: 6970689362905206566
+    second: stage3_493x505_210
+  - first:
+      213: -3529767607022815035
+    second: stage3_493x505_211
+  - first:
+      213: 551967469238277802
+    second: stage3_493x505_212
+  - first:
+      213: -6392281393724073274
+    second: stage3_493x505_213
+  - first:
+      213: -6566798749276576298
+    second: stage3_493x505_214
+  - first:
+      213: 4536649779799219164
+    second: stage3_493x505_215
+  - first:
+      213: 1859385475409568284
+    second: stage3_493x505_216
+  - first:
+      213: 1617480596221058338
+    second: stage3_493x505_217
+  - first:
+      213: -481140391467060064
+    second: stage3_493x505_218
+  - first:
+      213: 8321806518645744571
+    second: stage3_493x505_219
+  - first:
+      213: -5511216599922197912
+    second: stage3_493x505_220
+  - first:
+      213: -4234489217542490619
+    second: stage3_493x505_221
+  - first:
+      213: 1452174212611437481
+    second: stage3_493x505_222
+  - first:
+      213: -7661890559049715592
+    second: stage3_493x505_223
+  - first:
+      213: 997597895318676669
+    second: stage3_493x505_224
+  - first:
+      213: -475119256238933385
+    second: stage3_493x505_225
+  - first:
+      213: 5803103828138825887
+    second: stage3_493x505_226
+  - first:
+      213: 2093114950571139109
+    second: stage3_493x505_227
+  - first:
+      213: -6529717084704906694
+    second: stage3_493x505_228
+  - first:
+      213: -332537647258815872
+    second: stage3_493x505_229
+  - first:
+      213: -3528191423669903012
+    second: stage3_493x505_230
+  - first:
+      213: -1454632033830285079
+    second: stage3_493x505_231
+  - first:
+      213: -7390329447193075720
+    second: stage3_493x505_232
+  - first:
+      213: -2523095206886388473
+    second: stage3_493x505_233
+  - first:
+      213: -4523447758582340002
+    second: stage3_493x505_234
+  - first:
+      213: -8835094501073526481
+    second: stage3_493x505_235
+  - first:
+      213: -8807369641554463052
+    second: stage3_493x505_236
+  - first:
+      213: 9166133599487201650
+    second: stage3_493x505_237
+  - first:
+      213: -4030778107575285157
+    second: stage3_493x505_238
+  - first:
+      213: 661654933066543489
+    second: stage3_493x505_239
+  - first:
+      213: -4781851559564232037
+    second: stage3_493x505_240
+  - first:
+      213: -5360941660925331666
+    second: stage3_493x505_241
+  - first:
+      213: -6411846568945338790
+    second: stage3_493x505_242
+  - first:
+      213: -5082636783674685663
+    second: stage3_493x505_243
+  - first:
+      213: 7260807260563616891
+    second: stage3_493x505_244
+  - first:
+      213: 1064393207654691356
+    second: stage3_493x505_245
+  - first:
+      213: 6359222867985521406
+    second: stage3_493x505_246
+  - first:
+      213: -5551810839663326121
+    second: stage3_493x505_247
+  - first:
+      213: 5760158100794636569
+    second: stage3_493x505_248
+  - first:
+      213: -5408814688020396363
+    second: stage3_493x505_249
+  - first:
+      213: -4161241695141862603
+    second: stage3_493x505_250
+  - first:
+      213: -3142777218459789648
+    second: stage3_493x505_251
+  - first:
+      213: 1802550019624090002
+    second: stage3_493x505_252
+  - first:
+      213: -8133087730162054462
+    second: stage3_493x505_253
+  - first:
+      213: 3061705366323884128
+    second: stage3_493x505_254
+  - first:
+      213: -5615831001416195348
+    second: stage3_493x505_255
+  - first:
+      213: -855824560493189030
+    second: stage3_493x505_256
+  - first:
+      213: 7698008520571176162
+    second: stage3_493x505_257
+  - first:
+      213: -787162986474411056
+    second: stage3_493x505_258
+  - first:
+      213: -47824174775339053
+    second: stage3_493x505_259
+  - first:
+      213: -3822732478829321940
+    second: stage3_493x505_260
+  - first:
+      213: 8394560110288284334
+    second: stage3_493x505_261
+  - first:
+      213: 7657773047137550450
+    second: stage3_493x505_262
+  - first:
+      213: -5284749821914169939
+    second: stage3_493x505_263
+  - first:
+      213: 330610681611513302
+    second: stage3_493x505_264
+  - first:
+      213: 6933103577461155882
+    second: stage3_493x505_265
+  - first:
+      213: 130678549370325447
+    second: stage3_493x505_266
+  - first:
+      213: -8968586378318723132
+    second: stage3_493x505_267
+  - first:
+      213: 4479210888720830138
+    second: stage3_493x505_268
+  - first:
+      213: 6721356489445668103
+    second: stage3_493x505_269
+  - first:
+      213: 9210374645934115238
+    second: stage3_493x505_270
+  - first:
+      213: -6812692821287455558
+    second: stage3_493x505_271
+  - first:
+      213: -1841985188157825567
+    second: stage3_493x505_272
+  - first:
+      213: -4010525923679068007
+    second: stage3_493x505_273
+  - first:
+      213: -613701572300991046
+    second: stage3_493x505_274
+  - first:
+      213: -1756773197348037149
+    second: stage3_493x505_275
+  - first:
+      213: -3608143489170870324
+    second: stage3_493x505_276
+  - first:
+      213: -413396341870778632
+    second: stage3_493x505_277
+  - first:
+      213: 3501677443351781238
+    second: stage3_493x505_278
+  - first:
+      213: 5609597339059625487
+    second: stage3_493x505_279
+  - first:
+      213: -5298838596413896403
+    second: stage3_493x505_280
+  - first:
+      213: -75953406959222062
+    second: stage3_493x505_281
+  - first:
+      213: 1084773486000247447
+    second: stage3_493x505_282
+  - first:
+      213: 2496738258886441291
+    second: stage3_493x505_283
+  - first:
+      213: -512200935270683082
+    second: stage3_493x505_284
+  - first:
+      213: 7468871454899880302
+    second: stage3_493x505_285
+  - first:
+      213: -2004201400208453607
+    second: stage3_493x505_286
+  - first:
+      213: 1801478547221630812
+    second: stage3_493x505_287
+  - first:
+      213: 4862766948623709788
+    second: stage3_493x505_288
+  - first:
+      213: 1943495482666022348
+    second: stage3_493x505_289
+  - first:
+      213: -534794682319509175
+    second: stage3_493x505_290
+  - first:
+      213: 1109695398007867058
+    second: stage3_493x505_291
+  - first:
+      213: -2612903625869426958
+    second: stage3_493x505_292
+  - first:
+      213: -6727753438178411965
+    second: stage3_493x505_293
+  - first:
+      213: -9009656721972911458
+    second: stage3_493x505_294
+  - first:
+      213: -7366129714132880485
+    second: stage3_493x505_295
+  - first:
+      213: 5592808865614289616
+    second: stage3_493x505_296
+  - first:
+      213: -8167811767989828402
+    second: stage3_493x505_297
+  - first:
+      213: 7435402495150917859
+    second: stage3_493x505_298
+  - first:
+      213: 3529932549746502105
+    second: stage3_493x505_299
+  - first:
+      213: -1041682081331149754
+    second: stage3_493x505_300
+  - first:
+      213: 1201862155606621134
+    second: stage3_493x505_301
+  - first:
+      213: -9131729196016298320
+    second: stage3_493x505_302
+  - first:
+      213: -6792616827721157906
+    second: stage3_493x505_303
+  - first:
+      213: -2762457981178393656
+    second: stage3_493x505_304
+  - first:
+      213: 4235625741913421821
+    second: stage3_493x505_305
+  - first:
+      213: -7890193506163977480
+    second: stage3_493x505_306
+  - first:
+      213: 2093366201569587797
+    second: stage3_493x505_307
+  - first:
+      213: -5596745457527081762
+    second: stage3_493x505_308
+  - first:
+      213: 2260847136533182825
+    second: stage3_493x505_309
+  - first:
+      213: 8299673027565403114
+    second: stage3_493x505_310
+  - first:
+      213: 8419929241695833313
+    second: stage3_493x505_311
+  - first:
+      213: -9159933623298255151
+    second: stage3_493x505_312
+  - first:
+      213: -1041295053453882189
+    second: stage3_493x505_313
+  - first:
+      213: -4983415384748939753
+    second: stage3_493x505_314
+  - first:
+      213: 5637068599696094597
+    second: stage3_493x505_315
+  - first:
+      213: 7735797218000415852
+    second: stage3_493x505_316
+  - first:
+      213: 4919831442957914120
+    second: stage3_493x505_317
+  - first:
+      213: 5360642578418775510
+    second: stage3_493x505_318
+  - first:
+      213: -7899270402098281633
+    second: stage3_493x505_319
+  - first:
+      213: -8936406312546155803
+    second: stage3_493x505_320
+  - first:
+      213: -4303707955640916610
+    second: stage3_493x505_321
+  - first:
+      213: 6318676972535714913
+    second: stage3_493x505_322
+  - first:
+      213: -749807389347102154
+    second: stage3_493x505_323
+  - first:
+      213: -6708784530821832957
+    second: stage3_493x505_324
+  - first:
+      213: 6888911939595141159
+    second: stage3_493x505_325
+  - first:
+      213: -4163695575500878867
+    second: stage3_493x505_326
+  - first:
+      213: -7280176571878537528
+    second: stage3_493x505_327
+  - first:
+      213: 6888801571689058561
+    second: stage3_493x505_328
+  - first:
+      213: -712313557274316189
+    second: stage3_493x505_329
+  - first:
+      213: 1340968833349868136
+    second: stage3_493x505_330
+  - first:
+      213: 3552890900594483676
+    second: stage3_493x505_331
+  - first:
+      213: 2304807413853810057
+    second: stage3_493x505_332
+  - first:
+      213: -3452186438281246772
+    second: stage3_493x505_333
+  - first:
+      213: 1108656213628236507
+    second: stage3_493x505_334
+  - first:
+      213: 6584725298556562558
+    second: stage3_493x505_335
+  - first:
+      213: 6299944295945994382
+    second: stage3_493x505_336
+  - first:
+      213: 3901896496237473537
+    second: stage3_493x505_337
+  - first:
+      213: 2873393502935226818
+    second: stage3_493x505_338
+  - first:
+      213: -3694334582409414315
+    second: stage3_493x505_339
+  - first:
+      213: 1552070555059240195
+    second: stage3_493x505_340
+  - first:
+      213: 2010443888359728441
+    second: stage3_493x505_341
+  - first:
+      213: 2679971510248756546
+    second: stage3_493x505_342
+  - first:
+      213: 5430904523240043917
+    second: stage3_493x505_343
+  - first:
+      213: 5699746819601016536
+    second: stage3_493x505_344
+  - first:
+      213: 8165286443514998353
+    second: stage3_493x505_345
+  - first:
+      213: -8148788102587119059
+    second: stage3_493x505_346
+  - first:
+      213: -6733483756438315677
+    second: stage3_493x505_347
+  - first:
+      213: 6729393841964474329
+    second: stage3_493x505_348
+  - first:
+      213: 8296730338512603949
+    second: stage3_493x505_349
+  - first:
+      213: 5451575657379978694
+    second: stage3_493x505_350
+  - first:
+      213: -1004504797833021495
+    second: stage3_493x505_351
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3535
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d258e66307a974e986de2059b19a60
+      internalID: 1971291517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3535
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5def5ef9a4171ed489b71272436668b6
+      internalID: -1890488017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_2
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3535
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9892d1610718a47a0fa3441fc645b1
+      internalID: -42230756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_3
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3535
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4dc57fa90702547a91c792205d6fc4
+      internalID: 1953795462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_4
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 3535
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c13f3950bb0f64b83a98dccf9825d7
+      internalID: -436016362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_5
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 3535
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe399d6437e3044883a4d4d1480d4c7
+      internalID: -2121816296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_6
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 3535
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fbebfa61b7f174b8856b33c7570de7
+      internalID: -1613361656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_7
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 3535
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6028b602dd9374b8209ffdc2f688c2
+      internalID: 44157820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d69cfea3670cc34aadbcc8680ea0c2f
+      internalID: -80972846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3030
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f5fd321fb55ac48bfdcada810bb309
+      internalID: -1102479529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_10
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3030
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da083aee2a1873145905fc7bf880e791
+      internalID: -551941059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_11
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3030
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1e2ba2944a53e4f9e3569d18a25166
+      internalID: 862311090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_12
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 3030
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e000753732362942b95aecf327e0a6c
+      internalID: 641338222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_13
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 3030
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf0b419611819a4d9ead3edd2405eb0
+      internalID: -1728422344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_14
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 3030
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e68083a650ecb4a98bc5c6dec69955
+      internalID: -2093440911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_15
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 3030
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e5c3d13d2ee964e8e993f76311b14d
+      internalID: 1068603073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2525
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a505d9cc3ae2f478ece38f5f3e0b65
+      internalID: 1795535858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2525
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96790d07b6b17d84281bef9d380487d3
+      internalID: -837244841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2525
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d485ade8fda6ad4bb054e3575d14e88
+      internalID: 1165937290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_19
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2525
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c476f18894a5d4ab8a8d224564581c
+      internalID: 936675454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_20
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2525
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e8a44d73a9a540be629e248f24557
+      internalID: -172046208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_21
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2525
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ced1b0f1482404b9a378aad5719055
+      internalID: 945634138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_22
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2525
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd6fd9f3dbc524c890857d47641fa2
+      internalID: -1060343920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_23
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 2525
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d358516e1e58a419c53f6db8f9ae6a
+      internalID: -559016947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2020
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9912d2701fe969342a76c6c411e07da3
+      internalID: -1974696481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_25
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2020
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd7eca0ac651254cb9ff22003b55ba8
+      internalID: 1774243519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_26
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2020
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59bf50cae39bea4aa83c7d8ff7a0770
+      internalID: 1660914812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_27
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2020
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37338e65f3b387a4e9e6a91326bc2f13
+      internalID: -1455601732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_28
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 2020
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856ff7afdf1d9e49acf7f1bdf6972e4
+      internalID: 1946875251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_29
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2020
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa25d49be313e943808db5248a8088d
+      internalID: -298493858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_30
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 2020
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fff28f3ab97764db48aa76e4b28570
+      internalID: 927933082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_31
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 2020
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f958e46f37c147982475f7f9f379e
+      internalID: 1634040492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1515
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6263c6a08bcac4a993a558ce7150b3
+      internalID: -2145377049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_33
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1515
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e26e69fe29854cae74e0e99981067
+      internalID: -752755222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_34
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1515
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c4c7cbb66eb0429ef6d094073ceb2
+      internalID: -90026446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_35
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1515
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39598dab449417c4682b32a618a41224
+      internalID: 1373916380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_36
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1515
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f024671f64551e94ab1da9591b6c5646
+      internalID: -856717810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_37
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1515
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d5e38e522561342841a388ec033194
+      internalID: 1057481903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_38
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 1515
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e96a3d2d4a378740b999f60dc505ec6
+      internalID: 1713737531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_39
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 1515
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0c675c443575c42bf5bed302a3678a
+      internalID: 1154841378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62153da7eabaaf468cd80911471225b
+      internalID: 2068127940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_41
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1010
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa090a97d3eb10e4ba2836a0ca91125d
+      internalID: 1268585076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_42
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1010
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848b3ded6285f9c4483e72d21aafe498
+      internalID: -1131820373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_43
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1010
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec3f9dc378fed40bbbf20ccf9bd295
+      internalID: 803358482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_44
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1010
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37bc140b967a749b55fbfc1f66cdd1
+      internalID: -1131040138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_45
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1010
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fff539b8e1b154bac910ef904f0a12
+      internalID: 1748225340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_46
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 1010
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d41e3ddc55c164a8eab55332285ca2
+      internalID: -823503196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_47
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 1010
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b4c724eaefe341931c95e8ec3a904
+      internalID: -367998511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b0e3bf8758d0e45b1d46db5dacd447
+      internalID: -1179944493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_49
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 505
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02662de114f5ad44cab1dab9f607f330
+      internalID: -750579806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_50
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 505
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8a99d6563075e4dae8110fc4c6e1a2
+      internalID: 342907104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_51
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 505
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817845aaf0798a4e919383a42326049
+      internalID: -1699967905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_52
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 505
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e5de4293be207479af0cb592cc20e0
+      internalID: 948939459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_53
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 505
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bb8e2c5c66930409aaacf9fd425499
+      internalID: 1293996302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_54
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 505
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccde3b14d824434d9d3758b6e34e0af
+      internalID: 497732196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_55
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 505
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66b1587ebaa5e498cccab7a86e2ac7
+      internalID: 1872833218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e5259e958563428b71060362bf8a6
+      internalID: -1596535645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_57
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d457a3cddfdb9843a134c0d916ed79a
+      internalID: -704985504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_58
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 0
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422a0feced63de4c99dd0d9838d1ad0
+      internalID: -29532008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage3_59
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 0
+        width: 493
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4654a7d31c8046b98fc04312b182a
+      internalID: 2067482708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e058222e178a0e544b46bae3c585366c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stage3_0: 1971291517
+      Stage3_1: -1890488017
+      Stage3_10: -551941059
+      Stage3_11: 862311090
+      Stage3_12: 641338222
+      Stage3_13: -1728422344
+      Stage3_14: -2093440911
+      Stage3_15: 1068603073
+      Stage3_16: 1795535858
+      Stage3_17: -837244841
+      Stage3_18: 1165937290
+      Stage3_19: 936675454
+      Stage3_2: -42230756
+      Stage3_20: -172046208
+      Stage3_21: 945634138
+      Stage3_22: -1060343920
+      Stage3_23: -559016947
+      Stage3_24: -1974696481
+      Stage3_25: 1774243519
+      Stage3_26: 1660914812
+      Stage3_27: -1455601732
+      Stage3_28: 1946875251
+      Stage3_29: -298493858
+      Stage3_3: 1953795462
+      Stage3_30: 927933082
+      Stage3_31: 1634040492
+      Stage3_32: -2145377049
+      Stage3_33: -752755222
+      Stage3_34: -90026446
+      Stage3_35: 1373916380
+      Stage3_36: -856717810
+      Stage3_37: 1057481903
+      Stage3_38: 1713737531
+      Stage3_39: 1154841378
+      Stage3_4: -436016362
+      Stage3_40: 2068127940
+      Stage3_41: 1268585076
+      Stage3_42: -1131820373
+      Stage3_43: 803358482
+      Stage3_44: -1131040138
+      Stage3_45: 1748225340
+      Stage3_46: -823503196
+      Stage3_47: -367998511
+      Stage3_48: -1179944493
+      Stage3_49: -750579806
+      Stage3_5: -2121816296
+      Stage3_50: 342907104
+      Stage3_51: -1699967905
+      Stage3_52: 948939459
+      Stage3_53: 1293996302
+      Stage3_54: 497732196
+      Stage3_55: 1872833218
+      Stage3_56: -1596535645
+      Stage3_57: -704985504
+      Stage3_58: -29532008
+      Stage3_59: 2067482708
+      Stage3_6: -1613361656
+      Stage3_7: 44157820
+      Stage3_8: -80972846
+      Stage3_9: -1102479529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

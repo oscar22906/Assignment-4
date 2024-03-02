@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 23b939222d132964dab77b62bf2a5048
+timeCreated: 1500731248
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95453
+  packageName: Klattersynth TTS
+  packageVersion: 1.1.1
+  assetPath: Assets/Klattersynth/Examples/Files/KlattersynthTTS_Example_TalkingRobot.cs
+  uploadId: 338508

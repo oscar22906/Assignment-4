@@ -4,27 +4,33 @@ using UnityEngine;
 public class EnemyController : MonoBehaviour
 {
     /* Hello welcome to my enemy code thing. This will control the enemys movement as well as communicate to the arms when their is an attack or how they should increase speed ect.  */
+    [Header("Move Settings")]
     public float minMoveDelay = 1f;
     public float maxMoveDelay = 3f;
     public float minMoveDistance = 0.5f;
     public float maxMoveDistance = 1f;
     public float lerpFactor = 0.1f;
     public int movesBeforeFixedPosition = 5;
-
+    
+    [Header("Position Resets")]
     public Vector3 leftSidePosition = new Vector3(-2f, 0f, 0f);
     public Vector3 centerPosition = new Vector3(0f, 1f, 0f);
     public Vector3 rightSidePosition = new Vector3(2f, 0f, 0f);
 
-
+    [Header("Attack")]
     public float minAttackDelay = 5f;
     public float maxAttackDelay = 10f;
+    public int maxAttack = 1;
 
-    // Health stage parameters
+    [Header("Effect")]
+    public bool simpleDamageEffect = true; // Whether the damage is sprite based or animated
+    private EnemyEffects enemyEffect;
+
+
+    [Header("Health Stage")]
     public bool increaseMovementWithStage = true; // Increase or decrease movement speed, distance, and delay with health stage
     public int healthStage = 1; // 1, 2, or 3
     public float changePercentage = 0.7f; // Percentage change as the health stage increases
-
-    public int maxAttack = 1;
 
     private Vector3 targetPosition;
     private bool isMoving = false;
@@ -33,16 +39,49 @@ public class EnemyController : MonoBehaviour
     private int attackCounter = 0;
 
     private RightArm rightArm;
+    private EnemyHealth enemyHealth;
 
     void Start()
     {
+        enemyEffect = GetComponent<EnemyEffects>();
         rightArm = GetComponentInChildren<RightArm>();
+        enemyHealth = GetComponent<EnemyHealth>();
         StartCoroutine(MoveCoroutine());
         StartCoroutine(AttackWithDelay());
 
         attackCounter = 0;
     }
     
+    void Update()
+    {
+
+    }
+
+    public void DamageUpdate()
+    {
+        float healthPercentage = (float)enemyHealth.currentHealth / enemyHealth.maxHealth;
+        
+        if (!simpleDamageEffect)
+        {
+            enemyEffect.DamageUpdate(healthPercentage);
+        }
+
+
+
+        if (healthPercentage >= 1f)
+        {
+            healthStage = 1;
+        }
+        else if (healthPercentage >= 2f / 3f)
+        {
+            healthStage = 2;
+        }
+        else
+        {
+            healthStage = 3;
+        }
+    }
+
 
     void Attack()
     {

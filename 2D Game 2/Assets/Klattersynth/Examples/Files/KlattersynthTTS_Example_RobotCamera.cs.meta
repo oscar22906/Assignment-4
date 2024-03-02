@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 722c3f99ab8a9b146be9dac9f4b62251
+timeCreated: 1500733336
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 95453
+  packageName: Klattersynth TTS
+  packageVersion: 1.1.1
+  assetPath: Assets/Klattersynth/Examples/Files/KlattersynthTTS_Example_RobotCamera.cs
+  uploadId: 338508

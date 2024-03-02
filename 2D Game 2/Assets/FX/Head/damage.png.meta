@@ -1,0 +1,4060 @@
+fileFormatVersion: 2
+guid: 4af96722aab202444a0023bd8f496ea5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1066554408548788940
+    second: red_flair_517x517_0
+  - first:
+      213: 8474922306555972257
+    second: red_flair_517x517_1
+  - first:
+      213: -8016270490099213244
+    second: red_flair_517x517_2
+  - first:
+      213: -2845732411062572043
+    second: red_flair_517x517_3
+  - first:
+      213: 3479967265658279103
+    second: red_flair_517x517_4
+  - first:
+      213: 3308835651843997638
+    second: red_flair_517x517_5
+  - first:
+      213: -6729325678578587559
+    second: red_flair_517x517_6
+  - first:
+      213: -6990774117905756571
+    second: red_flair_517x517_7
+  - first:
+      213: 2459602642367218470
+    second: red_flair_517x517_8
+  - first:
+      213: 400021860781346538
+    second: red_flair_517x517_9
+  - first:
+      213: -5858005217505129775
+    second: red_flair_517x517_10
+  - first:
+      213: 715102770985634813
+    second: red_flair_517x517_11
+  - first:
+      213: 1080956905503048069
+    second: red_flair_517x517_12
+  - first:
+      213: 8802386771448900807
+    second: red_flair_517x517_13
+  - first:
+      213: -4450700130940427630
+    second: red_flair_517x517_14
+  - first:
+      213: 3475222096429363384
+    second: red_flair_517x517_15
+  - first:
+      213: -1083517157806983348
+    second: red_flair_517x517_16
+  - first:
+      213: 2324795477337204662
+    second: red_flair_517x517_17
+  - first:
+      213: -6494183810581218327
+    second: red_flair_517x517_18
+  - first:
+      213: -6341797746499743483
+    second: red_flair_517x517_19
+  - first:
+      213: -7171923663628452841
+    second: red_flair_517x517_20
+  - first:
+      213: -2664099990251368687
+    second: red_flair_517x517_21
+  - first:
+      213: -782589775878527413
+    second: red_flair_517x517_22
+  - first:
+      213: 345628723887275336
+    second: red_flair_517x517_23
+  - first:
+      213: -8744678220135580084
+    second: red_flair_517x517_24
+  - first:
+      213: -7152264909801417272
+    second: red_flair_517x517_25
+  - first:
+      213: -6777762221227144932
+    second: red_flair_517x517_26
+  - first:
+      213: 2221422681180282342
+    second: red_flair_517x517_27
+  - first:
+      213: -7857761819605037507
+    second: red_flair_517x517_28
+  - first:
+      213: -459910658139475421
+    second: red_flair_517x517_29
+  - first:
+      213: 6733607832421764580
+    second: red_flair_517x517_30
+  - first:
+      213: 7390561628961277320
+    second: red_flair_517x517_31
+  - first:
+      213: -3737070933769160086
+    second: red_flair_517x517_32
+  - first:
+      213: -6267120053219110606
+    second: red_flair_517x517_33
+  - first:
+      213: -8474101392159451743
+    second: red_flair_517x517_34
+  - first:
+      213: 4363463175051759142
+    second: red_flair_517x517_35
+  - first:
+      213: 187190603353039562
+    second: red_flair_517x517_36
+  - first:
+      213: 7972982507718534664
+    second: red_flair_517x517_37
+  - first:
+      213: -812659773714756423
+    second: red_flair_517x517_38
+  - first:
+      213: -8479997632248352358
+    second: red_flair_517x517_39
+  - first:
+      213: 5514351350365319366
+    second: red_flair_517x517_40
+  - first:
+      213: 3507092774766470600
+    second: red_flair_517x517_41
+  - first:
+      213: 2584020704882569090
+    second: red_flair_517x517_42
+  - first:
+      213: -4405092169920825417
+    second: red_flair_517x517_43
+  - first:
+      213: -77746557539443680
+    second: red_flair_517x517_44
+  - first:
+      213: 2954623163788256834
+    second: red_flair_517x517_45
+  - first:
+      213: -3686721287571882
+    second: red_flair_517x517_46
+  - first:
+      213: -2564566913435049948
+    second: red_flair_517x517_47
+  - first:
+      213: 8037457837553408511
+    second: red_flair_517x517_48
+  - first:
+      213: 9200809806228439243
+    second: red_flair_517x517_49
+  - first:
+      213: -2370776427348103359
+    second: red_flair_517x517_50
+  - first:
+      213: 3791524086817548736
+    second: red_flair_517x517_51
+  - first:
+      213: 7994422937175144590
+    second: red_flair_517x517_52
+  - first:
+      213: -4324485833160817477
+    second: red_flair_517x517_53
+  - first:
+      213: 2388651519048938477
+    second: red_flair_517x517_54
+  - first:
+      213: -8713353730632731831
+    second: red_flair_517x517_55
+  - first:
+      213: -7063720859718823641
+    second: red_flair_517x517_56
+  - first:
+      213: -4072718069042842074
+    second: red_flair_517x517_57
+  - first:
+      213: 1800845405402626160
+    second: red_flair_517x517_58
+  - first:
+      213: 8521560152951706256
+    second: red_flair_517x517_59
+  - first:
+      213: -4455299466659627560
+    second: red_flair_517x517_60
+  - first:
+      213: 7060145324289852600
+    second: red_flair_517x517_61
+  - first:
+      213: 2787431667089949285
+    second: red_flair_517x517_62
+  - first:
+      213: -7804387304297341882
+    second: red_flair_517x517_63
+  - first:
+      213: 5970764745566889358
+    second: red_flair_517x517_64
+  - first:
+      213: -4777251684675177133
+    second: red_flair_517x517_65
+  - first:
+      213: 6501732362870722051
+    second: red_flair_517x517_66
+  - first:
+      213: 5637916860606250106
+    second: red_flair_517x517_67
+  - first:
+      213: 519434754043621191
+    second: red_flair_517x517_68
+  - first:
+      213: -7818775990689479072
+    second: red_flair_517x517_69
+  - first:
+      213: 6896546422579966397
+    second: red_flair_517x517_70
+  - first:
+      213: 8839584317758340240
+    second: red_flair_517x517_71
+  - first:
+      213: -1183254336554287418
+    second: red_flair_517x517_72
+  - first:
+      213: 1535250749049063790
+    second: red_flair_517x517_73
+  - first:
+      213: 6547105059092927996
+    second: red_flair_517x517_74
+  - first:
+      213: 5642954255831599376
+    second: red_flair_517x517_75
+  - first:
+      213: -2886002778421236434
+    second: red_flair_517x517_76
+  - first:
+      213: 548569951861057954
+    second: red_flair_517x517_77
+  - first:
+      213: -8032230785465590285
+    second: red_flair_517x517_78
+  - first:
+      213: -1057326805252325048
+    second: red_flair_517x517_79
+  - first:
+      213: -7740915795478815631
+    second: red_flair_517x517_80
+  - first:
+      213: 6279814955586256902
+    second: red_flair_517x517_81
+  - first:
+      213: -2380225406603334456
+    second: red_flair_517x517_82
+  - first:
+      213: 8012443874618654320
+    second: red_flair_517x517_83
+  - first:
+      213: 6635355278701933018
+    second: red_flair_517x517_84
+  - first:
+      213: -3076963058746724505
+    second: red_flair_517x517_85
+  - first:
+      213: 5652745412898570307
+    second: red_flair_517x517_86
+  - first:
+      213: -1121211223360488556
+    second: red_flair_517x517_87
+  - first:
+      213: -8962190538979366835
+    second: red_flair_517x517_88
+  - first:
+      213: 2105762014849441985
+    second: red_flair_517x517_89
+  - first:
+      213: 8873334428141544943
+    second: red_flair_517x517_90
+  - first:
+      213: 1564817922828280014
+    second: red_flair_517x517_91
+  - first:
+      213: -472589676771692925
+    second: red_flair_517x517_92
+  - first:
+      213: -4158036216939931139
+    second: red_flair_517x517_93
+  - first:
+      213: -906773346971297841
+    second: red_flair_517x517_94
+  - first:
+      213: -6719213058875501049
+    second: red_flair_517x517_95
+  - first:
+      213: 5081754305752974941
+    second: red_flair_517x517_96
+  - first:
+      213: -1382896101091577013
+    second: red_flair_517x517_97
+  - first:
+      213: -3616515551520624374
+    second: red_flair_517x517_98
+  - first:
+      213: -5942664702243856669
+    second: red_flair_517x517_99
+  - first:
+      213: 6962087513357645577
+    second: red_flair_517x517_100
+  - first:
+      213: -6549477111937870723
+    second: red_flair_517x517_101
+  - first:
+      213: -6151033604650905385
+    second: red_flair_517x517_102
+  - first:
+      213: -8315426353141180825
+    second: red_flair_517x517_103
+  - first:
+      213: 7244502368158847725
+    second: red_flair_517x517_104
+  - first:
+      213: -2499816132410950763
+    second: red_flair_517x517_105
+  - first:
+      213: -7710952107744010126
+    second: red_flair_517x517_106
+  - first:
+      213: 5183872941575401998
+    second: red_flair_517x517_107
+  - first:
+      213: 8075606462590870608
+    second: red_flair_517x517_108
+  - first:
+      213: -8917409975881883494
+    second: red_flair_517x517_109
+  - first:
+      213: -809846319286801915
+    second: red_flair_517x517_110
+  - first:
+      213: 1930431686737237050
+    second: red_flair_517x517_111
+  - first:
+      213: -2314061095862430933
+    second: red_flair_517x517_112
+  - first:
+      213: -6797583979158711205
+    second: red_flair_517x517_113
+  - first:
+      213: -8529678267542303201
+    second: red_flair_517x517_114
+  - first:
+      213: -925990803819452658
+    second: red_flair_517x517_115
+  - first:
+      213: -4938676165463938136
+    second: red_flair_517x517_116
+  - first:
+      213: -527792386689453195
+    second: red_flair_517x517_117
+  - first:
+      213: 3095381755331526622
+    second: red_flair_517x517_118
+  - first:
+      213: -8089823114245462330
+    second: red_flair_517x517_119
+  - first:
+      213: -5969241171087408235
+    second: red_flair_517x517_120
+  - first:
+      213: 980585226653145069
+    second: red_flair_517x517_121
+  - first:
+      213: 7504334539146357071
+    second: red_flair_517x517_122
+  - first:
+      213: 9153071606011550668
+    second: red_flair_517x517_123
+  - first:
+      213: 6425206049162007080
+    second: red_flair_517x517_124
+  - first:
+      213: -5593626516458500064
+    second: red_flair_517x517_125
+  - first:
+      213: -2686949780284147563
+    second: red_flair_517x517_126
+  - first:
+      213: 6934513049719576337
+    second: red_flair_517x517_127
+  - first:
+      213: 4925319626883695371
+    second: red_flair_517x517_128
+  - first:
+      213: -5655684249542488491
+    second: red_flair_517x517_129
+  - first:
+      213: 7292155029943438378
+    second: red_flair_517x517_130
+  - first:
+      213: 7524942089113053009
+    second: red_flair_517x517_131
+  - first:
+      213: 5298488055104788813
+    second: red_flair_517x517_132
+  - first:
+      213: -1456947889238038733
+    second: red_flair_517x517_133
+  - first:
+      213: -2863060571844398875
+    second: red_flair_517x517_134
+  - first:
+      213: -917877504371520684
+    second: red_flair_517x517_135
+  - first:
+      213: 4372320828161457720
+    second: red_flair_517x517_136
+  - first:
+      213: -2345268587996429919
+    second: red_flair_517x517_137
+  - first:
+      213: 97886256803147750
+    second: red_flair_517x517_138
+  - first:
+      213: -1534304002143634705
+    second: red_flair_517x517_139
+  - first:
+      213: 4537785827367471189
+    second: red_flair_517x517_140
+  - first:
+      213: 3871516214778576354
+    second: red_flair_517x517_141
+  - first:
+      213: 6509428578317790452
+    second: red_flair_517x517_142
+  - first:
+      213: -8816434104839875750
+    second: red_flair_517x517_143
+  - first:
+      213: -6411541533398312211
+    second: red_flair_517x517_144
+  - first:
+      213: 6707391325779801116
+    second: red_flair_517x517_145
+  - first:
+      213: -2467232485850399633
+    second: red_flair_517x517_146
+  - first:
+      213: -6691425824365824336
+    second: red_flair_517x517_147
+  - first:
+      213: 1240677620647692151
+    second: red_flair_517x517_148
+  - first:
+      213: 3015577191596949983
+    second: red_flair_517x517_149
+  - first:
+      213: 5097579294110708788
+    second: red_flair_517x517_150
+  - first:
+      213: 351601487976976671
+    second: red_flair_517x517_151
+  - first:
+      213: -8314404221462999763
+    second: red_flair_517x517_152
+  - first:
+      213: -5810058061832525880
+    second: red_flair_517x517_153
+  - first:
+      213: 6706033979009079794
+    second: red_flair_517x517_154
+  - first:
+      213: 385985781642251255
+    second: red_flair_517x517_155
+  - first:
+      213: 7371537270644989607
+    second: red_flair_517x517_156
+  - first:
+      213: -488902854407573409
+    second: red_flair_517x517_157
+  - first:
+      213: -7721136312244102089
+    second: red_flair_517x517_158
+  - first:
+      213: 8459976701577177775
+    second: red_flair_517x517_159
+  - first:
+      213: 5601602569733814540
+    second: red_flair_517x517_160
+  - first:
+      213: 7182553012426146073
+    second: red_flair_517x517_161
+  - first:
+      213: -7578204766137965296
+    second: red_flair_517x517_162
+  - first:
+      213: -3935815405152991372
+    second: red_flair_517x517_163
+  - first:
+      213: -5984246016102468040
+    second: red_flair_517x517_164
+  - first:
+      213: -2506010185746605501
+    second: red_flair_517x517_165
+  - first:
+      213: 391180576603063507
+    second: red_flair_517x517_166
+  - first:
+      213: -9006955623843428231
+    second: red_flair_517x517_167
+  - first:
+      213: -9012698896991714482
+    second: red_flair_517x517_168
+  - first:
+      213: -5953956916283046075
+    second: red_flair_517x517_169
+  - first:
+      213: 2282834840578353426
+    second: red_flair_517x517_170
+  - first:
+      213: 3649917301721603774
+    second: red_flair_517x517_171
+  - first:
+      213: -6799102153917421443
+    second: red_flair_517x517_172
+  - first:
+      213: -6135290645053004830
+    second: red_flair_517x517_173
+  - first:
+      213: -1686061790878020054
+    second: red_flair_517x517_174
+  - first:
+      213: 1048872659053055219
+    second: red_flair_517x517_175
+  - first:
+      213: 9005780099376134340
+    second: red_flair_517x517_176
+  - first:
+      213: -7793932273675190009
+    second: red_flair_517x517_177
+  - first:
+      213: -7500937575964091774
+    second: red_flair_517x517_178
+  - first:
+      213: 1523333004070322285
+    second: red_flair_517x517_179
+  - first:
+      213: 8318997572434335071
+    second: red_flair_517x517_180
+  - first:
+      213: 4690423616336472355
+    second: red_flair_517x517_181
+  - first:
+      213: -3816382150308853244
+    second: red_flair_517x517_182
+  - first:
+      213: 558951865343518083
+    second: red_flair_517x517_183
+  - first:
+      213: -4426039595485784338
+    second: red_flair_517x517_184
+  - first:
+      213: -7320274157968650411
+    second: red_flair_517x517_185
+  - first:
+      213: 6612183432935592127
+    second: red_flair_517x517_186
+  - first:
+      213: 6924220459132645885
+    second: red_flair_517x517_187
+  - first:
+      213: -7290379921461464771
+    second: red_flair_517x517_188
+  - first:
+      213: -5034462463645011300
+    second: red_flair_517x517_189
+  - first:
+      213: 2016979472994390629
+    second: red_flair_517x517_190
+  - first:
+      213: 2786970848702130090
+    second: red_flair_517x517_191
+  - first:
+      213: -6478106374274424016
+    second: red_flair_517x517_192
+  - first:
+      213: 2969779915553464821
+    second: red_flair_517x517_193
+  - first:
+      213: 3648400581210791425
+    second: red_flair_517x517_194
+  - first:
+      213: -8894713239830432700
+    second: red_flair_517x517_195
+  - first:
+      213: -3092393081543339024
+    second: red_flair_517x517_196
+  - first:
+      213: -1544658827288206148
+    second: red_flair_517x517_197
+  - first:
+      213: 6340928890222577416
+    second: red_flair_517x517_198
+  - first:
+      213: -2200753444634151720
+    second: red_flair_517x517_199
+  - first:
+      213: -6241230644438545713
+    second: red_flair_517x517_200
+  - first:
+      213: 5807499378080684969
+    second: red_flair_517x517_201
+  - first:
+      213: -7823605441575839276
+    second: red_flair_517x517_202
+  - first:
+      213: -2883174598724365134
+    second: red_flair_517x517_203
+  - first:
+      213: -7069189512427657227
+    second: red_flair_517x517_204
+  - first:
+      213: 6443795924712958336
+    second: red_flair_517x517_205
+  - first:
+      213: -2343661815411440396
+    second: red_flair_517x517_206
+  - first:
+      213: -7563145711579055010
+    second: red_flair_517x517_207
+  - first:
+      213: -7423129718110728418
+    second: red_flair_517x517_208
+  - first:
+      213: -2700172903406512552
+    second: red_flair_517x517_209
+  - first:
+      213: 5878863279398270507
+    second: red_flair_517x517_210
+  - first:
+      213: 566736837854222147
+    second: red_flair_517x517_211
+  - first:
+      213: 480303387328083666
+    second: red_flair_517x517_212
+  - first:
+      213: -2524986575717175506
+    second: red_flair_517x517_213
+  - first:
+      213: -2624602005919861836
+    second: red_flair_517x517_214
+  - first:
+      213: -7240233958013073083
+    second: red_flair_517x517_215
+  - first:
+      213: -6470303146701992440
+    second: red_flair_517x517_216
+  - first:
+      213: -5206681724543928923
+    second: red_flair_517x517_217
+  - first:
+      213: -5904119557206374682
+    second: red_flair_517x517_218
+  - first:
+      213: -5300337203774803112
+    second: red_flair_517x517_219
+  - first:
+      213: 7630859760499637326
+    second: red_flair_517x517_220
+  - first:
+      213: 633103932757639673
+    second: red_flair_517x517_221
+  - first:
+      213: 2161967689106225637
+    second: red_flair_517x517_222
+  - first:
+      213: -1516682670008612627
+    second: red_flair_517x517_223
+  - first:
+      213: 6688826804630168942
+    second: red_flair_517x517_224
+  - first:
+      213: -663438324726033597
+    second: red_flair_517x517_225
+  - first:
+      213: -3234031832237618324
+    second: red_flair_517x517_226
+  - first:
+      213: 6514396503677121126
+    second: red_flair_517x517_227
+  - first:
+      213: 3144479410294426238
+    second: red_flair_517x517_228
+  - first:
+      213: 2527553051184097084
+    second: red_flair_517x517_229
+  - first:
+      213: -3032528559868962888
+    second: red_flair_517x517_230
+  - first:
+      213: -4000573988228351269
+    second: red_flair_517x517_231
+  - first:
+      213: -6953822405081183311
+    second: red_flair_517x517_232
+  - first:
+      213: 4144010204871540378
+    second: red_flair_517x517_233
+  - first:
+      213: 6297738158161806481
+    second: red_flair_517x517_234
+  - first:
+      213: -5731964816769038112
+    second: red_flair_517x517_235
+  - first:
+      213: 1883643546962295997
+    second: red_flair_517x517_236
+  - first:
+      213: 3922579523096613493
+    second: red_flair_517x517_237
+  - first:
+      213: -6597904140408193146
+    second: red_flair_517x517_238
+  - first:
+      213: -89266854086076124
+    second: red_flair_517x517_239
+  - first:
+      213: -2348583380001347109
+    second: red_flair_517x517_240
+  - first:
+      213: 7635368074067435489
+    second: red_flair_517x517_241
+  - first:
+      213: 160713981157504312
+    second: red_flair_517x517_242
+  - first:
+      213: 7514988215410537006
+    second: red_flair_517x517_243
+  - first:
+      213: -7465232810261814195
+    second: red_flair_517x517_244
+  - first:
+      213: -5353810265822907060
+    second: red_flair_517x517_245
+  - first:
+      213: -7300689547461157620
+    second: red_flair_517x517_246
+  - first:
+      213: -8613527824697633101
+    second: red_flair_517x517_247
+  - first:
+      213: -6392115844590504946
+    second: red_flair_517x517_248
+  - first:
+      213: -1135679301342422206
+    second: red_flair_517x517_249
+  - first:
+      213: 1899793847460683628
+    second: red_flair_517x517_250
+  - first:
+      213: 4163105353642822197
+    second: red_flair_517x517_251
+  - first:
+      213: -6662114116307760925
+    second: red_flair_517x517_252
+  - first:
+      213: 6975222714279406514
+    second: red_flair_517x517_253
+  - first:
+      213: 245729290684329360
+    second: red_flair_517x517_254
+  - first:
+      213: -5302886764052906334
+    second: red_flair_517x517_255
+  - first:
+      213: -2772838360230904128
+    second: red_flair_517x517_256
+  - first:
+      213: 218767967879361992
+    second: red_flair_517x517_257
+  - first:
+      213: -6592826121845336687
+    second: red_flair_517x517_258
+  - first:
+      213: 6049861777845548675
+    second: red_flair_517x517_259
+  - first:
+      213: 1822534424658188053
+    second: red_flair_517x517_260
+  - first:
+      213: -8311798052851493333
+    second: red_flair_517x517_261
+  - first:
+      213: -230042908639477991
+    second: red_flair_517x517_262
+  - first:
+      213: -6511889890314728596
+    second: red_flair_517x517_263
+  - first:
+      213: -6135003617558602625
+    second: red_flair_517x517_264
+  - first:
+      213: 7681878871932639469
+    second: red_flair_517x517_265
+  - first:
+      213: 7305856387117290829
+    second: red_flair_517x517_266
+  - first:
+      213: 4821560740920148029
+    second: red_flair_517x517_267
+  - first:
+      213: -3466801215481985319
+    second: red_flair_517x517_268
+  - first:
+      213: 4289263538880662122
+    second: red_flair_517x517_269
+  - first:
+      213: -7094595789024088547
+    second: red_flair_517x517_270
+  - first:
+      213: -8745822768052142011
+    second: red_flair_517x517_271
+  - first:
+      213: 2356814484468320667
+    second: red_flair_517x517_272
+  - first:
+      213: -4945451128565088276
+    second: red_flair_517x517_273
+  - first:
+      213: -3504218685143714916
+    second: red_flair_517x517_274
+  - first:
+      213: -3194507793943982929
+    second: red_flair_517x517_275
+  - first:
+      213: 5340459360531503845
+    second: red_flair_517x517_276
+  - first:
+      213: -6063592583382492068
+    second: red_flair_517x517_277
+  - first:
+      213: 2141868425198324595
+    second: red_flair_517x517_278
+  - first:
+      213: 7532959749843144976
+    second: red_flair_517x517_279
+  - first:
+      213: 8015086824289322060
+    second: red_flair_517x517_280
+  - first:
+      213: 7867363244307640023
+    second: red_flair_517x517_281
+  - first:
+      213: -5902451091486281152
+    second: red_flair_517x517_282
+  - first:
+      213: -2950751099843672523
+    second: red_flair_517x517_283
+  - first:
+      213: 2587103779238956587
+    second: red_flair_517x517_284
+  - first:
+      213: -4853867721116201824
+    second: red_flair_517x517_285
+  - first:
+      213: -505982378958752826
+    second: red_flair_517x517_286
+  - first:
+      213: 6996333789136503803
+    second: red_flair_517x517_287
+  - first:
+      213: -1249040296014188854
+    second: red_flair_517x517_288
+  - first:
+      213: 8842404077177607053
+    second: red_flair_517x517_289
+  - first:
+      213: -8938821955120349440
+    second: red_flair_517x517_290
+  - first:
+      213: 388461114099947733
+    second: red_flair_517x517_291
+  - first:
+      213: 2831146098295895761
+    second: red_flair_517x517_292
+  - first:
+      213: 168619502426254278
+    second: red_flair_517x517_293
+  - first:
+      213: 8205987019753000809
+    second: red_flair_517x517_294
+  - first:
+      213: 1843078966630671095
+    second: red_flair_517x517_295
+  - first:
+      213: 344977666577005875
+    second: red_flair_517x517_296
+  - first:
+      213: -6065374619849587048
+    second: red_flair_517x517_297
+  - first:
+      213: 4243903768519155842
+    second: red_flair_517x517_298
+  - first:
+      213: 8839435382825884826
+    second: red_flair_517x517_299
+  - first:
+      213: 1657572011020746509
+    second: red_flair_517x517_300
+  - first:
+      213: 689133385182990040
+    second: red_flair_517x517_301
+  - first:
+      213: -3298629745590529193
+    second: red_flair_517x517_302
+  - first:
+      213: -5453133086415988410
+    second: red_flair_517x517_303
+  - first:
+      213: 1328291539947544151
+    second: red_flair_517x517_304
+  - first:
+      213: -9031740802131240648
+    second: red_flair_517x517_305
+  - first:
+      213: -3285685747754047101
+    second: red_flair_517x517_306
+  - first:
+      213: 3715275444086084780
+    second: red_flair_517x517_307
+  - first:
+      213: 2936926260734680109
+    second: red_flair_517x517_308
+  - first:
+      213: 4819279001697809883
+    second: red_flair_517x517_309
+  - first:
+      213: 515697849369537248
+    second: red_flair_517x517_310
+  - first:
+      213: 7066124182181991787
+    second: red_flair_517x517_311
+  - first:
+      213: 5260611051205543844
+    second: red_flair_517x517_312
+  - first:
+      213: 9036886877666103928
+    second: red_flair_517x517_313
+  - first:
+      213: 7459876625343474932
+    second: red_flair_517x517_314
+  - first:
+      213: -8701448418244247556
+    second: red_flair_517x517_315
+  - first:
+      213: -8177824643120444837
+    second: red_flair_517x517_316
+  - first:
+      213: 516701155015697978
+    second: red_flair_517x517_317
+  - first:
+      213: -4336544691459390324
+    second: red_flair_517x517_318
+  - first:
+      213: -692065919701606081
+    second: red_flair_517x517_319
+  - first:
+      213: 1852899372379454077
+    second: red_flair_517x517_320
+  - first:
+      213: -8343671266738780665
+    second: red_flair_517x517_321
+  - first:
+      213: 7168179969669747134
+    second: red_flair_517x517_322
+  - first:
+      213: 6770830838866613168
+    second: red_flair_517x517_323
+  - first:
+      213: -8109288274675046539
+    second: red_flair_517x517_324
+  - first:
+      213: 4748334887360015483
+    second: red_flair_517x517_325
+  - first:
+      213: 299723465122950909
+    second: red_flair_517x517_326
+  - first:
+      213: -8051552565937039363
+    second: red_flair_517x517_327
+  - first:
+      213: 6219880946630765719
+    second: red_flair_517x517_328
+  - first:
+      213: -1765173021429218728
+    second: red_flair_517x517_329
+  - first:
+      213: -3655539530373258747
+    second: red_flair_517x517_330
+  - first:
+      213: -6185157175077508192
+    second: red_flair_517x517_331
+  - first:
+      213: -7538627950755555555
+    second: red_flair_517x517_332
+  - first:
+      213: 2976510082888461854
+    second: red_flair_517x517_333
+  - first:
+      213: 8001574481969083468
+    second: red_flair_517x517_334
+  - first:
+      213: -4559920981717847633
+    second: red_flair_517x517_335
+  - first:
+      213: -7871049076729015665
+    second: red_flair_517x517_336
+  - first:
+      213: -6818027206094807567
+    second: red_flair_517x517_337
+  - first:
+      213: 8200428895750883397
+    second: red_flair_517x517_338
+  - first:
+      213: 8592076151277069105
+    second: red_flair_517x517_339
+  - first:
+      213: -4470530661338482771
+    second: red_flair_517x517_340
+  - first:
+      213: 278889106190423506
+    second: red_flair_517x517_341
+  - first:
+      213: -2523289162151952528
+    second: red_flair_517x517_342
+  - first:
+      213: -1250856921857838216
+    second: red_flair_517x517_343
+  - first:
+      213: 6947701088847516154
+    second: red_flair_517x517_344
+  - first:
+      213: 6345755511452415847
+    second: red_flair_517x517_345
+  - first:
+      213: -2798111385409458306
+    second: red_flair_517x517_346
+  - first:
+      213: 6675295233718070257
+    second: red_flair_517x517_347
+  - first:
+      213: 6390940497807357707
+    second: red_flair_517x517_348
+  - first:
+      213: -6241217941899339967
+    second: red_flair_517x517_349
+  - first:
+      213: -6896828263822378504
+    second: red_flair_517x517_350
+  - first:
+      213: 5371763324000188935
+    second: red_flair_517x517_351
+  - first:
+      213: -6908087332402870338
+    second: red_flair_517x517_352
+  - first:
+      213: 3476973428606403214
+    second: red_flair_517x517_353
+  - first:
+      213: -8715846605299840704
+    second: red_flair_517x517_354
+  - first:
+      213: -3022553486956465672
+    second: red_flair_517x517_355
+  - first:
+      213: 8712652867656646933
+    second: red_flair_517x517_356
+  - first:
+      213: 6297363017216434902
+    second: red_flair_517x517_357
+  - first:
+      213: -5179407943747843092
+    second: red_flair_517x517_358
+  - first:
+      213: 3152322073839097873
+    second: red_flair_517x517_359
+  - first:
+      213: 8119841973652734555
+    second: red_flair_517x517_360
+  - first:
+      213: -7318581525965692629
+    second: red_flair_517x517_361
+  - first:
+      213: 7004126862878762322
+    second: red_flair_517x517_362
+  - first:
+      213: -2711465281450684937
+    second: red_flair_517x517_363
+  - first:
+      213: -8352744256992515248
+    second: red_flair_517x517_364
+  - first:
+      213: -9163418757772309803
+    second: red_flair_517x517_365
+  - first:
+      213: -6288684923457471708
+    second: red_flair_517x517_366
+  - first:
+      213: 232343820028655918
+    second: red_flair_517x517_367
+  - first:
+      213: 369333339262630959
+    second: red_flair_517x517_368
+  - first:
+      213: 6981173858817363637
+    second: red_flair_517x517_369
+  - first:
+      213: -7918095212711486544
+    second: red_flair_517x517_370
+  - first:
+      213: 6932355814558688844
+    second: red_flair_517x517_371
+  - first:
+      213: -2036689240272908481
+    second: red_flair_517x517_372
+  - first:
+      213: -3470906801534975060
+    second: red_flair_517x517_373
+  - first:
+      213: 4539320964888038281
+    second: red_flair_517x517_374
+  - first:
+      213: -2666921067366643117
+    second: red_flair_517x517_375
+  - first:
+      213: 7265737069145912717
+    second: red_flair_517x517_376
+  - first:
+      213: -7620916792063325719
+    second: red_flair_517x517_377
+  - first:
+      213: 5012447186831105128
+    second: red_flair_517x517_378
+  - first:
+      213: 5703055640880968703
+    second: red_flair_517x517_379
+  - first:
+      213: -6127058776502498173
+    second: red_flair_517x517_380
+  - first:
+      213: 4108981594845993736
+    second: red_flair_517x517_381
+  - first:
+      213: -1975258493315415875
+    second: red_flair_517x517_382
+  - first:
+      213: -7311234304387719377
+    second: red_flair_517x517_383
+  - first:
+      213: 2700474304459201457
+    second: red_flair_517x517_384
+  - first:
+      213: -7791813473190783081
+    second: red_flair_517x517_385
+  - first:
+      213: -7452983794702773519
+    second: red_flair_517x517_386
+  - first:
+      213: 3140786338644659861
+    second: red_flair_517x517_387
+  - first:
+      213: -8637403411694150291
+    second: red_flair_517x517_388
+  - first:
+      213: 242613373744179274
+    second: red_flair_517x517_389
+  - first:
+      213: -8435121311841747686
+    second: red_flair_517x517_390
+  - first:
+      213: -3097403700565071147
+    second: red_flair_517x517_391
+  - first:
+      213: -8707309412542011307
+    second: red_flair_517x517_392
+  - first:
+      213: 3380944370006064542
+    second: red_flair_517x517_393
+  - first:
+      213: 7931056822125784422
+    second: red_flair_517x517_394
+  - first:
+      213: -2158556972245462558
+    second: red_flair_517x517_395
+  - first:
+      213: 4310208800015326663
+    second: red_flair_517x517_396
+  - first:
+      213: 7420108748685642678
+    second: red_flair_517x517_397
+  - first:
+      213: 5156825311893462797
+    second: red_flair_517x517_398
+  - first:
+      213: 6862432461710374935
+    second: red_flair_517x517_399
+  - first:
+      213: -2823369542270407377
+    second: red_flair_517x517_400
+  - first:
+      213: 7318437480258475185
+    second: red_flair_517x517_401
+  - first:
+      213: 1541654626111951514
+    second: red_flair_517x517_402
+  - first:
+      213: -2317806428687544884
+    second: red_flair_517x517_403
+  - first:
+      213: -5374092243407130803
+    second: red_flair_517x517_404
+  - first:
+      213: -5892045792420205235
+    second: red_flair_517x517_405
+  - first:
+      213: 3128007993056032036
+    second: red_flair_517x517_406
+  - first:
+      213: 5147408544144408939
+    second: red_flair_517x517_407
+  - first:
+      213: 5463620215658825361
+    second: red_flair_517x517_408
+  - first:
+      213: -1714314249926786345
+    second: red_flair_517x517_409
+  - first:
+      213: 2557745061776064811
+    second: red_flair_517x517_410
+  - first:
+      213: 1002735041459520512
+    second: red_flair_517x517_411
+  - first:
+      213: -1622073727894788623
+    second: red_flair_517x517_412
+  - first:
+      213: 1127323591684062143
+    second: red_flair_517x517_413
+  - first:
+      213: 6472879612356171236
+    second: red_flair_517x517_414
+  - first:
+      213: -6575583740053383226
+    second: red_flair_517x517_415
+  - first:
+      213: -345485592213552158
+    second: red_flair_517x517_416
+  - first:
+      213: 5611470136758965270
+    second: red_flair_517x517_417
+  - first:
+      213: 1419578820286645029
+    second: red_flair_517x517_418
+  - first:
+      213: -836155726399957189
+    second: red_flair_517x517_419
+  - first:
+      213: -9001423616643972063
+    second: red_flair_517x517_420
+  - first:
+      213: -3031238509098275119
+    second: red_flair_517x517_421
+  - first:
+      213: 7661012811441084530
+    second: red_flair_517x517_422
+  - first:
+      213: 6406563514708817313
+    second: red_flair_517x517_423
+  - first:
+      213: 1425675167712372276
+    second: red_flair_517x517_424
+  - first:
+      213: 1567194430071924825
+    second: red_flair_517x517_425
+  - first:
+      213: -4956026711526960681
+    second: red_flair_517x517_426
+  - first:
+      213: -1122097373530025463
+    second: red_flair_517x517_427
+  - first:
+      213: 2768862978891721653
+    second: red_flair_517x517_428
+  - first:
+      213: 3448125655731221211
+    second: red_flair_517x517_429
+  - first:
+      213: -3240168048104179795
+    second: red_flair_517x517_430
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: damage_0
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db8a7d527ca55f4885f8ee2cbb0063e
+      internalID: -588075252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b009bbb8ec272c741acfeb9c02ff44f2
+      internalID: 510905564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_2
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348200d4a68fa824f9b5fcff0d9800b1
+      internalID: 424841326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_3
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc3aab91ad4ce0409610c5a0aeaea4b
+      internalID: -1780293084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_4
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6d1842342ee734cb4d565cb64b0eee
+      internalID: -622437384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_5
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2218d5583cb583647854740e96dd4583
+      internalID: 2087715283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_6
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcfb8e4e6c72964bbea4a09e46018d0
+      internalID: -1408198865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_7
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332702bfc3fcee443b314fe44713f11c
+      internalID: 448885528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_8
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d32792bc07984d8f82917fc464533
+      internalID: 203767442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_9
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d216c2d7a767c644822e2288c5e529e
+      internalID: -474808016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_10
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 5170
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22339c7a4073f7b4695fbcd3af7b2cea
+      internalID: -102624630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f3fc6043baf54281590209571bd47
+      internalID: -1298535689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2d196c022e8ee4686bff24ed9690f2
+      internalID: -1838423571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_13
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28fb49a488d00a4ebf277c7345a403c
+      internalID: 1237338835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_14
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85d7c690a1aaf4cbc747cdcec8fb79
+      internalID: 1719071082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_15
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a8aa08eb9b9e409f4314b1428cc55
+      internalID: 1425206432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_16
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b77c50b863364458113ca0eb2ec0c2
+      internalID: -1642212473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_17
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61547397d4e9314e9b0607e1555c4c6
+      internalID: 1070101990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_18
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eee6504a8e3fa47a484c0cb6925168
+      internalID: -731907466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_19
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58d5eae3c3a8294dbb425809dc3a7eb
+      internalID: 1786611349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_20
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5eca5dcdf76a04c8733c2c04d4ebaf
+      internalID: 1137234345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_21
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 4653
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2fa0b1d3ca2f4e99b69a8c2337732
+      internalID: 2027568136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a00a5b67b2c3545a3e981186ea86d1
+      internalID: -1798685833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b814c02a2d504be42868bd52018a7046
+      internalID: -1412134673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_24
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bbbb7014151574ca85ac5b021a7c51
+      internalID: 763540887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_25
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b411f1d84aa2e254a825f880df5e3216
+      internalID: -811700772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_26
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d53acf8f4834fd4493b0c9eb11cf7c0
+      internalID: -538097423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_27
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488926a0bfe241a46a2fe2e472735e6a
+      internalID: 1767405638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_28
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e5f7c85cbe734491ca50b9533fa78
+      internalID: -1060339535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_29
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd2a87b66b80e6449f012ac731f39b1
+      internalID: -746503110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_30
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2020181087c67af4082c0dcf3f9a5780
+      internalID: 2041672385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_31
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac1ea18d4576d489307b810e6f20c4
+      internalID: -834688307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_32
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 4136
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4f327ceea18649b7ef33639bdf015
+      internalID: 1255384782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f760d4da8ad34b80f3725dbae46d9
+      internalID: -145456167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6687ea6cc43ef4389cb855a35f890c
+      internalID: -607401352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_35
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f148d2f8da871b4486e91141b07951d
+      internalID: 950502352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_36
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673d5a570eff9cc40b42eec4bc43e109
+      internalID: -108631179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_37
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e854f62f1cf534aabc59b364cc6609
+      internalID: 1258387807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_38
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb74e736c7f674ea6ffd83d2fd1283
+      internalID: 1170326318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_39
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d90368f5c13b649999c0aa36735d1b
+      internalID: 1110597526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_40
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4e2be4c0f48304c80fd5c66695c05f
+      internalID: -742268974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_41
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddadfe33fe8149f409807ec5c86e99b6
+      internalID: 276512506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_42
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8059ca6046ca0a242a659da7ad43f1b2
+      internalID: -1221602820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_43
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 3619
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce86c4bb6c66f498c7d109a259a4a6
+      internalID: 1102606604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4302e7f5dfccc14d89d9b54982c216f
+      internalID: 1391879102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca90bed9288354a97c40636dcdc8a7
+      internalID: 496810389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_46
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dcc3ca15fdc9245bd38c71896227cd
+      internalID: 456066628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_47
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79eec22015b3484c86acb5253143d46
+      internalID: 352422283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_48
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375cc2530935a9542b6e56fb47fddf4f
+      internalID: -1158195487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_49
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2b90785b929a34381b5add64d350d8
+      internalID: 243777591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_50
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3264286ac4ea54faee7192a536dc00
+      internalID: 1473081637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_51
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f478d1f6a8a8b4184ea081a8c45bd8
+      internalID: 1825342984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_52
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301443278750fb479cdde482ffdd3dc
+      internalID: 347877095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_53
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754618c6bc2819749a356c9944f1f071
+      internalID: -1287987023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_54
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 3102
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a99b300c236814fa4065d8d650e070
+      internalID: -18141966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff70f00b0259141a9921b47fcab65d
+      internalID: 382986787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_56
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049a671661932749b6fd643349fe249
+      internalID: -700227508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_57
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a8212a5090d85429f469ab003627ae
+      internalID: -1368863851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_58
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f09901903f2d02419a9151e5b6eb318
+      internalID: 913668259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_59
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3187c451e950f6145920c6a2421d80b4
+      internalID: 1439177188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_60
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52aeeecbb081bc4cacbd26f98025529
+      internalID: -425720596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_61
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfa8343d5b4b8745b4bf9484d225d1d
+      internalID: -1386584106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_62
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1cfcba72ee8674499bda63ba5ccda9
+      internalID: 268521752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_63
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75817fea252ccbd41a45f506c3aec928
+      internalID: -2073664184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_64
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b55bf4d778974b4f86d68cb6c67f84f
+      internalID: 1568959333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_65
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 2585
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04df248cd2a4dad4e9fea3f9e04ec220
+      internalID: 328922661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c85f3c7d69c2a4a9290fdedc3f6c18
+      internalID: -1317754004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df291a75b5434448d87337e42a096d
+      internalID: -478193296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_68
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f6c118043359458906ca9462a6d35
+      internalID: 1584178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_69
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5afc0aa64b458441adc1e508d311187
+      internalID: -2129618881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_70
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d0166354ccc1b46a7d751ab658d2b2
+      internalID: 1288147839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_71
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2436b7c4713b643ac073756b62908c
+      internalID: -1892511488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_72
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf633f3dec882cd4099c50b3f8ef3561
+      internalID: -1584952691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_73
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe4a6a2e59492a4ca32a071b9f44fb5
+      internalID: 365114273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_74
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301211b5dbecaeb4297721d81cbc32a7
+      internalID: -1410208255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_75
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57790f48fd7e1348b3e55b76d06d13d
+      internalID: 1007379140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_76
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 2068
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5335d5635e2016448b84a99cff4be0ab
+      internalID: 349267891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9087bae76429041b0aca27179061e5
+      internalID: 1608787990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_78
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a15a3ed0ea4f49a6f99e89d550b79
+      internalID: -350621197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_79
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74465f830d121748809fc0e9d6754aa
+      internalID: -914955444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_80
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18629cd1e4114514eb092374506dd91a
+      internalID: -58392064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_81
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1d87d5afe324e4b9aaed073e146a36
+      internalID: 1169769420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_82
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50bc7813be08a4091d285aff269f37
+      internalID: 218162569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_83
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31e498fbe0cf9749b09afec9edf0090
+      internalID: 1694820542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_84
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b7f7c77f19fd41aabf198be7efa10
+      internalID: -1765777039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_85
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6c865a11e8a5438da334c4a70ec01
+      internalID: 447121341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_86
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a5be343c13e147ba6a0bb2048b2c8
+      internalID: 1525720108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_87
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 1551
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7ff687aff5bb640b55d3235625b115
+      internalID: -1189613702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03ebe16aa22cd34796b88f7994d06dd
+      internalID: 1596459625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_89
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d6f309559f7f84195ed179f50b873b
+      internalID: -1645100911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_90
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969aad7b1814dfa4b910aff06d395366
+      internalID: -241797883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_91
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218100bc55d268246b516b1d399e6ed5
+      internalID: -1217608494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_92
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e18f8ad306ad42a62e312fb063932
+      internalID: 235428181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_93
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37867eade6488ad449a1061d9edb9fd0
+      internalID: -731679660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_94
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792739663e0a3e042861fc68ec9ee18d
+      internalID: -394548628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_95
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cfaa543bb365a41aeed7b6929b4ec5
+      internalID: -175895087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_96
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27072d3c067d38d458f13976af445425
+      internalID: 604201345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_97
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f0c36abcc4664e944e8aceecbf496
+      internalID: 1235529316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_98
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 1034
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809f0e539f621db498d9a07501b9099a
+      internalID: 1737440084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c89c99eef105439c324112e87c862
+      internalID: -495314474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_100
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c359bd6b3e90cb4d9888c30f14cd4c3
+      internalID: -1190722897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_101
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c6e3355a5d1b47a7a953335eb62cb
+      internalID: -779807198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_102
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7e357b93c7614680c4139958e8177
+      internalID: 351140528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_103
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa44ea0f5c0e04d81eaa04353f98c8
+      internalID: -1215040765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_104
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887be72fb3f1ca94b8bc5fbda664655a
+      internalID: 130352102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_105
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa7d514df70ff43a67bef4111ac26d
+      internalID: 651667602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_106
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd9b99f2206ba94f87375851715f4fa
+      internalID: -651552459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_107
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0122909d8e79b429f206279174488a
+      internalID: -1342824770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_108
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeef700dd2bb9b4187391ab5c7268a6
+      internalID: -2044612651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_109
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 517
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9251445b9aa4a459e3e104a1233269
+      internalID: 1164394414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c595bb962a8b4ca665984db823e9c
+      internalID: 2013581778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_111
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00e3771e53613c4199bcbc709f797d2
+      internalID: 530770325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_112
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0b3e1fb2ab1d479fc044cec59dae8
+      internalID: 845493608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_113
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5910f451737c8664a99cec3b6f2a0a8d
+      internalID: 110446866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_114
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a47208c177b33342b9480ad28271ae0
+      internalID: -390945623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_115
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0230ea4c3fcb9840aab0ce3faaaa4a1
+      internalID: -1081468316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_116
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880d9467a4571d4283aff2b24137ff2
+      internalID: 267469509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_117
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9336003697befd48b933a6be18bdf10
+      internalID: 384375510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_118
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec655fe9192ef804cb2b4f5c10df265f
+      internalID: -93471398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: damage_119
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 0
+        width: 517
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6897aea7ad3a4934a80678bc9bd9a82f
+      internalID: 412689295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e058222e178a0e544b46bae3c585366c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      damage_0: -588075252
+      damage_1: 510905564
+      damage_10: -102624630
+      damage_100: -1190722897
+      damage_101: -779807198
+      damage_102: 351140528
+      damage_103: -1215040765
+      damage_104: 130352102
+      damage_105: 651667602
+      damage_106: -651552459
+      damage_107: -1342824770
+      damage_108: -2044612651
+      damage_109: 1164394414
+      damage_11: -1298535689
+      damage_110: 2013581778
+      damage_111: 530770325
+      damage_112: 845493608
+      damage_113: 110446866
+      damage_114: -390945623
+      damage_115: -1081468316
+      damage_116: 267469509
+      damage_117: 384375510
+      damage_118: -93471398
+      damage_119: 412689295
+      damage_12: -1838423571
+      damage_13: 1237338835
+      damage_14: 1719071082
+      damage_15: 1425206432
+      damage_16: -1642212473
+      damage_17: 1070101990
+      damage_18: -731907466
+      damage_19: 1786611349
+      damage_2: 424841326
+      damage_20: 1137234345
+      damage_21: 2027568136
+      damage_22: -1798685833
+      damage_23: -1412134673
+      damage_24: 763540887
+      damage_25: -811700772
+      damage_26: -538097423
+      damage_27: 1767405638
+      damage_28: -1060339535
+      damage_29: -746503110
+      damage_3: -1780293084
+      damage_30: 2041672385
+      damage_31: -834688307
+      damage_32: 1255384782
+      damage_33: -145456167
+      damage_34: -607401352
+      damage_35: 950502352
+      damage_36: -108631179
+      damage_37: 1258387807
+      damage_38: 1170326318
+      damage_39: 1110597526
+      damage_4: -622437384
+      damage_40: -742268974
+      damage_41: 276512506
+      damage_42: -1221602820
+      damage_43: 1102606604
+      damage_44: 1391879102
+      damage_45: 496810389
+      damage_46: 456066628
+      damage_47: 352422283
+      damage_48: -1158195487
+      damage_49: 243777591
+      damage_5: 2087715283
+      damage_50: 1473081637
+      damage_51: 1825342984
+      damage_52: 347877095
+      damage_53: -1287987023
+      damage_54: -18141966
+      damage_55: 382986787
+      damage_56: -700227508
+      damage_57: -1368863851
+      damage_58: 913668259
+      damage_59: 1439177188
+      damage_6: -1408198865
+      damage_60: -425720596
+      damage_61: -1386584106
+      damage_62: 268521752
+      damage_63: -2073664184
+      damage_64: 1568959333
+      damage_65: 328922661
+      damage_66: -1317754004
+      damage_67: -478193296
+      damage_68: 1584178
+      damage_69: -2129618881
+      damage_7: 448885528
+      damage_70: 1288147839
+      damage_71: -1892511488
+      damage_72: -1584952691
+      damage_73: 365114273
+      damage_74: -1410208255
+      damage_75: 1007379140
+      damage_76: 349267891
+      damage_77: 1608787990
+      damage_78: -350621197
+      damage_79: -914955444
+      damage_8: 203767442
+      damage_80: -58392064
+      damage_81: 1169769420
+      damage_82: 218162569
+      damage_83: 1694820542
+      damage_84: -1765777039
+      damage_85: 447121341
+      damage_86: 1525720108
+      damage_87: -1189613702
+      damage_88: 1596459625
+      damage_89: -1645100911
+      damage_9: -474808016
+      damage_90: -241797883
+      damage_91: -1217608494
+      damage_92: 235428181
+      damage_93: -731679660
+      damage_94: -394548628
+      damage_95: -175895087
+      damage_96: 604201345
+      damage_97: 1235529316
+      damage_98: 1737440084
+      damage_99: -495314474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

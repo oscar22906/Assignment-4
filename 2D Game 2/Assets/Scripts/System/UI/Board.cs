@@ -2,8 +2,9 @@ using UnityEditor.U2D.Aseprite;
 using TMPro;
 using UnityEngine.UI;
 using UnityEngine;
-using Meta.WitAi.TTS.Utilities;
 using System.Collections;
+using Strobotnik.Klattersynth;
+using Unity.VisualScripting.Antlr3.Runtime;
 
 public class Board : MonoBehaviour
 {
@@ -25,20 +26,29 @@ public class Board : MonoBehaviour
                 
     [Header("UI")]
     public TextMeshProUGUI wordDisplay;
+    public DialogueController dialogueController;
 
     [Header("Other Stuff")]
 
-    public TTSSpeaker Class_speaker;
     public UIEvent uIEvent;
     public EnemyHealth enemyHealth;
     public PlayerHealth playerHealth;
+    public Speech speech;
 
+    public string[] spellAlternatives = {"New word. It's ", "Spell ", "Next, spell ", "Now spell "};
+
+    [Tooltip("Test tts voice")]
     public string TextSpeech;
 
+    public string playerName = "Jerry";
     public int currentLevel = 1;
     public bool submitted;
     public float clearTime;
 
+    [Tooltip("Word challenges continue after enemy is killed")]
+    public bool testingMode = false;
+
+    [Tooltip("Uses alternative marking algorithm that is simple but incomplete")]
     public bool simpleSubmit;
 
     private Row[] rows;
@@ -48,15 +58,21 @@ public class Board : MonoBehaviour
 
     private string[] solutions;
     private string[] failPhrase;
+    private string[] successPhrase;
     private string word;
 
+    private int correctGuesses;
+    private int incorrectGuesses;
     private int rowIndex;
     private int columnIndex;
+
+    private LoadData loadData;
 
 
     private void Awake()
     {
         rows = GetComponentsInChildren<Row>();
+        loadData = transform.root.GetComponent<LoadData>();
         uIEvent.SetInvisible();
     }
 
@@ -84,14 +100,11 @@ public class Board : MonoBehaviour
 
     private void LoadData()
     {
-        // load solutions (eg. 1)
-        TextAsset textFile = Resources.Load(currentLevel.ToString()) as TextAsset;
-        solutions = textFile.text.Split("\n");
-        // load fail phrase (eg 1FailPhrase)
-        TextAsset phraseFile = Resources.Load(currentLevel.ToString() + "FailPhrase") as TextAsset;
-        failPhrase = phraseFile.text.Split("\n");
-
-
+        solutions = loadData.LoadSolutions(currentLevel);
+        
+        failPhrase = loadData.LoadFailPhrase(currentLevel);
+        
+        successPhrase = loadData.LoadSuccessPhrase(currentLevel);
     }
 
     private string RandomPhrase(string[] phraseBank)
@@ -107,7 +120,10 @@ public class Board : MonoBehaviour
     {
         word = solutions[Random.Range(0, solutions.Length)];
         word = word.ToLower().Trim();
-        Class_speaker.Speak("Spell " + word);
+        // speak challenge word
+        Debug.Log("The word is " + word);
+        speech.schedule(spellAlternatives[Random.Range(0, spellAlternatives.Length)] + word, false);
+        
     }
 
     private void Update()
@@ -116,7 +132,7 @@ public class Board : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            Class_speaker.Speak(TextSpeech);
+            // test tts
         }
 
         if (Input.GetKeyDown(KeyCode.Backspace))
@@ -175,13 +191,26 @@ public class Board : MonoBehaviour
         if(!IsCorrect(row.word))
         {
             // guessed wrong 
+            incorrectGuesses++;
             incorrectGuess = row.word;
             Debug.Log("Guess does not match solutions");
             // set screen text to random insult
             string failPhraseString = RandomPhrase(failPhrase);
 
-            Class_speaker.Speak(failPhraseString);
-            
+            // speak fail phrase - phrase must end with space, seperated with \n
+            speech.speak(row.word + failPhraseString + playerName.ToLower().PadLeft(1), false);
+            dialogueController.DisplayText(row.word + failPhraseString + " " + playerName + ".");
+        }
+
+        if (IsCorrect(row.word))
+        {
+            // correct guess
+            // set screen text to random compliment
+            string successPhraseString = RandomPhrase(successPhrase);
+            // speak success phrase
+            speech.speak(successPhraseString, false);
+            dialogueController.DisplayText(successPhraseString);
+            correctGuesses++;
         }
         
 
@@ -314,8 +343,8 @@ public class Board : MonoBehaviour
     }
 
     private void OnDisable()
-    {
-        if (enemyHealth.currentHealth <= 0)
+    {   
+        if (!testingMode && enemyHealth.currentHealth <= 0)
         {
             return;
         }
@@ -326,8 +355,8 @@ public class Board : MonoBehaviour
         if(IsCorrect(rows[rowIndex].word))
         {
             // guessed correctly
-            Debug.Log("Guess matches solution");
-            playerHealth.AttackEnemy();
+            Debug.Log("Guess matches solution. Playing animation");
+            playerHealth.AttackAnim();
         }
 
         for (int i = 0; i < rows.Length; i++)

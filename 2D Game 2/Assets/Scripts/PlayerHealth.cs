@@ -9,14 +9,17 @@ public class PlayerHealth : MonoBehaviour
     public EnemyHealth enemyHealthScript;
     private float currentHealth;
 
-    public float damageMax = 10f;
-    public float damageMin = 30f;
+    public int healthStage = 1;
+    public bool increaseMovementWithStage = true;
+    public float changePercentage = 0.7f;
 
     public GameObject damageEffectPrefab; // Assign your particle effect prefab in the Unity Editor
+    private Animation _animation;
 
     void Start()
     {
         currentHealth = maxHealth;
+        _animation = GetComponentInChildren<Animation>();
     }
 
     void Update()
@@ -24,10 +27,6 @@ public class PlayerHealth : MonoBehaviour
 
     }
 
-    public void AttackEnemy()
-    {
-        enemyHealthScript.TakeDamage(Random.Range(damageMin, damageMax));
-    }
 
     public void TakeDamage(float damage)
     {
@@ -43,6 +42,31 @@ public class PlayerHealth : MonoBehaviour
         else
         {
             PlayDamageEffect();
+        }
+    }
+
+    public void AttackAnim()
+    {
+        Debug.Log("Hit Animation");
+        // _animation.Play("Punch15");
+        _animation.Play("Punch" + Random.Range(1, _animation.GetClipCount()));
+    }
+
+    public void DamageUpdate()
+    {
+        float healthPercentage = (float)currentHealth / maxHealth;
+
+        if (healthPercentage >= 1f)
+        {
+            healthStage = 1;
+        }
+        else if (healthPercentage >= 2f / 3f)
+        {
+            healthStage = 2;
+        }
+        else
+        {
+            healthStage = 3;
         }
     }
 

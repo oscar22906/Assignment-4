@@ -25,8 +25,8 @@ public class HealthSlider : MonoBehaviour
             healthSlider.value = health / 100;
         }
 
-        // testing damage 
-        /*
+        /* // testing damage 
+        
         if (Input.GetKeyDown(KeyCode.Space))
         {
             TakeDamage(10);

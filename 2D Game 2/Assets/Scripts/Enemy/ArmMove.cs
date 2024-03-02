@@ -3,6 +3,9 @@ using UnityEngine;
 
 public class ArmMove : MonoBehaviour
 {
+    public Animation[] attacks; //Put attack animations here
+
+
     public bool circleMove = true;
     public float moveRadius = 1f;
     public float baseMoveSpeed = 180f; // Degrees per second
@@ -26,10 +29,14 @@ public class ArmMove : MonoBehaviour
         currentAngle = startAngle;
 
         // Get the reference to the EnemyController script
-        enemyController = transform.parent.GetComponent<EnemyController>();
+        enemyController = GetComponentInParent<EnemyController>();
+
 
         StartCoroutine(MoveCoroutine());
     }
+
+    
+
 
     private IEnumerator MoveCoroutine()
     {
