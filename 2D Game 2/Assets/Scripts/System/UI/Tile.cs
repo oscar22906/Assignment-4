@@ -19,6 +19,7 @@ public class Tile : MonoBehaviour
     private TextMeshProUGUI text;
     private Image fill;
     private Outline outline;
+    private Animator _animator;
 
     private Coroutine fadeInCoroutine;
     private Coroutine fadeOutCoroutine;
@@ -28,6 +29,7 @@ public class Tile : MonoBehaviour
         text = GetComponentInChildren<TextMeshProUGUI>();
         fill = GetComponent<Image>();
         outline = GetComponent<Outline>();
+        _animator = GetComponent<Animator>();
     }
 
     public void SetLetter(char letter)
@@ -37,8 +39,17 @@ public class Tile : MonoBehaviour
             StopCoroutine(fadeInCoroutine);
         }
 
+        if (letter == '\0')
+        {
+            _animator.SetBool("Empty", true);
+        }        
+        if (letter != '\0')
+        {
+            _animator.SetBool("Empty", false);
+        }
         this.letter = letter;
         text.text = letter.ToString();
+        
         fadeInCoroutine = StartCoroutine(FadeInTextCoroutine(2.0f));
     }
 

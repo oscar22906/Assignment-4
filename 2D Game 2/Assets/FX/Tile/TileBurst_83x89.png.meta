@@ -1,0 +1,2102 @@
+fileFormatVersion: 2
+guid: a2a15cce89af5b7499866c4c01c447c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9186689168482277514
+    second: TileBurst_83x89_0
+  - first:
+      213: -9112796779401724503
+    second: TileBurst_83x89_1
+  - first:
+      213: 7498733180713381999
+    second: TileBurst_83x89_2
+  - first:
+      213: 6133050878990911937
+    second: TileBurst_83x89_3
+  - first:
+      213: 4783479329006273749
+    second: TileBurst_83x89_4
+  - first:
+      213: 4419837540027347016
+    second: TileBurst_83x89_5
+  - first:
+      213: 6819840478621023646
+    second: TileBurst_83x89_6
+  - first:
+      213: 4482982730363299104
+    second: TileBurst_83x89_7
+  - first:
+      213: 4434894946303705024
+    second: TileBurst_83x89_8
+  - first:
+      213: -3502260196518896202
+    second: TileBurst_83x89_9
+  - first:
+      213: -6013498677733627037
+    second: TileBurst_83x89_10
+  - first:
+      213: 3548009986261066549
+    second: TileBurst_83x89_11
+  - first:
+      213: 6108453467043119147
+    second: TileBurst_83x89_12
+  - first:
+      213: 2469407139734887834
+    second: TileBurst_83x89_13
+  - first:
+      213: 6544923135442846396
+    second: TileBurst_83x89_14
+  - first:
+      213: -7376852573352790301
+    second: TileBurst_83x89_15
+  - first:
+      213: 1855947013772960892
+    second: TileBurst_83x89_16
+  - first:
+      213: -7639069245490397165
+    second: TileBurst_83x89_17
+  - first:
+      213: -6331046600291106751
+    second: TileBurst_83x89_18
+  - first:
+      213: 7431362952402634026
+    second: TileBurst_83x89_19
+  - first:
+      213: 4567356803784986260
+    second: TileBurst_83x89_20
+  - first:
+      213: -2751520992771715165
+    second: TileBurst_83x89_21
+  - first:
+      213: 7617889239842280495
+    second: TileBurst_83x89_22
+  - first:
+      213: 6013365137129572994
+    second: TileBurst_83x89_23
+  - first:
+      213: -2081595733838542228
+    second: TileBurst_83x89_24
+  - first:
+      213: -2962535221106869443
+    second: TileBurst_83x89_25
+  - first:
+      213: -855218453370264767
+    second: TileBurst_83x89_26
+  - first:
+      213: 1181325016768264412
+    second: TileBurst_83x89_27
+  - first:
+      213: 1535011887292737601
+    second: TileBurst_83x89_28
+  - first:
+      213: -8090594359339558219
+    second: TileBurst_83x89_29
+  - first:
+      213: 8818914444317880767
+    second: TileBurst_83x89_30
+  - first:
+      213: -3025567822753139126
+    second: TileBurst_83x89_31
+  - first:
+      213: 8659718346041165070
+    second: TileBurst_83x89_32
+  - first:
+      213: -3281292085925735148
+    second: TileBurst_83x89_33
+  - first:
+      213: 7593597187112687128
+    second: TileBurst_83x89_34
+  - first:
+      213: -6553574691417453461
+    second: TileBurst_83x89_35
+  - first:
+      213: 7388161444252357584
+    second: TileBurst_83x89_36
+  - first:
+      213: -6074566088785526632
+    second: TileBurst_83x89_37
+  - first:
+      213: 6115836595815425510
+    second: TileBurst_83x89_38
+  - first:
+      213: -7566856535794006403
+    second: TileBurst_83x89_39
+  - first:
+      213: -3174925381307328625
+    second: TileBurst_83x89_40
+  - first:
+      213: 6400120293403058375
+    second: TileBurst_83x89_41
+  - first:
+      213: -7171982379328377521
+    second: TileBurst_83x89_42
+  - first:
+      213: 415635669008682078
+    second: TileBurst_83x89_43
+  - first:
+      213: 7812631850583499445
+    second: TileBurst_83x89_44
+  - first:
+      213: -8845651607313836584
+    second: TileBurst_83x89_45
+  - first:
+      213: -4079299724096818750
+    second: TileBurst_83x89_46
+  - first:
+      213: 747697106317361869
+    second: TileBurst_83x89_47
+  - first:
+      213: -11799270251012684
+    second: TileBurst_83x89_48
+  - first:
+      213: 5098307701073015605
+    second: TileBurst_83x89_49
+  - first:
+      213: 2311358797750449248
+    second: TileBurst_83x89_50
+  - first:
+      213: 4384972661388338632
+    second: TileBurst_83x89_51
+  - first:
+      213: 1724818498968672543
+    second: TileBurst_83x89_52
+  - first:
+      213: 5157208781499516615
+    second: TileBurst_83x89_53
+  - first:
+      213: -6679872830428123190
+    second: TileBurst_83x89_54
+  - first:
+      213: -3988293608512487590
+    second: TileBurst_83x89_55
+  - first:
+      213: 269239746063804103
+    second: TileBurst_83x89_56
+  - first:
+      213: 1231463145566146198
+    second: TileBurst_83x89_57
+  - first:
+      213: 8965581594968336828
+    second: TileBurst_83x89_58
+  - first:
+      213: -8165161587619504417
+    second: TileBurst_83x89_59
+  - first:
+      213: -8314200248582344200
+    second: TileBurst_83x89_60
+  - first:
+      213: 1931151970234132867
+    second: TileBurst_83x89_61
+  - first:
+      213: -4780378656576160949
+    second: TileBurst_83x89_62
+  - first:
+      213: 5646027525543786957
+    second: TileBurst_83x89_63
+  - first:
+      213: 7138827088083962944
+    second: TileBurst_83x89_64
+  - first:
+      213: 7508186804813675407
+    second: TileBurst_83x89_65
+  - first:
+      213: 6791536771090496208
+    second: TileBurst_83x89_66
+  - first:
+      213: -1028538918974207022
+    second: TileBurst_83x89_67
+  - first:
+      213: -7469532737838995874
+    second: TileBurst_83x89_68
+  - first:
+      213: -5622450120448504886
+    second: TileBurst_83x89_69
+  - first:
+      213: -7028403652596514787
+    second: TileBurst_83x89_70
+  - first:
+      213: 3678029328135016076
+    second: TileBurst_83x89_71
+  - first:
+      213: -8093898501497996719
+    second: TileBurst_83x89_72
+  - first:
+      213: -230355977474368252
+    second: TileBurst_83x89_73
+  - first:
+      213: -3468238685639096498
+    second: TileBurst_83x89_74
+  - first:
+      213: -817404520818732316
+    second: TileBurst_83x89_75
+  - first:
+      213: 7357928848929519231
+    second: TileBurst_83x89_76
+  - first:
+      213: 4036527799020714083
+    second: TileBurst_83x89_77
+  - first:
+      213: 8047357589665454842
+    second: TileBurst_83x89_78
+  - first:
+      213: -371714349286784045
+    second: TileBurst_83x89_79
+  - first:
+      213: -2396101499845182574
+    second: TileBurst_83x89_80
+  - first:
+      213: -710856090666411024
+    second: TileBurst_83x89_81
+  - first:
+      213: 6716364246710989640
+    second: TileBurst_83x89_82
+  - first:
+      213: -8535159261965606357
+    second: TileBurst_83x89_83
+  - first:
+      213: 1866903964480605971
+    second: TileBurst_83x89_84
+  - first:
+      213: -3596903840125776063
+    second: TileBurst_83x89_85
+  - first:
+      213: 1600494695044334684
+    second: TileBurst_83x89_86
+  - first:
+      213: 832837205572519818
+    second: TileBurst_83x89_87
+  - first:
+      213: 1731058311770112153
+    second: TileBurst_83x89_88
+  - first:
+      213: -8607059833118330323
+    second: TileBurst_83x89_89
+  - first:
+      213: 7601767509904877477
+    second: TileBurst_83x89_90
+  - first:
+      213: 2176857907688843802
+    second: TileBurst_83x89_91
+  - first:
+      213: 320227285660741414
+    second: TileBurst_83x89_92
+  - first:
+      213: 6435306245057399166
+    second: TileBurst_83x89_93
+  - first:
+      213: 6684907149752174467
+    second: TileBurst_83x89_94
+  - first:
+      213: 2373745999487343064
+    second: TileBurst_83x89_95
+  - first:
+      213: 438762197290401303
+    second: TileBurst_83x89_96
+  - first:
+      213: -1399372618379168887
+    second: TileBurst_83x89_97
+  - first:
+      213: 536521159912848861
+    second: TileBurst_83x89_98
+  - first:
+      213: -65625397089160596
+    second: TileBurst_83x89_99
+  - first:
+      213: -2205029828182872678
+    second: TileBurst_83x89_100
+  - first:
+      213: 3328970613901197490
+    second: TileBurst_83x89_101
+  - first:
+      213: 7163705190395483977
+    second: TileBurst_83x89_102
+  - first:
+      213: -4121750919617436237
+    second: TileBurst_83x89_103
+  - first:
+      213: -6160848795876653847
+    second: TileBurst_83x89_104
+  - first:
+      213: 5195435495666223547
+    second: TileBurst_83x89_105
+  - first:
+      213: 3433367113904929529
+    second: TileBurst_83x89_106
+  - first:
+      213: 3298485597233089793
+    second: TileBurst_83x89_107
+  - first:
+      213: 2049550737862482054
+    second: TileBurst_83x89_108
+  - first:
+      213: 8723777600329136580
+    second: TileBurst_83x89_109
+  - first:
+      213: -1513757525318317078
+    second: TileBurst_83x89_110
+  - first:
+      213: -4283706890788101511
+    second: TileBurst_83x89_111
+  - first:
+      213: 5022382587751711682
+    second: TileBurst_83x89_112
+  - first:
+      213: -2767817209489937992
+    second: TileBurst_83x89_113
+  - first:
+      213: -7152447503042501308
+    second: TileBurst_83x89_114
+  - first:
+      213: 6155804067892408731
+    second: TileBurst_83x89_115
+  - first:
+      213: -5924862347809349727
+    second: TileBurst_83x89_116
+  - first:
+      213: -8135712157188662537
+    second: TileBurst_83x89_117
+  - first:
+      213: 1920579719017000349
+    second: TileBurst_83x89_118
+  - first:
+      213: -3545121093797635068
+    second: TileBurst_83x89_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileBurst_83x89_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6776faadfd2528080800000000000000
+      internalID: -9186689168482277514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adbf6d5c97d88180800000000000000
+      internalID: -9112796779401724503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f603bdd091ad01860800000000000000
+      internalID: 7498733180713381999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c986a7b749fc1550800000000000000
+      internalID: 6133050878990911937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4c7d31b15526240800000000000000
+      internalID: 4783479329006273749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840344a43da665d30800000000000000
+      internalID: 4419837540027347016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d390148c0f4ae50800000000000000
+      internalID: 6819840478621023646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025e3899a01c63e30800000000000000
+      internalID: 4482982730363299104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 712
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf7b92e479eb8d30800000000000000
+      internalID: 4434894946303705024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd508338e8756fc0800000000000000
+      internalID: -3502260196518896202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36be76040d2cb8ca0800000000000000
+      internalID: -6013498677733627037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53321aac8401d3130800000000000000
+      internalID: 3548009986261066549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20cb16701695c450800000000000000
+      internalID: 6108453467043119147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d16b9c5b8154220800000000000000
+      internalID: 2469407139734887834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb28e4a4aec34da50800000000000000
+      internalID: 6544923135442846396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e671e43ba720a990800000000000000
+      internalID: -7376852573352790301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_16
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7462edc9f5a1c910800000000000000
+      internalID: 1855947013772960892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_17
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 623
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3100fe7aef29cf590800000000000000
+      internalID: -7639069245490397165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140443d09aa9328a0800000000000000
+      internalID: -6331046600291106751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2505fe6b31812760800000000000000
+      internalID: 7431362952402634026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e411c60d2826f30800000000000000
+      internalID: 4567356803784986260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_21
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afcfc93c32a0d9d0800000000000000
+      internalID: -2751520992771715165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24d11ff6ed28b960800000000000000
+      internalID: 7617889239842280495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_23
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a83576bb3c37350800000000000000
+      internalID: 6013365137129572994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_24
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ac59675bfac13e0800000000000000
+      internalID: -2081595733838542228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b775f99e5f2e6d0800000000000000
+      internalID: -2962535221106869443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 534
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143a1890957a124f0800000000000000
+      internalID: -855218453370264767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd831c408d8e46010800000000000000
+      internalID: 1181325016768264412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148e51cbd257d4510800000000000000
+      internalID: 1535011887292737601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba59c5cb4f68bf80800000000000000
+      internalID: -8090594359339558219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1f02666f3136a70800000000000000
+      internalID: 8818914444317880767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4672f868160306d0800000000000000
+      internalID: -3025567822753139126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0587be54ff7d2870800000000000000
+      internalID: 8659718346041165070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_33
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415981e9b328672d0800000000000000
+      internalID: -3281292085925735148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_34
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816d149b860e16960800000000000000
+      internalID: 7593597187112687128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_35
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 445
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c821d5a860d05a0800000000000000
+      internalID: -6553574691417453461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d316eb70b5088660800000000000000
+      internalID: 7388161444252357584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8900e41a35ec2bba0800000000000000
+      internalID: -6074566088785526632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5a9e51bf0dfd450800000000000000
+      internalID: 6115836595815425510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76c7a552102df690800000000000000
+      internalID: -7566856535794006403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f871ecaef2660f3d0800000000000000
+      internalID: -3174925381307328625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_41
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0ee006f7bc1d850800000000000000
+      internalID: 6400120293403058375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_42
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d65c85600087c90800000000000000
+      internalID: -7171982379328377521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_43
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c8e375072a4c500800000000000000
+      internalID: 415635669008682078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_44
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 356
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2aee6664b0c6c60800000000000000
+      internalID: 7812631850583499445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5123bbabeed3580800000000000000
+      internalID: -8845651607313836584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_46
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c13cd4938a6367c0800000000000000
+      internalID: -4079299724096818750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc242a58e8a506a00800000000000000
+      internalID: 747697106317361869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd541050a416dff0800000000000000
+      internalID: -11799270251012684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_49
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533781697d3d0c640800000000000000
+      internalID: 5098307701073015605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_50
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064b3689498931020800000000000000
+      internalID: 2311358797750449248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_51
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5e9d7276d8adc30800000000000000
+      internalID: 4384972661388338632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_52
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19dc0d4949cfe710800000000000000
+      internalID: 1724818498968672543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_53
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 267
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6cdcd0016129740800000000000000
+      internalID: 5157208781499516615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf6c8d5d035c43a0800000000000000
+      internalID: -6679872830428123190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ff6ac081cb6a8c0800000000000000
+      internalID: -3988293608512487590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_56
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6ac8f5f188cb300800000000000000
+      internalID: 269239746063804103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_57
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e8471d439071110800000000000000
+      internalID: 1231463145566146198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb92edc75f42c6c70800000000000000
+      internalID: 8965581594968336828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_59
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde56440cc48fae80800000000000000
+      internalID: -8165161587619504417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_60
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1f8c7ace60e9c80800000000000000
+      internalID: -8314200248582344200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_61
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389e9193c74dcca10800000000000000
+      internalID: 1931151970234132867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_62
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 178
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3bea70fea8adb0800000000000000
+      internalID: -4780378656576160949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc97d1cde18ba5e40800000000000000
+      internalID: 5646027525543786957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fce90d449b9d0479f58f6bf4f5cc3c
+      internalID: 7138827088083962944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_65
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53e320121800fc47b27bcf85e002575
+      internalID: 7508186804813675407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_66
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd36f6683af54c4dbae6eed1d9d7982
+      internalID: 6791536771090496208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_67
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bf662c8b5ee2641b04d83c11d1aca8
+      internalID: -1028538918974207022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_68
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7dc0247aef4484698b96ecf2310b02
+      internalID: -7469532737838995874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_69
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751822d08e6b6b0459c2eb93581c0ac7
+      internalID: -5622450120448504886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_70
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e477582596f1c4fb1b1cc5947a92e9
+      internalID: -7028403652596514787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_71
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 89
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc5d96e2cd7a204ca7a3a7b0b428e00
+      internalID: 3678029328135016076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbb5d65cebd0ed489558ed9112db5c7
+      internalID: -8093898501497996719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileBurst_83x89_73
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1d70705a8c2594e99cd45346b9413e
+      internalID: -230355977474368252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: afabee0e34a237842a982d57006d8c92
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileBurst_83x89_0: -9186689168482277514
+      TileBurst_83x89_1: -9112796779401724503
+      TileBurst_83x89_10: -6013498677733627037
+      TileBurst_83x89_11: 3548009986261066549
+      TileBurst_83x89_12: 6108453467043119147
+      TileBurst_83x89_13: 2469407139734887834
+      TileBurst_83x89_14: 6544923135442846396
+      TileBurst_83x89_15: -7376852573352790301
+      TileBurst_83x89_16: 1855947013772960892
+      TileBurst_83x89_17: -7639069245490397165
+      TileBurst_83x89_18: -6331046600291106751
+      TileBurst_83x89_19: 7431362952402634026
+      TileBurst_83x89_2: 7498733180713381999
+      TileBurst_83x89_20: 4567356803784986260
+      TileBurst_83x89_21: -2751520992771715165
+      TileBurst_83x89_22: 7617889239842280495
+      TileBurst_83x89_23: 6013365137129572994
+      TileBurst_83x89_24: -2081595733838542228
+      TileBurst_83x89_25: -2962535221106869443
+      TileBurst_83x89_26: -855218453370264767
+      TileBurst_83x89_27: 1181325016768264412
+      TileBurst_83x89_28: 1535011887292737601
+      TileBurst_83x89_29: -8090594359339558219
+      TileBurst_83x89_3: 6133050878990911937
+      TileBurst_83x89_30: 8818914444317880767
+      TileBurst_83x89_31: -3025567822753139126
+      TileBurst_83x89_32: 8659718346041165070
+      TileBurst_83x89_33: -3281292085925735148
+      TileBurst_83x89_34: 7593597187112687128
+      TileBurst_83x89_35: -6553574691417453461
+      TileBurst_83x89_36: 7388161444252357584
+      TileBurst_83x89_37: -6074566088785526632
+      TileBurst_83x89_38: 6115836595815425510
+      TileBurst_83x89_39: -7566856535794006403
+      TileBurst_83x89_4: 4783479329006273749
+      TileBurst_83x89_40: -3174925381307328625
+      TileBurst_83x89_41: 6400120293403058375
+      TileBurst_83x89_42: -7171982379328377521
+      TileBurst_83x89_43: 415635669008682078
+      TileBurst_83x89_44: 7812631850583499445
+      TileBurst_83x89_45: -8845651607313836584
+      TileBurst_83x89_46: -4079299724096818750
+      TileBurst_83x89_47: 747697106317361869
+      TileBurst_83x89_48: -11799270251012684
+      TileBurst_83x89_49: 5098307701073015605
+      TileBurst_83x89_5: 4419837540027347016
+      TileBurst_83x89_50: 2311358797750449248
+      TileBurst_83x89_51: 4384972661388338632
+      TileBurst_83x89_52: 1724818498968672543
+      TileBurst_83x89_53: 5157208781499516615
+      TileBurst_83x89_54: -6679872830428123190
+      TileBurst_83x89_55: -3988293608512487590
+      TileBurst_83x89_56: 269239746063804103
+      TileBurst_83x89_57: 1231463145566146198
+      TileBurst_83x89_58: 8965581594968336828
+      TileBurst_83x89_59: -8165161587619504417
+      TileBurst_83x89_6: 6819840478621023646
+      TileBurst_83x89_60: -8314200248582344200
+      TileBurst_83x89_61: 1931151970234132867
+      TileBurst_83x89_62: -4780378656576160949
+      TileBurst_83x89_63: 5646027525543786957
+      TileBurst_83x89_64: 7138827088083962944
+      TileBurst_83x89_65: 7508186804813675407
+      TileBurst_83x89_66: 6791536771090496208
+      TileBurst_83x89_67: -1028538918974207022
+      TileBurst_83x89_68: -7469532737838995874
+      TileBurst_83x89_69: -5622450120448504886
+      TileBurst_83x89_7: 4482982730363299104
+      TileBurst_83x89_70: -7028403652596514787
+      TileBurst_83x89_71: 3678029328135016076
+      TileBurst_83x89_72: -8093898501497996719
+      TileBurst_83x89_73: -230355977474368252
+      TileBurst_83x89_8: 4434894946303705024
+      TileBurst_83x89_9: -3502260196518896202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

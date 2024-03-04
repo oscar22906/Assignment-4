@@ -1,0 +1,2118 @@
+fileFormatVersion: 2
+guid: 536386a26a0cadd43987b634669166b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 589426102142992121
+    second: Play_260x88_0
+  - first:
+      213: 6459223323084659685
+    second: Play_260x88_1
+  - first:
+      213: 4934788768806985631
+    second: Play_260x88_2
+  - first:
+      213: -3877476141437393184
+    second: Play_260x88_3
+  - first:
+      213: 5567462383835544866
+    second: Play_260x88_4
+  - first:
+      213: 8155321391203102376
+    second: Play_260x88_5
+  - first:
+      213: 5292135208997937157
+    second: Play_260x88_6
+  - first:
+      213: -6159708310489660320
+    second: Play_260x88_7
+  - first:
+      213: 2625183485394587047
+    second: Play_260x88_8
+  - first:
+      213: -7582977632138298261
+    second: Play_260x88_9
+  - first:
+      213: -4924871455530037832
+    second: Play_260x88_10
+  - first:
+      213: 4987574875583860394
+    second: Play_260x88_11
+  - first:
+      213: 753249214359971054
+    second: Play_260x88_12
+  - first:
+      213: 401319602492731864
+    second: Play_260x88_13
+  - first:
+      213: 6010953687700953252
+    second: Play_260x88_14
+  - first:
+      213: 3046903096138167056
+    second: Play_260x88_15
+  - first:
+      213: -6028014826862311579
+    second: Play_260x88_16
+  - first:
+      213: 2697886858743249060
+    second: Play_260x88_17
+  - first:
+      213: 7472461279810839031
+    second: Play_260x88_18
+  - first:
+      213: 2404194350514065959
+    second: Play_260x88_19
+  - first:
+      213: 2907910713669545238
+    second: Play_260x88_20
+  - first:
+      213: 946401055541498786
+    second: Play_260x88_21
+  - first:
+      213: -5850793738819921651
+    second: Play_260x88_22
+  - first:
+      213: 1739163505667095708
+    second: Play_260x88_23
+  - first:
+      213: -4579600300979734659
+    second: Play_260x88_24
+  - first:
+      213: 6478287067700144535
+    second: Play_260x88_25
+  - first:
+      213: 7652117153204750563
+    second: Play_260x88_26
+  - first:
+      213: -1035058048830916198
+    second: Play_260x88_27
+  - first:
+      213: 5162281203464340624
+    second: Play_260x88_28
+  - first:
+      213: 3157194140001951022
+    second: Play_260x88_29
+  - first:
+      213: 6285615125844732038
+    second: Play_260x88_30
+  - first:
+      213: 1109275843697553514
+    second: Play_260x88_31
+  - first:
+      213: -1400877045553535944
+    second: Play_260x88_32
+  - first:
+      213: -6632794315126770796
+    second: Play_260x88_33
+  - first:
+      213: -2293155721255317148
+    second: Play_260x88_34
+  - first:
+      213: -5799256860789474184
+    second: Play_260x88_35
+  - first:
+      213: -2107898523198649415
+    second: Play_260x88_36
+  - first:
+      213: -4749429646703995001
+    second: Play_260x88_37
+  - first:
+      213: 6152548132403538909
+    second: Play_260x88_38
+  - first:
+      213: 17860908623156597
+    second: Play_260x88_39
+  - first:
+      213: 2528355600954919681
+    second: Play_260x88_40
+  - first:
+      213: -7767355630083094830
+    second: Play_260x88_41
+  - first:
+      213: -2451628316612675095
+    second: Play_260x88_42
+  - first:
+      213: 6410349667725882451
+    second: Play_260x88_43
+  - first:
+      213: 2703843450757657604
+    second: Play_260x88_44
+  - first:
+      213: -7499854642849148829
+    second: Play_260x88_45
+  - first:
+      213: 3033579214564675622
+    second: Play_260x88_46
+  - first:
+      213: -2724050905044706260
+    second: Play_260x88_47
+  - first:
+      213: -5557451922991127389
+    second: Play_260x88_48
+  - first:
+      213: -4786941096960865041
+    second: Play_260x88_49
+  - first:
+      213: -4145143111871433254
+    second: Play_260x88_50
+  - first:
+      213: 5138749310552327078
+    second: Play_260x88_51
+  - first:
+      213: 7322187667378914006
+    second: Play_260x88_52
+  - first:
+      213: 1312120282037862361
+    second: Play_260x88_53
+  - first:
+      213: -2093725379887297554
+    second: Play_260x88_54
+  - first:
+      213: 6666994929608065056
+    second: Play_260x88_55
+  - first:
+      213: -3107472988036487628
+    second: Play_260x88_56
+  - first:
+      213: 6369694852180488329
+    second: Play_260x88_57
+  - first:
+      213: 2047463764599282171
+    second: Play_260x88_58
+  - first:
+      213: -2481205354012361764
+    second: Play_260x88_59
+  - first:
+      213: -704307524279892534
+    second: Play_260x88_60
+  - first:
+      213: -7349288986673568098
+    second: Play_260x88_61
+  - first:
+      213: -4020307009674476966
+    second: Play_260x88_62
+  - first:
+      213: -9086387113345846378
+    second: Play_260x88_63
+  - first:
+      213: -8501788389086386017
+    second: Play_260x88_64
+  - first:
+      213: -5474212306983010584
+    second: Play_260x88_65
+  - first:
+      213: -3446472229559567989
+    second: Play_260x88_66
+  - first:
+      213: -5310839089413272364
+    second: Play_260x88_67
+  - first:
+      213: 1180430444216991492
+    second: Play_260x88_68
+  - first:
+      213: -8093092611317339347
+    second: Play_260x88_69
+  - first:
+      213: -8549529289705615672
+    second: Play_260x88_70
+  - first:
+      213: 3150501129698985104
+    second: Play_260x88_71
+  - first:
+      213: 7346373496181273189
+    second: Play_260x88_72
+  - first:
+      213: 4035584230833907492
+    second: Play_260x88_73
+  - first:
+      213: -1740959417378637609
+    second: Play_260x88_74
+  - first:
+      213: 8827247044628513633
+    second: Play_260x88_75
+  - first:
+      213: 2866180960477420269
+    second: Play_260x88_76
+  - first:
+      213: -1446222344900242485
+    second: Play_260x88_77
+  - first:
+      213: 4244581423253813441
+    second: Play_260x88_78
+  - first:
+      213: -2462171749288775174
+    second: Play_260x88_79
+  - first:
+      213: -6262104935725371677
+    second: Play_260x88_80
+  - first:
+      213: -2835005975796963823
+    second: Play_260x88_81
+  - first:
+      213: 8039596894429956324
+    second: Play_260x88_82
+  - first:
+      213: 7183969623911566011
+    second: Play_260x88_83
+  - first:
+      213: 6400593461977747991
+    second: Play_260x88_84
+  - first:
+      213: 3715616604554081568
+    second: Play_260x88_85
+  - first:
+      213: 1431203248749956780
+    second: Play_260x88_86
+  - first:
+      213: 6218385229612986608
+    second: Play_260x88_87
+  - first:
+      213: 4877105645331418378
+    second: Play_260x88_88
+  - first:
+      213: 1620574402728704759
+    second: Play_260x88_89
+  - first:
+      213: 6023880205174223904
+    second: Play_260x88_90
+  - first:
+      213: 831704056897070023
+    second: Play_260x88_91
+  - first:
+      213: 2935964370042170444
+    second: Play_260x88_92
+  - first:
+      213: 4253988498731323602
+    second: Play_260x88_93
+  - first:
+      213: -641526470112923004
+    second: Play_260x88_94
+  - first:
+      213: -1324400612478543752
+    second: Play_260x88_95
+  - first:
+      213: 764030789883217571
+    second: Play_260x88_96
+  - first:
+      213: 2156846216066594576
+    second: Play_260x88_97
+  - first:
+      213: -2756569304196597069
+    second: Play_260x88_98
+  - first:
+      213: 5355785785324267690
+    second: Play_260x88_99
+  - first:
+      213: 7505230532422186761
+    second: Play_260x88_100
+  - first:
+      213: -9178202820945943449
+    second: Play_260x88_101
+  - first:
+      213: 608279078758860054
+    second: Play_260x88_102
+  - first:
+      213: 1965984141138989980
+    second: Play_260x88_103
+  - first:
+      213: -9040182087195522587
+    second: Play_260x88_104
+  - first:
+      213: -89682404057242673
+    second: Play_260x88_105
+  - first:
+      213: -8700430187528608945
+    second: Play_260x88_106
+  - first:
+      213: -7128058792475659879
+    second: Play_260x88_107
+  - first:
+      213: 1608488637463371954
+    second: Play_260x88_108
+  - first:
+      213: 800653841083399118
+    second: Play_260x88_109
+  - first:
+      213: -10164615162999823
+    second: Play_260x88_110
+  - first:
+      213: -385269552625294553
+    second: Play_260x88_111
+  - first:
+      213: -1773591493921952662
+    second: Play_260x88_112
+  - first:
+      213: -2829011613575996143
+    second: Play_260x88_113
+  - first:
+      213: 3524534385869490155
+    second: Play_260x88_114
+  - first:
+      213: 3106653285256841229
+    second: Play_260x88_115
+  - first:
+      213: 3452596283155368661
+    second: Play_260x88_116
+  - first:
+      213: 3954389351982269643
+    second: Play_260x88_117
+  - first:
+      213: 325144371028561213
+    second: Play_260x88_118
+  - first:
+      213: -876849885148490991
+    second: Play_260x88_119
+  - first:
+      213: -1962358066834567625
+    second: Play_260x88_120
+  - first:
+      213: 7966703176525098247
+    second: Play_260x88_121
+  - first:
+      213: 941067581605399221
+    second: Play_260x88_122
+  - first:
+      213: -523381536019870813
+    second: Play_260x88_123
+  - first:
+      213: 6629390936339688046
+    second: Play_260x88_124
+  - first:
+      213: -1327689883054900733
+    second: Play_260x88_125
+  - first:
+      213: -7310159923680721776
+    second: Play_260x88_126
+  - first:
+      213: -3185036951163727195
+    second: Play_260x88_127
+  - first:
+      213: -3465655868974890294
+    second: Play_260x88_128
+  - first:
+      213: -2105617354805037633
+    second: Play_260x88_129
+  - first:
+      213: -3526644341772810317
+    second: Play_260x88_130
+  - first:
+      213: -72511833348434785
+    second: Play_260x88_131
+  - first:
+      213: -9144148191775198304
+    second: Play_260x88_132
+  - first:
+      213: -2226298894860329342
+    second: Play_260x88_133
+  - first:
+      213: 2895251353233541781
+    second: Play_260x88_134
+  - first:
+      213: -4339494192858632713
+    second: Play_260x88_135
+  - first:
+      213: 2974602078309408939
+    second: Play_260x88_136
+  - first:
+      213: -6262170540125806707
+    second: Play_260x88_137
+  - first:
+      213: -4839940609475675416
+    second: Play_260x88_138
+  - first:
+      213: 4666630523426401278
+    second: Play_260x88_139
+  - first:
+      213: -3662322357222324309
+    second: Play_260x88_140
+  - first:
+      213: -3238082353016940972
+    second: Play_260x88_141
+  - first:
+      213: 748585858506783860
+    second: Play_260x88_142
+  - first:
+      213: -8094265789159438685
+    second: Play_260x88_143
+  - first:
+      213: 3464092476203021814
+    second: Play_260x88_144
+  - first:
+      213: -4257253174193024598
+    second: Play_260x88_145
+  - first:
+      213: 6570957173422431948
+    second: Play_260x88_146
+  - first:
+      213: -3850438554334225561
+    second: Play_260x88_147
+  - first:
+      213: -6686293060790197434
+    second: Play_260x88_148
+  - first:
+      213: 7361513726969015158
+    second: Play_260x88_149
+  - first:
+      213: 7358141324408430145
+    second: Play_260x88_150
+  - first:
+      213: -7442715171749980822
+    second: Play_260x88_151
+  - first:
+      213: 5395130782734445822
+    second: Play_260x88_152
+  - first:
+      213: -323290390042063198
+    second: Play_260x88_153
+  - first:
+      213: -2718276331779565295
+    second: Play_260x88_154
+  - first:
+      213: -1328312316954701009
+    second: Play_260x88_155
+  - first:
+      213: -8816000553171874188
+    second: Play_260x88_156
+  - first:
+      213: -580145310095655217
+    second: Play_260x88_157
+  - first:
+      213: -6723359995485141263
+    second: Play_260x88_158
+  - first:
+      213: -5090162113508192653
+    second: Play_260x88_159
+  - first:
+      213: -7746844856838992369
+    second: Play_260x88_160
+  - first:
+      213: -6273781415047338612
+    second: Play_260x88_161
+  - first:
+      213: 3355386719379775403
+    second: Play_260x88_162
+  - first:
+      213: -6194875707281618757
+    second: Play_260x88_163
+  - first:
+      213: -7182140964582767786
+    second: Play_260x88_164
+  - first:
+      213: 5520092777894196064
+    second: Play_260x88_165
+  - first:
+      213: 7109755468477525136
+    second: Play_260x88_166
+  - first:
+      213: -6226177141520387658
+    second: Play_260x88_167
+  - first:
+      213: 918484895557889736
+    second: Play_260x88_168
+  - first:
+      213: -3647742158189715318
+    second: Play_260x88_169
+  - first:
+      213: -1576681171932081789
+    second: Play_260x88_170
+  - first:
+      213: -8939791394241235195
+    second: Play_260x88_171
+  - first:
+      213: -7504716803349205247
+    second: Play_260x88_172
+  - first:
+      213: -4229682013465547486
+    second: Play_260x88_173
+  - first:
+      213: -330646604784740440
+    second: Play_260x88_174
+  - first:
+      213: 3522618878790185874
+    second: Play_260x88_175
+  - first:
+      213: 4703411054885136008
+    second: Play_260x88_176
+  - first:
+      213: -7005900824783322967
+    second: Play_260x88_177
+  - first:
+      213: -8669618558380039603
+    second: Play_260x88_178
+  - first:
+      213: 1291058317117572441
+    second: Play_260x88_179
+  - first:
+      213: -410662735989075327
+    second: Play_260x88_180
+  - first:
+      213: 4433196158751761113
+    second: Play_260x88_181
+  - first:
+      213: 791354801089654697
+    second: Play_260x88_182
+  - first:
+      213: -3994905363971689981
+    second: Play_260x88_183
+  - first:
+      213: -8783603803647545249
+    second: Play_260x88_184
+  - first:
+      213: 5288773341913131145
+    second: Play_260x88_185
+  - first:
+      213: 454523217562254190
+    second: Play_260x88_186
+  - first:
+      213: -4240988816237085985
+    second: Play_260x88_187
+  - first:
+      213: 1712233798162211097
+    second: Play_260x88_188
+  - first:
+      213: -3220630271550221911
+    second: Play_260x88_189
+  - first:
+      213: 4015459108270592942
+    second: Play_260x88_190
+  - first:
+      213: 4909465551610260978
+    second: Play_260x88_191
+  - first:
+      213: 2884565766422227829
+    second: Play_260x88_192
+  - first:
+      213: -4576698940499487168
+    second: Play_260x88_193
+  - first:
+      213: 5030998769959268963
+    second: Play_260x88_194
+  - first:
+      213: -8879304971380034267
+    second: Play_260x88_195
+  - first:
+      213: 5178572289881792106
+    second: Play_260x88_196
+  - first:
+      213: -8210771530824345834
+    second: Play_260x88_197
+  - first:
+      213: 7434263176246587040
+    second: Play_260x88_198
+  - first:
+      213: -8422072917640806616
+    second: Play_260x88_199
+  - first:
+      213: 8244617327762414068
+    second: Play_260x88_200
+  - first:
+      213: 4622129535524840080
+    second: Play_260x88_201
+  - first:
+      213: 7981238122461346252
+    second: Play_260x88_202
+  - first:
+      213: -101250891185866873
+    second: Play_260x88_203
+  - first:
+      213: -5812445803525737002
+    second: Play_260x88_204
+  - first:
+      213: -5588616322997966588
+    second: Play_260x88_205
+  - first:
+      213: -5911621477485394699
+    second: Play_260x88_206
+  - first:
+      213: -6131858649806008576
+    second: Play_260x88_207
+  - first:
+      213: -2337334004277803808
+    second: Play_260x88_208
+  - first:
+      213: 7547950040799457086
+    second: Play_260x88_209
+  - first:
+      213: 3804881405008756516
+    second: Play_260x88_210
+  - first:
+      213: 8952202453317902460
+    second: Play_260x88_211
+  - first:
+      213: -4350173530861863352
+    second: Play_260x88_212
+  - first:
+      213: 8973490885377763408
+    second: Play_260x88_213
+  - first:
+      213: 2182510688609482209
+    second: Play_260x88_214
+  - first:
+      213: 8529112028493249457
+    second: Play_260x88_215
+  - first:
+      213: 4514463909285447705
+    second: Play_260x88_216
+  - first:
+      213: 3550786904562967944
+    second: Play_260x88_217
+  - first:
+      213: -5710723749269014938
+    second: Play_260x88_218
+  - first:
+      213: -3829363223757118470
+    second: Play_260x88_219
+  - first:
+      213: -9026181052105604367
+    second: Play_260x88_220
+  - first:
+      213: -1537224045284380274
+    second: Play_260x88_221
+  - first:
+      213: -1722248461841968688
+    second: Play_260x88_222
+  - first:
+      213: -2526398748340191754
+    second: Play_260x88_223
+  - first:
+      213: 6859043145554780325
+    second: Play_260x88_224
+  - first:
+      213: 8858681929198384984
+    second: Play_260x88_225
+  - first:
+      213: 2435304509173370308
+    second: Play_260x88_226
+  - first:
+      213: -1705204154387108551
+    second: Play_260x88_227
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Play_260x88_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844ca40a0149d11458a920ae93e1160f
+      internalID: 1747156608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 616
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f433691bbf25cd34b8b6b0d518c00566
+      internalID: 213821814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 616
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d73db739c63046a2e92b38cbf8048
+      internalID: 435629758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 616
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d0bf65656ce1845a2ddca36d2758fc
+      internalID: 1732248624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 616
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e2de9791073a4482405ccfed702af
+      internalID: 1925547488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 616
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab9b08f56b3cd4cb591de7137d50dd
+      internalID: -558503380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_6
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 616
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2464e48af424299438514f77d60bb9e9
+      internalID: 394386055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_7
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 616
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03676b0911de214ab378cdae6a74e3e
+      internalID: -527995546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20e7134af128924c81fdedd69cf6b49
+      internalID: -2024198237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 528
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b76c9da2921e2541978b2955276759f
+      internalID: 240176437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 528
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977ca97e56658cb478ec59e819614013
+      internalID: 1950859146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_11
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 528
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2952fcde20fce6746b13c1cadbd9f8ed
+      internalID: 2037987419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_12
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 528
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536ad3c84c3945c45b2ed00122c094a5
+      internalID: 360379734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 528
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a705813c3b2023498303cbad16a193a
+      internalID: 1942913620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_14
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 528
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3588ec337e8cfb542824246b48e6f9c2
+      internalID: -1151187218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_15
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 528
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a589d0a9eeb44fbed7e2dacd02e72
+      internalID: 779293290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12049ef3c2a14ab44ba6a9e832ee2b9e
+      internalID: -1038808506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 440
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0381ec455650464d8ee43c4e0714b11
+      internalID: -2139610083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 440
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db18b1ed0b67c34c822b6316fcf2a50
+      internalID: -1189834922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_19
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 440
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5235ccc74ede2743ba1662d283d94c6
+      internalID: 1425598126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_20
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 440
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f716882370e534e9745e771fbfd0d1
+      internalID: 95021815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_21
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 440
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd8fa893b92ae41b7f66f8d37ce9a7
+      internalID: -602950350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_22
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 440
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea09372d39df02b478575c3247a7dc34
+      internalID: 1333120954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_23
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 440
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933df162c55e26a42a01ae65990a0e32
+      internalID: 1816557058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1295387f4029994692d6bf866c26cba
+      internalID: -980340844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 352
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a459c9d14d3d2409ef392c0999e6ab
+      internalID: 675997971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_26
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 352
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f47eb85620253b48a540f6000800b66
+      internalID: 741990582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_27
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 352
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4636dbc4bfc1b8a40b1bde5609786409
+      internalID: 541406695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_28
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 352
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41d3a3f732c69d47b8ed0e8df541db0
+      internalID: -768356416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 352
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0119ebfcc0806d84eb2e7ce3c2d4afe9
+      internalID: 1506210630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_30
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 352
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282097ff36cfe084abed78e24ff21eb1
+      internalID: -1454609817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_31
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 352
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7312ca7708dab4bbb902a9fcc43d34
+      internalID: 645679924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac84af7a28814f44cbfb01effa0034c0
+      internalID: 921730531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 264
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f51b70f67b37c84cbf405cfaa38b481
+      internalID: -389177711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_34
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 264
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cf3dd3187cf484faefe83cd97f0df4
+      internalID: -50976385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_35
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 264
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266efffbdaee45c4b83ad394a507dee6
+      internalID: -742931782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_36
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 264
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c8e68828b6a249ae8b18819ee250d
+      internalID: -1286158190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_37
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 264
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b3cfafabebab1488b2f7d7f41af231
+      internalID: -180065167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_38
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 264
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eafebeea0777394eaa308948e5a2138
+      internalID: 1388244492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_39
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 264
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc633406e6137e409b91da50a964d14
+      internalID: -2112218136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dcb445a89800e42a5055e0165afcf0
+      internalID: -200939214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 176
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c57ebad0561c541991978ed147ca36
+      internalID: 433714132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_42
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 176
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccbabef0273c73419592e7a4e7bdffb
+      internalID: -76432540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_43
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 176
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be4d0665c709a3498822cceebc41ed8
+      internalID: -853609685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_44
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 176
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638e9d6f29b51d047bf11057bedcb693
+      internalID: 1173158756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_45
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 176
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c58d30363b8b47a04fe7e51529d30
+      internalID: -1811969701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_46
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 176
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7befd6a849077e046a4969be2cc0f4ef
+      internalID: -1376394445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_47
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 176
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a0e1ce534268545a3e72f182f7be3b
+      internalID: -394605468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404420a2834dc6043b7cd1eab8dd94d4
+      internalID: 870053480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_49
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 88
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69860acd4bb21b418bda2e55493f107
+      internalID: 805896201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 88
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ad61b85cd84764691f5bee07f93051
+      internalID: 1398228405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_51
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 88
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cc5986a5849f349a8f57bd09934490
+      internalID: -1974566470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_52
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 88
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eaf47dc230b624fa1284f60e738886
+      internalID: 1173903706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_53
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 88
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936393f6e2943e408ff1c7913dea18f
+      internalID: 1540342237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_54
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 88
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8f98a8a6a940846b9a5dcb06efdc80
+      internalID: 1662461530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_55
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 88
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69a6950baef06a42b9ce358b2e06c7f
+      internalID: -950005053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f653aa5ba2df843934924c2c78057d
+      internalID: -1267770447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b398956ecb2bd4489878afed37be39
+      internalID: -1963982907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23415c5747828a440a9236dc71caacf5
+      internalID: 894692249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_260x88_59
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 260
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0f67b13954aa34d9ad0969998ebc5b
+      internalID: -10647706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dde7d13f6c252414fa83548aeced5999
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Play_260x88_0: 1747156608
+      Play_260x88_1: 213821814
+      Play_260x88_10: 1950859146
+      Play_260x88_11: 2037987419
+      Play_260x88_12: 360379734
+      Play_260x88_13: 1942913620
+      Play_260x88_14: -1151187218
+      Play_260x88_15: 779293290
+      Play_260x88_16: -1038808506
+      Play_260x88_17: -2139610083
+      Play_260x88_18: -1189834922
+      Play_260x88_19: 1425598126
+      Play_260x88_2: 435629758
+      Play_260x88_20: 95021815
+      Play_260x88_21: -602950350
+      Play_260x88_22: 1333120954
+      Play_260x88_23: 1816557058
+      Play_260x88_24: -980340844
+      Play_260x88_25: 675997971
+      Play_260x88_26: 741990582
+      Play_260x88_27: 541406695
+      Play_260x88_28: -768356416
+      Play_260x88_29: 1506210630
+      Play_260x88_3: 1732248624
+      Play_260x88_30: -1454609817
+      Play_260x88_31: 645679924
+      Play_260x88_32: 921730531
+      Play_260x88_33: -389177711
+      Play_260x88_34: -50976385
+      Play_260x88_35: -742931782
+      Play_260x88_36: -1286158190
+      Play_260x88_37: -180065167
+      Play_260x88_38: 1388244492
+      Play_260x88_39: -2112218136
+      Play_260x88_4: 1925547488
+      Play_260x88_40: -200939214
+      Play_260x88_41: 433714132
+      Play_260x88_42: -76432540
+      Play_260x88_43: -853609685
+      Play_260x88_44: 1173158756
+      Play_260x88_45: -1811969701
+      Play_260x88_46: -1376394445
+      Play_260x88_47: -394605468
+      Play_260x88_48: 870053480
+      Play_260x88_49: 805896201
+      Play_260x88_5: -558503380
+      Play_260x88_50: 1398228405
+      Play_260x88_51: -1974566470
+      Play_260x88_52: 1173903706
+      Play_260x88_53: 1540342237
+      Play_260x88_54: 1662461530
+      Play_260x88_55: -950005053
+      Play_260x88_56: -1267770447
+      Play_260x88_57: -1963982907
+      Play_260x88_58: 894692249
+      Play_260x88_59: -10647706
+      Play_260x88_6: 394386055
+      Play_260x88_7: -527995546
+      Play_260x88_8: -2024198237
+      Play_260x88_9: 240176437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

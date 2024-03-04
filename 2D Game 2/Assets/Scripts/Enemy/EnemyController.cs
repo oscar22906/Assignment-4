@@ -3,7 +3,6 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    /* Hello welcome to my enemy code thing. This will control the enemys movement as well as communicate to the arms when their is an attack or how they should increase speed ect.  */
     [Header("Move Settings")]
     public float minMoveDelay = 1f;
     public float maxMoveDelay = 3f;

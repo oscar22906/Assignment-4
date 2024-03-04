@@ -7,11 +7,13 @@ public class LeftArm : MonoBehaviour
     public float punchTime = 0.5f;
     public float delay = 0.1f;
 
+    private EnemyDamageEffects enemyDamageEffects;
     private Vector3 originalScale;
     private RightArm rightArm;
 
     void Start()
     {
+        enemyDamageEffects = GetComponentInParent<EnemyDamageEffects>();
         originalScale = transform.localScale;
         rightArm = transform.parent.GetComponentInChildren<RightArm>();
     }
@@ -34,6 +36,7 @@ public class LeftArm : MonoBehaviour
 
         // Ensure final punch scale
         transform.localScale = originalScale * punchScale;
+        enemyDamageEffects.DamageEffect();
 
         // Scale down instantly
         yield return new WaitForSeconds(delay); // Adjust the delay if needed

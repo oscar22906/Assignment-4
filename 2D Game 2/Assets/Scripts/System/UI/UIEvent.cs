@@ -5,22 +5,10 @@ using UnityEngine;
 
 public class UIEvent : MonoBehaviour
 {
-    [Header("james thing")]
     public TextMeshProUGUI soulsTitle;
     public float fadeInTime = 2.0f;
     public float waitTime = 0.5f;
     public float fadeOutTime = 2.0f;
-
-    private void Start()
-    {
-        
-    }
-
-
-    void Update()
-    {
-        
-    }
 
     public void Text(string text)
     {

@@ -1,0 +1,1974 @@
+fileFormatVersion: 2
+guid: 42f9623028d1c494e831abad3189039f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2833581605218061519
+    second: Exit_251x63_0
+  - first:
+      213: -6514528967053144879
+    second: Exit_251x63_1
+  - first:
+      213: 1097905914396479448
+    second: Exit_251x63_2
+  - first:
+      213: 5753224530691226684
+    second: Exit_251x63_3
+  - first:
+      213: -5825454178201510843
+    second: Exit_251x63_4
+  - first:
+      213: -1851096823084046875
+    second: Exit_251x63_5
+  - first:
+      213: 5905289339995113223
+    second: Exit_251x63_6
+  - first:
+      213: -6496997340533302841
+    second: Exit_251x63_7
+  - first:
+      213: -2586921810236816813
+    second: Exit_251x63_8
+  - first:
+      213: -2103047132295793750
+    second: Exit_251x63_9
+  - first:
+      213: -6417876084178522404
+    second: Exit_251x63_10
+  - first:
+      213: -4660495116928050842
+    second: Exit_251x63_11
+  - first:
+      213: -5826522472968871968
+    second: Exit_251x63_12
+  - first:
+      213: -7113032053095285199
+    second: Exit_251x63_13
+  - first:
+      213: -7695457382472808311
+    second: Exit_251x63_14
+  - first:
+      213: -2439457415053678868
+    second: Exit_251x63_15
+  - first:
+      213: 84712504572300784
+    second: Exit_251x63_16
+  - first:
+      213: 2229253135868748917
+    second: Exit_251x63_17
+  - first:
+      213: 1325667148701372157
+    second: Exit_251x63_18
+  - first:
+      213: -7977947400223704552
+    second: Exit_251x63_19
+  - first:
+      213: 117003544912334099
+    second: Exit_251x63_20
+  - first:
+      213: -8511028995076565002
+    second: Exit_251x63_21
+  - first:
+      213: 4543110155753367878
+    second: Exit_251x63_22
+  - first:
+      213: 7274808321398437779
+    second: Exit_251x63_23
+  - first:
+      213: 2637606848781624027
+    second: Exit_251x63_24
+  - first:
+      213: -6745484199459028805
+    second: Exit_251x63_25
+  - first:
+      213: 953421967850092124
+    second: Exit_251x63_26
+  - first:
+      213: 310637134360365162
+    second: Exit_251x63_27
+  - first:
+      213: 2622340415997220262
+    second: Exit_251x63_28
+  - first:
+      213: 7696741355859339678
+    second: Exit_251x63_29
+  - first:
+      213: 2922766101886199606
+    second: Exit_251x63_30
+  - first:
+      213: 7649084226939316599
+    second: Exit_251x63_31
+  - first:
+      213: 6868280336759534375
+    second: Exit_251x63_32
+  - first:
+      213: 1410104038035034413
+    second: Exit_251x63_33
+  - first:
+      213: -6580172551051494424
+    second: Exit_251x63_34
+  - first:
+      213: -5958080887392190292
+    second: Exit_251x63_35
+  - first:
+      213: 7538078301467816820
+    second: Exit_251x63_36
+  - first:
+      213: 8741996099547934141
+    second: Exit_251x63_37
+  - first:
+      213: 563708632691790715
+    second: Exit_251x63_38
+  - first:
+      213: -3132228741003777773
+    second: Exit_251x63_39
+  - first:
+      213: -1611615494975281979
+    second: Exit_251x63_40
+  - first:
+      213: 7292191170313635975
+    second: Exit_251x63_41
+  - first:
+      213: -1712413737392749534
+    second: Exit_251x63_42
+  - first:
+      213: -738482931269603348
+    second: Exit_251x63_43
+  - first:
+      213: -8261407151881102996
+    second: Exit_251x63_44
+  - first:
+      213: 2059007443963254887
+    second: Exit_251x63_45
+  - first:
+      213: 5404369398259476312
+    second: Exit_251x63_46
+  - first:
+      213: 4440815112403963481
+    second: Exit_251x63_47
+  - first:
+      213: 6177667745784921133
+    second: Exit_251x63_48
+  - first:
+      213: -3939854476268407980
+    second: Exit_251x63_49
+  - first:
+      213: 6660971732059996094
+    second: Exit_251x63_50
+  - first:
+      213: 4146214457043647568
+    second: Exit_251x63_51
+  - first:
+      213: 8731051712150956153
+    second: Exit_251x63_52
+  - first:
+      213: -8754480395640701370
+    second: Exit_251x63_53
+  - first:
+      213: 3130220837702439544
+    second: Exit_251x63_54
+  - first:
+      213: 6835126273047408250
+    second: Exit_251x63_55
+  - first:
+      213: -4246550940170252211
+    second: Exit_251x63_56
+  - first:
+      213: -1260155194402829605
+    second: Exit_251x63_57
+  - first:
+      213: -4740715764345593119
+    second: Exit_251x63_58
+  - first:
+      213: 2215312735874677364
+    second: Exit_251x63_59
+  - first:
+      213: -2094756361405620351
+    second: Exit_251x63_60
+  - first:
+      213: -814322542247690891
+    second: Exit_251x63_61
+  - first:
+      213: -7952348186441454096
+    second: Exit_251x63_62
+  - first:
+      213: -8826622815732462675
+    second: Exit_251x63_63
+  - first:
+      213: -4191538747080534859
+    second: Exit_251x63_64
+  - first:
+      213: 1849127995316561340
+    second: Exit_251x63_65
+  - first:
+      213: 201280976828569575
+    second: Exit_251x63_66
+  - first:
+      213: -3405204715091209760
+    second: Exit_251x63_67
+  - first:
+      213: -774188703083328288
+    second: Exit_251x63_68
+  - first:
+      213: 7242005739331062645
+    second: Exit_251x63_69
+  - first:
+      213: -5096481165755040306
+    second: Exit_251x63_70
+  - first:
+      213: -9916101518239666
+    second: Exit_251x63_71
+  - first:
+      213: 8721611093626163237
+    second: Exit_251x63_72
+  - first:
+      213: -4873279356688844982
+    second: Exit_251x63_73
+  - first:
+      213: -3958297518021503954
+    second: Exit_251x63_74
+  - first:
+      213: -6872580477189690230
+    second: Exit_251x63_75
+  - first:
+      213: 3406226752510082925
+    second: Exit_251x63_76
+  - first:
+      213: -976226225085576825
+    second: Exit_251x63_77
+  - first:
+      213: -8795532473556486891
+    second: Exit_251x63_78
+  - first:
+      213: -4615660500373938615
+    second: Exit_251x63_79
+  - first:
+      213: 617080562059706729
+    second: Exit_251x63_80
+  - first:
+      213: -1297196186133692340
+    second: Exit_251x63_81
+  - first:
+      213: -7831315105877451814
+    second: Exit_251x63_82
+  - first:
+      213: 5509264433691235172
+    second: Exit_251x63_83
+  - first:
+      213: 7688065046494980332
+    second: Exit_251x63_84
+  - first:
+      213: -390109883677364929
+    second: Exit_251x63_85
+  - first:
+      213: -2202206591496072914
+    second: Exit_251x63_86
+  - first:
+      213: -3739502416400797072
+    second: Exit_251x63_87
+  - first:
+      213: 278299628356065515
+    second: Exit_251x63_88
+  - first:
+      213: -8343793237877452731
+    second: Exit_251x63_89
+  - first:
+      213: 1169787045115702607
+    second: Exit_251x63_90
+  - first:
+      213: 762298727703832549
+    second: Exit_251x63_91
+  - first:
+      213: -6016177000317934972
+    second: Exit_251x63_92
+  - first:
+      213: -8286853862599732036
+    second: Exit_251x63_93
+  - first:
+      213: 6196394108521500811
+    second: Exit_251x63_94
+  - first:
+      213: -9014843820609268178
+    second: Exit_251x63_95
+  - first:
+      213: -302272344820752711
+    second: Exit_251x63_96
+  - first:
+      213: 799171767086890394
+    second: Exit_251x63_97
+  - first:
+      213: -2184173053395426886
+    second: Exit_251x63_98
+  - first:
+      213: 1021446848326660244
+    second: Exit_251x63_99
+  - first:
+      213: 2331823401134207634
+    second: Exit_251x63_100
+  - first:
+      213: 5607034409906021378
+    second: Exit_251x63_101
+  - first:
+      213: -7149508513802009477
+    second: Exit_251x63_102
+  - first:
+      213: -3395542657213838497
+    second: Exit_251x63_103
+  - first:
+      213: 6690241918527544335
+    second: Exit_251x63_104
+  - first:
+      213: -7988207727278612879
+    second: Exit_251x63_105
+  - first:
+      213: -8815325938058265936
+    second: Exit_251x63_106
+  - first:
+      213: 6976066680862539387
+    second: Exit_251x63_107
+  - first:
+      213: -7942718153225784194
+    second: Exit_251x63_108
+  - first:
+      213: 4945663861807171670
+    second: Exit_251x63_109
+  - first:
+      213: -4988384414711456133
+    second: Exit_251x63_110
+  - first:
+      213: -1009923820826884187
+    second: Exit_251x63_111
+  - first:
+      213: -6330730157255722208
+    second: Exit_251x63_112
+  - first:
+      213: -4626458285031898684
+    second: Exit_251x63_113
+  - first:
+      213: -443696629498836067
+    second: Exit_251x63_114
+  - first:
+      213: 7553066585549489075
+    second: Exit_251x63_115
+  - first:
+      213: 8489717799424620311
+    second: Exit_251x63_116
+  - first:
+      213: -8592893995494375198
+    second: Exit_251x63_117
+  - first:
+      213: -6884587745609772365
+    second: Exit_251x63_118
+  - first:
+      213: -6073986861379865186
+    second: Exit_251x63_119
+  - first:
+      213: 3461150878434792965
+    second: Exit_251x63_120
+  - first:
+      213: 5289803526850193140
+    second: Exit_251x63_121
+  - first:
+      213: 8171036305570292172
+    second: Exit_251x63_122
+  - first:
+      213: 3618842477421459038
+    second: Exit_251x63_123
+  - first:
+      213: 6710371667258926398
+    second: Exit_251x63_124
+  - first:
+      213: 5295021518012120022
+    second: Exit_251x63_125
+  - first:
+      213: -2248718830411851740
+    second: Exit_251x63_126
+  - first:
+      213: -1117271342689755367
+    second: Exit_251x63_127
+  - first:
+      213: 1150905167679444112
+    second: Exit_251x63_128
+  - first:
+      213: -386213485516014275
+    second: Exit_251x63_129
+  - first:
+      213: -6541624997689199521
+    second: Exit_251x63_130
+  - first:
+      213: 4249749082999906326
+    second: Exit_251x63_131
+  - first:
+      213: -4999460088780831581
+    second: Exit_251x63_132
+  - first:
+      213: -7405224296519440013
+    second: Exit_251x63_133
+  - first:
+      213: -5580372777255124173
+    second: Exit_251x63_134
+  - first:
+      213: 4640973630039449532
+    second: Exit_251x63_135
+  - first:
+      213: -4084199327590758386
+    second: Exit_251x63_136
+  - first:
+      213: -5343874259638316591
+    second: Exit_251x63_137
+  - first:
+      213: 4179652586940937723
+    second: Exit_251x63_138
+  - first:
+      213: -1424836563883742961
+    second: Exit_251x63_139
+  - first:
+      213: 360207679362727520
+    second: Exit_251x63_140
+  - first:
+      213: -344744572377229593
+    second: Exit_251x63_141
+  - first:
+      213: 6485563673395617976
+    second: Exit_251x63_142
+  - first:
+      213: -8615507310030461593
+    second: Exit_251x63_143
+  - first:
+      213: 8447976291383954473
+    second: Exit_251x63_144
+  - first:
+      213: -3835415126946871797
+    second: Exit_251x63_145
+  - first:
+      213: -2487518183524241413
+    second: Exit_251x63_146
+  - first:
+      213: -421416983490815281
+    second: Exit_251x63_147
+  - first:
+      213: -8087783453276539679
+    second: Exit_251x63_148
+  - first:
+      213: -2272356429823570302
+    second: Exit_251x63_149
+  - first:
+      213: -305352221655961268
+    second: Exit_251x63_150
+  - first:
+      213: 6516647134147745274
+    second: Exit_251x63_151
+  - first:
+      213: -2138857286290054699
+    second: Exit_251x63_152
+  - first:
+      213: 2958431127908796005
+    second: Exit_251x63_153
+  - first:
+      213: -8779842164485797467
+    second: Exit_251x63_154
+  - first:
+      213: -4152828441445645218
+    second: Exit_251x63_155
+  - first:
+      213: -5341028778859966216
+    second: Exit_251x63_156
+  - first:
+      213: -5145379064248700765
+    second: Exit_251x63_157
+  - first:
+      213: 7090031761251989008
+    second: Exit_251x63_158
+  - first:
+      213: 1822118701220590615
+    second: Exit_251x63_159
+  - first:
+      213: 8897730081981795674
+    second: Exit_251x63_160
+  - first:
+      213: -7886728401545364108
+    second: Exit_251x63_161
+  - first:
+      213: 4265833631757283701
+    second: Exit_251x63_162
+  - first:
+      213: 3058760674193035636
+    second: Exit_251x63_163
+  - first:
+      213: -4658608473464244148
+    second: Exit_251x63_164
+  - first:
+      213: 2483958530209851714
+    second: Exit_251x63_165
+  - first:
+      213: -6544741460507457913
+    second: Exit_251x63_166
+  - first:
+      213: 3091691007310226616
+    second: Exit_251x63_167
+  - first:
+      213: 6594512086360018653
+    second: Exit_251x63_168
+  - first:
+      213: -8286491835176926876
+    second: Exit_251x63_169
+  - first:
+      213: -2901568206237382209
+    second: Exit_251x63_170
+  - first:
+      213: -8884432360096193574
+    second: Exit_251x63_171
+  - first:
+      213: 5016953854887506975
+    second: Exit_251x63_172
+  - first:
+      213: 7779990723885529448
+    second: Exit_251x63_173
+  - first:
+      213: -6088674980046749747
+    second: Exit_251x63_174
+  - first:
+      213: -3363526713159426638
+    second: Exit_251x63_175
+  - first:
+      213: 894687072320952759
+    second: Exit_251x63_176
+  - first:
+      213: -1217586646826565616
+    second: Exit_251x63_177
+  - first:
+      213: -2220487062080288507
+    second: Exit_251x63_178
+  - first:
+      213: -1785161464847396480
+    second: Exit_251x63_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exit_251x63_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff40f210cb35df418a719cb2d211810
+      internalID: 2117247146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 441
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd30404e539db81438b5f27c9be4d22b
+      internalID: 1056757303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 441
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa224589ef570044b899dafdecd4aed8
+      internalID: -25844043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 441
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b05638438aeff45993ff20a0cea1c3
+      internalID: -1120544892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 441
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c7788c84b6164887bf9b081989967
+      internalID: -591810106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 441
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f026d4570374f7409a19285be40a2e8
+      internalID: -1883265574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 441
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a9d4c30cbf816478d77fa13405da62
+      internalID: -850011273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 441
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdacfe0d941443546ba1cd2ae17852be
+      internalID: 288208214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a5a7ffb28cabc42ab395d60dca42db
+      internalID: 888099748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 378
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bd5403188f58345b2a1094421a6bb4
+      internalID: -1884043980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 378
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a33422c8df9b04eaecb5626e81cde9
+      internalID: 345504146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_11
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 378
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fadfa075480adf4386b27aebbc15aed
+      internalID: -488750263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_12
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 378
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e2eb9b7acbb14ca9bbdadc84c407b
+      internalID: -1372512264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_13
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 378
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0874e1e3c4dfcc42ac06071ece64b5c
+      internalID: 1433816057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_14
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 378
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c9cd3655bdce4aa2ed3be9bad99a9
+      internalID: -507023092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_15
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 378
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9515f25dc37234abfc6597fdcf65a7
+      internalID: 1100879404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcc73aaecbd0ed4da379bf14f80b86c
+      internalID: -171358341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 315
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c860a5c33c095f14fb24e1c2ca1aa69b
+      internalID: 250639568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 315
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66dd359681bdae42ba5776c9a0e01f1
+      internalID: -1867899756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 315
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ccc86c609a48e4b8991c63634b230c
+      internalID: 1493527585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_20
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 315
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d03977eb5759b44d9d341d19790e918
+      internalID: -9562006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_21
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 315
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd95f3daf695e044fa69398adce40a35
+      internalID: 250310494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_22
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 315
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7645632dce59740b053e314ada3433
+      internalID: 909405423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_23
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 315
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a9e50b93a7db44b495bfc18ca2f9c
+      internalID: -1544385813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4af0943ff68a6e429520d285e64b242
+      internalID: -846238177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 252
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bc8b5d5d92ce04ca52fa4055c35d05
+      internalID: 540985381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 252
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc929e726d283484e8cddc19ef792488
+      internalID: -1200279449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_27
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 252
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d41455cf6286240afcc2354c4719b6
+      internalID: 1327601529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_28
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 252
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5449450a7319743b06dc4be6c7fa97
+      internalID: -1179476032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_29
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 252
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe034a0807a8e4da2cfbb832932dbb
+      internalID: -1710569000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_30
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 252
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4525de069db92ee4a810bbdfee6d61e9
+      internalID: -107152071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_31
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 252
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e468cc3f08607c44b5c2d3316a1d30e
+      internalID: 1039929824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f0bdb70e683445a00a610276624d9
+      internalID: 599299494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 189
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961eb437faec2eb4995f21c42642504c
+      internalID: -302000051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 189
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117eea06f0336c4b88c5cddb6f4ede4
+      internalID: -508885815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_35
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 189
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd8eb1af9cec24facd7e61846f36aa
+      internalID: -1533238589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_36
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 189
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01f621366e60943ab23967f2c9fe98
+      internalID: 2039848137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_37
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 189
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315cbbce17360cb4e83ffe699b4d8390
+      internalID: 1677054585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_38
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 189
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3563de283d3c96148a58e626863823fc
+      internalID: -1464278044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_39
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 189
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15508df8e6e9534e89851cd6028829d
+      internalID: -1546626169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe416fdd89919a458a79c1c77c18308
+      internalID: -1308191302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 126
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a962a14dae66944b80971e7d318977
+      internalID: 1983718628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_42
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 126
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f62bc65b81dd744b7f05cd5341bba4
+      internalID: 33884929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_43
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 126
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7dc6b1c4947c04a93e942ac559e5d7
+      internalID: -79281420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_44
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 126
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b7ac9974e16eb47acc60ebc80f9686
+      internalID: 651247130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_45
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 126
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d8a38ed78eaf48a977aac2fd54abc
+      internalID: -1750894197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_46
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 126
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b462800ef0269458c8568c6eea81a7
+      internalID: -475473221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_47
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 126
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b69e13e294e2643b4b83461628ec5d
+      internalID: -1813749503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63477120e0151b64cb30e8386c4c35b9
+      internalID: 1183697434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_49
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 63
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6288516b37bc5014ba5dfa98f3f736eb
+      internalID: -2123382379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_50
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 63
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72d6a4b1bca5624c8930d15662aa42a
+      internalID: -1716555191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_51
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 63
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377892ce26f8e98459e55b56fe0a38af
+      internalID: -810047301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_52
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 63
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a9ffc601ff3342965b585a06b4a0f
+      internalID: -2073645610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_53
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 63
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2173bb328d16d47abc16e5cfe6b224
+      internalID: -2535824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_54
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 63
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55530ca4da455de49bfa16ec71a87eef
+      internalID: 1754969318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_55
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 63
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dbaca0c23d61a47926718f918b0d35
+      internalID: -1771700951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035ba6093022fd46a3862e7d74f95c9
+      internalID: 447010139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_57
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265aa98da4d238444abf0791af359467
+      internalID: 1603045310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_58
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eb5aaa22653d8499ea012929e66a65
+      internalID: 1308450823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_251x63_59
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9110f63d6c7f5a349bbdbfa79707fbdb
+      internalID: -132479489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dde7d13f6c252414fa83548aeced5999
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Exit_251x63_0: 2117247146
+      Exit_251x63_1: 1056757303
+      Exit_251x63_10: 345504146
+      Exit_251x63_11: -488750263
+      Exit_251x63_12: -1372512264
+      Exit_251x63_13: 1433816057
+      Exit_251x63_14: -507023092
+      Exit_251x63_15: 1100879404
+      Exit_251x63_16: -171358341
+      Exit_251x63_17: 250639568
+      Exit_251x63_18: -1867899756
+      Exit_251x63_19: 1493527585
+      Exit_251x63_2: -25844043
+      Exit_251x63_20: -9562006
+      Exit_251x63_21: 250310494
+      Exit_251x63_22: 909405423
+      Exit_251x63_23: -1544385813
+      Exit_251x63_24: -846238177
+      Exit_251x63_25: 540985381
+      Exit_251x63_26: -1200279449
+      Exit_251x63_27: 1327601529
+      Exit_251x63_28: -1179476032
+      Exit_251x63_29: -1710569000
+      Exit_251x63_3: -1120544892
+      Exit_251x63_30: -107152071
+      Exit_251x63_31: 1039929824
+      Exit_251x63_32: 599299494
+      Exit_251x63_33: -302000051
+      Exit_251x63_34: -508885815
+      Exit_251x63_35: -1533238589
+      Exit_251x63_36: 2039848137
+      Exit_251x63_37: 1677054585
+      Exit_251x63_38: -1464278044
+      Exit_251x63_39: -1546626169
+      Exit_251x63_4: -591810106
+      Exit_251x63_40: -1308191302
+      Exit_251x63_41: 1983718628
+      Exit_251x63_42: 33884929
+      Exit_251x63_43: -79281420
+      Exit_251x63_44: 651247130
+      Exit_251x63_45: -1750894197
+      Exit_251x63_46: -475473221
+      Exit_251x63_47: -1813749503
+      Exit_251x63_48: 1183697434
+      Exit_251x63_49: -2123382379
+      Exit_251x63_5: -1883265574
+      Exit_251x63_50: -1716555191
+      Exit_251x63_51: -810047301
+      Exit_251x63_52: -2073645610
+      Exit_251x63_53: -2535824
+      Exit_251x63_54: 1754969318
+      Exit_251x63_55: -1771700951
+      Exit_251x63_56: 447010139
+      Exit_251x63_57: 1603045310
+      Exit_251x63_58: 1308450823
+      Exit_251x63_59: -132479489
+      Exit_251x63_6: -850011273
+      Exit_251x63_7: 288208214
+      Exit_251x63_8: 888099748
+      Exit_251x63_9: -1884043980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
