@@ -49,7 +49,7 @@ public class Row : MonoBehaviour
     {
         if (layoutGroup == null)
         {
-            Debug.LogWarning("VerticalLayoutGroup not assigned!");
+            Debug.LogWarning("VerticalLayoutGroup not assigned");
             return;
         }
 

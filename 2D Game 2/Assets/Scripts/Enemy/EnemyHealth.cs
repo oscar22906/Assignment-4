@@ -8,7 +8,8 @@ public class EnemyHealth : MonoBehaviour
     public float maxHealth = 100f;
     public float currentHealth;
 
-    public HealthSlider healthSlider;
+    public HealthSlider enemyHealthSlider;
+    public HealthSlider playerHealthSlider;
     
     private HitEffect enemyHitEffect;
     private EnemyController enemyController;
@@ -16,6 +17,7 @@ public class EnemyHealth : MonoBehaviour
 
     void Start()
     {
+        enemyHealthSlider.SetMaxHealth(maxHealth);
         currentHealth = maxHealth;
         enemyController = GetComponent<EnemyController>();
         enemyHitEffect = GetComponent<HitEffect>();
@@ -30,7 +32,7 @@ public class EnemyHealth : MonoBehaviour
     {
         Debug.Log("enemy took damage");
         currentHealth -= damage;
-        healthSlider.TakeDamage(damage);
+        enemyHealthSlider.TakeDamage(damage);
         enemyController.DamageUpdate();
 
         // Check if the enemy's health has reached zero or below

@@ -1,13 +1,12 @@
-using UnityEditor.U2D.Aseprite;
 using TMPro;
 using UnityEngine.UI;
 using UnityEngine;
 using System.Collections;
 using Strobotnik.Klattersynth;
-using Unity.VisualScripting.Antlr3.Runtime;
 
 public class Board : MonoBehaviour
 {
+
     private static readonly KeyCode[] SUPPORTED_KEYS = new KeyCode[] 
     {
         KeyCode.A, KeyCode.B, KeyCode.C, KeyCode.D, KeyCode.E, KeyCode.F,
@@ -23,7 +22,7 @@ public class Board : MonoBehaviour
     public Tile.State correctState;
     public Tile.State wrongSpotState;
     public Tile.State incorrectState;
-                
+
     [Header("UI")]
     public TextMeshProUGUI wordDisplay;
     public DialogueController dialogueController;
@@ -40,18 +39,18 @@ public class Board : MonoBehaviour
     [Tooltip("Test tts voice")]
     public string TextSpeech;
 
-    public string playerName = "Jerry";
-    public int currentLevel = 1;
+    public string playerName;
     public bool submitted;
     public float clearTime;
 
-    [Tooltip("Word challenges continue after enemy is killed")]
-    public bool testingMode = false;
 
     [Tooltip("Uses alternative marking algorithm that is simple but incomplete")]
     public bool simpleSubmit;
 
-    private Row[] rows;
+    [Tooltip("Word challenges continue after enemy is killed")]
+    public bool testingMode = false;
+
+    public Row[] rows;
 
     private string incorrectGuess;
     private string displayWord;
@@ -63,25 +62,61 @@ public class Board : MonoBehaviour
 
     private int correctGuesses;
     private int incorrectGuesses;
-    private int rowIndex;
+    public int rowIndex;
     private int columnIndex;
 
+    private int currentLevel;
+
+
+    private bool introScene = false;
+    private IntroDialogue introDialogue;
+    private Persistent persistent;
     private LoadData loadData;
 
 
     private void Awake()
     {
+        GameObject persistentObj = GameObject.FindGameObjectWithTag("Persistent");
+        if (persistentObj != null)
+        {
+            persistent = persistentObj.GetComponent<Persistent>();
+            playerName = persistent.playerName;
+            currentLevel = persistent.currentLevel;
+        }
+        else
+        {
+            playerName = "jerry";
+            currentLevel = 1;
+        }
+        GameObject introObj = GameObject.FindGameObjectWithTag("Intro");
+        if (introObj != null)
+        {
+            introDialogue = introObj.GetComponent<IntroDialogue>();
+        }
+
         rows = GetComponentsInChildren<Row>();
-        loadData = transform.root.GetComponent<LoadData>();
+        GameObject game = GameObject.FindGameObjectWithTag("Game");
+        loadData = game.GetComponent<LoadData>();
         uIEvent.SetInvisible();
+
+        if (introDialogue != null)
+        {
+            introScene = true;
+            speech = null;
+        }
     }
 
     private void Start() 
     {
-
         LoadData();
-        NewGame();
-        
+        if (!introScene)
+        {
+            NewGame();
+        }
+        else
+        {
+            return;
+        }
     }
 
     public void NewGame()
@@ -129,6 +164,16 @@ public class Board : MonoBehaviour
     private void Update()
     {
         Row currentRow = rows[rowIndex];
+        if (introScene)
+        {
+            if (introDialogue.currentIndex2 >= introDialogue.texts2.Length)
+            {
+                if (Input.GetKeyDown(KeyCode.Return))
+                {
+                    SubmitRow(currentRow);
+                }
+            }
+        }
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -164,7 +209,6 @@ public class Board : MonoBehaviour
                     {
                         currentRow.tiles[columnIndex].SetLetter((char)SUPPORTED_KEYS[i]);
                         columnIndex++;
-                        
                         break;
                     }
                 }
@@ -177,121 +221,127 @@ public class Board : MonoBehaviour
                     {
                         currentRow.tiles[columnIndex].SetLetter((char)SUPPORTED_KEYS[i]);
                         columnIndex++;
-                        
                         break;
                     }
                 }
             }
         }
     }
-    private void SubmitRow(Row row) 
+    public void SubmitRow(Row row) 
     {
         displayWord = row.word;
-        Debug.Log("Guessed " + row.word + ". word is " + word);
-        if(!IsCorrect(row.word))
+        if (introScene)
         {
-            // guessed wrong 
-            incorrectGuesses++;
-            incorrectGuess = row.word;
-            Debug.Log("Guess does not match solutions");
-            // set screen text to random insult
-            string failPhraseString = RandomPhrase(failPhrase);
-
-            // speak fail phrase - phrase must end with space, seperated with \n
-            speech.speak(row.word + failPhraseString + playerName.ToLower().PadLeft(1), false);
-            dialogueController.DisplayText(row.word + failPhraseString + " " + playerName + ".");
+            introDialogue.GiveName(row.word);
         }
-
-        if (IsCorrect(row.word))
+        if (!introScene)
         {
-            // correct guess
-            // set screen text to random compliment
-            string successPhraseString = RandomPhrase(successPhrase);
-            // speak success phrase
-            speech.speak(successPhraseString, false);
-            dialogueController.DisplayText(successPhraseString);
-            correctGuesses++;
-        }
-        
-
-
-
-        if (!simpleSubmit)
-        {
-            string remaining = word;
-
-            // check correct/incorrect letters first
-            for (int i = 0; i < row.tiles.Length; i++)
+            Debug.Log("Guessed " + row.word + ". word is " + word);
+            if (!IsCorrect(row.word))
             {
-                Tile tile = row.tiles[i];
+                // guessed wrong 
+                incorrectGuesses++;
+                incorrectGuess = row.word;
+                Debug.Log("Guess does not match solutions");
+                // set screen text to random insult
+                string failPhraseString = RandomPhrase(failPhrase);
 
-                if (tile.letter == word[i])
-                {
-                    tile.SetState(correctState);
-
-                    remaining = remaining.Remove(i, 1);
-                    remaining = remaining.Insert(i, " ");
-                }
-                else if (!word.Contains(tile.letter))
-                {
-                    tile.SetState(incorrectState);
-                }
+                // speak fail phrase - phrase must end with space, seperated with \n
+                speech.speak(row.word + failPhraseString + playerName.ToLower().PadLeft(1), false);
+                dialogueController.DisplayText(row.word + failPhraseString + " " + playerName + ".", false);
             }
 
-            // check wrong spots after
-            for (int i = 0; i < row.tiles.Length; i++)
+            if (IsCorrect(row.word))
             {
-                Tile tile = row.tiles[i];
+                // correct guess
+                // set screen text to random compliment
+                string successPhraseString = RandomPhrase(successPhrase);
+                // speak success phrase
+                speech.speak(successPhraseString, false);
+                dialogueController.DisplayText(successPhraseString, false);
+                correctGuesses++;
+            }
 
-                if (tile.state != correctState && tile.state != incorrectState)
+
+
+
+            if (!simpleSubmit)
+            {
+                string remaining = word;
+
+                // check correct/incorrect letters first
+                for (int i = 0; i < row.tiles.Length; i++)
                 {
-                    if (remaining.Contains(tile.letter))
-                    {
-                        tile.SetState(wrongSpotState);
+                    Tile tile = row.tiles[i];
 
-                        int index = remaining.IndexOf(tile.letter);
-                        remaining = remaining.Remove(index, 1);
-                        remaining = remaining.Insert(index, " ");
+                    if (tile.letter == word[i])
+                    {
+                        tile.SetState(correctState);
+
+                        remaining = remaining.Remove(i, 1);
+                        remaining = remaining.Insert(i, " ");
                     }
-                    else
+                    else if (!word.Contains(tile.letter))
                     {
                         tile.SetState(incorrectState);
                     }
                 }
+
+                // check wrong spots after
+                for (int i = 0; i < row.tiles.Length; i++)
+                {
+                    Tile tile = row.tiles[i];
+
+                    if (tile.state != correctState && tile.state != incorrectState)
+                    {
+                        if (remaining.Contains(tile.letter))
+                        {
+                            tile.SetState(wrongSpotState);
+
+                            int index = remaining.IndexOf(tile.letter);
+                            remaining = remaining.Remove(index, 1);
+                            remaining = remaining.Insert(index, " ");
+                        }
+                        else
+                        {
+                            tile.SetState(incorrectState);
+                        }
+                    }
+                }
             }
-        }
-        
-        if(simpleSubmit) // alternate sumbitting algorithm - does not cover all edge cases
-        {
-            for (int i = 0; i < row.tiles.Length; i++)
+
+            if (simpleSubmit) // alternate sumbitting algorithm - does not cover all edge cases
             {
-                Tile tile = row.tiles[i];
+                for (int i = 0; i < row.tiles.Length; i++)
+                {
+                    Tile tile = row.tiles[i];
 
-                if(tile.letter == word[i])
-                {
-                    // correct state
-                    tile.SetState(correctState);
-                }
-                else if (word.Contains(tile.letter))
-                {
-                    // wrong spot
-                    tile.SetState(wrongSpotState);
-                }
-                else
-                {
-                    // incorrect
-                    tile.SetState(incorrectState);
+                    if (tile.letter == word[i])
+                    {
+                        // correct state
+                        tile.SetState(correctState);
+                    }
+                    else if (word.Contains(tile.letter))
+                    {
+                        // wrong spot
+                        tile.SetState(wrongSpotState);
+                    }
+                    else
+                    {
+                        // incorrect
+                        tile.SetState(incorrectState);
+                    }
                 }
             }
+
+
+
+            // reset columnIndex mark as submitted and disable script so player can't type
+            columnIndex = 0;
+            submitted = true;
+            enabled = false;
+            ClearBoard();
         }
-
-
-
-        // reset columnIndex mark as submitted and disable script so player can't type
-        columnIndex = 0;
-        submitted = true;
-        enabled = false;
-
     }
 
     private void ClearBoard()
@@ -344,6 +394,10 @@ public class Board : MonoBehaviour
 
     private void OnDisable()
     {   
+        if (introScene)
+        {
+            return;
+        }
         if (!testingMode && enemyHealth.currentHealth <= 0)
         {
             return;

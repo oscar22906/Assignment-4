@@ -8,16 +8,19 @@ public class RightArm : MonoBehaviour
     public float delay = 0.1f;
 
     private EnemyDamageEffects enemyDamageEffects;
+    private EnemyController enemyController;
 
     private Vector3 originalScale;
     private LeftArm leftArm;
 
     void Start()
     {
+        enemyController = GetComponentInParent<EnemyController>();
         enemyDamageEffects = GetComponentInParent<EnemyDamageEffects>();
         originalScale = transform.localScale;
         leftArm = transform.parent.GetComponentInChildren<LeftArm>();
     }
+    
 
     public void PerformPunchAnimation(int repeatCount)
     {
@@ -40,6 +43,7 @@ public class RightArm : MonoBehaviour
             // Ensure final punch scale
             transform.localScale = originalScale * punchScale;
             enemyDamageEffects.DamageEffect();
+            enemyController.DealDamage();
 
             // Scale down instantly
             yield return new WaitForSeconds(delay); // Adjust the delay if needed

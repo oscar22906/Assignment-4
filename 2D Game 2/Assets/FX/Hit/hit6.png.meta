@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: d6ef856b32880a741a0983f68e28d948
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1495688813154820579
+    second: puff and fire3_86x85_91x83_74x73_0
+  - first:
+      213: 6800623563347796337
+    second: puff and fire3_86x85_91x83_74x73_1
+  - first:
+      213: -4794705267810954915
+    second: puff and fire3_86x85_91x83_74x73_2
+  - first:
+      213: -7586795924118521233
+    second: puff and fire3_86x85_91x83_74x73_3
+  - first:
+      213: -1782225611093091820
+    second: puff and fire3_86x85_91x83_74x73_4
+  - first:
+      213: -2118961805872280245
+    second: puff and fire3_86x85_91x83_74x73_5
+  - first:
+      213: -133967418867264496
+    second: puff and fire3_86x85_91x83_74x73_6
+  - first:
+      213: 3425590534202642795
+    second: puff and fire3_86x85_91x83_74x73_7
+  - first:
+      213: -3769576801421994251
+    second: puff and fire3_86x85_91x83_74x73_8
+  - first:
+      213: 4673061983673598937
+    second: puff and fire3_86x85_91x83_74x73_9
+  - first:
+      213: 615852917954675029
+    second: puff and fire3_86x85_91x83_74x73_10
+  - first:
+      213: -8289785349492661885
+    second: puff and fire3_86x85_91x83_74x73_11
+  - first:
+      213: 5195083211243876524
+    second: puff and fire3_86x85_91x83_74x73_12
+  - first:
+      213: 6143637645510719524
+    second: puff and fire3_86x85_91x83_74x73_13
+  - first:
+      213: -5243493358262571450
+    second: puff and fire3_86x85_91x83_74x73_14
+  - first:
+      213: 640223050802342347
+    second: puff and fire3_86x85_91x83_74x73_15
+  - first:
+      213: 1043715115937554188
+    second: puff and fire3_86x85_91x83_74x73_16
+  - first:
+      213: -4286540877729535713
+    second: puff and fire3_86x85_91x83_74x73_17
+  - first:
+      213: 2698095305744227428
+    second: puff and fire3_86x85_91x83_74x73_18
+  - first:
+      213: -7565720275310522575
+    second: puff and fire3_86x85_91x83_74x73_19
+  - first:
+      213: -642609986939364669
+    second: puff and fire3_86x85_91x83_74x73_20
+  - first:
+      213: -2482060650108379331
+    second: puff and fire3_86x85_91x83_74x73_21
+  - first:
+      213: 3494123179771617465
+    second: puff and fire3_86x85_91x83_74x73_22
+  - first:
+      213: 2906553992656073062
+    second: puff and fire3_86x85_91x83_74x73_23
+  - first:
+      213: -2954087182806690828
+    second: puff and fire3_86x85_91x83_74x73_24
+  - first:
+      213: -3767710234213393007
+    second: puff and fire3_86x85_91x83_74x73_25
+  - first:
+      213: -2773383163253604711
+    second: puff and fire3_86x85_91x83_74x73_26
+  - first:
+      213: 7163931169096607048
+    second: puff and fire3_86x85_91x83_74x73_27
+  - first:
+      213: -5563797011773083826
+    second: puff and fire3_86x85_91x83_74x73_28
+  - first:
+      213: -8285589987118811989
+    second: puff and fire3_86x85_91x83_74x73_29
+  - first:
+      213: 6296091401814150873
+    second: puff and fire3_86x85_91x83_74x73_30
+  - first:
+      213: 6595756085152748390
+    second: puff and fire3_86x85_91x83_74x73_31
+  - first:
+      213: 2806531222455554572
+    second: puff and fire3_86x85_91x83_74x73_32
+  - first:
+      213: 5647667382607380539
+    second: puff and fire3_86x85_91x83_74x73_33
+  - first:
+      213: -1576923242697550863
+    second: puff and fire3_86x85_91x83_74x73_34
+  - first:
+      213: -4525120094845073107
+    second: puff and fire3_86x85_91x83_74x73_35
+  - first:
+      213: 8053751103517013209
+    second: puff and fire3_86x85_91x83_74x73_36
+  - first:
+      213: -6386691778210976504
+    second: puff and fire3_86x85_91x83_74x73_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 511
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e16e921d01c1c410800000000000000
+      internalID: 1495688813154820579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 511
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1712f70891ba06e50800000000000000
+      internalID: 6800623563347796337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 511
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d511f6d56f8c57db0800000000000000
+      internalID: -4794705267810954915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_3
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 511
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ab887bd4946b690800000000000000
+      internalID: -7586795924118521233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 511
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a5135df334447e0800000000000000
+      internalID: -1782225611093091820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 511
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4dcc5cd67fe792e0800000000000000
+      internalID: -2118961805872280245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014d0f2a75d042ef0800000000000000
+      internalID: -133967418867264496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 438
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61d619f0742a8f20800000000000000
+      internalID: 3425590534202642795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 438
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f650b50fd5cfabc0800000000000000
+      internalID: -3769576801421994251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 438
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d34f3e7d1d0ad040800000000000000
+      internalID: 4673061983673598937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 438
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551839847f2fb8800800000000000000
+      internalID: 615852917954675029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 438
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381a0435524c4fc80800000000000000
+      internalID: -8289785349492661885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 438
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca079c8e7a4a81840800000000000000
+      internalID: 5195083211243876524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_13
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 438
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428326163e5924550800000000000000
+      internalID: 6143637645510719524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea3a6629e5b37b0800000000000000
+      internalID: -5243493358262571450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 365
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc92710097782e800800000000000000
+      internalID: 640223050802342347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 365
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fd92c3e550c7e00800000000000000
+      internalID: 1043715115937554188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_17
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 365
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f196db368c52384c0800000000000000
+      internalID: -4286540877729535713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 365
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c980da26f817520800000000000000
+      internalID: 2698095305744227428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 365
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f45289e79210790800000000000000
+      internalID: -7565720275310522575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 365
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca5c5f1f9df417f0800000000000000
+      internalID: -642609986939364669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 365
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f905f3df2fd8dd0800000000000000
+      internalID: -2482060650108379331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0eeb3f48e9d7030800000000000000
+      internalID: 3494123179771617465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 292
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66132cce477265820800000000000000
+      internalID: 2906553992656073062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3d541db59f007d0800000000000000
+      internalID: -2954087182806690828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 292
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d5b11118766bbc0800000000000000
+      internalID: -3767710234213393007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 292
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e383005b6f289d0800000000000000
+      internalID: -2773383163253604711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_27
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 292
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8452a5131756b6360800000000000000
+      internalID: 7163931169096607048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 292
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fa2e6981c69c2b0800000000000000
+      internalID: -5563797011773083826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_29
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 292
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4ff3f3ecba30d80800000000000000
+      internalID: -8285589987118811989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de068695c5306750800000000000000
+      internalID: 6296091401814150873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff and fire3_86x85_91x83_74x73_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 219
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66396a0b635d88b50800000000000000
+      internalID: 6595756085152748390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 79d8d30c069e2954285cb79b0e5cca28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      puff and fire3_86x85_91x83_74x73_0: 1495688813154820579
+      puff and fire3_86x85_91x83_74x73_1: 6800623563347796337
+      puff and fire3_86x85_91x83_74x73_10: 615852917954675029
+      puff and fire3_86x85_91x83_74x73_11: -8289785349492661885
+      puff and fire3_86x85_91x83_74x73_12: 5195083211243876524
+      puff and fire3_86x85_91x83_74x73_13: 6143637645510719524
+      puff and fire3_86x85_91x83_74x73_14: -5243493358262571450
+      puff and fire3_86x85_91x83_74x73_15: 640223050802342347
+      puff and fire3_86x85_91x83_74x73_16: 1043715115937554188
+      puff and fire3_86x85_91x83_74x73_17: -4286540877729535713
+      puff and fire3_86x85_91x83_74x73_18: 2698095305744227428
+      puff and fire3_86x85_91x83_74x73_19: -7565720275310522575
+      puff and fire3_86x85_91x83_74x73_2: -4794705267810954915
+      puff and fire3_86x85_91x83_74x73_20: -642609986939364669
+      puff and fire3_86x85_91x83_74x73_21: -2482060650108379331
+      puff and fire3_86x85_91x83_74x73_22: 3494123179771617465
+      puff and fire3_86x85_91x83_74x73_23: 2906553992656073062
+      puff and fire3_86x85_91x83_74x73_24: -2954087182806690828
+      puff and fire3_86x85_91x83_74x73_25: -3767710234213393007
+      puff and fire3_86x85_91x83_74x73_26: -2773383163253604711
+      puff and fire3_86x85_91x83_74x73_27: 7163931169096607048
+      puff and fire3_86x85_91x83_74x73_28: -5563797011773083826
+      puff and fire3_86x85_91x83_74x73_29: -8285589987118811989
+      puff and fire3_86x85_91x83_74x73_3: -7586795924118521233
+      puff and fire3_86x85_91x83_74x73_30: 6296091401814150873
+      puff and fire3_86x85_91x83_74x73_31: 6595756085152748390
+      puff and fire3_86x85_91x83_74x73_4: -1782225611093091820
+      puff and fire3_86x85_91x83_74x73_5: -2118961805872280245
+      puff and fire3_86x85_91x83_74x73_6: -133967418867264496
+      puff and fire3_86x85_91x83_74x73_7: 3425590534202642795
+      puff and fire3_86x85_91x83_74x73_8: -3769576801421994251
+      puff and fire3_86x85_91x83_74x73_9: 4673061983673598937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

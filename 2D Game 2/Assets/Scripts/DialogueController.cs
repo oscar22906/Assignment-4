@@ -12,7 +12,7 @@ public class DialogueController : MonoBehaviour
     private Coroutine clearCoroutine;
 
     // Call this function to display and type out text
-    public void DisplayText(string text)
+    public void DisplayText(string text, bool clearText)
     {
         if (typingCoroutine != null)
         {
@@ -20,7 +20,7 @@ public class DialogueController : MonoBehaviour
         }
 
         dialogueText.text = "";
-        typingCoroutine = StartCoroutine(TypeText(text));
+        typingCoroutine = StartCoroutine(TypeText(text, clearText));
         if (clearCoroutine != null)
         {
             StopCoroutine(clearCoroutine);
@@ -28,7 +28,7 @@ public class DialogueController : MonoBehaviour
     }
 
     // Coroutine to type out text
-    IEnumerator TypeText(string text)
+    IEnumerator TypeText(string text, bool clearText)
     {
         foreach (char character in text)
         {
@@ -37,7 +37,10 @@ public class DialogueController : MonoBehaviour
         }
 
         // Start the clear coroutine after typing finishes
-        clearCoroutine = StartCoroutine(ClearTextAfterDelay());
+        if (clearText)
+        {
+            clearCoroutine = StartCoroutine(ClearTextAfterDelay());
+        }
     }
 
     // Coroutine to clear text after a delay

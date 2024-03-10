@@ -7,6 +7,8 @@ public class PlayerHealth : MonoBehaviour
     public float maxHealth = 100f;
     public HealthSlider enemyHealthSlider;
     public EnemyHealth enemyHealthScript;
+
+    public HealthSlider playerHealthSlider;
     private float currentHealth;
 
     public int healthStage = 1;
@@ -18,6 +20,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Start()
     {
+        playerHealthSlider.SetMaxHealth(maxHealth);
         currentHealth = maxHealth;
         _animation = GetComponentInChildren<Animation>();
     }
@@ -28,11 +31,13 @@ public class PlayerHealth : MonoBehaviour
     }
 
 
-    public void TakeDamage(float damage)
+    public void TakeDamage(float damage) // take damage from the players health
     {
         Debug.Log("player took damage");
         currentHealth -= damage;
-        enemyHealthSlider.TakeDamage(damage);
+        playerHealthSlider.TakeDamage(damage);
+
+        DamageUpdate();
 
         // Check if the enemy's health has reached zero or below
         if (currentHealth <= 0)
@@ -45,14 +50,14 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    public void AttackAnim()
+    public void AttackAnim() // player fist attack anim
     {
         Debug.Log("Hit Animation");
         // _animation.Play("Punch15");
         _animation.Play("Punch" + Random.Range(1, _animation.GetClipCount()));
     }
 
-    public void DamageUpdate()
+    public void DamageUpdate() // update player health stage
     {
         float healthPercentage = (float)currentHealth / maxHealth;
 
@@ -70,7 +75,7 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    void PlayDamageEffect()
+    void PlayDamageEffect() // blood effect on hit
     {
         // Instantiate and play the damage particle effect
         if (damageEffectPrefab != null)
@@ -85,6 +90,6 @@ public class PlayerHealth : MonoBehaviour
     void Die()
     {
 
-        // Destroy the enemy GameObject
+        // Destroy GameObject
     }
 }

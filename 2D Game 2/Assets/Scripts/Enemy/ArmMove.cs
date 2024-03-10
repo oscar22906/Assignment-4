@@ -3,9 +3,6 @@ using UnityEngine;
 
 public class ArmMove : MonoBehaviour
 {
-    public Animation[] attacks; //Put attack animations here
-
-
     public bool circleMove = true;
     public float moveRadius = 1f;
     public float baseMoveSpeed = 180f; // Degrees per second

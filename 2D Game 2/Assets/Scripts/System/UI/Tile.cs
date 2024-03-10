@@ -129,4 +129,5 @@ public class Tile : MonoBehaviour
         Color originalColor = text.color;
         text.color = new Color(originalColor.r, originalColor.g, originalColor.b, 1.0f);
     }
+
 }

@@ -394,7 +394,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -497,23 +497,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 633962209}
   m_CullTransparentMesh: 1
---- !u!114 &633962213
-MonoBehaviour:
+--- !u!225 &633962213
+CanvasGroup:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 633962209}
   m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: daabafb5f3f2ade4e9c3880ebec2636e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  graphics:
-  - {fileID: 1891304716}
-  - {fileID: 1215252341}
-  - {fileID: 1518861675}
-  fadeInTime: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &1002927761
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,7 +654,6 @@ GameObject:
   - component: {fileID: 1164988140}
   - component: {fileID: 1164988139}
   - component: {fileID: 1164988138}
-  - component: {fileID: 1164988141}
   m_Layer: 5
   m_Name: Title
   m_TagString: Untagged
@@ -746,21 +740,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1164988136}
   m_CullTransparentMesh: 1
---- !u!114 &1164988141
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1164988136}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: daabafb5f3f2ade4e9c3880ebec2636e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  graphics:
-  - {fileID: 1164988139}
-  fadeInTime: 1
 --- !u!1 &1215252338
 GameObject:
   m_ObjectHideFlags: 0
@@ -1354,9 +1333,9 @@ GameObject:
   - component: {fileID: 1977861628}
   - component: {fileID: 1977861627}
   - component: {fileID: 1977861631}
+  - component: {fileID: 1977861634}
   - component: {fileID: 1977861633}
   - component: {fileID: 1977861632}
-  - component: {fileID: 1977861634}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1589,8 +1568,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06d9ddfea09d537439987bd10ad28012, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  title: {fileID: 1164988136}
-  buttonPanel: {fileID: 633962209}
+  titleGraphic: {fileID: 1164988139}
+  otherGraphicsToFadeIn:
+  - {fileID: 1891304716}
+  - {fileID: 1215252341}
+  - {fileID: 1518861675}
+  fadeInTime: 2
+  clickCount: 0
 --- !u!1 &2044735961
 GameObject:
   m_ObjectHideFlags: 0

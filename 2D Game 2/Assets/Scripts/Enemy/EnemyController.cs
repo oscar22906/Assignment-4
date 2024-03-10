@@ -4,6 +4,7 @@ using UnityEngine;
 public class EnemyController : MonoBehaviour
 {
     [Header("Move Settings")]
+    public bool doMove;
     public float minMoveDelay = 1f;
     public float maxMoveDelay = 3f;
     public float minMoveDistance = 0.5f;
@@ -17,6 +18,9 @@ public class EnemyController : MonoBehaviour
     public Vector3 rightSidePosition = new Vector3(2f, 0f, 0f);
 
     [Header("Attack")]
+    public bool doAttack;
+    public float minAttackDamage = 5f;
+    public float maxAttackDamage = 10f;
     public float minAttackDelay = 5f;
     public float maxAttackDelay = 10f;
     public int maxAttack = 1;
@@ -39,14 +43,24 @@ public class EnemyController : MonoBehaviour
 
     private RightArm rightArm;
     private EnemyHealth enemyHealth;
+    private PlayerHealth playerHealth;
 
     void Start()
     {
+        GameObject player = GameObject.FindGameObjectWithTag("Player");
+        if (player != null)
+        {
+            playerHealth = player.GetComponent<PlayerHealth>();
+        }
         enemyEffect = GetComponent<EnemyEffects>();
         rightArm = GetComponentInChildren<RightArm>();
         enemyHealth = GetComponent<EnemyHealth>();
+
         StartCoroutine(MoveCoroutine());
-        StartCoroutine(AttackWithDelay());
+        if (doAttack)
+        {
+            StartCoroutine(AttackWithDelay());
+        }
 
         attackCounter = 0;
     }
@@ -81,6 +95,16 @@ public class EnemyController : MonoBehaviour
         }
     }
 
+    public void DealDamage()
+    {
+        float damage = Random.Range(minAttackDamage, maxAttackDamage);
+        playerHealth.TakeDamage(damage);
+        Debug.Log("enemy dealt damage: " + damage);
+    }
+
+
+
+
 
     void Attack()
     {
@@ -111,7 +135,7 @@ public class EnemyController : MonoBehaviour
 
     IEnumerator MoveCoroutine()
     {
-        while (true)
+        while (doMove)
         {
             float currentMoveDelay = GetAdjustedMoveDelay();
             yield return new WaitForSeconds(currentMoveDelay);
