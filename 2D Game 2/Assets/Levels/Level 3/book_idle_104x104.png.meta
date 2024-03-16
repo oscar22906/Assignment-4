@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: bbf513573957ca6409d698605c186592
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8033327239696920412
+    second: book_idle_104x104_0
+  - first:
+      213: -3032396754597582508
+    second: book_idle_104x104_1
+  - first:
+      213: 77082312351489647
+    second: book_idle_104x104_2
+  - first:
+      213: 4871873722177545774
+    second: book_idle_104x104_3
+  - first:
+      213: 1571527658782390304
+    second: book_idle_104x104_4
+  - first:
+      213: -6472473143857981733
+    second: book_idle_104x104_5
+  - first:
+      213: 3368952721850456093
+    second: book_idle_104x104_6
+  - first:
+      213: -748197455132885153
+    second: book_idle_104x104_7
+  - first:
+      213: 5780081142205501850
+    second: book_idle_104x104_8
+  - first:
+      213: -3618159736328608999
+    second: book_idle_104x104_9
+  - first:
+      213: 5830217879973970322
+    second: book_idle_104x104_10
+  - first:
+      213: -3655280922088603206
+    second: book_idle_104x104_11
+  - first:
+      213: 3899468637098075906
+    second: book_idle_104x104_12
+  - first:
+      213: 9196543846696851933
+    second: book_idle_104x104_13
+  - first:
+      213: -3994741888330226327
+    second: book_idle_104x104_14
+  - first:
+      213: -3379435701916899691
+    second: book_idle_104x104_15
+  - first:
+      213: -4050713289941937206
+    second: book_idle_104x104_16
+  - first:
+      213: -3815744193004632736
+    second: book_idle_104x104_17
+  - first:
+      213: 9116937115645901554
+    second: book_idle_104x104_18
+  - first:
+      213: 4894366540760673170
+    second: book_idle_104x104_19
+  - first:
+      213: -5281803495459376258
+    second: book_idle_104x104_20
+  - first:
+      213: -163515994172678886
+    second: book_idle_104x104_21
+  - first:
+      213: 7099220195271654868
+    second: book_idle_104x104_22
+  - first:
+      213: -4205619084926697620
+    second: book_idle_104x104_23
+  - first:
+      213: -8338817673864489317
+    second: book_idle_104x104_24
+  - first:
+      213: 7822629816712120343
+    second: book_idle_104x104_25
+  - first:
+      213: 1411608457226089761
+    second: book_idle_104x104_26
+  - first:
+      213: 5970000185560508895
+    second: book_idle_104x104_27
+  - first:
+      213: 7286713583225076258
+    second: book_idle_104x104_28
+  - first:
+      213: 8108088395384744429
+    second: book_idle_104x104_29
+  - first:
+      213: 7385505777192723732
+    second: book_idle_104x104_30
+  - first:
+      213: -3212782586297048523
+    second: book_idle_104x104_31
+  - first:
+      213: -1225114813820048851
+    second: book_idle_104x104_32
+  - first:
+      213: 5672917896546519882
+    second: book_idle_104x104_33
+  - first:
+      213: -9186757847758045235
+    second: book_idle_104x104_34
+  - first:
+      213: 4822064918046554174
+    second: book_idle_104x104_35
+  - first:
+      213: 4670169968816198435
+    second: book_idle_104x104_36
+  - first:
+      213: -3374666680523428745
+    second: book_idle_104x104_37
+  - first:
+      213: 2966142831086509954
+    second: book_idle_104x104_38
+  - first:
+      213: -5412113386177044833
+    second: book_idle_104x104_39
+  - first:
+      213: 6853103352402376040
+    second: book_idle_104x104_40
+  - first:
+      213: 111285503271618044
+    second: book_idle_104x104_41
+  - first:
+      213: -4273202423447280948
+    second: book_idle_104x104_42
+  - first:
+      213: -1517511311652155750
+    second: book_idle_104x104_43
+  - first:
+      213: -7707035449912675308
+    second: book_idle_104x104_44
+  - first:
+      213: -8367429312064275201
+    second: book_idle_104x104_45
+  - first:
+      213: 1111224684051321681
+    second: book_idle_104x104_46
+  - first:
+      213: -323298793239540862
+    second: book_idle_104x104_47
+  - first:
+      213: 6238680996561820561
+    second: book_idle_104x104_48
+  - first:
+      213: -872266036039545481
+    second: book_idle_104x104_49
+  - first:
+      213: 7542546828960041802
+    second: book_idle_104x104_50
+  - first:
+      213: -2617851588235305482
+    second: book_idle_104x104_51
+  - first:
+      213: -8465566176337329917
+    second: book_idle_104x104_52
+  - first:
+      213: -2597375856966483073
+    second: book_idle_104x104_53
+  - first:
+      213: 1060146116018112729
+    second: book_idle_104x104_54
+  - first:
+      213: -2168751604772536407
+    second: book_idle_104x104_55
+  - first:
+      213: -5259440787291472598
+    second: book_idle_104x104_56
+  - first:
+      213: -5640683852720621617
+    second: book_idle_104x104_57
+  - first:
+      213: 2266623276992417008
+    second: book_idle_104x104_58
+  - first:
+      213: 681353235165392073
+    second: book_idle_104x104_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: book_idle_104x104_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5faa96ef8c1c7f60800000000000000
+      internalID: 8033327239696920412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459e920d733cae5d0800000000000000
+      internalID: -3032396754597582508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e1d2664f9d11100800000000000000
+      internalID: 77082312351489647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26e3f8865f5c9340800000000000000
+      internalID: 4871873722177545774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028fc6054103fc510800000000000000
+      internalID: 1571527658782390304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d612e7f72d26a0800000000000000
+      internalID: -6472473143857981733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d185bfaa6ace0ce20800000000000000
+      internalID: 3368952721850456093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff3f0f06edd95f0800000000000000
+      internalID: -748197455132885153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 624
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d716bc29f63050800000000000000
+      internalID: 5780081142205501850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913238fb3e6b9cdc0800000000000000
+      internalID: -3618159736328608999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291caf2a54819e050800000000000000
+      internalID: 5830217879973970322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab185ac2e55d54dc0800000000000000
+      internalID: -3655280922088603206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207e10fa012bd1630800000000000000
+      internalID: 3899468637098075906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd99ba737efa0af70800000000000000
+      internalID: 9196543846696851933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96524b8ea63df88c0800000000000000
+      internalID: -3994741888330226327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59668f55225d911d0800000000000000
+      internalID: -3379435701916899691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac39e0279b9f8c7c0800000000000000
+      internalID: -4050713289941937206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_17
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 520
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06503368fd0cb0bc0800000000000000
+      internalID: -3815744193004632736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faf5a9c00ed58e70800000000000000
+      internalID: 9116937115645901554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29be896ff684ce340800000000000000
+      internalID: 4894366540760673170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e733abf74b343b6b0800000000000000
+      internalID: -5281803495459376258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d1e34d1131bbdf0800000000000000
+      internalID: -163515994172678886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd3271872f758260800000000000000
+      internalID: 7099220195271654868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_23
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f375e79b3a2a5c0800000000000000
+      internalID: -4205619084926697620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_24
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96de8ea181964c80800000000000000
+      internalID: -8338817673864489317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718418a4f509f8c60800000000000000
+      internalID: 7822629816712120343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_26
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 416
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125f5eea96a079310800000000000000
+      internalID: 1411608457226089761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9a951d983b9d250800000000000000
+      internalID: 5970000185560508895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22af424b56b9f1560800000000000000
+      internalID: 7286713583225076258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ef56ef67b58070800000000000000
+      internalID: 8108088395384744429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415ea20df569e7660800000000000000
+      internalID: 7385505777192723732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53224338247e963d0800000000000000
+      internalID: -3212782586297048523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_32
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aef2951948ffee0800000000000000
+      internalID: -1225114813820048851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b8c9f35c04abe40800000000000000
+      internalID: 5672917896546519882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_34
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf79d63964128080800000000000000
+      internalID: -9186757847758045235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 312
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b90c9e7a6be240800000000000000
+      internalID: 4822064918046554174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3239cffc7d6cfc040800000000000000
+      internalID: 4670169968816198435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ced08a886ca21d0800000000000000
+      internalID: -3374666680523428745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f9bf7803bd92920800000000000000
+      internalID: 2966142831086509954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed7c4cc8f44e4b0800000000000000
+      internalID: -5412113386177044833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_40
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8657bf0903d1b1f50800000000000000
+      internalID: 6853103352402376040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_41
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5c72b539d5b8100800000000000000
+      internalID: 111285503271618044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc22619490982b4c0800000000000000
+      internalID: -4273202423447280948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e065e8087b0fae0800000000000000
+      internalID: -1517511311652155750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 208
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414bc98871c1b0590800000000000000
+      internalID: -7707035449912675308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcb73b8f5be0eb80800000000000000
+      internalID: -8367429312064275201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153568e66fcdb6f00800000000000000
+      internalID: 1111224684051321681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b05a0e579638bf0800000000000000
+      internalID: -323298793239540862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b1c0bff4f349650800000000000000
+      internalID: 6238680996561820561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d893469a615e3f0800000000000000
+      internalID: -872266036039545481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b89e9f0628ca860800000000000000
+      internalID: 7542546828960041802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdda88b9d58babd0800000000000000
+      internalID: -2617851588235305482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3010ad44a64448a80800000000000000
+      internalID: -8465566176337329917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 104
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7346596b6444fbd0800000000000000
+      internalID: -2597375856966483073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8054f864566be00800000000000000
+      internalID: 1060146116018112729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_55
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af797fe7eb07e1e0800000000000000
+      internalID: -2168751604772536407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d7a4c3876b207b0800000000000000
+      internalID: -5259440787291472598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_57
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc73e4cebe348b1b0800000000000000
+      internalID: -5640683852720621617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcc3c08cd9a47f10800000000000000
+      internalID: 2266623276992417008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_idle_104x104_59
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cca89c4827a47900800000000000000
+      internalID: 681353235165392073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 97f9efff27c22bd42b54c0476ba04b4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      book_idle_104x104_0: 8033327239696920412
+      book_idle_104x104_1: -3032396754597582508
+      book_idle_104x104_10: 5830217879973970322
+      book_idle_104x104_11: -3655280922088603206
+      book_idle_104x104_12: 3899468637098075906
+      book_idle_104x104_13: 9196543846696851933
+      book_idle_104x104_14: -3994741888330226327
+      book_idle_104x104_15: -3379435701916899691
+      book_idle_104x104_16: -4050713289941937206
+      book_idle_104x104_17: -3815744193004632736
+      book_idle_104x104_18: 9116937115645901554
+      book_idle_104x104_19: 4894366540760673170
+      book_idle_104x104_2: 77082312351489647
+      book_idle_104x104_20: -5281803495459376258
+      book_idle_104x104_21: -163515994172678886
+      book_idle_104x104_22: 7099220195271654868
+      book_idle_104x104_23: -4205619084926697620
+      book_idle_104x104_24: -8338817673864489317
+      book_idle_104x104_25: 7822629816712120343
+      book_idle_104x104_26: 1411608457226089761
+      book_idle_104x104_27: 5970000185560508895
+      book_idle_104x104_28: 7286713583225076258
+      book_idle_104x104_29: 8108088395384744429
+      book_idle_104x104_3: 4871873722177545774
+      book_idle_104x104_30: 7385505777192723732
+      book_idle_104x104_31: -3212782586297048523
+      book_idle_104x104_32: -1225114813820048851
+      book_idle_104x104_33: 5672917896546519882
+      book_idle_104x104_34: -9186757847758045235
+      book_idle_104x104_35: 4822064918046554174
+      book_idle_104x104_36: 4670169968816198435
+      book_idle_104x104_37: -3374666680523428745
+      book_idle_104x104_38: 2966142831086509954
+      book_idle_104x104_39: -5412113386177044833
+      book_idle_104x104_4: 1571527658782390304
+      book_idle_104x104_40: 6853103352402376040
+      book_idle_104x104_41: 111285503271618044
+      book_idle_104x104_42: -4273202423447280948
+      book_idle_104x104_43: -1517511311652155750
+      book_idle_104x104_44: -7707035449912675308
+      book_idle_104x104_45: -8367429312064275201
+      book_idle_104x104_46: 1111224684051321681
+      book_idle_104x104_47: -323298793239540862
+      book_idle_104x104_48: 6238680996561820561
+      book_idle_104x104_49: -872266036039545481
+      book_idle_104x104_5: -6472473143857981733
+      book_idle_104x104_50: 7542546828960041802
+      book_idle_104x104_51: -2617851588235305482
+      book_idle_104x104_52: -8465566176337329917
+      book_idle_104x104_53: -2597375856966483073
+      book_idle_104x104_54: 1060146116018112729
+      book_idle_104x104_55: -2168751604772536407
+      book_idle_104x104_56: -5259440787291472598
+      book_idle_104x104_57: -5640683852720621617
+      book_idle_104x104_58: 2266623276992417008
+      book_idle_104x104_59: 681353235165392073
+      book_idle_104x104_6: 3368952721850456093
+      book_idle_104x104_7: -748197455132885153
+      book_idle_104x104_8: 5780081142205501850
+      book_idle_104x104_9: -3618159736328608999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

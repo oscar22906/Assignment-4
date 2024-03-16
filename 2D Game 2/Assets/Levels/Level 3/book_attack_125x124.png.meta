@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: a062ba5a91779e74693241a721cb511f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2649472429539380970
+    second: book_attack_125x124_0
+  - first:
+      213: -9076371439972359887
+    second: book_attack_125x124_1
+  - first:
+      213: -1895357190536150354
+    second: book_attack_125x124_2
+  - first:
+      213: -2955973849367857681
+    second: book_attack_125x124_3
+  - first:
+      213: -1918377864635126485
+    second: book_attack_125x124_4
+  - first:
+      213: 8436263002838279630
+    second: book_attack_125x124_5
+  - first:
+      213: 1082021217735741663
+    second: book_attack_125x124_6
+  - first:
+      213: 5067623224308442101
+    second: book_attack_125x124_7
+  - first:
+      213: -6319820785351340699
+    second: book_attack_125x124_8
+  - first:
+      213: -7952552731064922506
+    second: book_attack_125x124_9
+  - first:
+      213: -4829392044505973243
+    second: book_attack_125x124_10
+  - first:
+      213: 3425940642311667142
+    second: book_attack_125x124_11
+  - first:
+      213: -3817378303666823956
+    second: book_attack_125x124_12
+  - first:
+      213: -8778820489146095527
+    second: book_attack_125x124_13
+  - first:
+      213: 5672408414066758824
+    second: book_attack_125x124_14
+  - first:
+      213: 1852755391781967318
+    second: book_attack_125x124_15
+  - first:
+      213: -3588221359914766115
+    second: book_attack_125x124_16
+  - first:
+      213: 5432287498163354846
+    second: book_attack_125x124_17
+  - first:
+      213: -6052092363801626944
+    second: book_attack_125x124_18
+  - first:
+      213: -249593259326576448
+    second: book_attack_125x124_19
+  - first:
+      213: 5502310460483083940
+    second: book_attack_125x124_20
+  - first:
+      213: -3334486373264067334
+    second: book_attack_125x124_21
+  - first:
+      213: 2879491152441581518
+    second: book_attack_125x124_22
+  - first:
+      213: -7568924240492880058
+    second: book_attack_125x124_23
+  - first:
+      213: 2280742323337822862
+    second: book_attack_125x124_24
+  - first:
+      213: -8619349350977891185
+    second: book_attack_125x124_25
+  - first:
+      213: -5353886588354699437
+    second: book_attack_125x124_26
+  - first:
+      213: 6552127063783296138
+    second: book_attack_125x124_27
+  - first:
+      213: 1067455352342832530
+    second: book_attack_125x124_28
+  - first:
+      213: -1185754294740425949
+    second: book_attack_125x124_29
+  - first:
+      213: -1740074960652474800
+    second: book_attack_125x124_30
+  - first:
+      213: 2062907948472154463
+    second: book_attack_125x124_31
+  - first:
+      213: 955553339400590021
+    second: book_attack_125x124_32
+  - first:
+      213: -629743512886628042
+    second: book_attack_125x124_33
+  - first:
+      213: 8805507750765190593
+    second: book_attack_125x124_34
+  - first:
+      213: 5722885909622399872
+    second: book_attack_125x124_35
+  - first:
+      213: -8440697593742291840
+    second: book_attack_125x124_36
+  - first:
+      213: -2210537528795794845
+    second: book_attack_125x124_37
+  - first:
+      213: -5553707469005598356
+    second: book_attack_125x124_38
+  - first:
+      213: 4925867658178855731
+    second: book_attack_125x124_39
+  - first:
+      213: -5973296929820786266
+    second: book_attack_125x124_40
+  - first:
+      213: 5810379410432014835
+    second: book_attack_125x124_41
+  - first:
+      213: -6003939038536582348
+    second: book_attack_125x124_42
+  - first:
+      213: -3283632563791952223
+    second: book_attack_125x124_43
+  - first:
+      213: 6311747219265926433
+    second: book_attack_125x124_44
+  - first:
+      213: 4498053453538998332
+    second: book_attack_125x124_45
+  - first:
+      213: -1282562375811020470
+    second: book_attack_125x124_46
+  - first:
+      213: 3627503779720696015
+    second: book_attack_125x124_47
+  - first:
+      213: 4101525978262042733
+    second: book_attack_125x124_48
+  - first:
+      213: 74350004634154804
+    second: book_attack_125x124_49
+  - first:
+      213: -7052777640479402821
+    second: book_attack_125x124_50
+  - first:
+      213: -9142973326782368191
+    second: book_attack_125x124_51
+  - first:
+      213: 2857984378497735027
+    second: book_attack_125x124_52
+  - first:
+      213: -1039649870327232622
+    second: book_attack_125x124_53
+  - first:
+      213: 4880460203074910721
+    second: book_attack_125x124_54
+  - first:
+      213: -5460339395850864991
+    second: book_attack_125x124_55
+  - first:
+      213: 7659560776452837373
+    second: book_attack_125x124_56
+  - first:
+      213: 1177512213127653402
+    second: book_attack_125x124_57
+  - first:
+      213: 8383517001240427056
+    second: book_attack_125x124_58
+  - first:
+      213: -7362564122516026853
+    second: book_attack_125x124_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: book_attack_125x124_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6113d13ecde2b3bd0800000000000000
+      internalID: -2649472429539380970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13162f693404a0280800000000000000
+      internalID: -9076371439972359887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea24c9f5da652b5e0800000000000000
+      internalID: -1895357190536150354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5b51702754af6d0800000000000000
+      internalID: -2955973849367857681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d63710f7d8065e0800000000000000
+      internalID: -1918377864635126485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec522fbf080a31570800000000000000
+      internalID: 8436263002838279630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd01392909c140f00800000000000000
+      internalID: 1082021217735741663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3ac6c1970d35640800000000000000
+      internalID: 5067623224308442101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 744
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dc005ca7c7b48a0800000000000000
+      internalID: -6319820785351340699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e005fec6bd2a190800000000000000
+      internalID: -7952552731064922506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ebf12d58d8afcb0800000000000000
+      internalID: -4829392044505973243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd7f8edcd26b8f20800000000000000
+      internalID: 3425940642311667142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecd7ac78a2f50bc0800000000000000
+      internalID: -3817378303666823956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958a68df64d5b2680800000000000000
+      internalID: -8778820489146095527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4d26d166178be40800000000000000
+      internalID: 5672408414066758824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d59ad6663f46b910800000000000000
+      internalID: 1852755391781967318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_16
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0bfc23fa3143ec0800000000000000
+      internalID: -3588221359914766115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 620
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc72d5b2bc536b40800000000000000
+      internalID: 5432287498163354846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6ffbb7f06a20ca0800000000000000
+      internalID: -6052092363801626944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8e187c044498cf0800000000000000
+      internalID: -249593259326576448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae920916322c5c40800000000000000
+      internalID: 5502310460483083940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4f6357f4689b1d0800000000000000
+      internalID: -3334486373264067334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf192b62f106f720800000000000000
+      internalID: 2879491152441581518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_23
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f14915187c5f690800000000000000
+      internalID: -7568924240492880058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8200c62f03d6af10800000000000000
+      internalID: 2280742323337822862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_25
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8418fbbe6be16880800000000000000
+      internalID: -8619349350977891185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 496
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fd365938c23b5b0800000000000000
+      internalID: -5353886588354699437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cc60099d4ddea50800000000000000
+      internalID: 6552127063783296138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_28
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295ebf1ccfc50de00800000000000000
+      internalID: 1067455352342832530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3236a1750ca5b8fe0800000000000000
+      internalID: -1185754294740425949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056e1c7ea030ad7e0800000000000000
+      internalID: -1740074960652474800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59330179dbe0ac10800000000000000
+      internalID: 2062907948472154463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_32
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c219ee03bec24d00800000000000000
+      internalID: 955553339400590021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63139ce8c93b247f0800000000000000
+      internalID: -629743512886628042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_34
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdde4f45a2733a70800000000000000
+      internalID: 8805507750765190593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 372
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083a125e966cb6f40800000000000000
+      internalID: 5722885909622399872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c0f7c524e9cda80800000000000000
+      internalID: -8440697593742291840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362f47954d79251e0800000000000000
+      internalID: -2210537528795794845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61dc735b744de2b0800000000000000
+      internalID: -5553707469005598356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_39
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333065869823c5440800000000000000
+      internalID: 4925867658178855731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_40
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c91817169a1da0800000000000000
+      internalID: -5973296929820786266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_41
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f93b010a4d92a050800000000000000
+      internalID: 5810379410432014835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b3de23149bdaca0800000000000000
+      internalID: -6003939038536582348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_43
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a68646a4913e62d0800000000000000
+      internalID: -3283632563791952223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_44
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 248
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125b764a7a4d79750800000000000000
+      internalID: 6311747219265926433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3839e6c8cb4c6e30800000000000000
+      internalID: 4498053453538998332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49c083805c633ee0800000000000000
+      internalID: -1282562375811020470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc093a3e77b775230800000000000000
+      internalID: 3627503779720696015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_48
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68785b752c8be830800000000000000
+      internalID: 4101525978262042733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437744f6fe4280100800000000000000
+      internalID: 74350004634154804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_50
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4586b6a108f1e90800000000000000
+      internalID: -7052777640479402821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_51
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146f34a6332ad1180800000000000000
+      internalID: -9142973326782368191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_52
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37919f566a999a720800000000000000
+      internalID: 2857984378497735027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_53
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 124
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2974d5483fb6291f0800000000000000
+      internalID: -1039649870327232622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10af5b862b0eab340800000000000000
+      internalID: 4880460203074910721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_55
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6fc35ef3af834b0800000000000000
+      internalID: -5460339395850864991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff8cffa1f93c4a60800000000000000
+      internalID: 7659560776452837373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_57
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18682e7e1d575010800000000000000
+      internalID: 1177512213127653402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_58
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a326b7b4c385470800000000000000
+      internalID: 8383517001240427056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: book_attack_125x124_59
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a856960fae2d990800000000000000
+      internalID: -7362564122516026853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 081c1ca1049695f45990644ef87be74e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      book_attack_125x124_0: -2649472429539380970
+      book_attack_125x124_1: -9076371439972359887
+      book_attack_125x124_10: -4829392044505973243
+      book_attack_125x124_11: 3425940642311667142
+      book_attack_125x124_12: -3817378303666823956
+      book_attack_125x124_13: -8778820489146095527
+      book_attack_125x124_14: 5672408414066758824
+      book_attack_125x124_15: 1852755391781967318
+      book_attack_125x124_16: -3588221359914766115
+      book_attack_125x124_17: 5432287498163354846
+      book_attack_125x124_18: -6052092363801626944
+      book_attack_125x124_19: -249593259326576448
+      book_attack_125x124_2: -1895357190536150354
+      book_attack_125x124_20: 5502310460483083940
+      book_attack_125x124_21: -3334486373264067334
+      book_attack_125x124_22: 2879491152441581518
+      book_attack_125x124_23: -7568924240492880058
+      book_attack_125x124_24: 2280742323337822862
+      book_attack_125x124_25: -8619349350977891185
+      book_attack_125x124_26: -5353886588354699437
+      book_attack_125x124_27: 6552127063783296138
+      book_attack_125x124_28: 1067455352342832530
+      book_attack_125x124_29: -1185754294740425949
+      book_attack_125x124_3: -2955973849367857681
+      book_attack_125x124_30: -1740074960652474800
+      book_attack_125x124_31: 2062907948472154463
+      book_attack_125x124_32: 955553339400590021
+      book_attack_125x124_33: -629743512886628042
+      book_attack_125x124_34: 8805507750765190593
+      book_attack_125x124_35: 5722885909622399872
+      book_attack_125x124_36: -8440697593742291840
+      book_attack_125x124_37: -2210537528795794845
+      book_attack_125x124_38: -5553707469005598356
+      book_attack_125x124_39: 4925867658178855731
+      book_attack_125x124_4: -1918377864635126485
+      book_attack_125x124_40: -5973296929820786266
+      book_attack_125x124_41: 5810379410432014835
+      book_attack_125x124_42: -6003939038536582348
+      book_attack_125x124_43: -3283632563791952223
+      book_attack_125x124_44: 6311747219265926433
+      book_attack_125x124_45: 4498053453538998332
+      book_attack_125x124_46: -1282562375811020470
+      book_attack_125x124_47: 3627503779720696015
+      book_attack_125x124_48: 4101525978262042733
+      book_attack_125x124_49: 74350004634154804
+      book_attack_125x124_5: 8436263002838279630
+      book_attack_125x124_50: -7052777640479402821
+      book_attack_125x124_51: -9142973326782368191
+      book_attack_125x124_52: 2857984378497735027
+      book_attack_125x124_53: -1039649870327232622
+      book_attack_125x124_54: 4880460203074910721
+      book_attack_125x124_55: -5460339395850864991
+      book_attack_125x124_56: 7659560776452837373
+      book_attack_125x124_57: 1177512213127653402
+      book_attack_125x124_58: 8383517001240427056
+      book_attack_125x124_59: -7362564122516026853
+      book_attack_125x124_6: 1082021217735741663
+      book_attack_125x124_7: 5067623224308442101
+      book_attack_125x124_8: -6319820785351340699
+      book_attack_125x124_9: -7952552731064922506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

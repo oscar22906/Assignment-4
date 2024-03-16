@@ -1,0 +1,2863 @@
+fileFormatVersion: 2
+guid: 0d8c6d5d4091c6542974d56ee7f148b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4547463644240118828
+    second: touchend_254x139_0
+  - first:
+      213: 8827598431995534741
+    second: touchend_254x139_1
+  - first:
+      213: -334695777807821229
+    second: touchend_254x139_2
+  - first:
+      213: 7425529075612209541
+    second: touchend_254x139_3
+  - first:
+      213: -5907868644960669265
+    second: touchend_254x139_4
+  - first:
+      213: -5735249017694892573
+    second: touchend_254x139_5
+  - first:
+      213: 3245432740890035618
+    second: touchend_254x139_6
+  - first:
+      213: -274592214073228187
+    second: touchend_254x139_7
+  - first:
+      213: -2487849856732650719
+    second: touchend_254x139_8
+  - first:
+      213: -8083727817251695035
+    second: touchend_254x139_9
+  - first:
+      213: 216090083240669798
+    second: touchend_254x139_10
+  - first:
+      213: -5208624395161149132
+    second: touchend_254x139_11
+  - first:
+      213: -5192057590810091320
+    second: touchend_254x139_12
+  - first:
+      213: -1239880543164314011
+    second: touchend_254x139_13
+  - first:
+      213: 5395541593972359918
+    second: touchend_254x139_14
+  - first:
+      213: 3693391861008154655
+    second: touchend_254x139_15
+  - first:
+      213: 1401709354610188362
+    second: touchend_254x139_16
+  - first:
+      213: -4585997681328448291
+    second: touchend_254x139_17
+  - first:
+      213: 5878069049362226362
+    second: touchend_254x139_18
+  - first:
+      213: -6436313154369929466
+    second: touchend_254x139_19
+  - first:
+      213: -3688163684342390506
+    second: touchend_254x139_20
+  - first:
+      213: 1640238301791751162
+    second: touchend_254x139_21
+  - first:
+      213: 5210538967277952306
+    second: touchend_254x139_22
+  - first:
+      213: 2246259312386421026
+    second: touchend_254x139_23
+  - first:
+      213: 6672300111758616092
+    second: touchend_254x139_24
+  - first:
+      213: -4040975099864637165
+    second: touchend_254x139_25
+  - first:
+      213: -7975648331200945033
+    second: touchend_254x139_26
+  - first:
+      213: 7482064893655054623
+    second: touchend_254x139_27
+  - first:
+      213: -9176083667855820013
+    second: touchend_254x139_28
+  - first:
+      213: -6120889857537985443
+    second: touchend_254x139_29
+  - first:
+      213: 7961604252210234668
+    second: touchend_254x139_30
+  - first:
+      213: 4620278026562226807
+    second: touchend_254x139_31
+  - first:
+      213: -4673844176928087949
+    second: touchend_254x139_32
+  - first:
+      213: 807782516925207992
+    second: touchend_254x139_33
+  - first:
+      213: -9046820462992221064
+    second: touchend_254x139_34
+  - first:
+      213: 2079311015888093767
+    second: touchend_254x139_35
+  - first:
+      213: 6746128922628240208
+    second: touchend_254x139_36
+  - first:
+      213: -3964482317040042251
+    second: touchend_254x139_37
+  - first:
+      213: 6261295760906251541
+    second: touchend_254x139_38
+  - first:
+      213: 818196301356019956
+    second: touchend_254x139_39
+  - first:
+      213: -6302533480598999248
+    second: touchend_254x139_40
+  - first:
+      213: 2996437312420032922
+    second: touchend_254x139_41
+  - first:
+      213: -5377812258720172122
+    second: touchend_254x139_42
+  - first:
+      213: -7614573737492423915
+    second: touchend_254x139_43
+  - first:
+      213: -6495559878578970075
+    second: touchend_254x139_44
+  - first:
+      213: -4120656279373691175
+    second: touchend_254x139_45
+  - first:
+      213: 8249979269646753299
+    second: touchend_254x139_46
+  - first:
+      213: -1529899782361856042
+    second: touchend_254x139_47
+  - first:
+      213: -2858868583744864751
+    second: touchend_254x139_48
+  - first:
+      213: -1053204806647736079
+    second: touchend_254x139_49
+  - first:
+      213: 849363781426133886
+    second: touchend_254x139_50
+  - first:
+      213: -9096113428331718922
+    second: touchend_254x139_51
+  - first:
+      213: 5290397499564452928
+    second: touchend_254x139_52
+  - first:
+      213: 8124334471501020510
+    second: touchend_254x139_53
+  - first:
+      213: -5739819866779119659
+    second: touchend_254x139_54
+  - first:
+      213: -5500302531710138883
+    second: touchend_254x139_55
+  - first:
+      213: -45832527526383159
+    second: touchend_254x139_56
+  - first:
+      213: 139849331494873901
+    second: touchend_254x139_57
+  - first:
+      213: -4339675242282280244
+    second: touchend_254x139_58
+  - first:
+      213: 7893844547717320397
+    second: touchend_254x139_59
+  - first:
+      213: -5070873251837265298
+    second: touchend_254x139_60
+  - first:
+      213: 6987057835518624874
+    second: touchend_254x139_61
+  - first:
+      213: -2138368479728835686
+    second: touchend_254x139_62
+  - first:
+      213: -343365658895766007
+    second: touchend_254x139_63
+  - first:
+      213: 9133467159181615426
+    second: touchend_254x139_64
+  - first:
+      213: 3407661196486100247
+    second: touchend_254x139_65
+  - first:
+      213: 6665456243119403501
+    second: touchend_254x139_66
+  - first:
+      213: -5583090801718553809
+    second: touchend_254x139_67
+  - first:
+      213: 6134184494663628701
+    second: touchend_254x139_68
+  - first:
+      213: -2880519002304267798
+    second: touchend_254x139_69
+  - first:
+      213: 2683843636221657377
+    second: touchend_254x139_70
+  - first:
+      213: 8744328937004050889
+    second: touchend_254x139_71
+  - first:
+      213: -7701580302908447055
+    second: touchend_254x139_72
+  - first:
+      213: 3404322053207011899
+    second: touchend_254x139_73
+  - first:
+      213: -1111669759971646359
+    second: touchend_254x139_74
+  - first:
+      213: -6786461347641371009
+    second: touchend_254x139_75
+  - first:
+      213: -5259500457406318034
+    second: touchend_254x139_76
+  - first:
+      213: -7819781433135888413
+    second: touchend_254x139_77
+  - first:
+      213: 31138689435333341
+    second: touchend_254x139_78
+  - first:
+      213: 7513748734766954930
+    second: touchend_254x139_79
+  - first:
+      213: 2383647036105410796
+    second: touchend_254x139_80
+  - first:
+      213: -8308934269619326706
+    second: touchend_254x139_81
+  - first:
+      213: -6113976864926983991
+    second: touchend_254x139_82
+  - first:
+      213: -7250698469468372746
+    second: touchend_254x139_83
+  - first:
+      213: -3626976695747053273
+    second: touchend_254x139_84
+  - first:
+      213: 2071382509979688361
+    second: touchend_254x139_85
+  - first:
+      213: 8556232890976398150
+    second: touchend_254x139_86
+  - first:
+      213: -1981776692696594036
+    second: touchend_254x139_87
+  - first:
+      213: -3583932889969473866
+    second: touchend_254x139_88
+  - first:
+      213: 5950661303725537807
+    second: touchend_254x139_89
+  - first:
+      213: -5362274269162556851
+    second: touchend_254x139_90
+  - first:
+      213: 7390344940879820964
+    second: touchend_254x139_91
+  - first:
+      213: -799798758716598745
+    second: touchend_254x139_92
+  - first:
+      213: -3662405342535203255
+    second: touchend_254x139_93
+  - first:
+      213: 4649956053971760594
+    second: touchend_254x139_94
+  - first:
+      213: -5776180523654036473
+    second: touchend_254x139_95
+  - first:
+      213: -5281440493589541172
+    second: touchend_254x139_96
+  - first:
+      213: -8934886912120116664
+    second: touchend_254x139_97
+  - first:
+      213: -6933649273975951435
+    second: touchend_254x139_98
+  - first:
+      213: 487104176060229637
+    second: touchend_254x139_99
+  - first:
+      213: 5401382637195305672
+    second: touchend_254x139_100
+  - first:
+      213: -524622276145540244
+    second: touchend_254x139_101
+  - first:
+      213: 8084113912251260395
+    second: touchend_254x139_102
+  - first:
+      213: -1770993430412751629
+    second: touchend_254x139_103
+  - first:
+      213: -5953145475409178286
+    second: touchend_254x139_104
+  - first:
+      213: -7544082737703307511
+    second: touchend_254x139_105
+  - first:
+      213: -555362124298704613
+    second: touchend_254x139_106
+  - first:
+      213: -1885719549599245031
+    second: touchend_254x139_107
+  - first:
+      213: 4074880468966994749
+    second: touchend_254x139_108
+  - first:
+      213: 2772263919936060977
+    second: touchend_254x139_109
+  - first:
+      213: -5925685086289945102
+    second: touchend_254x139_110
+  - first:
+      213: 2864779912468335565
+    second: touchend_254x139_111
+  - first:
+      213: 1828378118932126976
+    second: touchend_254x139_112
+  - first:
+      213: 5176177029810725974
+    second: touchend_254x139_113
+  - first:
+      213: -1193247062601439661
+    second: touchend_254x139_114
+  - first:
+      213: -616849932336391336
+    second: touchend_254x139_115
+  - first:
+      213: -1796478746337912683
+    second: touchend_254x139_116
+  - first:
+      213: -4205698247464060362
+    second: touchend_254x139_117
+  - first:
+      213: 1754006544760015157
+    second: touchend_254x139_118
+  - first:
+      213: 3034034055966030477
+    second: touchend_254x139_119
+  - first:
+      213: -9068650423674988864
+    second: touchend_254x139_120
+  - first:
+      213: -6476294482361886152
+    second: touchend_254x139_121
+  - first:
+      213: 6933537691676351313
+    second: touchend_254x139_122
+  - first:
+      213: 9035859624514497715
+    second: touchend_254x139_123
+  - first:
+      213: -887902734722216810
+    second: touchend_254x139_124
+  - first:
+      213: 5447036663969680707
+    second: touchend_254x139_125
+  - first:
+      213: 415926658862294361
+    second: touchend_254x139_126
+  - first:
+      213: 8016539762991648875
+    second: touchend_254x139_127
+  - first:
+      213: 1449110019196717484
+    second: touchend_254x139_128
+  - first:
+      213: -8727180183724464506
+    second: touchend_254x139_129
+  - first:
+      213: 4366131476119654563
+    second: touchend_254x139_130
+  - first:
+      213: 1710926140268863535
+    second: touchend_254x139_131
+  - first:
+      213: 3006406897616888336
+    second: touchend_254x139_132
+  - first:
+      213: -9065410467973991713
+    second: touchend_254x139_133
+  - first:
+      213: 8696347028471230888
+    second: touchend_254x139_134
+  - first:
+      213: -3657108957902517216
+    second: touchend_254x139_135
+  - first:
+      213: -2344436166216234947
+    second: touchend_254x139_136
+  - first:
+      213: 7481923010446516359
+    second: touchend_254x139_137
+  - first:
+      213: -7006782167752767413
+    second: touchend_254x139_138
+  - first:
+      213: -3958650094186994137
+    second: touchend_254x139_139
+  - first:
+      213: -9134546359754995154
+    second: touchend_254x139_140
+  - first:
+      213: -6907433306636483725
+    second: touchend_254x139_141
+  - first:
+      213: -8325000170438687839
+    second: touchend_254x139_142
+  - first:
+      213: 8411856799698738839
+    second: touchend_254x139_143
+  - first:
+      213: 6417123153181716287
+    second: touchend_254x139_144
+  - first:
+      213: 8889726929485990945
+    second: touchend_254x139_145
+  - first:
+      213: 2470962064995357704
+    second: touchend_254x139_146
+  - first:
+      213: -8565906601782120335
+    second: touchend_254x139_147
+  - first:
+      213: 7144785956486926758
+    second: touchend_254x139_148
+  - first:
+      213: -1888027074284757768
+    second: touchend_254x139_149
+  - first:
+      213: -7052144160818944815
+    second: touchend_254x139_150
+  - first:
+      213: -6425160538134512096
+    second: touchend_254x139_151
+  - first:
+      213: 5328036046246885681
+    second: touchend_254x139_152
+  - first:
+      213: -3474072736602067151
+    second: touchend_254x139_153
+  - first:
+      213: -1556979081797740095
+    second: touchend_254x139_154
+  - first:
+      213: 6948244443803156163
+    second: touchend_254x139_155
+  - first:
+      213: -3905272188655077212
+    second: touchend_254x139_156
+  - first:
+      213: -7555188502225926073
+    second: touchend_254x139_157
+  - first:
+      213: 9203667723159280605
+    second: touchend_254x139_158
+  - first:
+      213: -5914081772702522952
+    second: touchend_254x139_159
+  - first:
+      213: 7162217423962991142
+    second: touchend_254x139_160
+  - first:
+      213: 8809718539888568527
+    second: touchend_254x139_161
+  - first:
+      213: -8170963591554668542
+    second: touchend_254x139_162
+  - first:
+      213: 9128148843312667669
+    second: touchend_254x139_163
+  - first:
+      213: 819915223237253819
+    second: touchend_254x139_164
+  - first:
+      213: -2637955462061532792
+    second: touchend_254x139_165
+  - first:
+      213: -1751495252162601370
+    second: touchend_254x139_166
+  - first:
+      213: 4491931784723703366
+    second: touchend_254x139_167
+  - first:
+      213: -68323249354081105
+    second: touchend_254x139_168
+  - first:
+      213: 6429954250518231750
+    second: touchend_254x139_169
+  - first:
+      213: -7727970957977534288
+    second: touchend_254x139_170
+  - first:
+      213: -4406113060061247119
+    second: touchend_254x139_171
+  - first:
+      213: -2955496032127504407
+    second: touchend_254x139_172
+  - first:
+      213: -4560454916991266138
+    second: touchend_254x139_173
+  - first:
+      213: -5700473585753061039
+    second: touchend_254x139_174
+  - first:
+      213: -7716012545774132869
+    second: touchend_254x139_175
+  - first:
+      213: 8206778713132051186
+    second: touchend_254x139_176
+  - first:
+      213: -4907807178600415417
+    second: touchend_254x139_177
+  - first:
+      213: -6717779854301083758
+    second: touchend_254x139_178
+  - first:
+      213: -2052713952104181445
+    second: touchend_254x139_179
+  - first:
+      213: 5688260827342047546
+    second: touchend_254x139_180
+  - first:
+      213: -8888137663774289514
+    second: touchend_254x139_181
+  - first:
+      213: 3544654167954339760
+    second: touchend_254x139_182
+  - first:
+      213: -5054280043447969378
+    second: touchend_254x139_183
+  - first:
+      213: 4191708142467598247
+    second: touchend_254x139_184
+  - first:
+      213: 6109429802889094514
+    second: touchend_254x139_185
+  - first:
+      213: -6998129256865628768
+    second: touchend_254x139_186
+  - first:
+      213: 9056781790511761240
+    second: touchend_254x139_187
+  - first:
+      213: 8042799789524685920
+    second: touchend_254x139_188
+  - first:
+      213: -6170320097602940906
+    second: touchend_254x139_189
+  - first:
+      213: -7864393038842020682
+    second: touchend_254x139_190
+  - first:
+      213: -9054127912053106301
+    second: touchend_254x139_191
+  - first:
+      213: 5315688245711886922
+    second: touchend_254x139_192
+  - first:
+      213: -5901594950217701648
+    second: touchend_254x139_193
+  - first:
+      213: -7870805882788151371
+    second: touchend_254x139_194
+  - first:
+      213: 1746899048020858802
+    second: touchend_254x139_195
+  - first:
+      213: -4797283259680528240
+    second: touchend_254x139_196
+  - first:
+      213: -6578189112964375467
+    second: touchend_254x139_197
+  - first:
+      213: 1359696538452309141
+    second: touchend_254x139_198
+  - first:
+      213: 4033357737574314674
+    second: touchend_254x139_199
+  - first:
+      213: -3932222947004630616
+    second: touchend_254x139_200
+  - first:
+      213: -1675159833633357417
+    second: touchend_254x139_201
+  - first:
+      213: 8281153088982928567
+    second: touchend_254x139_202
+  - first:
+      213: -2633851169076132506
+    second: touchend_254x139_203
+  - first:
+      213: -6243858464016853408
+    second: touchend_254x139_204
+  - first:
+      213: -1670649658214866535
+    second: touchend_254x139_205
+  - first:
+      213: -6441904981116729974
+    second: touchend_254x139_206
+  - first:
+      213: -8881006355356136079
+    second: touchend_254x139_207
+  - first:
+      213: -3960314223274280605
+    second: touchend_254x139_208
+  - first:
+      213: 4235418413134177138
+    second: touchend_254x139_209
+  - first:
+      213: 8729774192231929753
+    second: touchend_254x139_210
+  - first:
+      213: -1132722356241310403
+    second: touchend_254x139_211
+  - first:
+      213: -5886901315964495787
+    second: touchend_254x139_212
+  - first:
+      213: 4375607253883858820
+    second: touchend_254x139_213
+  - first:
+      213: -3014660898835269508
+    second: touchend_254x139_214
+  - first:
+      213: -8393380187467486458
+    second: touchend_254x139_215
+  - first:
+      213: 2683329587140893542
+    second: touchend_254x139_216
+  - first:
+      213: 2414427990976969658
+    second: touchend_254x139_217
+  - first:
+      213: 6935499797130858206
+    second: touchend_254x139_218
+  - first:
+      213: 212406366526465888
+    second: touchend_254x139_219
+  - first:
+      213: -4950731737895884726
+    second: touchend_254x139_220
+  - first:
+      213: -1544215780237500445
+    second: touchend_254x139_221
+  - first:
+      213: -426763786923885132
+    second: touchend_254x139_222
+  - first:
+      213: -4367671212224824574
+    second: touchend_254x139_223
+  - first:
+      213: 387174185126004299
+    second: touchend_254x139_224
+  - first:
+      213: 2160191439549424029
+    second: touchend_254x139_225
+  - first:
+      213: -9129507509686751392
+    second: touchend_254x139_226
+  - first:
+      213: -4483017171059494793
+    second: touchend_254x139_227
+  - first:
+      213: 3714327387489156893
+    second: touchend_254x139_228
+  - first:
+      213: -849801650103002774
+    second: touchend_254x139_229
+  - first:
+      213: 2630073278280531034
+    second: touchend_254x139_230
+  - first:
+      213: 7459964371250861788
+    second: touchend_254x139_231
+  - first:
+      213: -414054756857521308
+    second: touchend_254x139_232
+  - first:
+      213: 8853927339707034136
+    second: touchend_254x139_233
+  - first:
+      213: 6623612625658858729
+    second: touchend_254x139_234
+  - first:
+      213: -1932255071421581679
+    second: touchend_254x139_235
+  - first:
+      213: 8433356599425849056
+    second: touchend_254x139_236
+  - first:
+      213: -3734387134724995769
+    second: touchend_254x139_237
+  - first:
+      213: -6036405253897724519
+    second: touchend_254x139_238
+  - first:
+      213: 3930138169236859464
+    second: touchend_254x139_239
+  - first:
+      213: 316840222866399337
+    second: touchend_254x139_240
+  - first:
+      213: -8828516790952588168
+    second: touchend_254x139_241
+  - first:
+      213: 1773322488792962537
+    second: touchend_254x139_242
+  - first:
+      213: 7620442505964675719
+    second: touchend_254x139_243
+  - first:
+      213: 3506807788711388081
+    second: touchend_254x139_244
+  - first:
+      213: 2852290827313456679
+    second: touchend_254x139_245
+  - first:
+      213: 8325603934410540173
+    second: touchend_254x139_246
+  - first:
+      213: -5822587388528958661
+    second: touchend_254x139_247
+  - first:
+      213: -2692232003458402018
+    second: touchend_254x139_248
+  - first:
+      213: -1138098658293820139
+    second: touchend_254x139_249
+  - first:
+      213: 344567211113658066
+    second: touchend_254x139_250
+  - first:
+      213: -7970799161850340622
+    second: touchend_254x139_251
+  - first:
+      213: -7414753357615278531
+    second: touchend_254x139_252
+  - first:
+      213: 1745067334377502776
+    second: touchend_254x139_253
+  - first:
+      213: 3233505108109990418
+    second: touchend_254x139_254
+  - first:
+      213: -4421546254186368735
+    second: touchend_254x139_255
+  - first:
+      213: -5078095419590590174
+    second: touchend_254x139_256
+  - first:
+      213: 7753690418184803181
+    second: touchend_254x139_257
+  - first:
+      213: -6798584358111822764
+    second: touchend_254x139_258
+  - first:
+      213: -7379643198581311110
+    second: touchend_254x139_259
+  - first:
+      213: 4613688447371523763
+    second: touchend_254x139_260
+  - first:
+      213: 7674805596171899240
+    second: touchend_254x139_261
+  - first:
+      213: -6004421972928917015
+    second: touchend_254x139_262
+  - first:
+      213: -3988512697714181581
+    second: touchend_254x139_263
+  - first:
+      213: -1779374354135598972
+    second: touchend_254x139_264
+  - first:
+      213: -77669663710932588
+    second: touchend_254x139_265
+  - first:
+      213: -2498484330247799122
+    second: touchend_254x139_266
+  - first:
+      213: -2913771505947145435
+    second: touchend_254x139_267
+  - first:
+      213: 2144785657817112790
+    second: touchend_254x139_268
+  - first:
+      213: -2174183112143358330
+    second: touchend_254x139_269
+  - first:
+      213: -6711365605617905729
+    second: touchend_254x139_270
+  - first:
+      213: 7871657099226065541
+    second: touchend_254x139_271
+  - first:
+      213: 5047417291500540045
+    second: touchend_254x139_272
+  - first:
+      213: -5765644171553707247
+    second: touchend_254x139_273
+  - first:
+      213: -2395839849828020415
+    second: touchend_254x139_274
+  - first:
+      213: 6656051456511318885
+    second: touchend_254x139_275
+  - first:
+      213: 1890203006248738836
+    second: touchend_254x139_276
+  - first:
+      213: -6325496120785404686
+    second: touchend_254x139_277
+  - first:
+      213: 7902142488758642665
+    second: touchend_254x139_278
+  - first:
+      213: 4544985604312437571
+    second: touchend_254x139_279
+  - first:
+      213: -5883456953904308569
+    second: touchend_254x139_280
+  - first:
+      213: -5247438675010779813
+    second: touchend_254x139_281
+  - first:
+      213: 5038017482935721687
+    second: touchend_254x139_282
+  - first:
+      213: -224280802511131191
+    second: touchend_254x139_283
+  - first:
+      213: -547302429720026145
+    second: touchend_254x139_284
+  - first:
+      213: -4438760351186390691
+    second: touchend_254x139_285
+  - first:
+      213: -2280997676723305656
+    second: touchend_254x139_286
+  - first:
+      213: 6957639956175313559
+    second: touchend_254x139_287
+  - first:
+      213: 1649599763152131877
+    second: touchend_254x139_288
+  - first:
+      213: -55960271015083403
+    second: touchend_254x139_289
+  - first:
+      213: 6938256477105777738
+    second: touchend_254x139_290
+  - first:
+      213: 6791937473939270708
+    second: touchend_254x139_291
+  - first:
+      213: -5697635830007725543
+    second: touchend_254x139_292
+  - first:
+      213: 8315000178071491866
+    second: touchend_254x139_293
+  - first:
+      213: 4586034186622878226
+    second: touchend_254x139_294
+  - first:
+      213: 3280833554253379742
+    second: touchend_254x139_295
+  - first:
+      213: 638258265362077298
+    second: touchend_254x139_296
+  - first:
+      213: 8991852697612837846
+    second: touchend_254x139_297
+  - first:
+      213: -4871100314427634554
+    second: touchend_254x139_298
+  - first:
+      213: 449806595967712241
+    second: touchend_254x139_299
+  - first:
+      213: 405438505020081618
+    second: touchend_254x139_300
+  - first:
+      213: 5864658332569307587
+    second: touchend_254x139_301
+  - first:
+      213: 6247444545072988401
+    second: touchend_254x139_302
+  - first:
+      213: -7735208029750895585
+    second: touchend_254x139_303
+  - first:
+      213: -7033454273404289560
+    second: touchend_254x139_304
+  - first:
+      213: -339147617097008736
+    second: touchend_254x139_305
+  - first:
+      213: -7057570990146248743
+    second: touchend_254x139_306
+  - first:
+      213: 8009026616462539303
+    second: touchend_254x139_307
+  - first:
+      213: 1984365842087616034
+    second: touchend_254x139_308
+  - first:
+      213: 6332926198077150470
+    second: touchend_254x139_309
+  - first:
+      213: -6244467091878308564
+    second: touchend_254x139_310
+  - first:
+      213: 886328113759205525
+    second: touchend_254x139_311
+  - first:
+      213: -3421925428831942450
+    second: touchend_254x139_312
+  - first:
+      213: 8249826246843730010
+    second: touchend_254x139_313
+  - first:
+      213: 4320721843025898848
+    second: touchend_254x139_314
+  - first:
+      213: 664843835324220508
+    second: touchend_254x139_315
+  - first:
+      213: 3930084672544420473
+    second: touchend_254x139_316
+  - first:
+      213: 7892065538122448322
+    second: touchend_254x139_317
+  - first:
+      213: -8801870889755734591
+    second: touchend_254x139_318
+  - first:
+      213: -2131506128144326408
+    second: touchend_254x139_319
+  - first:
+      213: -1209682894121221713
+    second: touchend_254x139_320
+  - first:
+      213: -759262422060552794
+    second: touchend_254x139_321
+  - first:
+      213: -7800364348739021184
+    second: touchend_254x139_322
+  - first:
+      213: 5763008340105813042
+    second: touchend_254x139_323
+  - first:
+      213: -646965384938587540
+    second: touchend_254x139_324
+  - first:
+      213: 208265155992708185
+    second: touchend_254x139_325
+  - first:
+      213: -7542748504536004672
+    second: touchend_254x139_326
+  - first:
+      213: 7689342679206460521
+    second: touchend_254x139_327
+  - first:
+      213: -3894388115907370568
+    second: touchend_254x139_328
+  - first:
+      213: -7211110597085176438
+    second: touchend_254x139_329
+  - first:
+      213: -1214590699521574364
+    second: touchend_254x139_330
+  - first:
+      213: -2095470079113804805
+    second: touchend_254x139_331
+  - first:
+      213: -7334762721654751206
+    second: touchend_254x139_332
+  - first:
+      213: -5233342672857660202
+    second: touchend_254x139_333
+  - first:
+      213: 8273184104004606736
+    second: touchend_254x139_334
+  - first:
+      213: -7188081154928511573
+    second: touchend_254x139_335
+  - first:
+      213: 1553797209092099824
+    second: touchend_254x139_336
+  - first:
+      213: -7030867293809365867
+    second: touchend_254x139_337
+  - first:
+      213: -2984309684780075813
+    second: touchend_254x139_338
+  - first:
+      213: 1462077274942617081
+    second: touchend_254x139_339
+  - first:
+      213: -4002975712004500978
+    second: touchend_254x139_340
+  - first:
+      213: -2786583262502436645
+    second: touchend_254x139_341
+  - first:
+      213: -6534767427994991969
+    second: touchend_254x139_342
+  - first:
+      213: 3447906248212143805
+    second: touchend_254x139_343
+  - first:
+      213: 2727388885396933697
+    second: touchend_254x139_344
+  - first:
+      213: -8578060150965241690
+    second: touchend_254x139_345
+  - first:
+      213: 9071014537613768883
+    second: touchend_254x139_346
+  - first:
+      213: -6145750750801198806
+    second: touchend_254x139_347
+  - first:
+      213: 7169706497607544588
+    second: touchend_254x139_348
+  - first:
+      213: -4530985832649084378
+    second: touchend_254x139_349
+  - first:
+      213: -8484822686260728107
+    second: touchend_254x139_350
+  - first:
+      213: 3678504048329539420
+    second: touchend_254x139_351
+  - first:
+      213: 3260386219113318381
+    second: touchend_254x139_352
+  - first:
+      213: -5933126153964107338
+    second: touchend_254x139_353
+  - first:
+      213: -7685081387781067254
+    second: touchend_254x139_354
+  - first:
+      213: 8270654274217135902
+    second: touchend_254x139_355
+  - first:
+      213: -6773168961107221705
+    second: touchend_254x139_356
+  - first:
+      213: -3638955007383737062
+    second: touchend_254x139_357
+  - first:
+      213: -7003188981503063639
+    second: touchend_254x139_358
+  - first:
+      213: 5247191686612911539
+    second: touchend_254x139_359
+  - first:
+      213: -8297958014861224127
+    second: touchend_254x139_360
+  - first:
+      213: -7673622885107133549
+    second: touchend_254x139_361
+  - first:
+      213: -1075569502172426367
+    second: touchend_254x139_362
+  - first:
+      213: -8301237396023158123
+    second: touchend_254x139_363
+  - first:
+      213: -6087407926690236396
+    second: touchend_254x139_364
+  - first:
+      213: 3827505228580961580
+    second: touchend_254x139_365
+  - first:
+      213: 2924677450920659837
+    second: touchend_254x139_366
+  - first:
+      213: -3650232717130861014
+    second: touchend_254x139_367
+  - first:
+      213: 8690924250204977642
+    second: touchend_254x139_368
+  - first:
+      213: 687707633538766526
+    second: touchend_254x139_369
+  - first:
+      213: 1337774921968975793
+    second: touchend_254x139_370
+  - first:
+      213: -4094491629270226956
+    second: touchend_254x139_371
+  - first:
+      213: 5884056824042684122
+    second: touchend_254x139_372
+  - first:
+      213: -2849343668554428864
+    second: touchend_254x139_373
+  - first:
+      213: -3869673465760020655
+    second: touchend_254x139_374
+  - first:
+      213: 6304852650945782537
+    second: touchend_254x139_375
+  - first:
+      213: -2109411152558173713
+    second: touchend_254x139_376
+  - first:
+      213: 3904591458428708311
+    second: touchend_254x139_377
+  - first:
+      213: 274513942312705606
+    second: touchend_254x139_378
+  - first:
+      213: -3367199323707863117
+    second: touchend_254x139_379
+  - first:
+      213: 4138382793849152092
+    second: touchend_254x139_380
+  - first:
+      213: 3886999904569076183
+    second: touchend_254x139_381
+  - first:
+      213: -6893236634635668332
+    second: touchend_254x139_382
+  - first:
+      213: -747825857455147827
+    second: touchend_254x139_383
+  - first:
+      213: 4630777838816712390
+    second: touchend_254x139_384
+  - first:
+      213: -7689344784435301279
+    second: touchend_254x139_385
+  - first:
+      213: 7769356365169498859
+    second: touchend_254x139_386
+  - first:
+      213: -293956572223917959
+    second: touchend_254x139_387
+  - first:
+      213: 4594790245347326242
+    second: touchend_254x139_388
+  - first:
+      213: 6768692204433310539
+    second: touchend_254x139_389
+  - first:
+      213: 2682084852058736094
+    second: touchend_254x139_390
+  - first:
+      213: 1197467218433786455
+    second: touchend_254x139_391
+  - first:
+      213: -5586661739557202304
+    second: touchend_254x139_392
+  - first:
+      213: 831729086737614478
+    second: touchend_254x139_393
+  - first:
+      213: 4188665293438619393
+    second: touchend_254x139_394
+  - first:
+      213: 6093832821051362867
+    second: touchend_254x139_395
+  - first:
+      213: -7724727983001740063
+    second: touchend_254x139_396
+  - first:
+      213: -9215648336463978155
+    second: touchend_254x139_397
+  - first:
+      213: 4428603280944639046
+    second: touchend_254x139_398
+  - first:
+      213: 156420712845492495
+    second: touchend_254x139_399
+  - first:
+      213: 1826465219244311748
+    second: touchend_254x139_400
+  - first:
+      213: -7693190052456290957
+    second: touchend_254x139_401
+  - first:
+      213: 5226173304389025226
+    second: touchend_254x139_402
+  - first:
+      213: -5062828599273832505
+    second: touchend_254x139_403
+  - first:
+      213: 5171349362092447282
+    second: touchend_254x139_404
+  - first:
+      213: 5347370384771635587
+    second: touchend_254x139_405
+  - first:
+      213: 3072161037712667308
+    second: touchend_254x139_406
+  - first:
+      213: 6058084245363237409
+    second: touchend_254x139_407
+  - first:
+      213: 146678548690131050
+    second: touchend_254x139_408
+  - first:
+      213: 8913268095822579734
+    second: touchend_254x139_409
+  - first:
+      213: -5819199997715013947
+    second: touchend_254x139_410
+  - first:
+      213: 7300194709524879733
+    second: touchend_254x139_411
+  - first:
+      213: -4063428462885736602
+    second: touchend_254x139_412
+  - first:
+      213: 840693543646872585
+    second: touchend_254x139_413
+  - first:
+      213: -9132905678958003662
+    second: touchend_254x139_414
+  - first:
+      213: -8991446524929898364
+    second: touchend_254x139_415
+  - first:
+      213: -8901137507339409219
+    second: touchend_254x139_416
+  - first:
+      213: 1906952930317080088
+    second: touchend_254x139_417
+  - first:
+      213: -2651942283520193230
+    second: touchend_254x139_418
+  - first:
+      213: 8408976031178435700
+    second: touchend_254x139_419
+  - first:
+      213: -188758538349472804
+    second: touchend_254x139_420
+  - first:
+      213: 3081844908548489230
+    second: touchend_254x139_421
+  - first:
+      213: 1779129543565796831
+    second: touchend_254x139_422
+  - first:
+      213: 6823676474758659471
+    second: touchend_254x139_423
+  - first:
+      213: -7407733456083368664
+    second: touchend_254x139_424
+  - first:
+      213: -3067513944895580972
+    second: touchend_254x139_425
+  - first:
+      213: -3244382938110713439
+    second: touchend_254x139_426
+  - first:
+      213: -4952284148336370412
+    second: touchend_254x139_427
+  - first:
+      213: 7932170618866866063
+    second: touchend_254x139_428
+  - first:
+      213: 4680091185729036621
+    second: touchend_254x139_429
+  - first:
+      213: 215155262594210947
+    second: touchend_254x139_430
+  - first:
+      213: -3105225829388981220
+    second: touchend_254x139_431
+  - first:
+      213: 3196373507671447514
+    second: touchend_254x139_432
+  - first:
+      213: 1150656016769342180
+    second: touchend_254x139_433
+  - first:
+      213: 8208373450032339135
+    second: touchend_254x139_434
+  - first:
+      213: 6115178865035775478
+    second: touchend_254x139_435
+  - first:
+      213: -1290747466110520995
+    second: touchend_254x139_436
+  - first:
+      213: 8530074381885676463
+    second: touchend_254x139_437
+  - first:
+      213: 4943315572013928422
+    second: touchend_254x139_438
+  - first:
+      213: -4010273630161769661
+    second: touchend_254x139_439
+  - first:
+      213: -49839502129025042
+    second: touchend_254x139_440
+  - first:
+      213: 7938602849666693704
+    second: touchend_254x139_441
+  - first:
+      213: 7638866648309684719
+    second: touchend_254x139_442
+  - first:
+      213: -8575580399571147792
+    second: touchend_254x139_443
+  - first:
+      213: 2350639525059624588
+    second: touchend_254x139_444
+  - first:
+      213: 6772450065338885293
+    second: touchend_254x139_445
+  - first:
+      213: 695936695323896334
+    second: touchend_254x139_446
+  - first:
+      213: -5687757687589080428
+    second: touchend_254x139_447
+  - first:
+      213: 1926542304196871301
+    second: touchend_254x139_448
+  - first:
+      213: -5180990972003404999
+    second: touchend_254x139_449
+  - first:
+      213: -779365508147796892
+    second: touchend_254x139_450
+  - first:
+      213: -3140733248761421440
+    second: touchend_254x139_451
+  - first:
+      213: -7046547803260651756
+    second: touchend_254x139_452
+  - first:
+      213: -2423172736418942700
+    second: touchend_254x139_453
+  - first:
+      213: -4750673691667922905
+    second: touchend_254x139_454
+  - first:
+      213: -8961872455071935432
+    second: touchend_254x139_455
+  - first:
+      213: 4481541736684784284
+    second: touchend_254x139_456
+  - first:
+      213: 4348774418113451913
+    second: touchend_254x139_457
+  - first:
+      213: -5814372807298782253
+    second: touchend_254x139_458
+  - first:
+      213: 5466792604888040711
+    second: touchend_254x139_459
+  - first:
+      213: -6985412824377072380
+    second: touchend_254x139_460
+  - first:
+      213: -3509976674430803294
+    second: touchend_254x139_461
+  - first:
+      213: -1584407050795331259
+    second: touchend_254x139_462
+  - first:
+      213: -7390837844703313475
+    second: touchend_254x139_463
+  - first:
+      213: -4732969558425123647
+    second: touchend_254x139_464
+  - first:
+      213: -882309130048325319
+    second: touchend_254x139_465
+  - first:
+      213: -3412729557946189195
+    second: touchend_254x139_466
+  - first:
+      213: 370628846217011355
+    second: touchend_254x139_467
+  - first:
+      213: 4183359269558043672
+    second: touchend_254x139_468
+  - first:
+      213: -4626592661197751862
+    second: touchend_254x139_469
+  - first:
+      213: -9140020824346053374
+    second: touchend_254x139_470
+  - first:
+      213: 8903112963795119905
+    second: touchend_254x139_471
+  - first:
+      213: 6561207357123677065
+    second: touchend_254x139_472
+  - first:
+      213: -6711254420211086715
+    second: touchend_254x139_473
+  - first:
+      213: -4722083207127960607
+    second: touchend_254x139_474
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: touchend_254x139_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 973
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db7018b8e924e0c0800000000000000
+      internalID: -4547463644240118828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_1
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 973
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d93e6d00ee18a70800000000000000
+      internalID: 8827598431995534741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 973
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35611ff96fbea5bf0800000000000000
+      internalID: -334695777807821229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 973
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58153352a57cc0760800000000000000
+      internalID: 7425529075612209541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_4
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 973
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17375c4c8030ea0800000000000000
+      internalID: -5907868644960669265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_5
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 973
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed43e1b76d4860b0800000000000000
+      internalID: -5735249017694892573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_6
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 973
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a54c2ff1e71a0d20800000000000000
+      internalID: 3245432740890035618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564c31e06d3703cf0800000000000000
+      internalID: -274592214073228187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 834
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123a1fa8cb1697dd0800000000000000
+      internalID: -2487849856732650719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_9
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 834
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546d4cf2164d0df80800000000000000
+      internalID: -8083727817251695035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 834
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627b0b29c4bff200800000000000000
+      internalID: 216090083240669798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 834
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4316cf585bf37b7b0800000000000000
+      internalID: -5208624395161149132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_12
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 834
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0e46e312b12f7b0800000000000000
+      internalID: -5192057590810091320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_13
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 834
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ec5c4173f0bcee0800000000000000
+      internalID: -1239880543164314011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_14
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 834
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2419f2e70d0ea40800000000000000
+      internalID: 5395541593972359918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c5b34450914330800000000000000
+      internalID: 3693391861008154655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 695
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40e1ef3b3fd37310800000000000000
+      internalID: 1401709354610188362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_17
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 695
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc17af08634b50c0800000000000000
+      internalID: -4585997681328448291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 695
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc147438a8139150800000000000000
+      internalID: 5878069049362226362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_19
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 695
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f3b92894f9da6a0800000000000000
+      internalID: -6436313154369929466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_20
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 695
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a6497ba201dcc0800000000000000
+      internalID: -3688163684342390506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_21
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 695
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb894d8b0c43c610800000000000000
+      internalID: 1640238301791751162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_22
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 695
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ddee8859d8f4840800000000000000
+      internalID: 5210538967277952306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221b43481f05c2f10800000000000000
+      internalID: 2246259312386421026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 556
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16eb2ca995c89c50800000000000000
+      internalID: 6672300111758616092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 556
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ae528e829be7c0800000000000000
+      internalID: -4040975099864637165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_26
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 556
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a45d791ec05190800000000000000
+      internalID: -7975648331200945033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_27
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 556
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19fabc0162a5d760800000000000000
+      internalID: 7482064893655054623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_28
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 556
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bb034658008a080800000000000000
+      internalID: -9176083667855820013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_29
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 556
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54382cba1b3e0ba0800000000000000
+      internalID: -6120889857537985443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_30
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 556
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c250b3f82ec4d7e60800000000000000
+      internalID: 7961604252210234668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac8c8c2668e1040800000000000000
+      internalID: 4620278026562226807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 417
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3706ca2fb7b232fb0800000000000000
+      internalID: -4673844176928087949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_33
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 417
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b519195be1d53b00800000000000000
+      internalID: 807782516925207992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_34
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 417
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c1d9498bc337280800000000000000
+      internalID: -9046820462992221064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_35
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 417
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742019f2a523bdc10800000000000000
+      internalID: 2079311015888093767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_36
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 417
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053be3a33801f9d50800000000000000
+      internalID: 6746128922628240208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_37
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 417
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feb28e56545bf8c0800000000000000
+      internalID: -3964482317040042251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_38
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 417
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51de97e125794e650800000000000000
+      internalID: 6261295760906251541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f03dda7331da5b00800000000000000
+      internalID: 818196301356019956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_40
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 278
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fe3ef0137e888a0800000000000000
+      internalID: -6302533480598999248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_41
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 278
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91b58e1cdb759920800000000000000
+      internalID: 2996437312420032922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_42
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 278
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a73e3a5e3c2e55b0800000000000000
+      internalID: -5377812258720172122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_43
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 278
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bdebc8789935690800000000000000
+      internalID: -7614573737492423915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_44
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 278
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522650494b22bd5a0800000000000000
+      internalID: -6495559878578970075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_45
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 278
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6c27232fc70d6c0800000000000000
+      internalID: -4120656279373691175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_46
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 278
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e91ab7f60dd7270800000000000000
+      internalID: 8249979269646753299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7cf52f044b4cae0800000000000000
+      internalID: -1529899782361856042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 139
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11efc568b224358d0800000000000000
+      internalID: -2858868583744864751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_49
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 139
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81708fec34261f0800000000000000
+      internalID: -1053204806647736079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_50
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 139
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bbcfcebdb89cb00800000000000000
+      internalID: 849363781426133886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_51
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 139
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f690abb70d14c180800000000000000
+      internalID: -9096113428331718922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_52
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 139
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c67220f744b6940800000000000000
+      internalID: 5290397499564452928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_53
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 139
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d7742482f6fb070800000000000000
+      internalID: 8124334471501020510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_54
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 139
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df86e5fd301850b0800000000000000
+      internalID: -5739819866779119659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df54c304dfffaa3b0800000000000000
+      internalID: -5500302531710138883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_56
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b1ad1f8b2d5ff0800000000000000
+      internalID: -45832527526383159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_57
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2be3ddd938d0f100800000000000000
+      internalID: 139849331494873901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touchend_254x139_58
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca15371c5066c3c0800000000000000
+      internalID: -4339675242282280244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d87e6be0807cb644f94cd0d270be6827
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      touchend_254x139_0: -4547463644240118828
+      touchend_254x139_1: 8827598431995534741
+      touchend_254x139_10: 216090083240669798
+      touchend_254x139_11: -5208624395161149132
+      touchend_254x139_12: -5192057590810091320
+      touchend_254x139_13: -1239880543164314011
+      touchend_254x139_14: 5395541593972359918
+      touchend_254x139_15: 3693391861008154655
+      touchend_254x139_16: 1401709354610188362
+      touchend_254x139_17: -4585997681328448291
+      touchend_254x139_18: 5878069049362226362
+      touchend_254x139_19: -6436313154369929466
+      touchend_254x139_2: -334695777807821229
+      touchend_254x139_20: -3688163684342390506
+      touchend_254x139_21: 1640238301791751162
+      touchend_254x139_22: 5210538967277952306
+      touchend_254x139_23: 2246259312386421026
+      touchend_254x139_24: 6672300111758616092
+      touchend_254x139_25: -4040975099864637165
+      touchend_254x139_26: -7975648331200945033
+      touchend_254x139_27: 7482064893655054623
+      touchend_254x139_28: -9176083667855820013
+      touchend_254x139_29: -6120889857537985443
+      touchend_254x139_3: 7425529075612209541
+      touchend_254x139_30: 7961604252210234668
+      touchend_254x139_31: 4620278026562226807
+      touchend_254x139_32: -4673844176928087949
+      touchend_254x139_33: 807782516925207992
+      touchend_254x139_34: -9046820462992221064
+      touchend_254x139_35: 2079311015888093767
+      touchend_254x139_36: 6746128922628240208
+      touchend_254x139_37: -3964482317040042251
+      touchend_254x139_38: 6261295760906251541
+      touchend_254x139_39: 818196301356019956
+      touchend_254x139_4: -5907868644960669265
+      touchend_254x139_40: -6302533480598999248
+      touchend_254x139_41: 2996437312420032922
+      touchend_254x139_42: -5377812258720172122
+      touchend_254x139_43: -7614573737492423915
+      touchend_254x139_44: -6495559878578970075
+      touchend_254x139_45: -4120656279373691175
+      touchend_254x139_46: 8249979269646753299
+      touchend_254x139_47: -1529899782361856042
+      touchend_254x139_48: -2858868583744864751
+      touchend_254x139_49: -1053204806647736079
+      touchend_254x139_5: -5735249017694892573
+      touchend_254x139_50: 849363781426133886
+      touchend_254x139_51: -9096113428331718922
+      touchend_254x139_52: 5290397499564452928
+      touchend_254x139_53: 8124334471501020510
+      touchend_254x139_54: -5739819866779119659
+      touchend_254x139_55: -5500302531710138883
+      touchend_254x139_56: -45832527526383159
+      touchend_254x139_57: 139849331494873901
+      touchend_254x139_58: -4339675242282280244
+      touchend_254x139_6: 3245432740890035618
+      touchend_254x139_7: -274592214073228187
+      touchend_254x139_8: -2487849856732650719
+      touchend_254x139_9: -8083727817251695035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

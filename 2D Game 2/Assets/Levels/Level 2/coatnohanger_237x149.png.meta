@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: 29961634cc3581644a31894f686f08e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2096338582268149336
+    second: coatnohanger_237x149_0
+  - first:
+      213: 3578189407675263000
+    second: coatnohanger_237x149_1
+  - first:
+      213: 4124745143733978086
+    second: coatnohanger_237x149_2
+  - first:
+      213: 5249523851751059045
+    second: coatnohanger_237x149_3
+  - first:
+      213: -128274651028199626
+    second: coatnohanger_237x149_4
+  - first:
+      213: -8995869968114693946
+    second: coatnohanger_237x149_5
+  - first:
+      213: 8433307389838268936
+    second: coatnohanger_237x149_6
+  - first:
+      213: -835868986390905634
+    second: coatnohanger_237x149_7
+  - first:
+      213: -8021403022330140695
+    second: coatnohanger_237x149_8
+  - first:
+      213: -7492936367358017293
+    second: coatnohanger_237x149_9
+  - first:
+      213: -2306850667602846382
+    second: coatnohanger_237x149_10
+  - first:
+      213: -7095294529096520513
+    second: coatnohanger_237x149_11
+  - first:
+      213: 3063514070632892067
+    second: coatnohanger_237x149_12
+  - first:
+      213: 5585225610279085197
+    second: coatnohanger_237x149_13
+  - first:
+      213: -4738599555255528749
+    second: coatnohanger_237x149_14
+  - first:
+      213: 8408119308402505078
+    second: coatnohanger_237x149_15
+  - first:
+      213: -6822808643470822986
+    second: coatnohanger_237x149_16
+  - first:
+      213: -5575262040779837498
+    second: coatnohanger_237x149_17
+  - first:
+      213: 4790755669018294109
+    second: coatnohanger_237x149_18
+  - first:
+      213: -6828648592376294921
+    second: coatnohanger_237x149_19
+  - first:
+      213: -7375923170372929699
+    second: coatnohanger_237x149_20
+  - first:
+      213: 1735555377439954931
+    second: coatnohanger_237x149_21
+  - first:
+      213: 7338634939199404011
+    second: coatnohanger_237x149_22
+  - first:
+      213: -2556111661988815166
+    second: coatnohanger_237x149_23
+  - first:
+      213: 4043360590332019456
+    second: coatnohanger_237x149_24
+  - first:
+      213: -6023826458515704829
+    second: coatnohanger_237x149_25
+  - first:
+      213: 6002144396395396080
+    second: coatnohanger_237x149_26
+  - first:
+      213: 3987096574348165504
+    second: coatnohanger_237x149_27
+  - first:
+      213: -2750732408986574628
+    second: coatnohanger_237x149_28
+  - first:
+      213: 127214386712091103
+    second: coatnohanger_237x149_29
+  - first:
+      213: 7286650167019508015
+    second: coatnohanger_237x149_30
+  - first:
+      213: -6990966481211943504
+    second: coatnohanger_237x149_31
+  - first:
+      213: 6234676095297820179
+    second: coatnohanger_237x149_32
+  - first:
+      213: 8643258461288990577
+    second: coatnohanger_237x149_33
+  - first:
+      213: 2709182430359839054
+    second: coatnohanger_237x149_34
+  - first:
+      213: -2729551583606375724
+    second: coatnohanger_237x149_35
+  - first:
+      213: 1507532850298129079
+    second: coatnohanger_237x149_36
+  - first:
+      213: 1070570378027144055
+    second: coatnohanger_237x149_37
+  - first:
+      213: -4412088953214279640
+    second: coatnohanger_237x149_38
+  - first:
+      213: 1804701765042583289
+    second: coatnohanger_237x149_39
+  - first:
+      213: -7790810153932397112
+    second: coatnohanger_237x149_40
+  - first:
+      213: -4471054632412359049
+    second: coatnohanger_237x149_41
+  - first:
+      213: 1603766733930229669
+    second: coatnohanger_237x149_42
+  - first:
+      213: -1678130488418730226
+    second: coatnohanger_237x149_43
+  - first:
+      213: -721822460633126105
+    second: coatnohanger_237x149_44
+  - first:
+      213: 4796021457350473176
+    second: coatnohanger_237x149_45
+  - first:
+      213: -1543990208844882243
+    second: coatnohanger_237x149_46
+  - first:
+      213: -4838585272986180556
+    second: coatnohanger_237x149_47
+  - first:
+      213: 734155787623138922
+    second: coatnohanger_237x149_48
+  - first:
+      213: 6701225593542619915
+    second: coatnohanger_237x149_49
+  - first:
+      213: -8088419666970645747
+    second: coatnohanger_237x149_50
+  - first:
+      213: 2697403634302154503
+    second: coatnohanger_237x149_51
+  - first:
+      213: 9155695300343915119
+    second: coatnohanger_237x149_52
+  - first:
+      213: 289906785714311062
+    second: coatnohanger_237x149_53
+  - first:
+      213: -8217478575561241717
+    second: coatnohanger_237x149_54
+  - first:
+      213: -372011833413872089
+    second: coatnohanger_237x149_55
+  - first:
+      213: -463674639929024587
+    second: coatnohanger_237x149_56
+  - first:
+      213: 451835619654757070
+    second: coatnohanger_237x149_57
+  - first:
+      213: -9211710079696116851
+    second: coatnohanger_237x149_58
+  - first:
+      213: 2178647436678414018
+    second: coatnohanger_237x149_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coatnohanger_237x149_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1043
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef90d65d0b71d10800000000000000
+      internalID: 2096338582268149336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1043
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818ac87ee4848a130800000000000000
+      internalID: 3578189407675263000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1043
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e30849bad90e3930800000000000000
+      internalID: 4124745143733978086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_3
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1043
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56eef87412e0ad840800000000000000
+      internalID: 5249523851751059045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1043
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e6cf62e6483ef0800000000000000
+      internalID: -128274651028199626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_5
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1043
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c84be81def382380800000000000000
+      internalID: -8995869968114693946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_6
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1043
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9cf4b360290570800000000000000
+      internalID: 8433307389838268936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_7
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1043
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc7763e5956664f0800000000000000
+      internalID: -835868986390905634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e764cd43704ea090800000000000000
+      internalID: -8021403022330140695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 894
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0050bb21eb30890800000000000000
+      internalID: -7492936367358017293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 894
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dd8af3a8b6cffd0800000000000000
+      internalID: -2306850667602846382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 894
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbced60e733788d90800000000000000
+      internalID: -7095294529096520513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_12
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 894
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a60c78e0d9c38a20800000000000000
+      internalID: 3063514070632892067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_13
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 894
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84691bc915b28d40800000000000000
+      internalID: 5585225610279085197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_14
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 894
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d29b288fcc1d3eb0800000000000000
+      internalID: -4738599555255528749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_15
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 894
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6753f6e76f3afa470800000000000000
+      internalID: 8408119308402505078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 745
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1f47300b38051a0800000000000000
+      internalID: -6822808643470822986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 745
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf299186b0b0a2b0800000000000000
+      internalID: -5575262040779837498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 745
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57368106ee2c7240800000000000000
+      internalID: 4790755669018294109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 745
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f19073f844cb31a0800000000000000
+      internalID: -6828648592376294921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 745
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d573953b4f473a990800000000000000
+      internalID: -7375923170372929699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_21
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 745
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d350ab6ee51810800000000000000
+      internalID: 1735555377439954931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_22
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 745
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7304f689118d560800000000000000
+      internalID: 7338634939199404011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_23
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 745
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5cec7cfdd68cd0800000000000000
+      internalID: -2556111661988815166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003cd85c807ec1830800000000000000
+      internalID: 4043360590332019456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 596
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304729760c1176ca0800000000000000
+      internalID: -6023826458515704829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_26
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 596
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbbfbd1786eb4350800000000000000
+      internalID: 6002144396395396080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_27
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 596
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0810337b533055730800000000000000
+      internalID: 3987096574348165504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_28
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 596
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd06332b27f63d9d0800000000000000
+      internalID: -2750732408986574628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_29
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 596
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd91b4a8fc4f3c100800000000000000
+      internalID: 127214386712091103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_30
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 596
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f211db778b16f1560800000000000000
+      internalID: 7286650167019508015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_31
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 596
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b513ba66091bfe90800000000000000
+      internalID: -6990966481211943504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31698dd30e4068650800000000000000
+      internalID: 6234676095297820179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 447
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177050fc6c503f770800000000000000
+      internalID: 8643258461288990577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 447
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e3590113f89520800000000000000
+      internalID: 2709182430359839054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_35
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 447
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da7907eb4fae1ad0800000000000000
+      internalID: -2729551583606375724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_36
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 447
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba804dd325dbe410800000000000000
+      internalID: 1507532850298129079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_37
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 447
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7731d51361e6bde00800000000000000
+      internalID: 1070570378027144055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_38
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 447
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ec3a297c15c2c0800000000000000
+      internalID: -4412088953214279640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_39
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 447
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f632ee81b69b0910800000000000000
+      internalID: 1804701765042583289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56a56417b71e390800000000000000
+      internalID: -7790810153932397112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 298
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77652bf108f93f1c0800000000000000
+      internalID: -4471054632412359049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_42
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 298
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afef7ee859b14610800000000000000
+      internalID: 1603766733930229669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_43
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 298
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7c0f363516b8e0800000000000000
+      internalID: -1678130488418730226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_44
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 298
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b6013eb429bf5f0800000000000000
+      internalID: -721822460633126105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_45
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 298
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5b684ea14ee8240800000000000000
+      internalID: 4796021457350473176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_46
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 298
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe9e11e515a29ae0800000000000000
+      internalID: -1543990208844882243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_47
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 298
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434e8348454e9dcb0800000000000000
+      internalID: -4838585272986180556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6603139cce303a00800000000000000
+      internalID: 734155787623138922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_49
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 149
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b033dd63c298ffc50800000000000000
+      internalID: 6701225593542619915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_50
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 149
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b6eebca2920cf80800000000000000
+      internalID: -8088419666970645747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 149
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7077d6e505a1f6520800000000000000
+      internalID: 2697403634302154503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_52
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 149
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6266b0ed509f0f70800000000000000
+      internalID: 9155695300343915119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_53
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 149
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f0a748fa4f50400800000000000000
+      internalID: 289906785714311062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_54
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 149
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b0a4a06c6a5fd80800000000000000
+      internalID: -8217478575561241717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_55
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 149
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726df11653956daf0800000000000000
+      internalID: -372011833413872089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf5ca32f52b099f0800000000000000
+      internalID: -463674639929024587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecae3662a1e354600800000000000000
+      internalID: 451835619654757070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83e3ddfc7e692080800000000000000
+      internalID: -9211710079696116851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coatnohanger_237x149_59
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 237
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce380afc4c1c3e10800000000000000
+      internalID: 2178647436678414018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d917a81423544184e9877867627d8e05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      coatnohanger_237x149_0: 2096338582268149336
+      coatnohanger_237x149_1: 3578189407675263000
+      coatnohanger_237x149_10: -2306850667602846382
+      coatnohanger_237x149_11: -7095294529096520513
+      coatnohanger_237x149_12: 3063514070632892067
+      coatnohanger_237x149_13: 5585225610279085197
+      coatnohanger_237x149_14: -4738599555255528749
+      coatnohanger_237x149_15: 8408119308402505078
+      coatnohanger_237x149_16: -6822808643470822986
+      coatnohanger_237x149_17: -5575262040779837498
+      coatnohanger_237x149_18: 4790755669018294109
+      coatnohanger_237x149_19: -6828648592376294921
+      coatnohanger_237x149_2: 4124745143733978086
+      coatnohanger_237x149_20: -7375923170372929699
+      coatnohanger_237x149_21: 1735555377439954931
+      coatnohanger_237x149_22: 7338634939199404011
+      coatnohanger_237x149_23: -2556111661988815166
+      coatnohanger_237x149_24: 4043360590332019456
+      coatnohanger_237x149_25: -6023826458515704829
+      coatnohanger_237x149_26: 6002144396395396080
+      coatnohanger_237x149_27: 3987096574348165504
+      coatnohanger_237x149_28: -2750732408986574628
+      coatnohanger_237x149_29: 127214386712091103
+      coatnohanger_237x149_3: 5249523851751059045
+      coatnohanger_237x149_30: 7286650167019508015
+      coatnohanger_237x149_31: -6990966481211943504
+      coatnohanger_237x149_32: 6234676095297820179
+      coatnohanger_237x149_33: 8643258461288990577
+      coatnohanger_237x149_34: 2709182430359839054
+      coatnohanger_237x149_35: -2729551583606375724
+      coatnohanger_237x149_36: 1507532850298129079
+      coatnohanger_237x149_37: 1070570378027144055
+      coatnohanger_237x149_38: -4412088953214279640
+      coatnohanger_237x149_39: 1804701765042583289
+      coatnohanger_237x149_4: -128274651028199626
+      coatnohanger_237x149_40: -7790810153932397112
+      coatnohanger_237x149_41: -4471054632412359049
+      coatnohanger_237x149_42: 1603766733930229669
+      coatnohanger_237x149_43: -1678130488418730226
+      coatnohanger_237x149_44: -721822460633126105
+      coatnohanger_237x149_45: 4796021457350473176
+      coatnohanger_237x149_46: -1543990208844882243
+      coatnohanger_237x149_47: -4838585272986180556
+      coatnohanger_237x149_48: 734155787623138922
+      coatnohanger_237x149_49: 6701225593542619915
+      coatnohanger_237x149_5: -8995869968114693946
+      coatnohanger_237x149_50: -8088419666970645747
+      coatnohanger_237x149_51: 2697403634302154503
+      coatnohanger_237x149_52: 9155695300343915119
+      coatnohanger_237x149_53: 289906785714311062
+      coatnohanger_237x149_54: -8217478575561241717
+      coatnohanger_237x149_55: -372011833413872089
+      coatnohanger_237x149_56: -463674639929024587
+      coatnohanger_237x149_57: 451835619654757070
+      coatnohanger_237x149_58: -9211710079696116851
+      coatnohanger_237x149_59: 2178647436678414018
+      coatnohanger_237x149_6: 8433307389838268936
+      coatnohanger_237x149_7: -835868986390905634
+      coatnohanger_237x149_8: -8021403022330140695
+      coatnohanger_237x149_9: -7492936367358017293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6419 @@
+fileFormatVersion: 2
+guid: ef3d82b0836283b4a924dc027a68348a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2435553174070759431
+    second: petals2_104x100_0
+  - first:
+      213: 3190561953712371438
+    second: petals2_104x100_1
+  - first:
+      213: -7764310978221302491
+    second: petals2_104x100_2
+  - first:
+      213: 1834009647491806330
+    second: petals2_104x100_3
+  - first:
+      213: -7062124992705808574
+    second: petals2_104x100_4
+  - first:
+      213: 5389659418801027369
+    second: petals2_104x100_5
+  - first:
+      213: 7512512171078698469
+    second: petals2_104x100_6
+  - first:
+      213: -8160312959902076363
+    second: petals2_104x100_7
+  - first:
+      213: 2006308521246483742
+    second: petals2_104x100_8
+  - first:
+      213: 6616437649147442684
+    second: petals2_104x100_9
+  - first:
+      213: 1030868228482443631
+    second: petals2_104x100_10
+  - first:
+      213: 5109108557428723039
+    second: petals2_104x100_11
+  - first:
+      213: -4269437467335617794
+    second: petals2_104x100_12
+  - first:
+      213: -1015113796297637463
+    second: petals2_104x100_13
+  - first:
+      213: 4572490544677375900
+    second: petals2_104x100_14
+  - first:
+      213: -6172253790691975111
+    second: petals2_104x100_15
+  - first:
+      213: -4247308946169645104
+    second: petals2_104x100_16
+  - first:
+      213: -6770793944769168479
+    second: petals2_104x100_17
+  - first:
+      213: 459092671897667580
+    second: petals2_104x100_18
+  - first:
+      213: -2166762471193705563
+    second: petals2_104x100_19
+  - first:
+      213: 717573010673308129
+    second: petals2_104x100_20
+  - first:
+      213: -3258043173171845129
+    second: petals2_104x100_21
+  - first:
+      213: 5336452501009974819
+    second: petals2_104x100_22
+  - first:
+      213: 3289963227365309009
+    second: petals2_104x100_23
+  - first:
+      213: 5096974578533987861
+    second: petals2_104x100_24
+  - first:
+      213: -5034312590649711796
+    second: petals2_104x100_25
+  - first:
+      213: -7508890938225631549
+    second: petals2_104x100_26
+  - first:
+      213: -201323102804879031
+    second: petals2_104x100_27
+  - first:
+      213: -2274403457067727181
+    second: petals2_104x100_28
+  - first:
+      213: -2670911753112631358
+    second: petals2_104x100_29
+  - first:
+      213: 989583082079138928
+    second: petals2_104x100_30
+  - first:
+      213: 4327526318726515868
+    second: petals2_104x100_31
+  - first:
+      213: 5195002382093808666
+    second: petals2_104x100_32
+  - first:
+      213: 1677939335650010294
+    second: petals2_104x100_33
+  - first:
+      213: 7947957658065007691
+    second: petals2_104x100_34
+  - first:
+      213: 5248285953633636743
+    second: petals2_104x100_35
+  - first:
+      213: -833113042692476368
+    second: petals2_104x100_36
+  - first:
+      213: -3030197734022723629
+    second: petals2_104x100_37
+  - first:
+      213: 363672904130649063
+    second: petals2_104x100_38
+  - first:
+      213: -3417517984014387860
+    second: petals2_104x100_39
+  - first:
+      213: -4102119772090218515
+    second: petals2_104x100_40
+  - first:
+      213: 8319402729593232919
+    second: petals2_104x100_41
+  - first:
+      213: -6032628311622661513
+    second: petals2_104x100_42
+  - first:
+      213: -7238550394957881583
+    second: petals2_104x100_43
+  - first:
+      213: -4259943807093280694
+    second: petals2_104x100_44
+  - first:
+      213: -2158508151612012951
+    second: petals2_104x100_45
+  - first:
+      213: -4580492609982522412
+    second: petals2_104x100_46
+  - first:
+      213: 8543721390909467625
+    second: petals2_104x100_47
+  - first:
+      213: -6769093182377219360
+    second: petals2_104x100_48
+  - first:
+      213: 1310483507773154459
+    second: petals2_104x100_49
+  - first:
+      213: 6346569187290113892
+    second: petals2_104x100_50
+  - first:
+      213: -1165231130069835019
+    second: petals2_104x100_51
+  - first:
+      213: 5985419955673187772
+    second: petals2_104x100_52
+  - first:
+      213: -3833960070770546929
+    second: petals2_104x100_53
+  - first:
+      213: 9149023093705449778
+    second: petals2_104x100_54
+  - first:
+      213: 8147226459910856267
+    second: petals2_104x100_55
+  - first:
+      213: 3958384355925669935
+    second: petals2_104x100_56
+  - first:
+      213: 7622912102616698697
+    second: petals2_104x100_57
+  - first:
+      213: 290188649927286739
+    second: petals2_104x100_58
+  - first:
+      213: 1633043871749991056
+    second: petals2_104x100_59
+  - first:
+      213: -5995253945141956363
+    second: petals2_104x100_60
+  - first:
+      213: -6040292891270769261
+    second: petals2_104x100_61
+  - first:
+      213: -7474259361358906863
+    second: petals2_104x100_62
+  - first:
+      213: 8234977775043540836
+    second: petals2_104x100_63
+  - first:
+      213: 1618737787403112052
+    second: petals2_104x100_64
+  - first:
+      213: 4830629193261415723
+    second: petals2_104x100_65
+  - first:
+      213: -8819498765745860821
+    second: petals2_104x100_66
+  - first:
+      213: 958513031742612312
+    second: petals2_104x100_67
+  - first:
+      213: 910387568281166083
+    second: petals2_104x100_68
+  - first:
+      213: 2668244781824086932
+    second: petals2_104x100_69
+  - first:
+      213: -7784310922642117024
+    second: petals2_104x100_70
+  - first:
+      213: 5079574486763550409
+    second: petals2_104x100_71
+  - first:
+      213: -1817237151399145990
+    second: petals2_104x100_72
+  - first:
+      213: -6029333907420628728
+    second: petals2_104x100_73
+  - first:
+      213: 834504992905311884
+    second: petals2_104x100_74
+  - first:
+      213: -6907982766925127812
+    second: petals2_104x100_75
+  - first:
+      213: -3044801138472956732
+    second: petals2_104x100_76
+  - first:
+      213: -8284550516175267263
+    second: petals2_104x100_77
+  - first:
+      213: -6211280930203453411
+    second: petals2_104x100_78
+  - first:
+      213: 1003561448943567921
+    second: petals2_104x100_79
+  - first:
+      213: 2167948012246274917
+    second: petals2_104x100_80
+  - first:
+      213: -2731408101563534935
+    second: petals2_104x100_81
+  - first:
+      213: 7932654082737986314
+    second: petals2_104x100_82
+  - first:
+      213: -4485436065155657939
+    second: petals2_104x100_83
+  - first:
+      213: 5958607361096138184
+    second: petals2_104x100_84
+  - first:
+      213: -7217290090382645862
+    second: petals2_104x100_85
+  - first:
+      213: -5895467057669892010
+    second: petals2_104x100_86
+  - first:
+      213: 9057724653849156169
+    second: petals2_104x100_87
+  - first:
+      213: -3057118720785502349
+    second: petals2_104x100_88
+  - first:
+      213: -4253522218861726374
+    second: petals2_104x100_89
+  - first:
+      213: 2762387467044240651
+    second: petals2_104x100_90
+  - first:
+      213: -9186557118224494398
+    second: petals2_104x100_91
+  - first:
+      213: -4438901323819593983
+    second: petals2_104x100_92
+  - first:
+      213: -2552494386741929011
+    second: petals2_104x100_93
+  - first:
+      213: 7874160120105992337
+    second: petals2_104x100_94
+  - first:
+      213: 4177900519839594151
+    second: petals2_104x100_95
+  - first:
+      213: -6505677300302245796
+    second: petals2_104x100_96
+  - first:
+      213: 1809907952918545215
+    second: petals2_104x100_97
+  - first:
+      213: 4443778894437733979
+    second: petals2_104x100_98
+  - first:
+      213: -1192215851627978119
+    second: petals2_104x100_99
+  - first:
+      213: -1922252710454101747
+    second: petals2_104x100_100
+  - first:
+      213: 7432731356681360011
+    second: petals2_104x100_101
+  - first:
+      213: -6577452313870368759
+    second: petals2_104x100_102
+  - first:
+      213: -1973180560594770579
+    second: petals2_104x100_103
+  - first:
+      213: 4136393938239280227
+    second: petals2_104x100_104
+  - first:
+      213: 2064873873075534124
+    second: petals2_104x100_105
+  - first:
+      213: 2266045127004054227
+    second: petals2_104x100_106
+  - first:
+      213: 2138118261008716413
+    second: petals2_104x100_107
+  - first:
+      213: -5021682203801293204
+    second: petals2_104x100_108
+  - first:
+      213: -111107255357185993
+    second: petals2_104x100_109
+  - first:
+      213: -7193452624605270427
+    second: petals2_104x100_110
+  - first:
+      213: -2698926493788838662
+    second: petals2_104x100_111
+  - first:
+      213: 7547117850546722155
+    second: petals2_104x100_112
+  - first:
+      213: -470025773264250404
+    second: petals2_104x100_113
+  - first:
+      213: -5392576336362335534
+    second: petals2_104x100_114
+  - first:
+      213: -1561744653515608386
+    second: petals2_104x100_115
+  - first:
+      213: -4976191197176521346
+    second: petals2_104x100_116
+  - first:
+      213: 2975676596607323960
+    second: petals2_104x100_117
+  - first:
+      213: -3319746414770727404
+    second: petals2_104x100_118
+  - first:
+      213: -2525222292601132043
+    second: petals2_104x100_119
+  - first:
+      213: 1982353210125566851
+    second: petals2_104x100_120
+  - first:
+      213: 188767342230254688
+    second: petals2_104x100_121
+  - first:
+      213: -1923590800411393722
+    second: petals2_104x100_122
+  - first:
+      213: -7230479989872444599
+    second: petals2_104x100_123
+  - first:
+      213: -2788720578606596490
+    second: petals2_104x100_124
+  - first:
+      213: -6181250208220045703
+    second: petals2_104x100_125
+  - first:
+      213: 8683791329803979016
+    second: petals2_104x100_126
+  - first:
+      213: 915130581023823989
+    second: petals2_104x100_127
+  - first:
+      213: 1388337762608963860
+    second: petals2_104x100_128
+  - first:
+      213: 8686134989122933856
+    second: petals2_104x100_129
+  - first:
+      213: -498058527115811101
+    second: petals2_104x100_130
+  - first:
+      213: 6400935162345331625
+    second: petals2_104x100_131
+  - first:
+      213: -406677290212679557
+    second: petals2_104x100_132
+  - first:
+      213: -4916747708220585285
+    second: petals2_104x100_133
+  - first:
+      213: -3910277926589899571
+    second: petals2_104x100_134
+  - first:
+      213: -4730014032472876253
+    second: petals2_104x100_135
+  - first:
+      213: 2963794266699149567
+    second: petals2_104x100_136
+  - first:
+      213: 3091546967103909112
+    second: petals2_104x100_137
+  - first:
+      213: -6515801935423179836
+    second: petals2_104x100_138
+  - first:
+      213: -7924873162648659521
+    second: petals2_104x100_139
+  - first:
+      213: -2297951324494600341
+    second: petals2_104x100_140
+  - first:
+      213: -2472483111879823089
+    second: petals2_104x100_141
+  - first:
+      213: -7337127851730348506
+    second: petals2_104x100_142
+  - first:
+      213: -7926250586777345429
+    second: petals2_104x100_143
+  - first:
+      213: -3771311771998990077
+    second: petals2_104x100_144
+  - first:
+      213: 7336351621761170220
+    second: petals2_104x100_145
+  - first:
+      213: 4769350307441357441
+    second: petals2_104x100_146
+  - first:
+      213: -1465019334994750542
+    second: petals2_104x100_147
+  - first:
+      213: 621602523420218056
+    second: petals2_104x100_148
+  - first:
+      213: -4167005807536737040
+    second: petals2_104x100_149
+  - first:
+      213: -4333982477601398990
+    second: petals2_104x100_150
+  - first:
+      213: -7737805866273715196
+    second: petals2_104x100_151
+  - first:
+      213: 7607167051850968442
+    second: petals2_104x100_152
+  - first:
+      213: 6364188760591236893
+    second: petals2_104x100_153
+  - first:
+      213: -2501959368523368873
+    second: petals2_104x100_154
+  - first:
+      213: 5188829382609194921
+    second: petals2_104x100_155
+  - first:
+      213: -3462405398946380291
+    second: petals2_104x100_156
+  - first:
+      213: -6493953648221570493
+    second: petals2_104x100_157
+  - first:
+      213: -1143328680984242161
+    second: petals2_104x100_158
+  - first:
+      213: -5725527228854797619
+    second: petals2_104x100_159
+  - first:
+      213: -5175929666835269573
+    second: petals2_104x100_160
+  - first:
+      213: -5882318877296856799
+    second: petals2_104x100_161
+  - first:
+      213: -5680188688025932975
+    second: petals2_104x100_162
+  - first:
+      213: 376452735133235955
+    second: petals2_104x100_163
+  - first:
+      213: -1027956579829275591
+    second: petals2_104x100_164
+  - first:
+      213: 5461324254956793189
+    second: petals2_104x100_165
+  - first:
+      213: 4984395387928740
+    second: petals2_104x100_166
+  - first:
+      213: -2388059958020428657
+    second: petals2_104x100_167
+  - first:
+      213: 8577918299226153231
+    second: petals2_104x100_168
+  - first:
+      213: -672187491942850650
+    second: petals2_104x100_169
+  - first:
+      213: -4925135060339895962
+    second: petals2_104x100_170
+  - first:
+      213: -6073493386681364055
+    second: petals2_104x100_171
+  - first:
+      213: -1517869781237549468
+    second: petals2_104x100_172
+  - first:
+      213: -1761960915268706657
+    second: petals2_104x100_173
+  - first:
+      213: 7570770351752444082
+    second: petals2_104x100_174
+  - first:
+      213: -7386551485732448019
+    second: petals2_104x100_175
+  - first:
+      213: 2201496199612805861
+    second: petals2_104x100_176
+  - first:
+      213: 7644457760821717698
+    second: petals2_104x100_177
+  - first:
+      213: 9021928781399242264
+    second: petals2_104x100_178
+  - first:
+      213: -2826840158914883448
+    second: petals2_104x100_179
+  - first:
+      213: 433265848616978790
+    second: petals2_104x100_180
+  - first:
+      213: 7881667367960098726
+    second: petals2_104x100_181
+  - first:
+      213: -1400675163886979027
+    second: petals2_104x100_182
+  - first:
+      213: -3166209508974371234
+    second: petals2_104x100_183
+  - first:
+      213: 1206398149639784743
+    second: petals2_104x100_184
+  - first:
+      213: -6723526444348483595
+    second: petals2_104x100_185
+  - first:
+      213: 6824229131648563368
+    second: petals2_104x100_186
+  - first:
+      213: 5121804507889443728
+    second: petals2_104x100_187
+  - first:
+      213: 8208190669845589020
+    second: petals2_104x100_188
+  - first:
+      213: -1757861855356253788
+    second: petals2_104x100_189
+  - first:
+      213: 8702806265065909711
+    second: petals2_104x100_190
+  - first:
+      213: 7008697230936849093
+    second: petals2_104x100_191
+  - first:
+      213: -428012107084444302
+    second: petals2_104x100_192
+  - first:
+      213: 5981734746595801132
+    second: petals2_104x100_193
+  - first:
+      213: 6652212289971487657
+    second: petals2_104x100_194
+  - first:
+      213: 2810553848508942306
+    second: petals2_104x100_195
+  - first:
+      213: 5348444957921169515
+    second: petals2_104x100_196
+  - first:
+      213: 5022497013536191948
+    second: petals2_104x100_197
+  - first:
+      213: 7044788443774188626
+    second: petals2_104x100_198
+  - first:
+      213: -3574930275554199075
+    second: petals2_104x100_199
+  - first:
+      213: -6254555655144172259
+    second: petals2_104x100_200
+  - first:
+      213: -7915934748919404232
+    second: petals2_104x100_201
+  - first:
+      213: 682287334584712150
+    second: petals2_104x100_202
+  - first:
+      213: 9158033514087382884
+    second: petals2_104x100_203
+  - first:
+      213: 7159111804267336656
+    second: petals2_104x100_204
+  - first:
+      213: -5408695317727546377
+    second: petals2_104x100_205
+  - first:
+      213: -3358419208498985527
+    second: petals2_104x100_206
+  - first:
+      213: 8197741489970060768
+    second: petals2_104x100_207
+  - first:
+      213: -9115223316575990810
+    second: petals2_104x100_208
+  - first:
+      213: 6311982290923452913
+    second: petals2_104x100_209
+  - first:
+      213: 1298850117793779539
+    second: petals2_104x100_210
+  - first:
+      213: 4638454848633516460
+    second: petals2_104x100_211
+  - first:
+      213: 187383248307472192
+    second: petals2_104x100_212
+  - first:
+      213: 3344241198345600077
+    second: petals2_104x100_213
+  - first:
+      213: -1348838326951739931
+    second: petals2_104x100_214
+  - first:
+      213: -1769383138584820376
+    second: petals2_104x100_215
+  - first:
+      213: 718925645990621436
+    second: petals2_104x100_216
+  - first:
+      213: 2846213944233247434
+    second: petals2_104x100_217
+  - first:
+      213: -4335430016892408737
+    second: petals2_104x100_218
+  - first:
+      213: -3842485710930951970
+    second: petals2_104x100_219
+  - first:
+      213: -6674945755897710508
+    second: petals2_104x100_220
+  - first:
+      213: 7986417277579323154
+    second: petals2_104x100_221
+  - first:
+      213: -8812422956646599444
+    second: petals2_104x100_222
+  - first:
+      213: -6416397237780071340
+    second: petals2_104x100_223
+  - first:
+      213: 5717305372126009394
+    second: petals2_104x100_224
+  - first:
+      213: -3394824169742034541
+    second: petals2_104x100_225
+  - first:
+      213: 2144925843944472244
+    second: petals2_104x100_226
+  - first:
+      213: 1962330744525732196
+    second: petals2_104x100_227
+  - first:
+      213: 7094019975230607934
+    second: petals2_104x100_228
+  - first:
+      213: 7550123232626970155
+    second: petals2_104x100_229
+  - first:
+      213: 2796876472196046749
+    second: petals2_104x100_230
+  - first:
+      213: -2340648030255741191
+    second: petals2_104x100_231
+  - first:
+      213: -6045641640284463595
+    second: petals2_104x100_232
+  - first:
+      213: -8242014660828450512
+    second: petals2_104x100_233
+  - first:
+      213: -5912364469127904918
+    second: petals2_104x100_234
+  - first:
+      213: -5475486042089560943
+    second: petals2_104x100_235
+  - first:
+      213: -1915688038500451549
+    second: petals2_104x100_236
+  - first:
+      213: -5229697166423627780
+    second: petals2_104x100_237
+  - first:
+      213: 8135811050762271321
+    second: petals2_104x100_238
+  - first:
+      213: -501965367466369257
+    second: petals2_104x100_239
+  - first:
+      213: 6639252441152271975
+    second: petals2_104x100_240
+  - first:
+      213: -3842397374478143843
+    second: petals2_104x100_241
+  - first:
+      213: 8959663314021514754
+    second: petals2_104x100_242
+  - first:
+      213: -195433359185265312
+    second: petals2_104x100_243
+  - first:
+      213: 5076226926779036350
+    second: petals2_104x100_244
+  - first:
+      213: 1751141939714154561
+    second: petals2_104x100_245
+  - first:
+      213: 7051507519095995995
+    second: petals2_104x100_246
+  - first:
+      213: -4806220195050555559
+    second: petals2_104x100_247
+  - first:
+      213: 6974867802287795126
+    second: petals2_104x100_248
+  - first:
+      213: 8789488229031389689
+    second: petals2_104x100_249
+  - first:
+      213: 4813390328876755360
+    second: petals2_104x100_250
+  - first:
+      213: -693493051740376340
+    second: petals2_104x100_251
+  - first:
+      213: -6954879958813303613
+    second: petals2_104x100_252
+  - first:
+      213: -975098620212179620
+    second: petals2_104x100_253
+  - first:
+      213: -1240313195439397975
+    second: petals2_104x100_254
+  - first:
+      213: 3636347026888887037
+    second: petals2_104x100_255
+  - first:
+      213: -3713066700729768719
+    second: petals2_104x100_256
+  - first:
+      213: 1503301930113752344
+    second: petals2_104x100_257
+  - first:
+      213: 4972975200705894403
+    second: petals2_104x100_258
+  - first:
+      213: 9139137176250131479
+    second: petals2_104x100_259
+  - first:
+      213: -8892769660136289794
+    second: petals2_104x100_260
+  - first:
+      213: -7255542629294556546
+    second: petals2_104x100_261
+  - first:
+      213: 8690948983325399333
+    second: petals2_104x100_262
+  - first:
+      213: -5379548548015815285
+    second: petals2_104x100_263
+  - first:
+      213: 4340981785491602605
+    second: petals2_104x100_264
+  - first:
+      213: -5106850316025621912
+    second: petals2_104x100_265
+  - first:
+      213: -3870460306259608082
+    second: petals2_104x100_266
+  - first:
+      213: -692350953651421263
+    second: petals2_104x100_267
+  - first:
+      213: 8479231138323249665
+    second: petals2_104x100_268
+  - first:
+      213: 148631641633645905
+    second: petals2_104x100_269
+  - first:
+      213: 6960473797417614667
+    second: petals2_104x100_270
+  - first:
+      213: -4521935271166995360
+    second: petals2_104x100_271
+  - first:
+      213: -5390368715294674259
+    second: petals2_104x100_272
+  - first:
+      213: -4725164885711234743
+    second: petals2_104x100_273
+  - first:
+      213: 5263311025577296236
+    second: petals2_104x100_274
+  - first:
+      213: 5221399836205878888
+    second: petals2_104x100_275
+  - first:
+      213: -7089813471275769620
+    second: petals2_104x100_276
+  - first:
+      213: 560449104651603459
+    second: petals2_104x100_277
+  - first:
+      213: -6526014141180938387
+    second: petals2_104x100_278
+  - first:
+      213: -1692775709937478212
+    second: petals2_104x100_279
+  - first:
+      213: -6015632541461997048
+    second: petals2_104x100_280
+  - first:
+      213: -4704720996397907330
+    second: petals2_104x100_281
+  - first:
+      213: 4533120231073126881
+    second: petals2_104x100_282
+  - first:
+      213: -8506237931973297454
+    second: petals2_104x100_283
+  - first:
+      213: -1678303106554874347
+    second: petals2_104x100_284
+  - first:
+      213: -1085697624852751118
+    second: petals2_104x100_285
+  - first:
+      213: 5539157715680690264
+    second: petals2_104x100_286
+  - first:
+      213: 2624051436461316717
+    second: petals2_104x100_287
+  - first:
+      213: 4524455275073692982
+    second: petals2_104x100_288
+  - first:
+      213: -5859878511330904143
+    second: petals2_104x100_289
+  - first:
+      213: -7732329661981588590
+    second: petals2_104x100_290
+  - first:
+      213: -7593866907721734142
+    second: petals2_104x100_291
+  - first:
+      213: 3918851108180981663
+    second: petals2_104x100_292
+  - first:
+      213: -3922819446161268271
+    second: petals2_104x100_293
+  - first:
+      213: -236663625981399529
+    second: petals2_104x100_294
+  - first:
+      213: -806077037823567077
+    second: petals2_104x100_295
+  - first:
+      213: -1354858209537767087
+    second: petals2_104x100_296
+  - first:
+      213: 8725408616518559333
+    second: petals2_104x100_297
+  - first:
+      213: 925198841175560275
+    second: petals2_104x100_298
+  - first:
+      213: -8242430012688085117
+    second: petals2_104x100_299
+  - first:
+      213: 3037770603386087817
+    second: petals2_104x100_300
+  - first:
+      213: -6468588674792879008
+    second: petals2_104x100_301
+  - first:
+      213: 2068082965620258144
+    second: petals2_104x100_302
+  - first:
+      213: 3640097762329756746
+    second: petals2_104x100_303
+  - first:
+      213: 7389391805674961820
+    second: petals2_104x100_304
+  - first:
+      213: 3687084424455093566
+    second: petals2_104x100_305
+  - first:
+      213: -4888179058056912283
+    second: petals2_104x100_306
+  - first:
+      213: -2033564461051209257
+    second: petals2_104x100_307
+  - first:
+      213: -8273947164452672993
+    second: petals2_104x100_308
+  - first:
+      213: 465034051054259363
+    second: petals2_104x100_309
+  - first:
+      213: 2765784497416144675
+    second: petals2_104x100_310
+  - first:
+      213: -4001959663282148245
+    second: petals2_104x100_311
+  - first:
+      213: 572480258810832713
+    second: petals2_104x100_312
+  - first:
+      213: -2257337025643474314
+    second: petals2_104x100_313
+  - first:
+      213: -6987409252922860052
+    second: petals2_104x100_314
+  - first:
+      213: -5507304199008983703
+    second: petals2_104x100_315
+  - first:
+      213: 8782156300785262037
+    second: petals2_104x100_316
+  - first:
+      213: -2290546901791773412
+    second: petals2_104x100_317
+  - first:
+      213: 1930537146406061098
+    second: petals2_104x100_318
+  - first:
+      213: 7044975203293267806
+    second: petals2_104x100_319
+  - first:
+      213: 5594330477417552707
+    second: petals2_104x100_320
+  - first:
+      213: 1696628643862712476
+    second: petals2_104x100_321
+  - first:
+      213: -1412846943639111743
+    second: petals2_104x100_322
+  - first:
+      213: -623136361456630077
+    second: petals2_104x100_323
+  - first:
+      213: 2000596963705761368
+    second: petals2_104x100_324
+  - first:
+      213: -3142566652643074313
+    second: petals2_104x100_325
+  - first:
+      213: -8031058361768710447
+    second: petals2_104x100_326
+  - first:
+      213: -8893081994350512144
+    second: petals2_104x100_327
+  - first:
+      213: -4258767948615564738
+    second: petals2_104x100_328
+  - first:
+      213: 4829393464783335599
+    second: petals2_104x100_329
+  - first:
+      213: -4251484456303009235
+    second: petals2_104x100_330
+  - first:
+      213: 4485034268965188254
+    second: petals2_104x100_331
+  - first:
+      213: -78541727581033494
+    second: petals2_104x100_332
+  - first:
+      213: -3314488257563219873
+    second: petals2_104x100_333
+  - first:
+      213: -8412944864686143905
+    second: petals2_104x100_334
+  - first:
+      213: -8747367442041824151
+    second: petals2_104x100_335
+  - first:
+      213: 4603607821940203439
+    second: petals2_104x100_336
+  - first:
+      213: 3869488875234465206
+    second: petals2_104x100_337
+  - first:
+      213: -6065192131291784761
+    second: petals2_104x100_338
+  - first:
+      213: -2624252096576150181
+    second: petals2_104x100_339
+  - first:
+      213: -6782411486439706125
+    second: petals2_104x100_340
+  - first:
+      213: 5414947679900166291
+    second: petals2_104x100_341
+  - first:
+      213: -4398943085228170254
+    second: petals2_104x100_342
+  - first:
+      213: -6281398588769301136
+    second: petals2_104x100_343
+  - first:
+      213: 3167877738711442672
+    second: petals2_104x100_344
+  - first:
+      213: 8775903988228802296
+    second: petals2_104x100_345
+  - first:
+      213: 5596521413354557533
+    second: petals2_104x100_346
+  - first:
+      213: 314474924615540035
+    second: petals2_104x100_347
+  - first:
+      213: 5673333184742290653
+    second: petals2_104x100_348
+  - first:
+      213: 4146366807391433727
+    second: petals2_104x100_349
+  - first:
+      213: 2712330826618323735
+    second: petals2_104x100_350
+  - first:
+      213: 9150590740254295369
+    second: petals2_104x100_351
+  - first:
+      213: 7871917509983403524
+    second: petals2_104x100_352
+  - first:
+      213: 4028025318267987206
+    second: petals2_104x100_353
+  - first:
+      213: -8383854352600728125
+    second: petals2_104x100_354
+  - first:
+      213: 6723185344414320874
+    second: petals2_104x100_355
+  - first:
+      213: -4071869641024086156
+    second: petals2_104x100_356
+  - first:
+      213: -8349704017523675794
+    second: petals2_104x100_357
+  - first:
+      213: -7643178255006546610
+    second: petals2_104x100_358
+  - first:
+      213: 9003800162575279381
+    second: petals2_104x100_359
+  - first:
+      213: -3732702704046224754
+    second: petals2_104x100_360
+  - first:
+      213: 2784007932239383455
+    second: petals2_104x100_361
+  - first:
+      213: 2608177433117238426
+    second: petals2_104x100_362
+  - first:
+      213: 1778124291630545360
+    second: petals2_104x100_363
+  - first:
+      213: 1395616204139921136
+    second: petals2_104x100_364
+  - first:
+      213: 8827203905496243850
+    second: petals2_104x100_365
+  - first:
+      213: -5212292071523954051
+    second: petals2_104x100_366
+  - first:
+      213: -222954101098970569
+    second: petals2_104x100_367
+  - first:
+      213: -5272572521396738382
+    second: petals2_104x100_368
+  - first:
+      213: 1414840940415094596
+    second: petals2_104x100_369
+  - first:
+      213: 3171187988282581031
+    second: petals2_104x100_370
+  - first:
+      213: 4765322107165326843
+    second: petals2_104x100_371
+  - first:
+      213: 2979682092016112384
+    second: petals2_104x100_372
+  - first:
+      213: -4480740326427286820
+    second: petals2_104x100_373
+  - first:
+      213: 4375537795112903594
+    second: petals2_104x100_374
+  - first:
+      213: 3167308894073536565
+    second: petals2_104x100_375
+  - first:
+      213: 6638002486449168724
+    second: petals2_104x100_376
+  - first:
+      213: -3509919404644255477
+    second: petals2_104x100_377
+  - first:
+      213: 2777019698162405391
+    second: petals2_104x100_378
+  - first:
+      213: 7253359940380298586
+    second: petals2_104x100_379
+  - first:
+      213: -3191482833163457921
+    second: petals2_104x100_380
+  - first:
+      213: 5683478606724401414
+    second: petals2_104x100_381
+  - first:
+      213: -5535213544145332430
+    second: petals2_104x100_382
+  - first:
+      213: 166477782570080351
+    second: petals2_104x100_383
+  - first:
+      213: 6555472155063051749
+    second: petals2_104x100_384
+  - first:
+      213: -6630873869422486840
+    second: petals2_104x100_385
+  - first:
+      213: -5730939662515872741
+    second: petals2_104x100_386
+  - first:
+      213: -8376136585553447092
+    second: petals2_104x100_387
+  - first:
+      213: -4166555554523179570
+    second: petals2_104x100_388
+  - first:
+      213: -2695416179477358068
+    second: petals2_104x100_389
+  - first:
+      213: -7606581526930318098
+    second: petals2_104x100_390
+  - first:
+      213: 2356065578942986673
+    second: petals2_104x100_391
+  - first:
+      213: 2043886269342793594
+    second: petals2_104x100_392
+  - first:
+      213: 9147888993945482270
+    second: petals2_104x100_393
+  - first:
+      213: -9011247020399661549
+    second: petals2_104x100_394
+  - first:
+      213: 5344210825875327774
+    second: petals2_104x100_395
+  - first:
+      213: -2581143495300149640
+    second: petals2_104x100_396
+  - first:
+      213: 8014062045525990058
+    second: petals2_104x100_397
+  - first:
+      213: -5698385522411060445
+    second: petals2_104x100_398
+  - first:
+      213: -1066378934174047208
+    second: petals2_104x100_399
+  - first:
+      213: -6654340640246575700
+    second: petals2_104x100_400
+  - first:
+      213: -725785165609824280
+    second: petals2_104x100_401
+  - first:
+      213: 7363731206502657526
+    second: petals2_104x100_402
+  - first:
+      213: 6664833709251947582
+    second: petals2_104x100_403
+  - first:
+      213: -5158964084234012006
+    second: petals2_104x100_404
+  - first:
+      213: 72171025710434738
+    second: petals2_104x100_405
+  - first:
+      213: -839267184533363529
+    second: petals2_104x100_406
+  - first:
+      213: -2894596784992417076
+    second: petals2_104x100_407
+  - first:
+      213: -8339693626075767872
+    second: petals2_104x100_408
+  - first:
+      213: -6189160195818379186
+    second: petals2_104x100_409
+  - first:
+      213: -5755202316067186019
+    second: petals2_104x100_410
+  - first:
+      213: -6820885649294101755
+    second: petals2_104x100_411
+  - first:
+      213: -2764475329634421268
+    second: petals2_104x100_412
+  - first:
+      213: 505078028533642462
+    second: petals2_104x100_413
+  - first:
+      213: 6883974465056820955
+    second: petals2_104x100_414
+  - first:
+      213: 3160054442774438859
+    second: petals2_104x100_415
+  - first:
+      213: 3869845966516958526
+    second: petals2_104x100_416
+  - first:
+      213: 6213463461149574575
+    second: petals2_104x100_417
+  - first:
+      213: -3678117289746490732
+    second: petals2_104x100_418
+  - first:
+      213: 7287193916232570981
+    second: petals2_104x100_419
+  - first:
+      213: -7007181062882163287
+    second: petals2_104x100_420
+  - first:
+      213: -2283705871780807369
+    second: petals2_104x100_421
+  - first:
+      213: 4165104052206455012
+    second: petals2_104x100_422
+  - first:
+      213: 522940585199444649
+    second: petals2_104x100_423
+  - first:
+      213: -3617056438628342666
+    second: petals2_104x100_424
+  - first:
+      213: -8098605589225755388
+    second: petals2_104x100_425
+  - first:
+      213: -1590349015851344041
+    second: petals2_104x100_426
+  - first:
+      213: 5278106385493134508
+    second: petals2_104x100_427
+  - first:
+      213: 2294756545008277391
+    second: petals2_104x100_428
+  - first:
+      213: -7034033112036437918
+    second: petals2_104x100_429
+  - first:
+      213: 7588542996451180915
+    second: petals2_104x100_430
+  - first:
+      213: 1282008468899618829
+    second: petals2_104x100_431
+  - first:
+      213: 9037524928296289242
+    second: petals2_104x100_432
+  - first:
+      213: 1896543619858566164
+    second: petals2_104x100_433
+  - first:
+      213: -239192699054699881
+    second: petals2_104x100_434
+  - first:
+      213: 6037658472120767896
+    second: petals2_104x100_435
+  - first:
+      213: -4988906477162652638
+    second: petals2_104x100_436
+  - first:
+      213: 5704624007358574194
+    second: petals2_104x100_437
+  - first:
+      213: 2547250390090497783
+    second: petals2_104x100_438
+  - first:
+      213: -8232560249792813129
+    second: petals2_104x100_439
+  - first:
+      213: 2225523304828877832
+    second: petals2_104x100_440
+  - first:
+      213: -1770326204016845124
+    second: petals2_104x100_441
+  - first:
+      213: 2531348933491695030
+    second: petals2_104x100_442
+  - first:
+      213: -2262719272579251261
+    second: petals2_104x100_443
+  - first:
+      213: -4593200362082193168
+    second: petals2_104x100_444
+  - first:
+      213: 8091506237997283828
+    second: petals2_104x100_445
+  - first:
+      213: 5300697593923310143
+    second: petals2_104x100_446
+  - first:
+      213: 2872655000369866311
+    second: petals2_104x100_447
+  - first:
+      213: -4983175238735583331
+    second: petals2_104x100_448
+  - first:
+      213: 8414675706586063151
+    second: petals2_104x100_449
+  - first:
+      213: 6122927577966214881
+    second: petals2_104x100_450
+  - first:
+      213: 3618305330187925309
+    second: petals2_104x100_451
+  - first:
+      213: -476123286421473246
+    second: petals2_104x100_452
+  - first:
+      213: -1946102417061774129
+    second: petals2_104x100_453
+  - first:
+      213: -7336227164171939598
+    second: petals2_104x100_454
+  - first:
+      213: 7243840066000326532
+    second: petals2_104x100_455
+  - first:
+      213: 6943008552712324805
+    second: petals2_104x100_456
+  - first:
+      213: 1855162410065088621
+    second: petals2_104x100_457
+  - first:
+      213: -4228212581050627113
+    second: petals2_104x100_458
+  - first:
+      213: -3313509416897176938
+    second: petals2_104x100_459
+  - first:
+      213: 4548035494905327881
+    second: petals2_104x100_460
+  - first:
+      213: -5752960533878121377
+    second: petals2_104x100_461
+  - first:
+      213: -7775399616885342157
+    second: petals2_104x100_462
+  - first:
+      213: -2257941832650722716
+    second: petals2_104x100_463
+  - first:
+      213: 1544021950032677442
+    second: petals2_104x100_464
+  - first:
+      213: 2167048577758932055
+    second: petals2_104x100_465
+  - first:
+      213: 6121922960875892042
+    second: petals2_104x100_466
+  - first:
+      213: -414043469355213273
+    second: petals2_104x100_467
+  - first:
+      213: -2849500492504604888
+    second: petals2_104x100_468
+  - first:
+      213: -7479901790117803914
+    second: petals2_104x100_469
+  - first:
+      213: 4174875907628638224
+    second: petals2_104x100_470
+  - first:
+      213: -1226415824928526400
+    second: petals2_104x100_471
+  - first:
+      213: 8507268908614588176
+    second: petals2_104x100_472
+  - first:
+      213: 115249854237755221
+    second: petals2_104x100_473
+  - first:
+      213: 4100612793524642820
+    second: petals2_104x100_474
+  - first:
+      213: 4427760481721459056
+    second: petals2_104x100_475
+  - first:
+      213: 4518587281794069766
+    second: petals2_104x100_476
+  - first:
+      213: -1520172181518791050
+    second: petals2_104x100_477
+  - first:
+      213: 838086657289306892
+    second: petals2_104x100_478
+  - first:
+      213: -5868770544973486836
+    second: petals2_104x100_479
+  - first:
+      213: -2783548484325385090
+    second: petals2_104x100_480
+  - first:
+      213: 453002186330723003
+    second: petals2_104x100_481
+  - first:
+      213: -6689915170699012186
+    second: petals2_104x100_482
+  - first:
+      213: 8502809106956989614
+    second: petals2_104x100_483
+  - first:
+      213: 4665756615323901774
+    second: petals2_104x100_484
+  - first:
+      213: -2628836653542046392
+    second: petals2_104x100_485
+  - first:
+      213: -8014844286775562668
+    second: petals2_104x100_486
+  - first:
+      213: -7041737707164011962
+    second: petals2_104x100_487
+  - first:
+      213: -8566348352378806452
+    second: petals2_104x100_488
+  - first:
+      213: -5990839693666221551
+    second: petals2_104x100_489
+  - first:
+      213: -3179008297720158576
+    second: petals2_104x100_490
+  - first:
+      213: -197421729799908878
+    second: petals2_104x100_491
+  - first:
+      213: 4101262522311935713
+    second: petals2_104x100_492
+  - first:
+      213: 7471962198529503837
+    second: petals2_104x100_493
+  - first:
+      213: 6566025311842872589
+    second: petals2_104x100_494
+  - first:
+      213: 8901741814105484871
+    second: petals2_104x100_495
+  - first:
+      213: 4166540009824897887
+    second: petals2_104x100_496
+  - first:
+      213: 4089719432275580934
+    second: petals2_104x100_497
+  - first:
+      213: 962247635883300934
+    second: petals2_104x100_498
+  - first:
+      213: 6962255841761914530
+    second: petals2_104x100_499
+  - first:
+      213: -1569156660959300333
+    second: petals2_104x100_500
+  - first:
+      213: 4170414914340782424
+    second: petals2_104x100_501
+  - first:
+      213: -3068532230526898308
+    second: petals2_104x100_502
+  - first:
+      213: 5688878989393192001
+    second: petals2_104x100_503
+  - first:
+      213: -5125261771524169904
+    second: petals2_104x100_504
+  - first:
+      213: -928564792766305172
+    second: petals2_104x100_505
+  - first:
+      213: 644852896891101547
+    second: petals2_104x100_506
+  - first:
+      213: 8576253002879365156
+    second: petals2_104x100_507
+  - first:
+      213: 1456736036636130964
+    second: petals2_104x100_508
+  - first:
+      213: 298063473533098226
+    second: petals2_104x100_509
+  - first:
+      213: 9107400939846523440
+    second: petals2_104x100_510
+  - first:
+      213: -3025229494256555220
+    second: petals2_104x100_511
+  - first:
+      213: -4342093189553012454
+    second: petals2_104x100_512
+  - first:
+      213: -712304820001434880
+    second: petals2_104x100_513
+  - first:
+      213: -2361406603761880268
+    second: petals2_104x100_514
+  - first:
+      213: 988873325966675890
+    second: petals2_104x100_515
+  - first:
+      213: 8473088288221794657
+    second: petals2_104x100_516
+  - first:
+      213: -4627150838256039129
+    second: petals2_104x100_517
+  - first:
+      213: 3057592756520045841
+    second: petals2_104x100_518
+  - first:
+      213: 3311125868428179020
+    second: petals2_104x100_519
+  - first:
+      213: 6701887633217372600
+    second: petals2_104x100_520
+  - first:
+      213: -7067086793611322762
+    second: petals2_104x100_521
+  - first:
+      213: 5814761958258216101
+    second: petals2_104x100_522
+  - first:
+      213: 3658436463139964296
+    second: petals2_104x100_523
+  - first:
+      213: 9133224029318751401
+    second: petals2_104x100_524
+  - first:
+      213: 5160408517154565606
+    second: petals2_104x100_525
+  - first:
+      213: -7741347898810339101
+    second: petals2_104x100_526
+  - first:
+      213: -3234438550739974880
+    second: petals2_104x100_527
+  - first:
+      213: 7221290818056803277
+    second: petals2_104x100_528
+  - first:
+      213: -7486867663598353341
+    second: petals2_104x100_529
+  - first:
+      213: 3671455840314801201
+    second: petals2_104x100_530
+  - first:
+      213: 4904258637467711881
+    second: petals2_104x100_531
+  - first:
+      213: -7629467342864691391
+    second: petals2_104x100_532
+  - first:
+      213: 7301525786830731132
+    second: petals2_104x100_533
+  - first:
+      213: 3702032465261592268
+    second: petals2_104x100_534
+  - first:
+      213: -5649357298784598697
+    second: petals2_104x100_535
+  - first:
+      213: 7244834186322638890
+    second: petals2_104x100_536
+  - first:
+      213: -8127787236472889419
+    second: petals2_104x100_537
+  - first:
+      213: -4934048616715607708
+    second: petals2_104x100_538
+  - first:
+      213: -5139708605746916932
+    second: petals2_104x100_539
+  - first:
+      213: -3098674741228157914
+    second: petals2_104x100_540
+  - first:
+      213: 1617790210710810999
+    second: petals2_104x100_541
+  - first:
+      213: 3493657286850626175
+    second: petals2_104x100_542
+  - first:
+      213: 1563678198093742497
+    second: petals2_104x100_543
+  - first:
+      213: -4451990848084377575
+    second: petals2_104x100_544
+  - first:
+      213: -7650421095721148285
+    second: petals2_104x100_545
+  - first:
+      213: 1997069862221081537
+    second: petals2_104x100_546
+  - first:
+      213: -7967501723330343713
+    second: petals2_104x100_547
+  - first:
+      213: -5445021268520065627
+    second: petals2_104x100_548
+  - first:
+      213: -3571397372446400902
+    second: petals2_104x100_549
+  - first:
+      213: 181983067531705743
+    second: petals2_104x100_550
+  - first:
+      213: 3146100484786314624
+    second: petals2_104x100_551
+  - first:
+      213: 8553504976095362119
+    second: petals2_104x100_552
+  - first:
+      213: 2244429321606988517
+    second: petals2_104x100_553
+  - first:
+      213: -3154145825706834652
+    second: petals2_104x100_554
+  - first:
+      213: -6771876512164111676
+    second: petals2_104x100_555
+  - first:
+      213: -8175765153363495934
+    second: petals2_104x100_556
+  - first:
+      213: 7377772395962790806
+    second: petals2_104x100_557
+  - first:
+      213: -7319352145267888529
+    second: petals2_104x100_558
+  - first:
+      213: -435589074411004815
+    second: petals2_104x100_559
+  - first:
+      213: -6066962304055613231
+    second: petals2_104x100_560
+  - first:
+      213: -7047917514280264116
+    second: petals2_104x100_561
+  - first:
+      213: -1785385702997448484
+    second: petals2_104x100_562
+  - first:
+      213: 2891552055232469258
+    second: petals2_104x100_563
+  - first:
+      213: 2649997499638532195
+    second: petals2_104x100_564
+  - first:
+      213: 2941253467149893365
+    second: petals2_104x100_565
+  - first:
+      213: -7145035391740244952
+    second: petals2_104x100_566
+  - first:
+      213: 8996843687259067247
+    second: petals2_104x100_567
+  - first:
+      213: -6785098892899125512
+    second: petals2_104x100_568
+  - first:
+      213: -2055299034630556345
+    second: petals2_104x100_569
+  - first:
+      213: -268058359758521981
+    second: petals2_104x100_570
+  - first:
+      213: -513243592661035723
+    second: petals2_104x100_571
+  - first:
+      213: -8343329695915663604
+    second: petals2_104x100_572
+  - first:
+      213: -698723703304474521
+    second: petals2_104x100_573
+  - first:
+      213: -7289763098697733036
+    second: petals2_104x100_574
+  - first:
+      213: -7394135686260952783
+    second: petals2_104x100_575
+  - first:
+      213: -7332875660760209522
+    second: petals2_104x100_576
+  - first:
+      213: 1043480435406839616
+    second: petals2_104x100_577
+  - first:
+      213: 7813703996684093908
+    second: petals2_104x100_578
+  - first:
+      213: 3774727198138609442
+    second: petals2_104x100_579
+  - first:
+      213: -3547917852577674490
+    second: petals2_104x100_580
+  - first:
+      213: -9126692912597559245
+    second: petals2_104x100_581
+  - first:
+      213: 3891602178100145529
+    second: petals2_104x100_582
+  - first:
+      213: 5491855679106149082
+    second: petals2_104x100_583
+  - first:
+      213: 1948104255181950266
+    second: petals2_104x100_584
+  - first:
+      213: -151730036790169455
+    second: petals2_104x100_585
+  - first:
+      213: -5965574781172206892
+    second: petals2_104x100_586
+  - first:
+      213: -2037145337709420429
+    second: petals2_104x100_587
+  - first:
+      213: 664409590418059629
+    second: petals2_104x100_588
+  - first:
+      213: 6480821392970870623
+    second: petals2_104x100_589
+  - first:
+      213: -5854322977107916703
+    second: petals2_104x100_590
+  - first:
+      213: -9060551996459647881
+    second: petals2_104x100_591
+  - first:
+      213: -6775538550368121208
+    second: petals2_104x100_592
+  - first:
+      213: 7323499033185808075
+    second: petals2_104x100_593
+  - first:
+      213: -6550039733698395260
+    second: petals2_104x100_594
+  - first:
+      213: -2975405102599497115
+    second: petals2_104x100_595
+  - first:
+      213: 2459257233260134696
+    second: petals2_104x100_596
+  - first:
+      213: 1582738806646201457
+    second: petals2_104x100_597
+  - first:
+      213: 153222128615305808
+    second: petals2_104x100_598
+  - first:
+      213: 2214639463499097239
+    second: petals2_104x100_599
+  - first:
+      213: -8915640159924395978
+    second: petals2_104x100_600
+  - first:
+      213: 7364569258813251093
+    second: petals2_104x100_601
+  - first:
+      213: -7003759330389628778
+    second: petals2_104x100_602
+  - first:
+      213: 6530295473549179368
+    second: petals2_104x100_603
+  - first:
+      213: -710785203104634505
+    second: petals2_104x100_604
+  - first:
+      213: -1564109256607488019
+    second: petals2_104x100_605
+  - first:
+      213: 7339270428100919852
+    second: petals2_104x100_606
+  - first:
+      213: 6827894219543841590
+    second: petals2_104x100_607
+  - first:
+      213: -7677754984908231296
+    second: petals2_104x100_608
+  - first:
+      213: -4706236180679841975
+    second: petals2_104x100_609
+  - first:
+      213: 5128783415807763295
+    second: petals2_104x100_610
+  - first:
+      213: -854855657974003177
+    second: petals2_104x100_611
+  - first:
+      213: 2094424250535255795
+    second: petals2_104x100_612
+  - first:
+      213: 23458903494486682
+    second: petals2_104x100_613
+  - first:
+      213: -7089943529281057935
+    second: petals2_104x100_614
+  - first:
+      213: 6562887832145691575
+    second: petals2_104x100_615
+  - first:
+      213: 7401103361725652512
+    second: petals2_104x100_616
+  - first:
+      213: 6610601941510030378
+    second: petals2_104x100_617
+  - first:
+      213: -8655108342070568653
+    second: petals2_104x100_618
+  - first:
+      213: -3418437328322097970
+    second: petals2_104x100_619
+  - first:
+      213: -4648706597776703810
+    second: petals2_104x100_620
+  - first:
+      213: 7209852375829484639
+    second: petals2_104x100_621
+  - first:
+      213: -2954187432745757967
+    second: petals2_104x100_622
+  - first:
+      213: 6355766031205953576
+    second: petals2_104x100_623
+  - first:
+      213: -7286737420326225639
+    second: petals2_104x100_624
+  - first:
+      213: 7325513470460006364
+    second: petals2_104x100_625
+  - first:
+      213: -3711471770544508096
+    second: petals2_104x100_626
+  - first:
+      213: 1938168807044099344
+    second: petals2_104x100_627
+  - first:
+      213: 1006162578308389744
+    second: petals2_104x100_628
+  - first:
+      213: -6876782657829241986
+    second: petals2_104x100_629
+  - first:
+      213: 8354696694684956921
+    second: petals2_104x100_630
+  - first:
+      213: 2726926378355017118
+    second: petals2_104x100_631
+  - first:
+      213: -1169347158991324760
+    second: petals2_104x100_632
+  - first:
+      213: 3693606747611413220
+    second: petals2_104x100_633
+  - first:
+      213: 4187624927539197689
+    second: petals2_104x100_634
+  - first:
+      213: 4623315247315616994
+    second: petals2_104x100_635
+  - first:
+      213: -1697591155040091094
+    second: petals2_104x100_636
+  - first:
+      213: 8995272124865358102
+    second: petals2_104x100_637
+  - first:
+      213: 8476093083262649608
+    second: petals2_104x100_638
+  - first:
+      213: 6432905598926339275
+    second: petals2_104x100_639
+  - first:
+      213: -37360406320183880
+    second: petals2_104x100_640
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: petals2_104x100_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700101c25b2dcc120800000000000000
+      internalID: 2435553174070759431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f6ec4137274c20800000000000000
+      internalID: 3190561953712371438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d14796d40af3490800000000000000
+      internalID: -7764310978221302491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a747361be06b37910800000000000000
+      internalID: 1834009647491806330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247bc526cba4efd90800000000000000
+      internalID: -7062124992705808574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_5
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92939fd8faaebca40800000000000000
+      internalID: 5389659418801027369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5c1ff340ec14860800000000000000
+      internalID: 7512512171078698469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_7
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5323501299eb0ce80800000000000000
+      internalID: -8160312959902076363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_8
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e156cbe58f6d7db10800000000000000
+      internalID: 2006308521246483742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf534fb8cfe42db50800000000000000
+      internalID: 6616437649147442684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_10
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69aee821316e4e00800000000000000
+      internalID: 1030868228482443631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_11
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d827ce92337e640800000000000000
+      internalID: 5109108557428723039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_12
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef297b07e39efb4c0800000000000000
+      internalID: -4269437467335617794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_13
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1c41d616799e1f0800000000000000
+      internalID: -1015113796297637463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_14
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fc35e9cefb47f30800000000000000
+      internalID: 4572490544677375900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9302f3e11efb75aa0800000000000000
+      internalID: -6172253790691975111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7383444078e05c0800000000000000
+      internalID: -4247308946169645104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abfaaac7ce4902a0800000000000000
+      internalID: -6770793944769168479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7027b4a560f5600800000000000000
+      internalID: 459092671897667580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a30adf230d1ee1e0800000000000000
+      internalID: -2166762471193705563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e11791f9d455f900800000000000000
+      internalID: 717573010673308129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_21
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a430fefa19c2d0800000000000000
+      internalID: -3258043173171845129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326c173a643ee0a40800000000000000
+      internalID: 5336452501009974819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15af433df1c48ad20800000000000000
+      internalID: 3289963227365309009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516f6becf571cb640800000000000000
+      internalID: 5096974578533987861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_25
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c432c0a2f57822ab0800000000000000
+      internalID: -5034312590649711796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_26
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce59e9b97f0bc790800000000000000
+      internalID: -7508890938225631549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_27
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9495c3464b1c43df0800000000000000
+      internalID: -201323102804879031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_28
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6ce892b12bf60e0800000000000000
+      internalID: -2274403457067727181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_29
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c74e4169e30fead0800000000000000
+      internalID: -2670911753112631358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0743013f194bbbd00800000000000000
+      internalID: 989583082079138928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c09d732467e0c30800000000000000
+      internalID: 4327526318726515868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a147208642b581840800000000000000
+      internalID: 5195002382093808666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_33
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4e2188fec394710800000000000000
+      internalID: 1677939335650010294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b447fc24161dc4e60800000000000000
+      internalID: 7947957658065007691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_35
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781510aa448a5d840800000000000000
+      internalID: 5248285953633636743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_36
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032f1980a103074f0800000000000000
+      internalID: -833113042692476368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_37
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c160373392f5d0800000000000000
+      internalID: -3030197734022723629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_38
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb542954960c0500800000000000000
+      internalID: 363672904130649063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_39
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65305510898290d0800000000000000
+      internalID: -3417517984014387860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_40
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7c47e1dc75217c0800000000000000
+      internalID: -4102119772090218515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_41
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ed1d854b4747370800000000000000
+      internalID: 8319402729593232919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_42
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a44c7438cc74ca0800000000000000
+      internalID: -6032628311622661513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_43
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f95cb64c08b8b90800000000000000
+      internalID: -7238550394957881583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_44
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4074177da3a1e4c0800000000000000
+      internalID: -4259943807093280694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966816ab5407b02e0800000000000000
+      internalID: -2158508151612012951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_46
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db90bd5d32de60c0800000000000000
+      internalID: -4580492609982522412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eba015a655619670800000000000000
+      internalID: 8543721390909467625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea23e46d995f02a0800000000000000
+      internalID: -6769093182377219360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94a3dc9ec5cf2210800000000000000
+      internalID: 1310483507773154459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467eddedc0b831850800000000000000
+      internalID: 6346569187290113892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2e5faf57444dfe0800000000000000
+      internalID: -1165231130069835019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_52
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54f61dcbb701350800000000000000
+      internalID: 5985419955673187772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_53
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07a0baf0a90bcac0800000000000000
+      internalID: -3833960070770546929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_54
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231a826b70cd7fe70800000000000000
+      internalID: 9149023093705449778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_55
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e56a7ac43c01170800000000000000
+      internalID: 8147226459910856267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_56
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28b96b69910fe630800000000000000
+      internalID: 3958384355925669935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_57
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8e7e5b260ac960800000000000000
+      internalID: 7622912102616698697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_58
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df14c42a05f60400800000000000000
+      internalID: 290188649927286739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_59
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1000
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a6946cfbcb9a610800000000000000
+      internalID: 1633043871749991056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0fd851d449ccca0800000000000000
+      internalID: -5995253945141956363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3951d744e919c2ca0800000000000000
+      internalID: -6040292891270769261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a701f06b8164890800000000000000
+      internalID: -7474259361358906863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_63
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f4b6d7a4884270800000000000000
+      internalID: 8234977775043540836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_64
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e0aa2f079e67610800000000000000
+      internalID: 1618737787403112052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_65
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d7af158a7d90340800000000000000
+      internalID: 4830629193261415723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_66
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fc8baa998da9580800000000000000
+      internalID: -8819498765745860821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_67
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e99126825d4d00800000000000000
+      internalID: 958513031742612312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_68
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301a45f7ba852ac00800000000000000
+      internalID: 910387568281166083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_69
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4931a6afd72870520800000000000000
+      internalID: 2668244781824086932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_70
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e29ba757298f390800000000000000
+      internalID: -7784310922642117024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_71
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6bdad35164e7640800000000000000
+      internalID: 5079574486763550409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_72
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd063e5070e7c6e0800000000000000
+      internalID: -1817237151399145990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_73
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b9f781c0835ca0800000000000000
+      internalID: -6029333907420628728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_74
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 900
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c863961aed1c49b00800000000000000
+      internalID: 834504992905311884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f58e6064ae120a0800000000000000
+      internalID: -6907982766925127812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_76
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc4d912f71beb5d0800000000000000
+      internalID: -3044801138472956732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a189fe23d570d80800000000000000
+      internalID: -8284550516175267263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_78
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18b01b17e81dc9a0800000000000000
+      internalID: -6211280930203453411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_79
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134ce8a12dd5ded00800000000000000
+      internalID: 1003561448943567921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_80
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56314791b39161e10800000000000000
+      internalID: 2167948012246274917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_81
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a17ea1adc6181ad0800000000000000
+      internalID: -2731408101563534935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_82
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b56a7fbd2761e60800000000000000
+      internalID: 7932654082737986314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_83
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fcba1e9a780c1c0800000000000000
+      internalID: -4485436065155657939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_84
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb92a23d931b250800000000000000
+      internalID: 5958607361096138184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_85
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95abc1d6e807db90800000000000000
+      internalID: -7217290090382645862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_86
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658919252f71f2ea0800000000000000
+      internalID: -5895467057669892010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_87
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a1af1359083bd70800000000000000
+      internalID: 9057724653849156169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_88
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f226388bee295d0800000000000000
+      internalID: -3057118720785502349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_89
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 800
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f38cf31478f4c0800000000000000
+      internalID: -4253522218861726374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0db929f3c8f55620800000000000000
+      internalID: 2762387467044240651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_91
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0946339fac28080800000000000000
+      internalID: -9186557118224494398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_92
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fc8b8a3cad562c0800000000000000
+      internalID: -4438901323819593983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_93
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb911301e7b39cd0800000000000000
+      internalID: -2552494386741929011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_94
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190077ff8e2a64d60800000000000000
+      internalID: 7874160120105992337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_95
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a675f72362eaf930800000000000000
+      internalID: 4177900519839594151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_96
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c509924c6f037b5a0800000000000000
+      internalID: -6505677300302245796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_97
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f334dd1a1b51e1910800000000000000
+      internalID: 1809907952918545215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_98
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56d65f3c597bad30800000000000000
+      internalID: 4443778894437733979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_99
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972ef14eff5647fe0800000000000000
+      internalID: -1192215851627978119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_100
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09f9d82859c255e0800000000000000
+      internalID: -1922252710454101747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_101
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8256e1e9cd562760800000000000000
+      internalID: 7432731356681360011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_102
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9008fa828f138b4a0800000000000000
+      internalID: -6577452313870368759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_103
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65ea080cbadd94e0800000000000000
+      internalID: -1973180560594770579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_104
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 700
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364d4db0f5c676930800000000000000
+      internalID: 4136393938239280227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29f6aee8d7e7ac10800000000000000
+      internalID: 2064873873075534124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e418790c927f10800000000000000
+      internalID: 2266045127004054227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_107
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72533bea3f1cad10800000000000000
+      internalID: 2138118261008716413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_108
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ee58344a66f4ab0800000000000000
+      internalID: -5021682203801293204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73067783a84457ef0800000000000000
+      internalID: -111107255357185993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_110
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e2dc153f8bb2c90800000000000000
+      internalID: -7193452624605270427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_111
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af463d647ac7b8ad0800000000000000
+      internalID: -2698926493788838662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_112
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65d8dfd2bfbcb860800000000000000
+      internalID: 7547117850546722155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_113
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd95e4dac022a79f0800000000000000
+      internalID: -470025773264250404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_114
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d212f6a468b925b0800000000000000
+      internalID: -5392576336362335534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_115
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe26591381935ae0800000000000000
+      internalID: -1561744653515608386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_116
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d1edd987401fab0800000000000000
+      internalID: -4976191197176521346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_117
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f093b491abb4920800000000000000
+      internalID: 2975676596607323960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_118
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416d63b7934ede1d0800000000000000
+      internalID: -3319746414770727404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_119
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 600
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbac9e34bb94fcd0800000000000000
+      internalID: -2525222292601132043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383c3ecddbbb28b10800000000000000
+      internalID: 1982353210125566851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_121
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06434dac5e2ae9200800000000000000
+      internalID: 188767342230254688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_122
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6410540db580e45e0800000000000000
+      internalID: -1923590800411393722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b351802cc28ab90800000000000000
+      internalID: -7230479989872444599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_124
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef456b8697c49d0800000000000000
+      internalID: -2788720578606596490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_125
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e1c3f6fa9c73aa0800000000000000
+      internalID: -6181250208220045703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_126
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809459ca436038870800000000000000
+      internalID: 8683791329803979016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_127
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57895053a6233bc00800000000000000
+      internalID: 915130581023823989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_128
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4116190e6dd544310800000000000000
+      internalID: 1388337762608963860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_129
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06493c160c95b8870800000000000000
+      internalID: 8686134989122933856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_130
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e668ed886a8619f0800000000000000
+      internalID: -498058527115811101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_131
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab96e5dd90b4d850800000000000000
+      internalID: 6400935162345331625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_132
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70a7a2c8213b5af0800000000000000
+      internalID: -406677290212679557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_133
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbacb49620434cbb0800000000000000
+      internalID: -4916747708220585285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_134
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 500
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccde8c71f6ebb9c0800000000000000
+      internalID: -3910277926589899571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b57d35c4d9b5eb0800000000000000
+      internalID: -4730014032472876253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_136
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff031f5ce23812920800000000000000
+      internalID: 2963794266699149567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_137
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc2aac369167ea20800000000000000
+      internalID: 3091546967103909112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c37c4479a83395a0800000000000000
+      internalID: -6515801935423179836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9dc4aa8d1350290800000000000000
+      internalID: -7924873162648659521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_140
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b676c5802790c10e0800000000000000
+      internalID: -2297951324494600341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f013043a5b9ffadd0800000000000000
+      internalID: -2472483111879823089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_142
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626dcf5b7194d2a90800000000000000
+      internalID: -7337127851730348506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_143
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62a76e161d400290800000000000000
+      internalID: -7926250586777345429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_144
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30150c4bceb99abc0800000000000000
+      internalID: -3771311771998990077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_145
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b7f6a2ee4ffc560800000000000000
+      internalID: 7336351621761170220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_146
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1823174e5d2203240800000000000000
+      internalID: 4769350307441357441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_147
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b31f844da43babe0800000000000000
+      internalID: -1465019334994750542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_148
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d2ff933060a800800000000000000
+      internalID: 621602523420218056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_149
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 400
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f478c8bb42db26c0800000000000000
+      internalID: -4167005807536737040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f1dc726e99ad3c0800000000000000
+      internalID: -4333982477601398990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_151
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c42dfaf8acd9490800000000000000
+      internalID: -7737805866273715196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_152
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7de1a01126129960800000000000000
+      internalID: 7607167051850968442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_153
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ff29675f3225850800000000000000
+      internalID: 6364188760591236893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_154
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75634b4d531474dd0800000000000000
+      internalID: -2501959368523368873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_155
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afc786f4dc620840800000000000000
+      internalID: 5188829382609194921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_156
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5086f52a013ffc0800000000000000
+      internalID: -3462405398946380291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_157
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab6e93097d0e5a0800000000000000
+      internalID: -6493953648221570493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_158
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f081b6c4f941220f0800000000000000
+      internalID: -1143328680984242161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_159
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca784c0257da80b0800000000000000
+      internalID: -5725527228854797619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_160
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38b0e924676b28b0800000000000000
+      internalID: -5175929666835269573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_161
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121752f952ecd5ea0800000000000000
+      internalID: -5882318877296856799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_162
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ba501bb7aeb21b0800000000000000
+      internalID: -5680188688025932975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_163
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3750a4cd693500800000000000000
+      internalID: 376452735133235955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_164
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 300
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93420cedfe6fbb1f0800000000000000
+      internalID: -1027956579829275591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56daceb79758acb40800000000000000
+      internalID: 5461324254956793189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_166
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0848cf745b11000800000000000000
+      internalID: 4984395387928740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_167
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cabd3ee18ebded0800000000000000
+      internalID: -2388059958020428657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_168
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01a2b1de33ea0770800000000000000
+      internalID: 8577918299226153231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_169
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af19489909eba6f0800000000000000
+      internalID: -672187491942850650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_170
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6615e91d1c766abb0800000000000000
+      internalID: -4925135060339895962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_171
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a15c2d81fd96bba0800000000000000
+      internalID: -6073493386681364055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_172
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466390ad9717feae0800000000000000
+      internalID: -1517869781237549468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_173
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e594102e14c87e0800000000000000
+      internalID: -1761960915268706657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_174
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87344f587c01960800000000000000
+      internalID: 7570770351752444082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_175
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de898c13f82bd7990800000000000000
+      internalID: -7386551485732448019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_176
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e23b4821294d8e10800000000000000
+      internalID: 2201496199612805861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_177
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2caa146d4d1961a60800000000000000
+      internalID: 7644457760821717698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_178
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816bc2c2d64543d70800000000000000
+      internalID: 9021928781399242264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_179
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 200
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880d11b4adb05c8d0800000000000000
+      internalID: -2826840158914883448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6698f186ef4430600800000000000000
+      internalID: 433265848616978790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_181
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7bc0956be416d60800000000000000
+      internalID: 7881667367960098726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_182
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28fdca0c5dcf8ce0800000000000000
+      internalID: -1400675163886979027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_183
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e5e151a3d5f04d0800000000000000
+      internalID: -3166209508974371234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_184
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c7fea9bcfdb010800000000000000
+      internalID: 1206398149639784743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_185
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7d9a6525c31b2a0800000000000000
+      internalID: -6723526444348483595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_186
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8f8c92d3884be50800000000000000
+      internalID: 6824229131648563368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_187
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093aebd301e441740800000000000000
+      internalID: 5121804507889443728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_188
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c62d4ece959e170800000000000000
+      internalID: 8208190669845589020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_189
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a90843c4f1da97e0800000000000000
+      internalID: -1757861855356253788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_190
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd2c4a403496c870800000000000000
+      internalID: 8702806265065909711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_191
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca31447ff4e34160800000000000000
+      internalID: 7008697230936849093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_192
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d4aad91456f0af0800000000000000
+      internalID: -428012107084444302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_193
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2834773f04630350800000000000000
+      internalID: 5981734746595801132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_194
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 100
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a30d3235d7615c50800000000000000
+      internalID: 6652212289971487657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e78b7295d7110720800000000000000
+      internalID: 2810553848508942306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_196
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60de991a5e793a40800000000000000
+      internalID: 5348444957921169515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petals2_104x100_197
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f8496c6e73b540800000000000000
+      internalID: 5022497013536191948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0de5e77ebb356042aa6c53f28b63c86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      petals2_104x100_0: 2435553174070759431
+      petals2_104x100_1: 3190561953712371438
+      petals2_104x100_10: 1030868228482443631
+      petals2_104x100_100: -1922252710454101747
+      petals2_104x100_101: 7432731356681360011
+      petals2_104x100_102: -6577452313870368759
+      petals2_104x100_103: -1973180560594770579
+      petals2_104x100_104: 4136393938239280227
+      petals2_104x100_105: 2064873873075534124
+      petals2_104x100_106: 2266045127004054227
+      petals2_104x100_107: 2138118261008716413
+      petals2_104x100_108: -5021682203801293204
+      petals2_104x100_109: -111107255357185993
+      petals2_104x100_11: 5109108557428723039
+      petals2_104x100_110: -7193452624605270427
+      petals2_104x100_111: -2698926493788838662
+      petals2_104x100_112: 7547117850546722155
+      petals2_104x100_113: -470025773264250404
+      petals2_104x100_114: -5392576336362335534
+      petals2_104x100_115: -1561744653515608386
+      petals2_104x100_116: -4976191197176521346
+      petals2_104x100_117: 2975676596607323960
+      petals2_104x100_118: -3319746414770727404
+      petals2_104x100_119: -2525222292601132043
+      petals2_104x100_12: -4269437467335617794
+      petals2_104x100_120: 1982353210125566851
+      petals2_104x100_121: 188767342230254688
+      petals2_104x100_122: -1923590800411393722
+      petals2_104x100_123: -7230479989872444599
+      petals2_104x100_124: -2788720578606596490
+      petals2_104x100_125: -6181250208220045703
+      petals2_104x100_126: 8683791329803979016
+      petals2_104x100_127: 915130581023823989
+      petals2_104x100_128: 1388337762608963860
+      petals2_104x100_129: 8686134989122933856
+      petals2_104x100_13: -1015113796297637463
+      petals2_104x100_130: -498058527115811101
+      petals2_104x100_131: 6400935162345331625
+      petals2_104x100_132: -406677290212679557
+      petals2_104x100_133: -4916747708220585285
+      petals2_104x100_134: -3910277926589899571
+      petals2_104x100_135: -4730014032472876253
+      petals2_104x100_136: 2963794266699149567
+      petals2_104x100_137: 3091546967103909112
+      petals2_104x100_138: -6515801935423179836
+      petals2_104x100_139: -7924873162648659521
+      petals2_104x100_14: 4572490544677375900
+      petals2_104x100_140: -2297951324494600341
+      petals2_104x100_141: -2472483111879823089
+      petals2_104x100_142: -7337127851730348506
+      petals2_104x100_143: -7926250586777345429
+      petals2_104x100_144: -3771311771998990077
+      petals2_104x100_145: 7336351621761170220
+      petals2_104x100_146: 4769350307441357441
+      petals2_104x100_147: -1465019334994750542
+      petals2_104x100_148: 621602523420218056
+      petals2_104x100_149: -4167005807536737040
+      petals2_104x100_15: -6172253790691975111
+      petals2_104x100_150: -4333982477601398990
+      petals2_104x100_151: -7737805866273715196
+      petals2_104x100_152: 7607167051850968442
+      petals2_104x100_153: 6364188760591236893
+      petals2_104x100_154: -2501959368523368873
+      petals2_104x100_155: 5188829382609194921
+      petals2_104x100_156: -3462405398946380291
+      petals2_104x100_157: -6493953648221570493
+      petals2_104x100_158: -1143328680984242161
+      petals2_104x100_159: -5725527228854797619
+      petals2_104x100_16: -4247308946169645104
+      petals2_104x100_160: -5175929666835269573
+      petals2_104x100_161: -5882318877296856799
+      petals2_104x100_162: -5680188688025932975
+      petals2_104x100_163: 376452735133235955
+      petals2_104x100_164: -1027956579829275591
+      petals2_104x100_165: 5461324254956793189
+      petals2_104x100_166: 4984395387928740
+      petals2_104x100_167: -2388059958020428657
+      petals2_104x100_168: 8577918299226153231
+      petals2_104x100_169: -672187491942850650
+      petals2_104x100_17: -6770793944769168479
+      petals2_104x100_170: -4925135060339895962
+      petals2_104x100_171: -6073493386681364055
+      petals2_104x100_172: -1517869781237549468
+      petals2_104x100_173: -1761960915268706657
+      petals2_104x100_174: 7570770351752444082
+      petals2_104x100_175: -7386551485732448019
+      petals2_104x100_176: 2201496199612805861
+      petals2_104x100_177: 7644457760821717698
+      petals2_104x100_178: 9021928781399242264
+      petals2_104x100_179: -2826840158914883448
+      petals2_104x100_18: 459092671897667580
+      petals2_104x100_180: 433265848616978790
+      petals2_104x100_181: 7881667367960098726
+      petals2_104x100_182: -1400675163886979027
+      petals2_104x100_183: -3166209508974371234
+      petals2_104x100_184: 1206398149639784743
+      petals2_104x100_185: -6723526444348483595
+      petals2_104x100_186: 6824229131648563368
+      petals2_104x100_187: 5121804507889443728
+      petals2_104x100_188: 8208190669845589020
+      petals2_104x100_189: -1757861855356253788
+      petals2_104x100_19: -2166762471193705563
+      petals2_104x100_190: 8702806265065909711
+      petals2_104x100_191: 7008697230936849093
+      petals2_104x100_192: -428012107084444302
+      petals2_104x100_193: 5981734746595801132
+      petals2_104x100_194: 6652212289971487657
+      petals2_104x100_195: 2810553848508942306
+      petals2_104x100_196: 5348444957921169515
+      petals2_104x100_197: 5022497013536191948
+      petals2_104x100_2: -7764310978221302491
+      petals2_104x100_20: 717573010673308129
+      petals2_104x100_21: -3258043173171845129
+      petals2_104x100_22: 5336452501009974819
+      petals2_104x100_23: 3289963227365309009
+      petals2_104x100_24: 5096974578533987861
+      petals2_104x100_25: -5034312590649711796
+      petals2_104x100_26: -7508890938225631549
+      petals2_104x100_27: -201323102804879031
+      petals2_104x100_28: -2274403457067727181
+      petals2_104x100_29: -2670911753112631358
+      petals2_104x100_3: 1834009647491806330
+      petals2_104x100_30: 989583082079138928
+      petals2_104x100_31: 4327526318726515868
+      petals2_104x100_32: 5195002382093808666
+      petals2_104x100_33: 1677939335650010294
+      petals2_104x100_34: 7947957658065007691
+      petals2_104x100_35: 5248285953633636743
+      petals2_104x100_36: -833113042692476368
+      petals2_104x100_37: -3030197734022723629
+      petals2_104x100_38: 363672904130649063
+      petals2_104x100_39: -3417517984014387860
+      petals2_104x100_4: -7062124992705808574
+      petals2_104x100_40: -4102119772090218515
+      petals2_104x100_41: 8319402729593232919
+      petals2_104x100_42: -6032628311622661513
+      petals2_104x100_43: -7238550394957881583
+      petals2_104x100_44: -4259943807093280694
+      petals2_104x100_45: -2158508151612012951
+      petals2_104x100_46: -4580492609982522412
+      petals2_104x100_47: 8543721390909467625
+      petals2_104x100_48: -6769093182377219360
+      petals2_104x100_49: 1310483507773154459
+      petals2_104x100_5: 5389659418801027369
+      petals2_104x100_50: 6346569187290113892
+      petals2_104x100_51: -1165231130069835019
+      petals2_104x100_52: 5985419955673187772
+      petals2_104x100_53: -3833960070770546929
+      petals2_104x100_54: 9149023093705449778
+      petals2_104x100_55: 8147226459910856267
+      petals2_104x100_56: 3958384355925669935
+      petals2_104x100_57: 7622912102616698697
+      petals2_104x100_58: 290188649927286739
+      petals2_104x100_59: 1633043871749991056
+      petals2_104x100_6: 7512512171078698469
+      petals2_104x100_60: -5995253945141956363
+      petals2_104x100_61: -6040292891270769261
+      petals2_104x100_62: -7474259361358906863
+      petals2_104x100_63: 8234977775043540836
+      petals2_104x100_64: 1618737787403112052
+      petals2_104x100_65: 4830629193261415723
+      petals2_104x100_66: -8819498765745860821
+      petals2_104x100_67: 958513031742612312
+      petals2_104x100_68: 910387568281166083
+      petals2_104x100_69: 2668244781824086932
+      petals2_104x100_7: -8160312959902076363
+      petals2_104x100_70: -7784310922642117024
+      petals2_104x100_71: 5079574486763550409
+      petals2_104x100_72: -1817237151399145990
+      petals2_104x100_73: -6029333907420628728
+      petals2_104x100_74: 834504992905311884
+      petals2_104x100_75: -6907982766925127812
+      petals2_104x100_76: -3044801138472956732
+      petals2_104x100_77: -8284550516175267263
+      petals2_104x100_78: -6211280930203453411
+      petals2_104x100_79: 1003561448943567921
+      petals2_104x100_8: 2006308521246483742
+      petals2_104x100_80: 2167948012246274917
+      petals2_104x100_81: -2731408101563534935
+      petals2_104x100_82: 7932654082737986314
+      petals2_104x100_83: -4485436065155657939
+      petals2_104x100_84: 5958607361096138184
+      petals2_104x100_85: -7217290090382645862
+      petals2_104x100_86: -5895467057669892010
+      petals2_104x100_87: 9057724653849156169
+      petals2_104x100_88: -3057118720785502349
+      petals2_104x100_89: -4253522218861726374
+      petals2_104x100_9: 6616437649147442684
+      petals2_104x100_90: 2762387467044240651
+      petals2_104x100_91: -9186557118224494398
+      petals2_104x100_92: -4438901323819593983
+      petals2_104x100_93: -2552494386741929011
+      petals2_104x100_94: 7874160120105992337
+      petals2_104x100_95: 4177900519839594151
+      petals2_104x100_96: -6505677300302245796
+      petals2_104x100_97: 1809907952918545215
+      petals2_104x100_98: 4443778894437733979
+      petals2_104x100_99: -1192215851627978119
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

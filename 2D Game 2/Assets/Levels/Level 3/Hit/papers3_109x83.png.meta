@@ -1,0 +1,5318 @@
+fileFormatVersion: 2
+guid: b8dc78ac2253d954b8b6b18fefc664dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 919895789383821386
+    second: papers3_109x83_0
+  - first:
+      213: 7865099534721127368
+    second: papers3_109x83_1
+  - first:
+      213: -2780624456210946523
+    second: papers3_109x83_2
+  - first:
+      213: 6112301543973967197
+    second: papers3_109x83_3
+  - first:
+      213: -2133861747228225658
+    second: papers3_109x83_4
+  - first:
+      213: 4537150919410250544
+    second: papers3_109x83_5
+  - first:
+      213: -4716152379730992271
+    second: papers3_109x83_6
+  - first:
+      213: 196817603779522762
+    second: papers3_109x83_7
+  - first:
+      213: -64358506087568145
+    second: papers3_109x83_8
+  - first:
+      213: -840729878175336771
+    second: papers3_109x83_9
+  - first:
+      213: -8196376500109358662
+    second: papers3_109x83_10
+  - first:
+      213: 5231405253805707177
+    second: papers3_109x83_11
+  - first:
+      213: 8808464446951651422
+    second: papers3_109x83_12
+  - first:
+      213: -4555076808640934585
+    second: papers3_109x83_13
+  - first:
+      213: 1330229386775937779
+    second: papers3_109x83_14
+  - first:
+      213: -3514836379617317230
+    second: papers3_109x83_15
+  - first:
+      213: -4101813740892763555
+    second: papers3_109x83_16
+  - first:
+      213: -4458769812606542455
+    second: papers3_109x83_17
+  - first:
+      213: 6006687471682081478
+    second: papers3_109x83_18
+  - first:
+      213: 3832990398131613213
+    second: papers3_109x83_19
+  - first:
+      213: -673257180599324430
+    second: papers3_109x83_20
+  - first:
+      213: -3044105872966831344
+    second: papers3_109x83_21
+  - first:
+      213: 2548631757172058294
+    second: papers3_109x83_22
+  - first:
+      213: 6987825067849729011
+    second: papers3_109x83_23
+  - first:
+      213: 8730695004910139304
+    second: papers3_109x83_24
+  - first:
+      213: -5988148173485989017
+    second: papers3_109x83_25
+  - first:
+      213: 1108748318122784972
+    second: papers3_109x83_26
+  - first:
+      213: 6865031218910539357
+    second: papers3_109x83_27
+  - first:
+      213: -4520239214768957165
+    second: papers3_109x83_28
+  - first:
+      213: 5570619427259252328
+    second: papers3_109x83_29
+  - first:
+      213: 9082007268067453186
+    second: papers3_109x83_30
+  - first:
+      213: -5025125808260749951
+    second: papers3_109x83_31
+  - first:
+      213: 5761704390735728251
+    second: papers3_109x83_32
+  - first:
+      213: -3069706792582104431
+    second: papers3_109x83_33
+  - first:
+      213: 7320750885927633862
+    second: papers3_109x83_34
+  - first:
+      213: -7193959261669405959
+    second: papers3_109x83_35
+  - first:
+      213: -1083667769341751240
+    second: papers3_109x83_36
+  - first:
+      213: 3178581262716285831
+    second: papers3_109x83_37
+  - first:
+      213: 3903069738387360079
+    second: papers3_109x83_38
+  - first:
+      213: -1087296641265409727
+    second: papers3_109x83_39
+  - first:
+      213: -1533339291769336282
+    second: papers3_109x83_40
+  - first:
+      213: -3711195073613483150
+    second: papers3_109x83_41
+  - first:
+      213: 6238691473273480713
+    second: papers3_109x83_42
+  - first:
+      213: -2605711842070809087
+    second: papers3_109x83_43
+  - first:
+      213: 5688008465584466435
+    second: papers3_109x83_44
+  - first:
+      213: 5054056602767929425
+    second: papers3_109x83_45
+  - first:
+      213: 2947185047918355664
+    second: papers3_109x83_46
+  - first:
+      213: 5376148708729395438
+    second: papers3_109x83_47
+  - first:
+      213: -9026828221632716666
+    second: papers3_109x83_48
+  - first:
+      213: -5428227923177671538
+    second: papers3_109x83_49
+  - first:
+      213: -5818609337853248109
+    second: papers3_109x83_50
+  - first:
+      213: 8853111967603621
+    second: papers3_109x83_51
+  - first:
+      213: -5012296321932660173
+    second: papers3_109x83_52
+  - first:
+      213: -1238164444525503394
+    second: papers3_109x83_53
+  - first:
+      213: 7744765756958819159
+    second: papers3_109x83_54
+  - first:
+      213: 2103757292275828171
+    second: papers3_109x83_55
+  - first:
+      213: -6973168822484754247
+    second: papers3_109x83_56
+  - first:
+      213: 8764884848602128225
+    second: papers3_109x83_57
+  - first:
+      213: 2302660356482324416
+    second: papers3_109x83_58
+  - first:
+      213: 7489144295088975827
+    second: papers3_109x83_59
+  - first:
+      213: -7430887282083482507
+    second: papers3_109x83_60
+  - first:
+      213: 617760859434646289
+    second: papers3_109x83_61
+  - first:
+      213: 7319464271975100027
+    second: papers3_109x83_62
+  - first:
+      213: -703913768063520656
+    second: papers3_109x83_63
+  - first:
+      213: 2725899464953718610
+    second: papers3_109x83_64
+  - first:
+      213: -3429948000922056411
+    second: papers3_109x83_65
+  - first:
+      213: -8742436582605940852
+    second: papers3_109x83_66
+  - first:
+      213: 6060769323918415922
+    second: papers3_109x83_67
+  - first:
+      213: -2218049862795437469
+    second: papers3_109x83_68
+  - first:
+      213: -5515868840550389688
+    second: papers3_109x83_69
+  - first:
+      213: -1058398815771686278
+    second: papers3_109x83_70
+  - first:
+      213: -1060164998024257093
+    second: papers3_109x83_71
+  - first:
+      213: 6729704958319846607
+    second: papers3_109x83_72
+  - first:
+      213: -2198264957764919772
+    second: papers3_109x83_73
+  - first:
+      213: -8663053834119307913
+    second: papers3_109x83_74
+  - first:
+      213: -3104337892719328931
+    second: papers3_109x83_75
+  - first:
+      213: 1989070312762280790
+    second: papers3_109x83_76
+  - first:
+      213: 8855962461151056201
+    second: papers3_109x83_77
+  - first:
+      213: -4740904527697303817
+    second: papers3_109x83_78
+  - first:
+      213: -7498159621968124829
+    second: papers3_109x83_79
+  - first:
+      213: -5324348857613664445
+    second: papers3_109x83_80
+  - first:
+      213: -6062018338145004301
+    second: papers3_109x83_81
+  - first:
+      213: 1238017159332680532
+    second: papers3_109x83_82
+  - first:
+      213: 4160476036355830616
+    second: papers3_109x83_83
+  - first:
+      213: -2150950610446612382
+    second: papers3_109x83_84
+  - first:
+      213: 2629104054687361933
+    second: papers3_109x83_85
+  - first:
+      213: -2496737171680590284
+    second: papers3_109x83_86
+  - first:
+      213: -6063297246926039786
+    second: papers3_109x83_87
+  - first:
+      213: -8695662712559477115
+    second: papers3_109x83_88
+  - first:
+      213: 1046828235802858099
+    second: papers3_109x83_89
+  - first:
+      213: -6688280392279147068
+    second: papers3_109x83_90
+  - first:
+      213: 680717725278926441
+    second: papers3_109x83_91
+  - first:
+      213: 6144344728776684086
+    second: papers3_109x83_92
+  - first:
+      213: 9160423065930971740
+    second: papers3_109x83_93
+  - first:
+      213: 4078876499577000308
+    second: papers3_109x83_94
+  - first:
+      213: -8163290725925410165
+    second: papers3_109x83_95
+  - first:
+      213: 6140524147096834217
+    second: papers3_109x83_96
+  - first:
+      213: 2921910695757263046
+    second: papers3_109x83_97
+  - first:
+      213: -3973209685965878772
+    second: papers3_109x83_98
+  - first:
+      213: 2205228678951195286
+    second: papers3_109x83_99
+  - first:
+      213: -3782338643273379244
+    second: papers3_109x83_100
+  - first:
+      213: -2267018888597338861
+    second: papers3_109x83_101
+  - first:
+      213: -3120292281064413663
+    second: papers3_109x83_102
+  - first:
+      213: 4126227531220469799
+    second: papers3_109x83_103
+  - first:
+      213: 2297324620054648954
+    second: papers3_109x83_104
+  - first:
+      213: 9081475408788978498
+    second: papers3_109x83_105
+  - first:
+      213: -4717553282962720888
+    second: papers3_109x83_106
+  - first:
+      213: 2972508402405700890
+    second: papers3_109x83_107
+  - first:
+      213: -4135988781163494969
+    second: papers3_109x83_108
+  - first:
+      213: -4687033670544646115
+    second: papers3_109x83_109
+  - first:
+      213: -8140192827885190714
+    second: papers3_109x83_110
+  - first:
+      213: 6577728797499168056
+    second: papers3_109x83_111
+  - first:
+      213: 4295456623086603983
+    second: papers3_109x83_112
+  - first:
+      213: 4606316917551898493
+    second: papers3_109x83_113
+  - first:
+      213: -5724095970962572913
+    second: papers3_109x83_114
+  - first:
+      213: 6994441483808655358
+    second: papers3_109x83_115
+  - first:
+      213: -2887655895165547432
+    second: papers3_109x83_116
+  - first:
+      213: -1427932618237888637
+    second: papers3_109x83_117
+  - first:
+      213: 6872348887351472753
+    second: papers3_109x83_118
+  - first:
+      213: 776150053863170105
+    second: papers3_109x83_119
+  - first:
+      213: 7206860087600859396
+    second: papers3_109x83_120
+  - first:
+      213: -3339856275382767169
+    second: papers3_109x83_121
+  - first:
+      213: -6447823528763371723
+    second: papers3_109x83_122
+  - first:
+      213: 8698775469564791869
+    second: papers3_109x83_123
+  - first:
+      213: 5797891329077838899
+    second: papers3_109x83_124
+  - first:
+      213: 5428283162363382195
+    second: papers3_109x83_125
+  - first:
+      213: -8318495752940409096
+    second: papers3_109x83_126
+  - first:
+      213: 5981120439951447555
+    second: papers3_109x83_127
+  - first:
+      213: -2380927475223904302
+    second: papers3_109x83_128
+  - first:
+      213: -3981058659349159956
+    second: papers3_109x83_129
+  - first:
+      213: -8255351769345602308
+    second: papers3_109x83_130
+  - first:
+      213: 2129382394627648383
+    second: papers3_109x83_131
+  - first:
+      213: -4657436332253052183
+    second: papers3_109x83_132
+  - first:
+      213: -3986966591965128443
+    second: papers3_109x83_133
+  - first:
+      213: 2167437153046053532
+    second: papers3_109x83_134
+  - first:
+      213: -2268091937570635258
+    second: papers3_109x83_135
+  - first:
+      213: -8985639825561944058
+    second: papers3_109x83_136
+  - first:
+      213: -7995355231000232956
+    second: papers3_109x83_137
+  - first:
+      213: -8158259291788825935
+    second: papers3_109x83_138
+  - first:
+      213: -135270432451300806
+    second: papers3_109x83_139
+  - first:
+      213: 7250526933576769166
+    second: papers3_109x83_140
+  - first:
+      213: -2985124940673841942
+    second: papers3_109x83_141
+  - first:
+      213: 7390084921600903440
+    second: papers3_109x83_142
+  - first:
+      213: -7584597095215132181
+    second: papers3_109x83_143
+  - first:
+      213: 1741150636942972731
+    second: papers3_109x83_144
+  - first:
+      213: -7165403490694170743
+    second: papers3_109x83_145
+  - first:
+      213: 2217183697595294284
+    second: papers3_109x83_146
+  - first:
+      213: -7309076758032396882
+    second: papers3_109x83_147
+  - first:
+      213: -8199968252204595443
+    second: papers3_109x83_148
+  - first:
+      213: 9052290724383227096
+    second: papers3_109x83_149
+  - first:
+      213: -7843302979262485695
+    second: papers3_109x83_150
+  - first:
+      213: 7489720632945762228
+    second: papers3_109x83_151
+  - first:
+      213: -2599184570461684378
+    second: papers3_109x83_152
+  - first:
+      213: 3663396001290703404
+    second: papers3_109x83_153
+  - first:
+      213: -6638239650130278965
+    second: papers3_109x83_154
+  - first:
+      213: -4442089017104630093
+    second: papers3_109x83_155
+  - first:
+      213: 6390534310331510215
+    second: papers3_109x83_156
+  - first:
+      213: 9012003144450283228
+    second: papers3_109x83_157
+  - first:
+      213: -3273379717010310489
+    second: papers3_109x83_158
+  - first:
+      213: 7297835964898041929
+    second: papers3_109x83_159
+  - first:
+      213: -6791303084388441239
+    second: papers3_109x83_160
+  - first:
+      213: 2638692836825083234
+    second: papers3_109x83_161
+  - first:
+      213: 7153725745235518366
+    second: papers3_109x83_162
+  - first:
+      213: -2516058310567136378
+    second: papers3_109x83_163
+  - first:
+      213: -4584838174741507897
+    second: papers3_109x83_164
+  - first:
+      213: 389177288695987256
+    second: papers3_109x83_165
+  - first:
+      213: -7585384639399703323
+    second: papers3_109x83_166
+  - first:
+      213: 2247195068005192969
+    second: papers3_109x83_167
+  - first:
+      213: 4793616719621365701
+    second: papers3_109x83_168
+  - first:
+      213: -5190732892099706483
+    second: papers3_109x83_169
+  - first:
+      213: 1707973858161895077
+    second: papers3_109x83_170
+  - first:
+      213: -8696258878860374641
+    second: papers3_109x83_171
+  - first:
+      213: -2097096216127230545
+    second: papers3_109x83_172
+  - first:
+      213: 2341841985253833110
+    second: papers3_109x83_173
+  - first:
+      213: -7639307399353513558
+    second: papers3_109x83_174
+  - first:
+      213: -8675790454217986276
+    second: papers3_109x83_175
+  - first:
+      213: -5422961400709685628
+    second: papers3_109x83_176
+  - first:
+      213: 8366711983982909737
+    second: papers3_109x83_177
+  - first:
+      213: 2644540387920853040
+    second: papers3_109x83_178
+  - first:
+      213: -3179148767838163112
+    second: papers3_109x83_179
+  - first:
+      213: -4880621747859348261
+    second: papers3_109x83_180
+  - first:
+      213: -1437749359119294455
+    second: papers3_109x83_181
+  - first:
+      213: -7561809744970796050
+    second: papers3_109x83_182
+  - first:
+      213: -4102537019373862975
+    second: papers3_109x83_183
+  - first:
+      213: -3937908010427959070
+    second: papers3_109x83_184
+  - first:
+      213: -2956391669304465138
+    second: papers3_109x83_185
+  - first:
+      213: 1962815368279143914
+    second: papers3_109x83_186
+  - first:
+      213: -5700325980483111281
+    second: papers3_109x83_187
+  - first:
+      213: 4142334112864246032
+    second: papers3_109x83_188
+  - first:
+      213: 579150993105313156
+    second: papers3_109x83_189
+  - first:
+      213: -4364784970698284701
+    second: papers3_109x83_190
+  - first:
+      213: 7707523243578388032
+    second: papers3_109x83_191
+  - first:
+      213: -9197633132197700423
+    second: papers3_109x83_192
+  - first:
+      213: -1525599479008001812
+    second: papers3_109x83_193
+  - first:
+      213: 7818993707104399774
+    second: papers3_109x83_194
+  - first:
+      213: 1300828039010511542
+    second: papers3_109x83_195
+  - first:
+      213: 6623263402413680880
+    second: papers3_109x83_196
+  - first:
+      213: 7084662111447540788
+    second: papers3_109x83_197
+  - first:
+      213: -7225805474134960408
+    second: papers3_109x83_198
+  - first:
+      213: -2057023691983205144
+    second: papers3_109x83_199
+  - first:
+      213: 5937906918856537929
+    second: papers3_109x83_200
+  - first:
+      213: 1299114333596647539
+    second: papers3_109x83_201
+  - first:
+      213: 7339750096005180699
+    second: papers3_109x83_202
+  - first:
+      213: -9172935801368737810
+    second: papers3_109x83_203
+  - first:
+      213: 7499750692961763397
+    second: papers3_109x83_204
+  - first:
+      213: 7795499975165583282
+    second: papers3_109x83_205
+  - first:
+      213: 3045587708091448912
+    second: papers3_109x83_206
+  - first:
+      213: -6260660138341239373
+    second: papers3_109x83_207
+  - first:
+      213: -535751866024661632
+    second: papers3_109x83_208
+  - first:
+      213: 3099815972742448352
+    second: papers3_109x83_209
+  - first:
+      213: 3305299950712551
+    second: papers3_109x83_210
+  - first:
+      213: 5977799241078566311
+    second: papers3_109x83_211
+  - first:
+      213: -8179393984164700894
+    second: papers3_109x83_212
+  - first:
+      213: -7338326654906797576
+    second: papers3_109x83_213
+  - first:
+      213: 1939028362265357829
+    second: papers3_109x83_214
+  - first:
+      213: 4426726858173725254
+    second: papers3_109x83_215
+  - first:
+      213: 3537952788763645938
+    second: papers3_109x83_216
+  - first:
+      213: -7975222915658641399
+    second: papers3_109x83_217
+  - first:
+      213: 8663682457263331266
+    second: papers3_109x83_218
+  - first:
+      213: 5061141664119335362
+    second: papers3_109x83_219
+  - first:
+      213: 7294899027512878110
+    second: papers3_109x83_220
+  - first:
+      213: 6877730158789496821
+    second: papers3_109x83_221
+  - first:
+      213: -8764706198866792584
+    second: papers3_109x83_222
+  - first:
+      213: 5344018441113299548
+    second: papers3_109x83_223
+  - first:
+      213: 3086052314076680003
+    second: papers3_109x83_224
+  - first:
+      213: 4261601772569100176
+    second: papers3_109x83_225
+  - first:
+      213: 1871886618642187401
+    second: papers3_109x83_226
+  - first:
+      213: -8422582239356023102
+    second: papers3_109x83_227
+  - first:
+      213: -7310760974857052944
+    second: papers3_109x83_228
+  - first:
+      213: -3638100634150731626
+    second: papers3_109x83_229
+  - first:
+      213: -9119808276141723574
+    second: papers3_109x83_230
+  - first:
+      213: 1861465868677665531
+    second: papers3_109x83_231
+  - first:
+      213: 8675537174247475015
+    second: papers3_109x83_232
+  - first:
+      213: 6382521136089484165
+    second: papers3_109x83_233
+  - first:
+      213: -6208770664292122801
+    second: papers3_109x83_234
+  - first:
+      213: 8781882081379911584
+    second: papers3_109x83_235
+  - first:
+      213: 7375673881713728434
+    second: papers3_109x83_236
+  - first:
+      213: 643776676342720912
+    second: papers3_109x83_237
+  - first:
+      213: -6968145343756731179
+    second: papers3_109x83_238
+  - first:
+      213: 4078733612546975460
+    second: papers3_109x83_239
+  - first:
+      213: -7408218481973052886
+    second: papers3_109x83_240
+  - first:
+      213: 8895505874493396052
+    second: papers3_109x83_241
+  - first:
+      213: -2883626790829309928
+    second: papers3_109x83_242
+  - first:
+      213: -735419468660086794
+    second: papers3_109x83_243
+  - first:
+      213: 8303188816824702726
+    second: papers3_109x83_244
+  - first:
+      213: 5792454882060869767
+    second: papers3_109x83_245
+  - first:
+      213: 3217218847441212775
+    second: papers3_109x83_246
+  - first:
+      213: 4100205064766871107
+    second: papers3_109x83_247
+  - first:
+      213: 5275921398123751159
+    second: papers3_109x83_248
+  - first:
+      213: 3648309755446488462
+    second: papers3_109x83_249
+  - first:
+      213: 538233161146332006
+    second: papers3_109x83_250
+  - first:
+      213: -9032402766133123034
+    second: papers3_109x83_251
+  - first:
+      213: -5922133976269558683
+    second: papers3_109x83_252
+  - first:
+      213: 5839905974123516915
+    second: papers3_109x83_253
+  - first:
+      213: 850333739869577026
+    second: papers3_109x83_254
+  - first:
+      213: 3399421511209725573
+    second: papers3_109x83_255
+  - first:
+      213: -2704291212732230266
+    second: papers3_109x83_256
+  - first:
+      213: -6847576387460365228
+    second: papers3_109x83_257
+  - first:
+      213: -1388169679852321472
+    second: papers3_109x83_258
+  - first:
+      213: -620842845205610322
+    second: papers3_109x83_259
+  - first:
+      213: 2431414369719405296
+    second: papers3_109x83_260
+  - first:
+      213: -2179652661132141963
+    second: papers3_109x83_261
+  - first:
+      213: 6827024688206690543
+    second: papers3_109x83_262
+  - first:
+      213: -2107903035802224808
+    second: papers3_109x83_263
+  - first:
+      213: -2041755497556559641
+    second: papers3_109x83_264
+  - first:
+      213: 1252982240725232276
+    second: papers3_109x83_265
+  - first:
+      213: -1547510431215085139
+    second: papers3_109x83_266
+  - first:
+      213: 8501868611692674126
+    second: papers3_109x83_267
+  - first:
+      213: 492538186220010385
+    second: papers3_109x83_268
+  - first:
+      213: 3714254058371937637
+    second: papers3_109x83_269
+  - first:
+      213: 5695334964288780924
+    second: papers3_109x83_270
+  - first:
+      213: -5377655531037888785
+    second: papers3_109x83_271
+  - first:
+      213: 6055303897343076028
+    second: papers3_109x83_272
+  - first:
+      213: -3905942222342446442
+    second: papers3_109x83_273
+  - first:
+      213: -3281866299994873029
+    second: papers3_109x83_274
+  - first:
+      213: 7974597527937520480
+    second: papers3_109x83_275
+  - first:
+      213: 6819911971006716321
+    second: papers3_109x83_276
+  - first:
+      213: -8876040388260130583
+    second: papers3_109x83_277
+  - first:
+      213: 8420824757336328542
+    second: papers3_109x83_278
+  - first:
+      213: 4537675844654177287
+    second: papers3_109x83_279
+  - first:
+      213: 1261898758456813004
+    second: papers3_109x83_280
+  - first:
+      213: 4947925944947551295
+    second: papers3_109x83_281
+  - first:
+      213: 6259501275366190327
+    second: papers3_109x83_282
+  - first:
+      213: -4982575623186291837
+    second: papers3_109x83_283
+  - first:
+      213: 3980197605346639398
+    second: papers3_109x83_284
+  - first:
+      213: -7438712729162567236
+    second: papers3_109x83_285
+  - first:
+      213: -6239822345740012428
+    second: papers3_109x83_286
+  - first:
+      213: 8103544819718167326
+    second: papers3_109x83_287
+  - first:
+      213: -4255325090287210625
+    second: papers3_109x83_288
+  - first:
+      213: -5612238752937093181
+    second: papers3_109x83_289
+  - first:
+      213: 2304796267131059733
+    second: papers3_109x83_290
+  - first:
+      213: -7655451007728812622
+    second: papers3_109x83_291
+  - first:
+      213: -1423567006830497303
+    second: papers3_109x83_292
+  - first:
+      213: 6648740709388655309
+    second: papers3_109x83_293
+  - first:
+      213: 5222971576705335464
+    second: papers3_109x83_294
+  - first:
+      213: -727090272378447123
+    second: papers3_109x83_295
+  - first:
+      213: 7840848119480346485
+    second: papers3_109x83_296
+  - first:
+      213: -1132697317574372814
+    second: papers3_109x83_297
+  - first:
+      213: -852293177733648002
+    second: papers3_109x83_298
+  - first:
+      213: -5699531758768910918
+    second: papers3_109x83_299
+  - first:
+      213: 7243476123643073083
+    second: papers3_109x83_300
+  - first:
+      213: -6813092171880801816
+    second: papers3_109x83_301
+  - first:
+      213: 5810914379675883778
+    second: papers3_109x83_302
+  - first:
+      213: 7534424558095831249
+    second: papers3_109x83_303
+  - first:
+      213: -980744015054240293
+    second: papers3_109x83_304
+  - first:
+      213: 8105122796679570166
+    second: papers3_109x83_305
+  - first:
+      213: -9221556415220212308
+    second: papers3_109x83_306
+  - first:
+      213: -3208636531043683845
+    second: papers3_109x83_307
+  - first:
+      213: 1266691267119567215
+    second: papers3_109x83_308
+  - first:
+      213: -3372087644465514808
+    second: papers3_109x83_309
+  - first:
+      213: 77296915892136688
+    second: papers3_109x83_310
+  - first:
+      213: -1659973064606654951
+    second: papers3_109x83_311
+  - first:
+      213: 4438718146009701291
+    second: papers3_109x83_312
+  - first:
+      213: 1937305181342703902
+    second: papers3_109x83_313
+  - first:
+      213: 2514431973171068519
+    second: papers3_109x83_314
+  - first:
+      213: 6608238545378555498
+    second: papers3_109x83_315
+  - first:
+      213: -2392432104443788925
+    second: papers3_109x83_316
+  - first:
+      213: -2188072706727148212
+    second: papers3_109x83_317
+  - first:
+      213: 3842009474607758468
+    second: papers3_109x83_318
+  - first:
+      213: 5349687330520211301
+    second: papers3_109x83_319
+  - first:
+      213: 5025575781744391002
+    second: papers3_109x83_320
+  - first:
+      213: -1090145659061660428
+    second: papers3_109x83_321
+  - first:
+      213: 4413563645755340578
+    second: papers3_109x83_322
+  - first:
+      213: -9066246805183051329
+    second: papers3_109x83_323
+  - first:
+      213: 1743053639243829472
+    second: papers3_109x83_324
+  - first:
+      213: -9187160607318286982
+    second: papers3_109x83_325
+  - first:
+      213: 1887756762839621992
+    second: papers3_109x83_326
+  - first:
+      213: 9095220860007643273
+    second: papers3_109x83_327
+  - first:
+      213: 2567891074021294174
+    second: papers3_109x83_328
+  - first:
+      213: 2252828383063999843
+    second: papers3_109x83_329
+  - first:
+      213: -3639457024558055467
+    second: papers3_109x83_330
+  - first:
+      213: -1366180448839162021
+    second: papers3_109x83_331
+  - first:
+      213: 7370039662884821017
+    second: papers3_109x83_332
+  - first:
+      213: 195260743010898311
+    second: papers3_109x83_333
+  - first:
+      213: -472816666669963283
+    second: papers3_109x83_334
+  - first:
+      213: 3795321375799941557
+    second: papers3_109x83_335
+  - first:
+      213: -5117122667509885320
+    second: papers3_109x83_336
+  - first:
+      213: -4228141355904662184
+    second: papers3_109x83_337
+  - first:
+      213: -5242064640966225511
+    second: papers3_109x83_338
+  - first:
+      213: -3198304978508302187
+    second: papers3_109x83_339
+  - first:
+      213: -713414646259937002
+    second: papers3_109x83_340
+  - first:
+      213: 7376180164257692266
+    second: papers3_109x83_341
+  - first:
+      213: -1036737381284700556
+    second: papers3_109x83_342
+  - first:
+      213: -3057292687023118429
+    second: papers3_109x83_343
+  - first:
+      213: -6188575325052724342
+    second: papers3_109x83_344
+  - first:
+      213: -2406826664500347427
+    second: papers3_109x83_345
+  - first:
+      213: 1518041739362467192
+    second: papers3_109x83_346
+  - first:
+      213: -2287767989571542883
+    second: papers3_109x83_347
+  - first:
+      213: 6436977470519447182
+    second: papers3_109x83_348
+  - first:
+      213: 1409674988681055021
+    second: papers3_109x83_349
+  - first:
+      213: 7357964745942514773
+    second: papers3_109x83_350
+  - first:
+      213: -2045105084410388025
+    second: papers3_109x83_351
+  - first:
+      213: -7521628429266301925
+    second: papers3_109x83_352
+  - first:
+      213: 7932021382111230299
+    second: papers3_109x83_353
+  - first:
+      213: -8831936631013036175
+    second: papers3_109x83_354
+  - first:
+      213: -3126936657365867613
+    second: papers3_109x83_355
+  - first:
+      213: -7899158287079785570
+    second: papers3_109x83_356
+  - first:
+      213: -8119421057336652485
+    second: papers3_109x83_357
+  - first:
+      213: 1336507176058885770
+    second: papers3_109x83_358
+  - first:
+      213: -7748975889050781420
+    second: papers3_109x83_359
+  - first:
+      213: 602669926767837296
+    second: papers3_109x83_360
+  - first:
+      213: 1256896463979101275
+    second: papers3_109x83_361
+  - first:
+      213: 7796277407922822172
+    second: papers3_109x83_362
+  - first:
+      213: -79926917379455543
+    second: papers3_109x83_363
+  - first:
+      213: 3793517576562188122
+    second: papers3_109x83_364
+  - first:
+      213: 6350207460362706996
+    second: papers3_109x83_365
+  - first:
+      213: 1228477983116743848
+    second: papers3_109x83_366
+  - first:
+      213: 667161649862061526
+    second: papers3_109x83_367
+  - first:
+      213: 9033528147607127257
+    second: papers3_109x83_368
+  - first:
+      213: 3849731348004703052
+    second: papers3_109x83_369
+  - first:
+      213: -8141062934422554870
+    second: papers3_109x83_370
+  - first:
+      213: 6300618651211920707
+    second: papers3_109x83_371
+  - first:
+      213: -194650020013305093
+    second: papers3_109x83_372
+  - first:
+      213: -5533441214483265000
+    second: papers3_109x83_373
+  - first:
+      213: -5949358561802848164
+    second: papers3_109x83_374
+  - first:
+      213: 7991258129763826547
+    second: papers3_109x83_375
+  - first:
+      213: -780982133161378260
+    second: papers3_109x83_376
+  - first:
+      213: 6909266550788452640
+    second: papers3_109x83_377
+  - first:
+      213: 3140438940300699886
+    second: papers3_109x83_378
+  - first:
+      213: -331153135985748156
+    second: papers3_109x83_379
+  - first:
+      213: 1872530701775016065
+    second: papers3_109x83_380
+  - first:
+      213: 6870161995014646174
+    second: papers3_109x83_381
+  - first:
+      213: 5426325170631789488
+    second: papers3_109x83_382
+  - first:
+      213: -5983408115762846493
+    second: papers3_109x83_383
+  - first:
+      213: 7605820363399039240
+    second: papers3_109x83_384
+  - first:
+      213: 3436165016974153937
+    second: papers3_109x83_385
+  - first:
+      213: 8969867042764287811
+    second: papers3_109x83_386
+  - first:
+      213: 2881086754891956863
+    second: papers3_109x83_387
+  - first:
+      213: -1825223208340660774
+    second: papers3_109x83_388
+  - first:
+      213: 8708461372253653925
+    second: papers3_109x83_389
+  - first:
+      213: -426331000752096639
+    second: papers3_109x83_390
+  - first:
+      213: -7314725928270425944
+    second: papers3_109x83_391
+  - first:
+      213: -1365198936873669292
+    second: papers3_109x83_392
+  - first:
+      213: 3501944311674820630
+    second: papers3_109x83_393
+  - first:
+      213: -9210468874726831490
+    second: papers3_109x83_394
+  - first:
+      213: -7816712774942741598
+    second: papers3_109x83_395
+  - first:
+      213: 7527252399866955293
+    second: papers3_109x83_396
+  - first:
+      213: 5445421819777160110
+    second: papers3_109x83_397
+  - first:
+      213: -3456479292089054835
+    second: papers3_109x83_398
+  - first:
+      213: -1471286131342520850
+    second: papers3_109x83_399
+  - first:
+      213: 2006423067834897283
+    second: papers3_109x83_400
+  - first:
+      213: 1638804621379344798
+    second: papers3_109x83_401
+  - first:
+      213: -803199022546801468
+    second: papers3_109x83_402
+  - first:
+      213: -6946118410707986592
+    second: papers3_109x83_403
+  - first:
+      213: 5351007990876690376
+    second: papers3_109x83_404
+  - first:
+      213: 3641690265039751481
+    second: papers3_109x83_405
+  - first:
+      213: -9188048609691394422
+    second: papers3_109x83_406
+  - first:
+      213: -6972706527754254266
+    second: papers3_109x83_407
+  - first:
+      213: 5498899409829099701
+    second: papers3_109x83_408
+  - first:
+      213: -186051521531378221
+    second: papers3_109x83_409
+  - first:
+      213: -550006813622236993
+    second: papers3_109x83_410
+  - first:
+      213: 4695458539793017924
+    second: papers3_109x83_411
+  - first:
+      213: 8853279796931596256
+    second: papers3_109x83_412
+  - first:
+      213: 5435244394880420368
+    second: papers3_109x83_413
+  - first:
+      213: -5940972035594075140
+    second: papers3_109x83_414
+  - first:
+      213: -561290769072660770
+    second: papers3_109x83_415
+  - first:
+      213: -8510962618777156501
+    second: papers3_109x83_416
+  - first:
+      213: 7863201397651987130
+    second: papers3_109x83_417
+  - first:
+      213: -5075410520668485763
+    second: papers3_109x83_418
+  - first:
+      213: 1004571363402654455
+    second: papers3_109x83_419
+  - first:
+      213: -6943243490604487965
+    second: papers3_109x83_420
+  - first:
+      213: 7179108679849290748
+    second: papers3_109x83_421
+  - first:
+      213: -2222080871617739590
+    second: papers3_109x83_422
+  - first:
+      213: 6474694340090878940
+    second: papers3_109x83_423
+  - first:
+      213: -2388351693078050325
+    second: papers3_109x83_424
+  - first:
+      213: 9064010831917893943
+    second: papers3_109x83_425
+  - first:
+      213: 4356758024703639153
+    second: papers3_109x83_426
+  - first:
+      213: 2299639725061573258
+    second: papers3_109x83_427
+  - first:
+      213: -1813377031706641256
+    second: papers3_109x83_428
+  - first:
+      213: 5686915299838666201
+    second: papers3_109x83_429
+  - first:
+      213: -463542172033309206
+    second: papers3_109x83_430
+  - first:
+      213: -4922398328543895192
+    second: papers3_109x83_431
+  - first:
+      213: 6982213068214183196
+    second: papers3_109x83_432
+  - first:
+      213: 2037935185289966906
+    second: papers3_109x83_433
+  - first:
+      213: 4844095481332291246
+    second: papers3_109x83_434
+  - first:
+      213: 1084625968795159473
+    second: papers3_109x83_435
+  - first:
+      213: 6552170080951444523
+    second: papers3_109x83_436
+  - first:
+      213: 9055818971327660570
+    second: papers3_109x83_437
+  - first:
+      213: 8839804032087454196
+    second: papers3_109x83_438
+  - first:
+      213: 6020081092526944336
+    second: papers3_109x83_439
+  - first:
+      213: -2547089331182829050
+    second: papers3_109x83_440
+  - first:
+      213: -6343360299537053748
+    second: papers3_109x83_441
+  - first:
+      213: 467918196012475618
+    second: papers3_109x83_442
+  - first:
+      213: -1716809653108128092
+    second: papers3_109x83_443
+  - first:
+      213: 2609096326195020788
+    second: papers3_109x83_444
+  - first:
+      213: 6183904432736568314
+    second: papers3_109x83_445
+  - first:
+      213: 8451466029343402510
+    second: papers3_109x83_446
+  - first:
+      213: 8834149130759903527
+    second: papers3_109x83_447
+  - first:
+      213: 7664213476138706417
+    second: papers3_109x83_448
+  - first:
+      213: 5094706148118467518
+    second: papers3_109x83_449
+  - first:
+      213: -5726894076703930766
+    second: papers3_109x83_450
+  - first:
+      213: 14288640010554364
+    second: papers3_109x83_451
+  - first:
+      213: 5493661090522805084
+    second: papers3_109x83_452
+  - first:
+      213: -2254586076100510224
+    second: papers3_109x83_453
+  - first:
+      213: 7331949917170113923
+    second: papers3_109x83_454
+  - first:
+      213: 6108585940697502467
+    second: papers3_109x83_455
+  - first:
+      213: -2459950273854262186
+    second: papers3_109x83_456
+  - first:
+      213: -620421188820504787
+    second: papers3_109x83_457
+  - first:
+      213: -3403130521409883929
+    second: papers3_109x83_458
+  - first:
+      213: -4319987708096375108
+    second: papers3_109x83_459
+  - first:
+      213: -8285589003625783815
+    second: papers3_109x83_460
+  - first:
+      213: 408673070849221195
+    second: papers3_109x83_461
+  - first:
+      213: 281893230383552530
+    second: papers3_109x83_462
+  - first:
+      213: 5078635536365442906
+    second: papers3_109x83_463
+  - first:
+      213: 5071972987154408584
+    second: papers3_109x83_464
+  - first:
+      213: 6862287995018866027
+    second: papers3_109x83_465
+  - first:
+      213: -4805570766151607726
+    second: papers3_109x83_466
+  - first:
+      213: 2699089559187259964
+    second: papers3_109x83_467
+  - first:
+      213: 1536046960085082996
+    second: papers3_109x83_468
+  - first:
+      213: 3572203571176607621
+    second: papers3_109x83_469
+  - first:
+      213: 6795526159986474683
+    second: papers3_109x83_470
+  - first:
+      213: 2403170933963703271
+    second: papers3_109x83_471
+  - first:
+      213: 3505129424256692781
+    second: papers3_109x83_472
+  - first:
+      213: 425251379713160581
+    second: papers3_109x83_473
+  - first:
+      213: -2055433546962987891
+    second: papers3_109x83_474
+  - first:
+      213: 1014567820435522683
+    second: papers3_109x83_475
+  - first:
+      213: 891647081433310802
+    second: papers3_109x83_476
+  - first:
+      213: -1179268973470564054
+    second: papers3_109x83_477
+  - first:
+      213: -6963920827218527130
+    second: papers3_109x83_478
+  - first:
+      213: 3105027951071960422
+    second: papers3_109x83_479
+  - first:
+      213: -1580808095213555343
+    second: papers3_109x83_480
+  - first:
+      213: 5730751610183677548
+    second: papers3_109x83_481
+  - first:
+      213: 6503184275550616851
+    second: papers3_109x83_482
+  - first:
+      213: 8544842569155685612
+    second: papers3_109x83_483
+  - first:
+      213: 8035412032538665218
+    second: papers3_109x83_484
+  - first:
+      213: -1985717267274116054
+    second: papers3_109x83_485
+  - first:
+      213: 8264339359298167076
+    second: papers3_109x83_486
+  - first:
+      213: 7517655519484776950
+    second: papers3_109x83_487
+  - first:
+      213: -1474310246290495039
+    second: papers3_109x83_488
+  - first:
+      213: 4690067266098469280
+    second: papers3_109x83_489
+  - first:
+      213: -3594279743317008613
+    second: papers3_109x83_490
+  - first:
+      213: -7082303623751603021
+    second: papers3_109x83_491
+  - first:
+      213: -6830428555707221776
+    second: papers3_109x83_492
+  - first:
+      213: 8324176886352974334
+    second: papers3_109x83_493
+  - first:
+      213: 4903884198275878615
+    second: papers3_109x83_494
+  - first:
+      213: -1592478952435173926
+    second: papers3_109x83_495
+  - first:
+      213: 1924330322725521123
+    second: papers3_109x83_496
+  - first:
+      213: -5413400113848663029
+    second: papers3_109x83_497
+  - first:
+      213: -980422060315466148
+    second: papers3_109x83_498
+  - first:
+      213: 2394600121368689460
+    second: papers3_109x83_499
+  - first:
+      213: 3820915431283887396
+    second: papers3_109x83_500
+  - first:
+      213: 7625144655703700010
+    second: papers3_109x83_501
+  - first:
+      213: 6581200603678638482
+    second: papers3_109x83_502
+  - first:
+      213: 4740091002408678474
+    second: papers3_109x83_503
+  - first:
+      213: -569928977554548718
+    second: papers3_109x83_504
+  - first:
+      213: -3515958840899929191
+    second: papers3_109x83_505
+  - first:
+      213: 8826659498738892399
+    second: papers3_109x83_506
+  - first:
+      213: -7532131181923088152
+    second: papers3_109x83_507
+  - first:
+      213: -3799082658976690075
+    second: papers3_109x83_508
+  - first:
+      213: 4805329568129074311
+    second: papers3_109x83_509
+  - first:
+      213: 1352995171838315430
+    second: papers3_109x83_510
+  - first:
+      213: 2752537722887077919
+    second: papers3_109x83_511
+  - first:
+      213: 6153257622417912942
+    second: papers3_109x83_512
+  - first:
+      213: -1019452128587744853
+    second: papers3_109x83_513
+  - first:
+      213: -4427287626321410139
+    second: papers3_109x83_514
+  - first:
+      213: 97255202689977549
+    second: papers3_109x83_515
+  - first:
+      213: 7438799670040330408
+    second: papers3_109x83_516
+  - first:
+      213: 1024114541315650853
+    second: papers3_109x83_517
+  - first:
+      213: 3968977913368117986
+    second: papers3_109x83_518
+  - first:
+      213: -8360546988361601513
+    second: papers3_109x83_519
+  - first:
+      213: -5718084799015702614
+    second: papers3_109x83_520
+  - first:
+      213: 2220843511306412731
+    second: papers3_109x83_521
+  - first:
+      213: -7812237460135025471
+    second: papers3_109x83_522
+  - first:
+      213: 2634450031533742510
+    second: papers3_109x83_523
+  - first:
+      213: 3729272674350197648
+    second: papers3_109x83_524
+  - first:
+      213: 4091070424896019628
+    second: papers3_109x83_525
+  - first:
+      213: -2104899777862953424
+    second: papers3_109x83_526
+  - first:
+      213: 8520273254151690292
+    second: papers3_109x83_527
+  - first:
+      213: 3943925698300975504
+    second: papers3_109x83_528
+  - first:
+      213: 2963360822934657042
+    second: papers3_109x83_529
+  - first:
+      213: -7165649266549148300
+    second: papers3_109x83_530
+  - first:
+      213: 5341540106419365045
+    second: papers3_109x83_531
+  - first:
+      213: -8455826174990193188
+    second: papers3_109x83_532
+  - first:
+      213: -4745108834087897676
+    second: papers3_109x83_533
+  - first:
+      213: -876954849113158838
+    second: papers3_109x83_534
+  - first:
+      213: 1797483151251884954
+    second: papers3_109x83_535
+  - first:
+      213: 9204843336145576096
+    second: papers3_109x83_536
+  - first:
+      213: 4698691711209324422
+    second: papers3_109x83_537
+  - first:
+      213: -6864437619423908042
+    second: papers3_109x83_538
+  - first:
+      213: 2679100723961712
+    second: papers3_109x83_539
+  - first:
+      213: -2340641778601830150
+    second: papers3_109x83_540
+  - first:
+      213: -5607983321582816268
+    second: papers3_109x83_541
+  - first:
+      213: 7858097503637593140
+    second: papers3_109x83_542
+  - first:
+      213: -4897744510629988883
+    second: papers3_109x83_543
+  - first:
+      213: 6466803025355117476
+    second: papers3_109x83_544
+  - first:
+      213: 5533233039785079518
+    second: papers3_109x83_545
+  - first:
+      213: 4820699169506748492
+    second: papers3_109x83_546
+  - first:
+      213: 1163641530503661929
+    second: papers3_109x83_547
+  - first:
+      213: -5438258210080229123
+    second: papers3_109x83_548
+  - first:
+      213: 4661409787682840026
+    second: papers3_109x83_549
+  - first:
+      213: -5861517364333459556
+    second: papers3_109x83_550
+  - first:
+      213: -1215938597022020387
+    second: papers3_109x83_551
+  - first:
+      213: -4813495141621092213
+    second: papers3_109x83_552
+  - first:
+      213: 8139510248548111510
+    second: papers3_109x83_553
+  - first:
+      213: 6274583403093664155
+    second: papers3_109x83_554
+  - first:
+      213: -2535067801857657514
+    second: papers3_109x83_555
+  - first:
+      213: -4340942009969882660
+    second: papers3_109x83_556
+  - first:
+      213: 5224470182089992085
+    second: papers3_109x83_557
+  - first:
+      213: -7367727889809281711
+    second: papers3_109x83_558
+  - first:
+      213: -6082007346113555039
+    second: papers3_109x83_559
+  - first:
+      213: 194263749851872034
+    second: papers3_109x83_560
+  - first:
+      213: 8736614416328284797
+    second: papers3_109x83_561
+  - first:
+      213: 6547696948992897338
+    second: papers3_109x83_562
+  - first:
+      213: 3447676010955084173
+    second: papers3_109x83_563
+  - first:
+      213: 995997773295250654
+    second: papers3_109x83_564
+  - first:
+      213: 8667180622328678752
+    second: papers3_109x83_565
+  - first:
+      213: 3690734023659701485
+    second: papers3_109x83_566
+  - first:
+      213: -7106933387033186004
+    second: papers3_109x83_567
+  - first:
+      213: 4527700458205790748
+    second: papers3_109x83_568
+  - first:
+      213: 3401314146833018432
+    second: papers3_109x83_569
+  - first:
+      213: -752910321272356539
+    second: papers3_109x83_570
+  - first:
+      213: 7762186674125176540
+    second: papers3_109x83_571
+  - first:
+      213: -1450227148934219894
+    second: papers3_109x83_572
+  - first:
+      213: 1354712564275224148
+    second: papers3_109x83_573
+  - first:
+      213: 1722815061317249182
+    second: papers3_109x83_574
+  - first:
+      213: 933233058828212344
+    second: papers3_109x83_575
+  - first:
+      213: -4002164321519566474
+    second: papers3_109x83_576
+  - first:
+      213: 8193448477287350124
+    second: papers3_109x83_577
+  - first:
+      213: 8923454306096744861
+    second: papers3_109x83_578
+  - first:
+      213: -1777510584909785732
+    second: papers3_109x83_579
+  - first:
+      213: -5867200114636576130
+    second: papers3_109x83_580
+  - first:
+      213: -3014144653380274279
+    second: papers3_109x83_581
+  - first:
+      213: -2579717348035649012
+    second: papers3_109x83_582
+  - first:
+      213: 1099639514045177034
+    second: papers3_109x83_583
+  - first:
+      213: 858709123850864941
+    second: papers3_109x83_584
+  - first:
+      213: 6348144946884589492
+    second: papers3_109x83_585
+  - first:
+      213: 2202417939575333207
+    second: papers3_109x83_586
+  - first:
+      213: 5135570863242630577
+    second: papers3_109x83_587
+  - first:
+      213: -90578590559622444
+    second: papers3_109x83_588
+  - first:
+      213: -8218830837330504374
+    second: papers3_109x83_589
+  - first:
+      213: 7719422271046102874
+    second: papers3_109x83_590
+  - first:
+      213: -8416555539657484338
+    second: papers3_109x83_591
+  - first:
+      213: -4294915083661305108
+    second: papers3_109x83_592
+  - first:
+      213: -7661521645045289510
+    second: papers3_109x83_593
+  - first:
+      213: 5008259085192451204
+    second: papers3_109x83_594
+  - first:
+      213: 4136129975060276241
+    second: papers3_109x83_595
+  - first:
+      213: 3821348521544285357
+    second: papers3_109x83_596
+  - first:
+      213: 3593026476953865759
+    second: papers3_109x83_597
+  - first:
+      213: -2320979251023257278
+    second: papers3_109x83_598
+  - first:
+      213: 5143990126186942818
+    second: papers3_109x83_599
+  - first:
+      213: 6538221253642264885
+    second: papers3_109x83_600
+  - first:
+      213: -7662981357698225791
+    second: papers3_109x83_601
+  - first:
+      213: -6121612036212170614
+    second: papers3_109x83_602
+  - first:
+      213: 6503984166014943570
+    second: papers3_109x83_603
+  - first:
+      213: -966328183002422645
+    second: papers3_109x83_604
+  - first:
+      213: -7448301879624012547
+    second: papers3_109x83_605
+  - first:
+      213: 8988033535270146657
+    second: papers3_109x83_606
+  - first:
+      213: -7193799802966205588
+    second: papers3_109x83_607
+  - first:
+      213: -1983814711717153880
+    second: papers3_109x83_608
+  - first:
+      213: -1422267512865401063
+    second: papers3_109x83_609
+  - first:
+      213: -20182309811842947
+    second: papers3_109x83_610
+  - first:
+      213: 6175778361486288048
+    second: papers3_109x83_611
+  - first:
+      213: 4993632172723900874
+    second: papers3_109x83_612
+  - first:
+      213: -4443622263995384
+    second: papers3_109x83_613
+  - first:
+      213: -9179631497223969862
+    second: papers3_109x83_614
+  - first:
+      213: 458423308105608646
+    second: papers3_109x83_615
+  - first:
+      213: -8662218576630689551
+    second: papers3_109x83_616
+  - first:
+      213: 470522951389056390
+    second: papers3_109x83_617
+  - first:
+      213: 5885540326344406605
+    second: papers3_109x83_618
+  - first:
+      213: 9075695893695867915
+    second: papers3_109x83_619
+  - first:
+      213: -744966354521811282
+    second: papers3_109x83_620
+  - first:
+      213: -4597528398413923904
+    second: papers3_109x83_621
+  - first:
+      213: 8646812121947405248
+    second: papers3_109x83_622
+  - first:
+      213: -2071500691485356007
+    second: papers3_109x83_623
+  - first:
+      213: 1369684663774066765
+    second: papers3_109x83_624
+  - first:
+      213: -5230889856288637388
+    second: papers3_109x83_625
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: papers3_109x83_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48a99cb85024cc00800000000000000
+      internalID: 919895789383821386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c394221b52762d60800000000000000
+      internalID: 7865099534721127368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52668c91acc3969d0800000000000000
+      internalID: -2780624456210946523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55d3a0bed143d450800000000000000
+      internalID: 6112301543973967197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fcaaceb000362e0800000000000000
+      internalID: -2133861747228225658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f8cbe8b237fe30800000000000000
+      internalID: 4537150919410250544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173658bd56cdc8eb0800000000000000
+      internalID: -4716152379730992271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_7
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac072de519c3bb200800000000000000
+      internalID: 196817603779522762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec206a974a5b1ff0800000000000000
+      internalID: -64358506087568145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db63d4351a02554f0800000000000000
+      internalID: -840729878175336771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_10
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab94f99dffe904e80800000000000000
+      internalID: -8196376500109358662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_11
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af83357c5fa99840800000000000000
+      internalID: 5231405253805707177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_12
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58f539ceb3fd3a70800000000000000
+      internalID: 8808464446951651422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_13
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d4650c6cd19c0c0800000000000000
+      internalID: -4555076808640934585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_14
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1079
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2c094549ce57210800000000000000
+      internalID: 1330229386775937779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e2a456feac83fc0800000000000000
+      internalID: -3514836379617317230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a454f822e6317c0800000000000000
+      internalID: -4101813740892763555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1a50aa744f12c0800000000000000
+      internalID: -4458769812606542455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c256624e6a0c5350800000000000000
+      internalID: 6006687471682081478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e2e148574813530800000000000000
+      internalID: 3832990398131613213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f075eb492c18a6f0800000000000000
+      internalID: -673257180599324430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013b12f36d921c5d0800000000000000
+      internalID: -3044105872966831344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_22
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b82585741f8e5320800000000000000
+      internalID: 2548631757172058294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_23
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3c0c940edb9f060800000000000000
+      internalID: 6987825067849729011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_24
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a732f989d8a92970800000000000000
+      internalID: 8730695004910139304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_25
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a6f876f2d5eca0800000000000000
+      internalID: -5988148173485989017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_26
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8350f88b0136f00800000000000000
+      internalID: 1108748318122784972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_27
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e2127658d754f50800000000000000
+      internalID: 6865031218910539357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_28
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319d7e72262e441c0800000000000000
+      internalID: -4520239214768957165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_29
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 996
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e7daccad0de4d40800000000000000
+      internalID: 5570619427259252328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2092da4ed75c90e70800000000000000
+      internalID: 9082007268067453186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18568fe93ba234ab0800000000000000
+      internalID: -5025125808260749951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_32
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e8c96dd9fa5ff40800000000000000
+      internalID: 5761704390735728251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a3a87afe53665d0800000000000000
+      internalID: -3069706792582104431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c7dcc428889560800000000000000
+      internalID: 7320750885927633862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa409faa2ce92c90800000000000000
+      internalID: -7193959261669405959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_36
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83058d1c7e906f0f0800000000000000
+      internalID: -1083667769341751240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_37
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783baed41d69c1c20800000000000000
+      internalID: 3178581262716285831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_38
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49c72a6f3d7a2630800000000000000
+      internalID: 3903069738387360079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_39
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14166eb277529e0f0800000000000000
+      internalID: -1087296641265409727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_40
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e80f1c90c78bae0800000000000000
+      internalID: -1533339291769336282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_41
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b6194ebf2f7cc0800000000000000
+      internalID: -3711195073613483150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_42
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90669b747d8449650800000000000000
+      internalID: 6238691473273480713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_43
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063752a2e6a6dbd0800000000000000
+      internalID: -2605711842070809087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_44
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 913
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aa396209ddfee40800000000000000
+      internalID: 5688008465584466435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15033b2e3bd932640800000000000000
+      internalID: 5054056602767929425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4248caf2186e820800000000000000
+      internalID: 2947185047918355664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_47
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee89d7b34caeb9a40800000000000000
+      internalID: 5376148708729395438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_48
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6806c110f834ab280800000000000000
+      internalID: -9026828221632716666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_49
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84732fb67f0ba4b0800000000000000
+      internalID: -5428227923177671538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_50
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d7c72b2a5204fa0800000000000000
+      internalID: -5818609337853248109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_51
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab5cf1cbd37f1000800000000000000
+      internalID: 8853111967603621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_52
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332f43e2d0fb07ab0800000000000000
+      internalID: -5012296321932660173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_53
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cd98e6ff721dee0800000000000000
+      internalID: -1238164444525503394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_54
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753c3242c6fea7b60800000000000000
+      internalID: 7744765756958819159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_55
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc50db37c1c023d10800000000000000
+      internalID: 2103757292275828171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_56
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0a7f0c6e35a3f90800000000000000
+      internalID: -6973168822484754247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_57
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f122ad45023a970800000000000000
+      internalID: 8764884848602128225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_58
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7d08ae461b4ff10800000000000000
+      internalID: 2302660356482324416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_59
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 830
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfeb64ae09cee760800000000000000
+      internalID: 7489144295088975827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5743271336f20e890800000000000000
+      internalID: -7430887282083482507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bfdb68a3ab29800800000000000000
+      internalID: 617760859434646289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_62
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e2d35a9f5f39560800000000000000
+      internalID: 7319464271975100027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_63
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070311e48223b36f0800000000000000
+      internalID: -703913768063520656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_64
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2576ef5fe1754d520800000000000000
+      internalID: 2725899464953718610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_65
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529cafe37706660d0800000000000000
+      internalID: -3429948000922056411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_66
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87946e5f30aca680800000000000000
+      internalID: -8742436582605940852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_67
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ddb9b69d2c1450800000000000000
+      internalID: 6060769323918415922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_68
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a59f9c667e731e0800000000000000
+      internalID: -2218049862795437469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_69
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848295b8382b373b0800000000000000
+      internalID: -5515868840550389688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_70
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0c3b72efcf41f0800000000000000
+      internalID: -1058398815771686278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_71
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb126712d898941f0800000000000000
+      internalID: -1060164998024257093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_72
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4e6db0107b46d50800000000000000
+      internalID: 6729704958319846607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_73
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e9b36faa13e71e0800000000000000
+      internalID: -2198264957764919772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_74
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 747
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d9b3bcf66a6c780800000000000000
+      internalID: -8663053834119307913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d510ea1522d2be4d0800000000000000
+      internalID: -3104337892719328931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_76
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b887139e89a9b10800000000000000
+      internalID: 1989070312762280790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_77
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9415a1100f2b6ea70800000000000000
+      internalID: 8855962461151056201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_78
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6af80537ce43eb0800000000000000
+      internalID: -4740904527697303817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_79
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364a96ffc8f21f790800000000000000
+      internalID: -7498159621968124829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_80
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f3ea17cec1c16b0800000000000000
+      internalID: -5324348857613664445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_81
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f496fc70726fdba0800000000000000
+      internalID: -6062018338145004301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_82
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453dcdf0c025e2110800000000000000
+      internalID: 1238017159332680532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_83
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853b38379eafcb930800000000000000
+      internalID: 4160476036355830616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_84
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2688be6e0d94622e0800000000000000
+      internalID: -2150950610446612382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_85
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bed2945347c7420800000000000000
+      internalID: 2629104054687361933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_86
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436077845cec95dd0800000000000000
+      internalID: -2496737171680590284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_87
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6159e555747dadba0800000000000000
+      internalID: -6063297246926039786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_88
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e5843a5dcc25780800000000000000
+      internalID: -8695662712559477115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_89
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 664
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372d0efebb4178e00800000000000000
+      internalID: 1046828235802858099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdbdf35b647e23a0800000000000000
+      internalID: -6688280392279147068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_91
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966ff8f1a25627900800000000000000
+      internalID: 680717725278926441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_92
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63237480af8154550800000000000000
+      internalID: 6144344728776684086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_93
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a3c159e3c502f70800000000000000
+      internalID: 9160423065930971740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_94
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471d9f7c0941b9830800000000000000
+      internalID: 4078876499577000308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_95
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aa9f2f55a26be80800000000000000
+      internalID: -8163290725925410165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_96
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05a6a8d26873550800000000000000
+      internalID: 6140524147096834217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_97
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b60efb46bc8820800000000000000
+      internalID: 2921910695757263046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_98
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0accd177d25cd8c0800000000000000
+      internalID: -3973209685965878772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_99
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692d369bccb8a9e10800000000000000
+      internalID: 2205228678951195286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_100
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452157b2b0f628bc0800000000000000
+      internalID: -3782338643273379244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_101
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3150e0ef45ee980e0800000000000000
+      internalID: -2267018888597338861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_102
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12623cfc3be72b4d0800000000000000
+      internalID: -3120292281064413663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_103
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72845d4f31e434930800000000000000
+      internalID: 4126227531220469799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_104
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 581
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78dd18f19cb1ef10800000000000000
+      internalID: 2297324620054648954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bff41c4c1e70e70800000000000000
+      internalID: 9081475408788978498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_106
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8877708a842e78eb0800000000000000
+      internalID: -4717553282962720888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_107
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15714994a8704920800000000000000
+      internalID: 2972508402405700890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_108
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b4908382eedf4ba0901c915727620
+      internalID: -4135988781163494969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_109
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dca25d8f8bdfe343a3d726523423169
+      internalID: -4687033670544646115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_110
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7725fdd498f67e54a9febd53c4d15f82
+      internalID: -8140192827885190714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_111
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b132437b86ad1c94d8bdf30ea1565e34
+      internalID: 6577728797499168056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_112
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bff3c0326d6e6419a784eee30011ca
+      internalID: 4295456623086603983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_113
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1211e21eaff9500459d319d535b1bc18
+      internalID: 4606316917551898493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_114
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be655627cea10a143a19bb7117aaf66a
+      internalID: -5724095970962572913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_115
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a81675c505b9749934ad373d9d3a28
+      internalID: 6994441483808655358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_116
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dec3352f9c22d4a9876954d765a58c
+      internalID: -2887655895165547432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_117
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78dad5245305a1499e888da1988d11f
+      internalID: -1427932618237888637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_118
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e88e3ee5e71f0144aff18b07a4b60ec
+      internalID: 6872348887351472753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_119
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 498
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf150b25230bbd4d8494ffbbfabb46d
+      internalID: 776150053863170105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db4171c2f4794043b930998b52a81f5
+      internalID: 7206860087600859396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_121
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5741c2d399aefbc4e833f574f24a2285
+      internalID: -3339856275382767169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_122
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d0c02d2af0ead47bfb56110c28314b
+      internalID: -6447823528763371723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_123
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f93322296f6c041a978d268d3dbaec
+      internalID: 8698775469564791869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_124
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8fa5a2cac57de41996da663231ed1e
+      internalID: 5797891329077838899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_125
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136dd0c95b4d491478c6f1fba2fe680a
+      internalID: 5428283162363382195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_126
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f984a14dba3f55c40bd6bd4760765b30
+      internalID: -8318495752940409096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_127
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee2eb2c08f0274881a10f1876644bc
+      internalID: 5981120439951447555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_128
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b022d9ed6b1c41b8981830d6c6d9f
+      internalID: -2380927475223904302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_129
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bac8f59ccfb3746b399a6b8a1fec28
+      internalID: -3981058659349159956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_130
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddfb7346cc0fd44d9ad4f6e43da8305
+      internalID: -8255351769345602308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_131
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256b3e449e9ac84391f27f0443c889f
+      internalID: 2129382394627648383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_132
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802b3af5f5aabe44837b9154b24e07f
+      internalID: -4657436332253052183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_133
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87761471973dce4abe573f680b28bc4
+      internalID: -3986966591965128443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_134
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 415
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c391e2bd4fee64fa04dfa6ac21e48f
+      internalID: 2167437153046053532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df661254685b35640a18d5076d03f805
+      internalID: -2268091937570635258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_136
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540b76e2164739c468c41906221ea6ac
+      internalID: -8985639825561944058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_137
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9564707d228255f4f9f3b30b01f1cfa3
+      internalID: -7995355231000232956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_138
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d6d75059f3c145a16184e7ce3b5ce
+      internalID: -8158259291788825935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_139
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e753099e4f9be468583f041d886722
+      internalID: -135270432451300806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_140
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f77a347da1b174da7d06be5590597f
+      internalID: 7250526933576769166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_141
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b1401be510fad4cb52ae4accb81051
+      internalID: -2985124940673841942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_142
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a89b00a722c0b40b02e53b7587495b
+      internalID: 7390084921600903440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_143
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdab48c90fe6024ea33e71f4d95f9d7
+      internalID: -7584597095215132181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_144
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08fbcc498e7a4b438c7e4b9c78d3b0f
+      internalID: 1741150636942972731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_145
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42600269305ffa64d861d232e73fe009
+      internalID: -7165403490694170743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_146
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bbc5faff9f0f04fbe6902aea9228a4
+      internalID: 2217183697595294284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_147
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898eae9e90a140b40a48a64c5a56f082
+      internalID: -7309076758032396882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_148
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 332
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae1e26b4c591f44a8fd8d0437312b12
+      internalID: -8199968252204595443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers3_109x83_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9305a99b4b7e5a143a8dd2b1968e2cea
+      internalID: 9052290724383227096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a22259baa5dd394889ab3968d9008b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      papers3_109x83_0: 919895789383821386
+      papers3_109x83_1: 7865099534721127368
+      papers3_109x83_10: -8196376500109358662
+      papers3_109x83_100: -3782338643273379244
+      papers3_109x83_101: -2267018888597338861
+      papers3_109x83_102: -3120292281064413663
+      papers3_109x83_103: 4126227531220469799
+      papers3_109x83_104: 2297324620054648954
+      papers3_109x83_105: 9081475408788978498
+      papers3_109x83_106: -4717553282962720888
+      papers3_109x83_107: 2972508402405700890
+      papers3_109x83_108: -4135988781163494969
+      papers3_109x83_109: -4687033670544646115
+      papers3_109x83_11: 5231405253805707177
+      papers3_109x83_110: -8140192827885190714
+      papers3_109x83_111: 6577728797499168056
+      papers3_109x83_112: 4295456623086603983
+      papers3_109x83_113: 4606316917551898493
+      papers3_109x83_114: -5724095970962572913
+      papers3_109x83_115: 6994441483808655358
+      papers3_109x83_116: -2887655895165547432
+      papers3_109x83_117: -1427932618237888637
+      papers3_109x83_118: 6872348887351472753
+      papers3_109x83_119: 776150053863170105
+      papers3_109x83_12: 8808464446951651422
+      papers3_109x83_120: 7206860087600859396
+      papers3_109x83_121: -3339856275382767169
+      papers3_109x83_122: -6447823528763371723
+      papers3_109x83_123: 8698775469564791869
+      papers3_109x83_124: 5797891329077838899
+      papers3_109x83_125: 5428283162363382195
+      papers3_109x83_126: -8318495752940409096
+      papers3_109x83_127: 5981120439951447555
+      papers3_109x83_128: -2380927475223904302
+      papers3_109x83_129: -3981058659349159956
+      papers3_109x83_13: -4555076808640934585
+      papers3_109x83_130: -8255351769345602308
+      papers3_109x83_131: 2129382394627648383
+      papers3_109x83_132: -4657436332253052183
+      papers3_109x83_133: -3986966591965128443
+      papers3_109x83_134: 2167437153046053532
+      papers3_109x83_135: -2268091937570635258
+      papers3_109x83_136: -8985639825561944058
+      papers3_109x83_137: -7995355231000232956
+      papers3_109x83_138: -8158259291788825935
+      papers3_109x83_139: -135270432451300806
+      papers3_109x83_14: 1330229386775937779
+      papers3_109x83_140: 7250526933576769166
+      papers3_109x83_141: -2985124940673841942
+      papers3_109x83_142: 7390084921600903440
+      papers3_109x83_143: -7584597095215132181
+      papers3_109x83_144: 1741150636942972731
+      papers3_109x83_145: -7165403490694170743
+      papers3_109x83_146: 2217183697595294284
+      papers3_109x83_147: -7309076758032396882
+      papers3_109x83_148: -8199968252204595443
+      papers3_109x83_149: 9052290724383227096
+      papers3_109x83_15: -3514836379617317230
+      papers3_109x83_16: -4101813740892763555
+      papers3_109x83_17: -4458769812606542455
+      papers3_109x83_18: 6006687471682081478
+      papers3_109x83_19: 3832990398131613213
+      papers3_109x83_2: -2780624456210946523
+      papers3_109x83_20: -673257180599324430
+      papers3_109x83_21: -3044105872966831344
+      papers3_109x83_22: 2548631757172058294
+      papers3_109x83_23: 6987825067849729011
+      papers3_109x83_24: 8730695004910139304
+      papers3_109x83_25: -5988148173485989017
+      papers3_109x83_26: 1108748318122784972
+      papers3_109x83_27: 6865031218910539357
+      papers3_109x83_28: -4520239214768957165
+      papers3_109x83_29: 5570619427259252328
+      papers3_109x83_3: 6112301543973967197
+      papers3_109x83_30: 9082007268067453186
+      papers3_109x83_31: -5025125808260749951
+      papers3_109x83_32: 5761704390735728251
+      papers3_109x83_33: -3069706792582104431
+      papers3_109x83_34: 7320750885927633862
+      papers3_109x83_35: -7193959261669405959
+      papers3_109x83_36: -1083667769341751240
+      papers3_109x83_37: 3178581262716285831
+      papers3_109x83_38: 3903069738387360079
+      papers3_109x83_39: -1087296641265409727
+      papers3_109x83_4: -2133861747228225658
+      papers3_109x83_40: -1533339291769336282
+      papers3_109x83_41: -3711195073613483150
+      papers3_109x83_42: 6238691473273480713
+      papers3_109x83_43: -2605711842070809087
+      papers3_109x83_44: 5688008465584466435
+      papers3_109x83_45: 5054056602767929425
+      papers3_109x83_46: 2947185047918355664
+      papers3_109x83_47: 5376148708729395438
+      papers3_109x83_48: -9026828221632716666
+      papers3_109x83_49: -5428227923177671538
+      papers3_109x83_5: 4537150919410250544
+      papers3_109x83_50: -5818609337853248109
+      papers3_109x83_51: 8853111967603621
+      papers3_109x83_52: -5012296321932660173
+      papers3_109x83_53: -1238164444525503394
+      papers3_109x83_54: 7744765756958819159
+      papers3_109x83_55: 2103757292275828171
+      papers3_109x83_56: -6973168822484754247
+      papers3_109x83_57: 8764884848602128225
+      papers3_109x83_58: 2302660356482324416
+      papers3_109x83_59: 7489144295088975827
+      papers3_109x83_6: -4716152379730992271
+      papers3_109x83_60: -7430887282083482507
+      papers3_109x83_61: 617760859434646289
+      papers3_109x83_62: 7319464271975100027
+      papers3_109x83_63: -703913768063520656
+      papers3_109x83_64: 2725899464953718610
+      papers3_109x83_65: -3429948000922056411
+      papers3_109x83_66: -8742436582605940852
+      papers3_109x83_67: 6060769323918415922
+      papers3_109x83_68: -2218049862795437469
+      papers3_109x83_69: -5515868840550389688
+      papers3_109x83_7: 196817603779522762
+      papers3_109x83_70: -1058398815771686278
+      papers3_109x83_71: -1060164998024257093
+      papers3_109x83_72: 6729704958319846607
+      papers3_109x83_73: -2198264957764919772
+      papers3_109x83_74: -8663053834119307913
+      papers3_109x83_75: -3104337892719328931
+      papers3_109x83_76: 1989070312762280790
+      papers3_109x83_77: 8855962461151056201
+      papers3_109x83_78: -4740904527697303817
+      papers3_109x83_79: -7498159621968124829
+      papers3_109x83_8: -64358506087568145
+      papers3_109x83_80: -5324348857613664445
+      papers3_109x83_81: -6062018338145004301
+      papers3_109x83_82: 1238017159332680532
+      papers3_109x83_83: 4160476036355830616
+      papers3_109x83_84: -2150950610446612382
+      papers3_109x83_85: 2629104054687361933
+      papers3_109x83_86: -2496737171680590284
+      papers3_109x83_87: -6063297246926039786
+      papers3_109x83_88: -8695662712559477115
+      papers3_109x83_89: 1046828235802858099
+      papers3_109x83_9: -840729878175336771
+      papers3_109x83_90: -6688280392279147068
+      papers3_109x83_91: 680717725278926441
+      papers3_109x83_92: 6144344728776684086
+      papers3_109x83_93: 9160423065930971740
+      papers3_109x83_94: 4078876499577000308
+      papers3_109x83_95: -8163290725925410165
+      papers3_109x83_96: 6140524147096834217
+      papers3_109x83_97: 2921910695757263046
+      papers3_109x83_98: -3973209685965878772
+      papers3_109x83_99: 2205228678951195286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: b81692496f1b31346b15f47492d5a6bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6079822127594682704
+    second: sprinkles_idle6_0
+  - first:
+      213: 680788210278360790
+    second: sprinkles_idle6_1
+  - first:
+      213: -8906187016851256607
+    second: sprinkles_idle6_2
+  - first:
+      213: 4770788521437349926
+    second: sprinkles_idle6_3
+  - first:
+      213: -5341915597564282365
+    second: sprinkles_idle6_4
+  - first:
+      213: 4353739188233020387
+    second: sprinkles_idle6_5
+  - first:
+      213: 848443282496301541
+    second: sprinkles_idle6_6
+  - first:
+      213: 6011911900267553016
+    second: sprinkles_idle6_7
+  - first:
+      213: -8772760596777068786
+    second: sprinkles_idle6_8
+  - first:
+      213: 5988933631574097410
+    second: sprinkles_idle6_9
+  - first:
+      213: -2800008005312650095
+    second: sprinkles_idle6_10
+  - first:
+      213: 3299839077503980523
+    second: sprinkles_idle6_11
+  - first:
+      213: -5246305532901527793
+    second: sprinkles_idle6_12
+  - first:
+      213: 3574090037310996831
+    second: sprinkles_idle6_13
+  - first:
+      213: 256438504066424449
+    second: sprinkles_idle6_14
+  - first:
+      213: -2672792883777471570
+    second: sprinkles_idle6_15
+  - first:
+      213: 5428736302335242934
+    second: sprinkles_idle6_16
+  - first:
+      213: -3498314063834450440
+    second: sprinkles_idle6_17
+  - first:
+      213: 3412864560110109494
+    second: sprinkles_idle6_18
+  - first:
+      213: -1768379284115445833
+    second: sprinkles_idle6_19
+  - first:
+      213: -8069186097288973473
+    second: sprinkles_idle6_20
+  - first:
+      213: 7584639103931974944
+    second: sprinkles_idle6_21
+  - first:
+      213: 8010252960097799622
+    second: sprinkles_idle6_22
+  - first:
+      213: -5373762636908504823
+    second: sprinkles_idle6_23
+  - first:
+      213: -7443397726170556624
+    second: sprinkles_idle6_24
+  - first:
+      213: -4168283287930093889
+    second: sprinkles_idle6_25
+  - first:
+      213: 6127882483367702714
+    second: sprinkles_idle6_26
+  - first:
+      213: 8763983419087688534
+    second: sprinkles_idle6_27
+  - first:
+      213: 6663019697492962533
+    second: sprinkles_idle6_28
+  - first:
+      213: 6873701951503406637
+    second: sprinkles_idle6_29
+  - first:
+      213: 5786131255100551975
+    second: sprinkles_idle6_30
+  - first:
+      213: -3848941188713613790
+    second: sprinkles_idle6_31
+  - first:
+      213: -2381581217639529493
+    second: sprinkles_idle6_32
+  - first:
+      213: -4093821102737557281
+    second: sprinkles_idle6_33
+  - first:
+      213: -7345489295047911252
+    second: sprinkles_idle6_34
+  - first:
+      213: 7773761251577374843
+    second: sprinkles_idle6_35
+  - first:
+      213: 7836065759268471007
+    second: sprinkles_idle6_36
+  - first:
+      213: 2813960478225243326
+    second: sprinkles_idle6_37
+  - first:
+      213: 6339528780884834483
+    second: sprinkles_idle6_38
+  - first:
+      213: 8372542560699308528
+    second: sprinkles_idle6_39
+  - first:
+      213: -1961627088876507598
+    second: sprinkles_idle6_40
+  - first:
+      213: 570309107604285009
+    second: sprinkles_idle6_41
+  - first:
+      213: -1285272556588651599
+    second: sprinkles_idle6_42
+  - first:
+      213: 8061580844713398915
+    second: sprinkles_idle6_43
+  - first:
+      213: 4413108450749656922
+    second: sprinkles_idle6_44
+  - first:
+      213: 4688619416932744289
+    second: sprinkles_idle6_45
+  - first:
+      213: 8874985419093933129
+    second: sprinkles_idle6_46
+  - first:
+      213: -474770891995491100
+    second: sprinkles_idle6_47
+  - first:
+      213: 8120294065440342405
+    second: sprinkles_idle6_48
+  - first:
+      213: -7049895234966243338
+    second: sprinkles_idle6_49
+  - first:
+      213: 5216757886323631243
+    second: sprinkles_idle6_50
+  - first:
+      213: -2271451994089170869
+    second: sprinkles_idle6_51
+  - first:
+      213: -697825797405710095
+    second: sprinkles_idle6_52
+  - first:
+      213: -3000769904846618630
+    second: sprinkles_idle6_53
+  - first:
+      213: 979423935587274562
+    second: sprinkles_idle6_54
+  - first:
+      213: -1167073107177043093
+    second: sprinkles_idle6_55
+  - first:
+      213: 3896968556803152883
+    second: sprinkles_idle6_56
+  - first:
+      213: -333337859969305523
+    second: sprinkles_idle6_57
+  - first:
+      213: -4831540463756629572
+    second: sprinkles_idle6_58
+  - first:
+      213: -3111681293119270258
+    second: sprinkles_idle6_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprinkles_idle6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c82bbcf120aba0800000000000000
+      internalID: -6079822127594682704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d66ae03545a27900800000000000000
+      internalID: 680788210278360790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea826d581ed66480800000000000000
+      internalID: -8906187016851256607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628c8ce22ee353240800000000000000
+      internalID: 4770788521437349926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aff031114bdd5b0800000000000000
+      internalID: -5341915597564282365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3a35f79b69b6c30800000000000000
+      internalID: 4353739188233020387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e922419ba646cb00800000000000000
+      internalID: 848443282496301541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f02464550a9e6350800000000000000
+      internalID: 6011911900267553016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 798
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071f81a7b4e04680800000000000000
+      internalID: -8772760596777068786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e3d5d3867fc1350800000000000000
+      internalID: 5988933631574097410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194e613ed8f5429d0800000000000000
+      internalID: -2800008005312650095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3d39e58226bcd20800000000000000
+      internalID: 3299839077503980523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fec38f9e06137b0800000000000000
+      internalID: -5246305532901527793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f514f2dd3f7b99130800000000000000
+      internalID: 3574090037310996831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e9c95f57d0f8300800000000000000
+      internalID: 256438504066424449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab7044880558ead0800000000000000
+      internalID: -2672792883777471570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2b5ff77eeb65b40800000000000000
+      internalID: 5428736302335242934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_17
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 665
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5f460d4ed737fc0800000000000000
+      internalID: -3498314063834450440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63302eb3c3eec5f20800000000000000
+      internalID: 3412864560110109494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a32e09647577e0800000000000000
+      internalID: -1768379284115445833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53f1943ffd740090800000000000000
+      internalID: -8069186097288973473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0250763741d024960800000000000000
+      internalID: 7584639103931974944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd86a780a22a2f60800000000000000
+      internalID: 8010252960097799622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9095dc76a5f8c65b0800000000000000
+      internalID: -5373762636908504823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_24
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03757a1743db3b890800000000000000
+      internalID: -7443397726170556624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_25
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbebab32f684726c0800000000000000
+      internalID: -4168283287930093889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_26
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 532
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab07876d6ac9a0550800000000000000
+      internalID: 6127882483367702714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65392207c7cef9970800000000000000
+      internalID: 8763983419087688534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecaf78dc1dc77c50800000000000000
+      internalID: 6663019697492962533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d261547a18b446f50800000000000000
+      internalID: 6873701951503406637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723bd0468b77c4050800000000000000
+      internalID: 5786131255100551975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226fa55a160d59ac0800000000000000
+      internalID: -3848941188713613790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be38ade208ce2fed0800000000000000
+      internalID: -2381581217639529493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd87455a563df27c0800000000000000
+      internalID: -4093821102737557281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca81c3b77649f0a90800000000000000
+      internalID: -7345489295047911252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_35
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 399
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7827f0dba2f1eb60800000000000000
+      internalID: 7773761251577374843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08cc17a4c4fbc60800000000000000
+      internalID: 7836065759268471007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9a9c55223d0720800000000000000
+      internalID: 2813960478225243326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8710486d78af750800000000000000
+      internalID: 6339528780884834483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9525d691f313470800000000000000
+      internalID: 8372542560699308528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_40
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e6bb94e86e6c4e0800000000000000
+      internalID: -1961627088876507598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_41
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1566cea9c152ae700800000000000000
+      internalID: 570309107604285009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba9f06b6bc92ee0800000000000000
+      internalID: -1285272556588651599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_43
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3825c31f01d70ef60800000000000000
+      internalID: 8061580844713398915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_44
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 266
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f253a11c28e3d30800000000000000
+      internalID: 4413108450749656922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c7641b482511140800000000000000
+      internalID: 4688619416932744289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c7ddb87384a2b70800000000000000
+      internalID: 8874985419093933129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4d9e0a3664969f0800000000000000
+      internalID: -474770891995491100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581c84aed6411b070800000000000000
+      internalID: 8120294065440342405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f73e10c2adb92e90800000000000000
+      internalID: -7049895234966243338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_50
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84a98578a5a56840800000000000000
+      internalID: 5216757886323631243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_51
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4856ff227e2a70e0800000000000000
+      internalID: -2271451994089170869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_52
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8678e6223d056f0800000000000000
+      internalID: -697825797405710095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_53
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 133
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff3fe89baf1b56d0800000000000000
+      internalID: -3000769904846618630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fc13551ec979d00800000000000000
+      internalID: 979423935587274562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b0dc34139bdcfe0800000000000000
+      internalID: -1167073107177043093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb5e116140d41630800000000000000
+      internalID: 3896968556803152883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4437528bfebf5bf0800000000000000
+      internalID: -333337859969305523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb92cdbfb8be2fcb0800000000000000
+      internalID: -4831540463756629572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprinkles_idle6_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 133
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82d56da95611d4d0800000000000000
+      internalID: -3111681293119270258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0edb01dc47ebe546865201c813bd5fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprinkles_idle6_0: -6079822127594682704
+      sprinkles_idle6_1: 680788210278360790
+      sprinkles_idle6_10: -2800008005312650095
+      sprinkles_idle6_11: 3299839077503980523
+      sprinkles_idle6_12: -5246305532901527793
+      sprinkles_idle6_13: 3574090037310996831
+      sprinkles_idle6_14: 256438504066424449
+      sprinkles_idle6_15: -2672792883777471570
+      sprinkles_idle6_16: 5428736302335242934
+      sprinkles_idle6_17: -3498314063834450440
+      sprinkles_idle6_18: 3412864560110109494
+      sprinkles_idle6_19: -1768379284115445833
+      sprinkles_idle6_2: -8906187016851256607
+      sprinkles_idle6_20: -8069186097288973473
+      sprinkles_idle6_21: 7584639103931974944
+      sprinkles_idle6_22: 8010252960097799622
+      sprinkles_idle6_23: -5373762636908504823
+      sprinkles_idle6_24: -7443397726170556624
+      sprinkles_idle6_25: -4168283287930093889
+      sprinkles_idle6_26: 6127882483367702714
+      sprinkles_idle6_27: 8763983419087688534
+      sprinkles_idle6_28: 6663019697492962533
+      sprinkles_idle6_29: 6873701951503406637
+      sprinkles_idle6_3: 4770788521437349926
+      sprinkles_idle6_30: 5786131255100551975
+      sprinkles_idle6_31: -3848941188713613790
+      sprinkles_idle6_32: -2381581217639529493
+      sprinkles_idle6_33: -4093821102737557281
+      sprinkles_idle6_34: -7345489295047911252
+      sprinkles_idle6_35: 7773761251577374843
+      sprinkles_idle6_36: 7836065759268471007
+      sprinkles_idle6_37: 2813960478225243326
+      sprinkles_idle6_38: 6339528780884834483
+      sprinkles_idle6_39: 8372542560699308528
+      sprinkles_idle6_4: -5341915597564282365
+      sprinkles_idle6_40: -1961627088876507598
+      sprinkles_idle6_41: 570309107604285009
+      sprinkles_idle6_42: -1285272556588651599
+      sprinkles_idle6_43: 8061580844713398915
+      sprinkles_idle6_44: 4413108450749656922
+      sprinkles_idle6_45: 4688619416932744289
+      sprinkles_idle6_46: 8874985419093933129
+      sprinkles_idle6_47: -474770891995491100
+      sprinkles_idle6_48: 8120294065440342405
+      sprinkles_idle6_49: -7049895234966243338
+      sprinkles_idle6_5: 4353739188233020387
+      sprinkles_idle6_50: 5216757886323631243
+      sprinkles_idle6_51: -2271451994089170869
+      sprinkles_idle6_52: -697825797405710095
+      sprinkles_idle6_53: -3000769904846618630
+      sprinkles_idle6_54: 979423935587274562
+      sprinkles_idle6_55: -1167073107177043093
+      sprinkles_idle6_56: 3896968556803152883
+      sprinkles_idle6_57: -333337859969305523
+      sprinkles_idle6_58: -4831540463756629572
+      sprinkles_idle6_59: -3111681293119270258
+      sprinkles_idle6_6: 848443282496301541
+      sprinkles_idle6_7: 6011911900267553016
+      sprinkles_idle6_8: -8772760596777068786
+      sprinkles_idle6_9: 5988933631574097410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

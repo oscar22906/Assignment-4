@@ -1,0 +1,1682 @@
+fileFormatVersion: 2
+guid: 995515304e6ce0f4a8f6dc9ae8d9bcdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5912376149612617749
+    second: teeth_idle_455x459_0
+  - first:
+      213: -2001315199716263097
+    second: teeth_idle_455x459_1
+  - first:
+      213: -8056693816397861215
+    second: teeth_idle_455x459_2
+  - first:
+      213: 5976496633749214870
+    second: teeth_idle_455x459_3
+  - first:
+      213: 3263341332423087145
+    second: teeth_idle_455x459_4
+  - first:
+      213: -4478218944313784326
+    second: teeth_idle_455x459_5
+  - first:
+      213: 5885549104404425167
+    second: teeth_idle_455x459_6
+  - first:
+      213: 6660905151779446725
+    second: teeth_idle_455x459_7
+  - first:
+      213: -8131862794191542792
+    second: teeth_idle_455x459_8
+  - first:
+      213: 7092026506070479386
+    second: teeth_idle_455x459_9
+  - first:
+      213: -7015033403625052793
+    second: teeth_idle_455x459_10
+  - first:
+      213: 671526602222281211
+    second: teeth_idle_455x459_11
+  - first:
+      213: -8489004026019998269
+    second: teeth_idle_455x459_12
+  - first:
+      213: -2429419957001591287
+    second: teeth_idle_455x459_13
+  - first:
+      213: 8824535106760448295
+    second: teeth_idle_455x459_14
+  - first:
+      213: 8195583904467171843
+    second: teeth_idle_455x459_15
+  - first:
+      213: -4788890988385357363
+    second: teeth_idle_455x459_16
+  - first:
+      213: 4464560272326808355
+    second: teeth_idle_455x459_17
+  - first:
+      213: -2549152313426638641
+    second: teeth_idle_455x459_18
+  - first:
+      213: 361766057772094535
+    second: teeth_idle_455x459_19
+  - first:
+      213: -511765265051493216
+    second: teeth_idle_455x459_20
+  - first:
+      213: -2746811259842242452
+    second: teeth_idle_455x459_21
+  - first:
+      213: 5392546341871539266
+    second: teeth_idle_455x459_22
+  - first:
+      213: -4639817032448799351
+    second: teeth_idle_455x459_23
+  - first:
+      213: 3069308540458301866
+    second: teeth_idle_455x459_24
+  - first:
+      213: -2683405952583142846
+    second: teeth_idle_455x459_25
+  - first:
+      213: 6715752653194758999
+    second: teeth_idle_455x459_26
+  - first:
+      213: -4911816661944244235
+    second: teeth_idle_455x459_27
+  - first:
+      213: 7840517828028447262
+    second: teeth_idle_455x459_28
+  - first:
+      213: 3330774785563915245
+    second: teeth_idle_455x459_29
+  - first:
+      213: -5519763956282772241
+    second: teeth_idle_455x459_30
+  - first:
+      213: 1968183750752511967
+    second: teeth_idle_455x459_31
+  - first:
+      213: 9039038085710067078
+    second: teeth_idle_455x459_32
+  - first:
+      213: -3126230884099251325
+    second: teeth_idle_455x459_33
+  - first:
+      213: 6530667438685157481
+    second: teeth_idle_455x459_34
+  - first:
+      213: 3740358272514718346
+    second: teeth_idle_455x459_35
+  - first:
+      213: 3570461409235798998
+    second: teeth_idle_455x459_36
+  - first:
+      213: -7194311127172648881
+    second: teeth_idle_455x459_37
+  - first:
+      213: 4585435841606685978
+    second: teeth_idle_455x459_38
+  - first:
+      213: 6949400273539160796
+    second: teeth_idle_455x459_39
+  - first:
+      213: 4945778904510850733
+    second: teeth_idle_455x459_40
+  - first:
+      213: -3149806475433718038
+    second: teeth_idle_455x459_41
+  - first:
+      213: 1889527778928041727
+    second: teeth_idle_455x459_42
+  - first:
+      213: 2917978545757214964
+    second: teeth_idle_455x459_43
+  - first:
+      213: 4904916245240150614
+    second: teeth_idle_455x459_44
+  - first:
+      213: 3970365268381035254
+    second: teeth_idle_455x459_45
+  - first:
+      213: 851239715980709519
+    second: teeth_idle_455x459_46
+  - first:
+      213: 4129517743188319887
+    second: teeth_idle_455x459_47
+  - first:
+      213: -8411164220340790217
+    second: teeth_idle_455x459_48
+  - first:
+      213: 2345240790624191180
+    second: teeth_idle_455x459_49
+  - first:
+      213: 4652070650447067846
+    second: teeth_idle_455x459_50
+  - first:
+      213: 119116511497371775
+    second: teeth_idle_455x459_51
+  - first:
+      213: 5458380682764995632
+    second: teeth_idle_455x459_52
+  - first:
+      213: 2795394508944279545
+    second: teeth_idle_455x459_53
+  - first:
+      213: 6498253890988276570
+    second: teeth_idle_455x459_54
+  - first:
+      213: -1653764571529826266
+    second: teeth_idle_455x459_55
+  - first:
+      213: 4091457837027968415
+    second: teeth_idle_455x459_56
+  - first:
+      213: 4023960168077260367
+    second: teeth_idle_455x459_57
+  - first:
+      213: -6934751521650157279
+    second: teeth_idle_455x459_58
+  - first:
+      213: -3070435963373690900
+    second: teeth_idle_455x459_59
+  - first:
+      213: 5586475340333255129
+    second: teeth_idle_455x459_60
+  - first:
+      213: -1287921606425772331
+    second: teeth_idle_455x459_61
+  - first:
+      213: -459945495382325423
+    second: teeth_idle_455x459_62
+  - first:
+      213: 7603141384296274683
+    second: teeth_idle_455x459_63
+  - first:
+      213: 7806192496150435070
+    second: teeth_idle_455x459_64
+  - first:
+      213: -9197605142230232981
+    second: teeth_idle_455x459_65
+  - first:
+      213: -6628078737632140375
+    second: teeth_idle_455x459_66
+  - first:
+      213: -7600931937749324785
+    second: teeth_idle_455x459_67
+  - first:
+      213: 290877291828489660
+    second: teeth_idle_455x459_68
+  - first:
+      213: 2569874160832413357
+    second: teeth_idle_455x459_69
+  - first:
+      213: 2680505063556397263
+    second: teeth_idle_455x459_70
+  - first:
+      213: -3208768585795269929
+    second: teeth_idle_455x459_71
+  - first:
+      213: -2219016509817513075
+    second: teeth_idle_455x459_72
+  - first:
+      213: 863890735916329344
+    second: teeth_idle_455x459_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: teeth_idle_455x459_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef19df873503fda0800000000000000
+      internalID: -5912376149612617749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b7255ed66e934e0800000000000000
+      internalID: -2001315199716263097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_2
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aee48109afd03090800000000000000
+      internalID: -8056693816397861215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69690f70608c0f250800000000000000
+      internalID: 5976496633749214870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_4
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9249de3e6a7b94d20800000000000000
+      internalID: 3263341332423087145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_5
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af780c5c89b2ad1c0800000000000000
+      internalID: -4478218944313784326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_6
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9e42c3abbada150800000000000000
+      internalID: 5885549104404425167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_7
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf126ec1f9407c50800000000000000
+      internalID: 6660905151779446725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_8
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2754
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f56ff58fd1d52f80800000000000000
+      internalID: -8131862794191542792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a125cf73880fb6260800000000000000
+      internalID: 7092026506070479386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785ed61694895ae90800000000000000
+      internalID: -7015033403625052793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_11
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12fa603edb15900800000000000000
+      internalID: 671526602222281211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_12
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c59734a0dff03a80800000000000000
+      internalID: -8489004026019998269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_13
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906eca4bb67f84ed0800000000000000
+      internalID: -2429419957001591287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_14
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7299b6adceb077a70800000000000000
+      internalID: 8824535106760448295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_15
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30abca893209cb170800000000000000
+      internalID: 8195583904467171843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_16
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1b839c4017a8db0800000000000000
+      internalID: -4788890988385357363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_17
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 2295
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235c56d9ed45fd30800000000000000
+      internalID: 4464560272326808355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc807d71a779f9cd0800000000000000
+      internalID: -2549152313426638641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_19
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7449c451050450500800000000000000
+      internalID: 361766057772094535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd830f338d5e8f0800000000000000
+      internalID: -511765265051493216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_21
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c685f0066bd51e9d0800000000000000
+      internalID: -2746811259842242452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_22
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d516b35c26da40800000000000000
+      internalID: 5392546341871539266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_23
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d0516edfe0c9fb0800000000000000
+      internalID: -4639817032448799351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_24
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9f61c0bdf589a20800000000000000
+      internalID: 3069308540458301866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_25
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242fc10e080a2cad0800000000000000
+      internalID: -2683405952583142846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_26
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1836
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b8f0dd475233d50800000000000000
+      internalID: 6715752653194758999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7e7f615c8b5dbb0800000000000000
+      internalID: -4911816661944244235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ab0ca7c6d1fcc60800000000000000
+      internalID: 7840517828028447262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_29
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de37d50350a493e20800000000000000
+      internalID: 3330774785563915245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_30
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4b2cd3debd563b0800000000000000
+      internalID: -5519763956282772241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_31
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7ac4481b4605b10800000000000000
+      internalID: 1968183750752511967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_32
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685b9f18f3d117d70800000000000000
+      internalID: 9039038085710067078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_33
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383a86b03956d94d0800000000000000
+      internalID: -3126230884099251325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_34
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968f90d3f6791aa50800000000000000
+      internalID: 6530667438685157481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_35
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 1377
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8afee5180c68e330800000000000000
+      internalID: 3740358272514718346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db8dbd0cb3dc8130800000000000000
+      internalID: 3570461409235798998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40fb3d952ca82c90800000000000000
+      internalID: -7194311127172648881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_38
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a159f4f6a9db2af30800000000000000
+      internalID: 4585435841606685978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_39
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdadd42baba317060800000000000000
+      internalID: 6949400273539160796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_40
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da66df4b5bfe2a440800000000000000
+      internalID: 4945778904510850733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_41
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee4c80f2b3a944d0800000000000000
+      internalID: -3149806475433718038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_42
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe1d38f083f83a10800000000000000
+      internalID: 1889527778928041727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_43
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8d11af60ebe7820800000000000000
+      internalID: 2917978545757214964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_44
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 918
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65af4927653c11440800000000000000
+      internalID: 4904916245240150614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa666afc22991730800000000000000
+      internalID: 3970365268381035254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e0cb9f20630db00800000000000000
+      internalID: 851239715980709519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_47
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e9960228efe4930800000000000000
+      internalID: 4129517743188319887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_48
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c9c13b4ba854b80800000000000000
+      internalID: -8411164220340790217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_49
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc249edc218fb8020800000000000000
+      internalID: 2345240790624191180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_50
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cafaeddb997f8040800000000000000
+      internalID: 4652070650447067846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_51
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f704faa06df27a100800000000000000
+      internalID: 119116511497371775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_52
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ccf0daf4010cb40800000000000000
+      internalID: 5458380682764995632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_53
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 459
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f783b8ce7c3bc620800000000000000
+      internalID: 2795394508944279545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bf7a01c7f6e2a50800000000000000
+      internalID: 6498253890988276570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_55
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b6db52e5ac09e0800000000000000
+      internalID: -1653764571529826266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_56
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f954a8da937c7c830800000000000000
+      internalID: 4091457837027968415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_57
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 0
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46f098f37af7d730800000000000000
+      internalID: 4023960168077260367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_58
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 0
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1295172ab30d2cf90800000000000000
+      internalID: -6934751521650157279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teeth_idle_455x459_59
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 0
+        width: 455
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefd68952ce9365d0800000000000000
+      internalID: -3070435963373690900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f29fc0e22e5fa624082b97ea6d443e49
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      teeth_idle_455x459_0: -5912376149612617749
+      teeth_idle_455x459_1: -2001315199716263097
+      teeth_idle_455x459_10: -7015033403625052793
+      teeth_idle_455x459_11: 671526602222281211
+      teeth_idle_455x459_12: -8489004026019998269
+      teeth_idle_455x459_13: -2429419957001591287
+      teeth_idle_455x459_14: 8824535106760448295
+      teeth_idle_455x459_15: 8195583904467171843
+      teeth_idle_455x459_16: -4788890988385357363
+      teeth_idle_455x459_17: 4464560272326808355
+      teeth_idle_455x459_18: -2549152313426638641
+      teeth_idle_455x459_19: 361766057772094535
+      teeth_idle_455x459_2: -8056693816397861215
+      teeth_idle_455x459_20: -511765265051493216
+      teeth_idle_455x459_21: -2746811259842242452
+      teeth_idle_455x459_22: 5392546341871539266
+      teeth_idle_455x459_23: -4639817032448799351
+      teeth_idle_455x459_24: 3069308540458301866
+      teeth_idle_455x459_25: -2683405952583142846
+      teeth_idle_455x459_26: 6715752653194758999
+      teeth_idle_455x459_27: -4911816661944244235
+      teeth_idle_455x459_28: 7840517828028447262
+      teeth_idle_455x459_29: 3330774785563915245
+      teeth_idle_455x459_3: 5976496633749214870
+      teeth_idle_455x459_30: -5519763956282772241
+      teeth_idle_455x459_31: 1968183750752511967
+      teeth_idle_455x459_32: 9039038085710067078
+      teeth_idle_455x459_33: -3126230884099251325
+      teeth_idle_455x459_34: 6530667438685157481
+      teeth_idle_455x459_35: 3740358272514718346
+      teeth_idle_455x459_36: 3570461409235798998
+      teeth_idle_455x459_37: -7194311127172648881
+      teeth_idle_455x459_38: 4585435841606685978
+      teeth_idle_455x459_39: 6949400273539160796
+      teeth_idle_455x459_4: 3263341332423087145
+      teeth_idle_455x459_40: 4945778904510850733
+      teeth_idle_455x459_41: -3149806475433718038
+      teeth_idle_455x459_42: 1889527778928041727
+      teeth_idle_455x459_43: 2917978545757214964
+      teeth_idle_455x459_44: 4904916245240150614
+      teeth_idle_455x459_45: 3970365268381035254
+      teeth_idle_455x459_46: 851239715980709519
+      teeth_idle_455x459_47: 4129517743188319887
+      teeth_idle_455x459_48: -8411164220340790217
+      teeth_idle_455x459_49: 2345240790624191180
+      teeth_idle_455x459_5: -4478218944313784326
+      teeth_idle_455x459_50: 4652070650447067846
+      teeth_idle_455x459_51: 119116511497371775
+      teeth_idle_455x459_52: 5458380682764995632
+      teeth_idle_455x459_53: 2795394508944279545
+      teeth_idle_455x459_54: 6498253890988276570
+      teeth_idle_455x459_55: -1653764571529826266
+      teeth_idle_455x459_56: 4091457837027968415
+      teeth_idle_455x459_57: 4023960168077260367
+      teeth_idle_455x459_58: -6934751521650157279
+      teeth_idle_455x459_59: -3070435963373690900
+      teeth_idle_455x459_6: 5885549104404425167
+      teeth_idle_455x459_7: 6660905151779446725
+      teeth_idle_455x459_8: -8131862794191542792
+      teeth_idle_455x459_9: 7092026506070479386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

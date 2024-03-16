@@ -1,0 +1,3176 @@
+fileFormatVersion: 2
+guid: 3e00b40c5cc9098419af54d8c26657de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 447795929876573847
+    second: Watergun2_291x395_0
+  - first:
+      213: 3260750700785823694
+    second: Watergun2_291x395_1
+  - first:
+      213: 8021872638296143283
+    second: Watergun2_291x395_2
+  - first:
+      213: -1838129457806700615
+    second: Watergun2_291x395_3
+  - first:
+      213: 3927604068746568183
+    second: Watergun2_291x395_4
+  - first:
+      213: -1039938668781445107
+    second: Watergun2_291x395_5
+  - first:
+      213: -694551475570671153
+    second: Watergun2_291x395_6
+  - first:
+      213: 5517688601110692526
+    second: Watergun2_291x395_7
+  - first:
+      213: 4980486297041340563
+    second: Watergun2_291x395_8
+  - first:
+      213: 118273688064200419
+    second: Watergun2_291x395_9
+  - first:
+      213: 7235407049707666546
+    second: Watergun2_291x395_10
+  - first:
+      213: -4664322799331254069
+    second: Watergun2_291x395_11
+  - first:
+      213: 6237031671991832794
+    second: Watergun2_291x395_12
+  - first:
+      213: 68692378608736116
+    second: Watergun2_291x395_13
+  - first:
+      213: 5702272511745404393
+    second: Watergun2_291x395_14
+  - first:
+      213: 1874210220050537945
+    second: Watergun2_291x395_15
+  - first:
+      213: -2571471088532893752
+    second: Watergun2_291x395_16
+  - first:
+      213: 4635752613164452058
+    second: Watergun2_291x395_17
+  - first:
+      213: -7900616945732302943
+    second: Watergun2_291x395_18
+  - first:
+      213: -2885866454345826218
+    second: Watergun2_291x395_19
+  - first:
+      213: 1542163221517082609
+    second: Watergun2_291x395_20
+  - first:
+      213: -4130041877287859058
+    second: Watergun2_291x395_21
+  - first:
+      213: -6619489032087433537
+    second: Watergun2_291x395_22
+  - first:
+      213: -6826830685980142678
+    second: Watergun2_291x395_23
+  - first:
+      213: 5467461192857494256
+    second: Watergun2_291x395_24
+  - first:
+      213: -8939745273349170299
+    second: Watergun2_291x395_25
+  - first:
+      213: -918498839298873980
+    second: Watergun2_291x395_26
+  - first:
+      213: 6464416835427956688
+    second: Watergun2_291x395_27
+  - first:
+      213: -8927342468763402486
+    second: Watergun2_291x395_28
+  - first:
+      213: -7773381201545022561
+    second: Watergun2_291x395_29
+  - first:
+      213: 4582319229327973800
+    second: Watergun2_291x395_30
+  - first:
+      213: 6635823630344938111
+    second: Watergun2_291x395_31
+  - first:
+      213: 4030120139144916374
+    second: Watergun2_291x395_32
+  - first:
+      213: -5325982057913138301
+    second: Watergun2_291x395_33
+  - first:
+      213: -7676894197790063018
+    second: Watergun2_291x395_34
+  - first:
+      213: -601026436798222067
+    second: Watergun2_291x395_35
+  - first:
+      213: -9049902026490385973
+    second: Watergun2_291x395_36
+  - first:
+      213: -4913699440781178652
+    second: Watergun2_291x395_37
+  - first:
+      213: -5476089826287553034
+    second: Watergun2_291x395_38
+  - first:
+      213: 7877602292845197891
+    second: Watergun2_291x395_39
+  - first:
+      213: -7085298204092894441
+    second: Watergun2_291x395_40
+  - first:
+      213: 3242643886727451798
+    second: Watergun2_291x395_41
+  - first:
+      213: -7693728936825106267
+    second: Watergun2_291x395_42
+  - first:
+      213: -1921451655318229987
+    second: Watergun2_291x395_43
+  - first:
+      213: 4455868501883751422
+    second: Watergun2_291x395_44
+  - first:
+      213: -9151527970287275768
+    second: Watergun2_291x395_45
+  - first:
+      213: 8198914413206799255
+    second: Watergun2_291x395_46
+  - first:
+      213: -8649378536539300222
+    second: Watergun2_291x395_47
+  - first:
+      213: 4104223532405120258
+    second: Watergun2_291x395_48
+  - first:
+      213: 8437953454091761895
+    second: Watergun2_291x395_49
+  - first:
+      213: 931735415869910338
+    second: Watergun2_291x395_50
+  - first:
+      213: 5672918155011088946
+    second: Watergun2_291x395_51
+  - first:
+      213: 5510584976950593876
+    second: Watergun2_291x395_52
+  - first:
+      213: -8381866463557863683
+    second: Watergun2_291x395_53
+  - first:
+      213: 3682414301166088249
+    second: Watergun2_291x395_54
+  - first:
+      213: -6944642115562417016
+    second: Watergun2_291x395_55
+  - first:
+      213: 7671967367641818486
+    second: Watergun2_291x395_56
+  - first:
+      213: 9096055758119231267
+    second: Watergun2_291x395_57
+  - first:
+      213: -5677599022134784642
+    second: Watergun2_291x395_58
+  - first:
+      213: -7990620001860426813
+    second: Watergun2_291x395_59
+  - first:
+      213: 8449915026522030997
+    second: Watergun2_291x395_60
+  - first:
+      213: 3053082337304064007
+    second: Watergun2_291x395_61
+  - first:
+      213: 3691254329021613430
+    second: Watergun2_291x395_62
+  - first:
+      213: -8375259286516228784
+    second: Watergun2_291x395_63
+  - first:
+      213: -8851870607822110693
+    second: Watergun2_291x395_64
+  - first:
+      213: 5180027200028399225
+    second: Watergun2_291x395_65
+  - first:
+      213: 3369909101921172341
+    second: Watergun2_291x395_66
+  - first:
+      213: 6053455387023874362
+    second: Watergun2_291x395_67
+  - first:
+      213: -2866806182297846622
+    second: Watergun2_291x395_68
+  - first:
+      213: -5654875936404926080
+    second: Watergun2_291x395_69
+  - first:
+      213: -845316222732105098
+    second: Watergun2_291x395_70
+  - first:
+      213: -2397080015695291124
+    second: Watergun2_291x395_71
+  - first:
+      213: -8382192329041414140
+    second: Watergun2_291x395_72
+  - first:
+      213: 7425663844048933840
+    second: Watergun2_291x395_73
+  - first:
+      213: 6419445885129063695
+    second: Watergun2_291x395_74
+  - first:
+      213: -2693759271348711947
+    second: Watergun2_291x395_75
+  - first:
+      213: -4168704266039733387
+    second: Watergun2_291x395_76
+  - first:
+      213: -8815677715205597413
+    second: Watergun2_291x395_77
+  - first:
+      213: 9106704109859756834
+    second: Watergun2_291x395_78
+  - first:
+      213: -766201457342088882
+    second: Watergun2_291x395_79
+  - first:
+      213: -5322426802304775979
+    second: Watergun2_291x395_80
+  - first:
+      213: 5025317567658357198
+    second: Watergun2_291x395_81
+  - first:
+      213: -2465609929611156780
+    second: Watergun2_291x395_82
+  - first:
+      213: -122399018647039958
+    second: Watergun2_291x395_83
+  - first:
+      213: 318513383136906526
+    second: Watergun2_291x395_84
+  - first:
+      213: 6927427755706095446
+    second: Watergun2_291x395_85
+  - first:
+      213: -797015043090398483
+    second: Watergun2_291x395_86
+  - first:
+      213: -3761711723072596025
+    second: Watergun2_291x395_87
+  - first:
+      213: -2329468445889831994
+    second: Watergun2_291x395_88
+  - first:
+      213: -7549260204839267405
+    second: Watergun2_291x395_89
+  - first:
+      213: 7807567607503872926
+    second: Watergun2_291x395_90
+  - first:
+      213: -2958919628331876406
+    second: Watergun2_291x395_91
+  - first:
+      213: -243521508237216601
+    second: Watergun2_291x395_92
+  - first:
+      213: 7436240694733385678
+    second: Watergun2_291x395_93
+  - first:
+      213: -8575094701582168724
+    second: Watergun2_291x395_94
+  - first:
+      213: -6862158981627822082
+    second: Watergun2_291x395_95
+  - first:
+      213: -7430531641209743992
+    second: Watergun2_291x395_96
+  - first:
+      213: -7549621328330872268
+    second: Watergun2_291x395_97
+  - first:
+      213: -3908286289483112432
+    second: Watergun2_291x395_98
+  - first:
+      213: -2839510529033748685
+    second: Watergun2_291x395_99
+  - first:
+      213: 9064839914570943606
+    second: Watergun2_291x395_100
+  - first:
+      213: -481766409435169991
+    second: Watergun2_291x395_101
+  - first:
+      213: -8798112887780291687
+    second: Watergun2_291x395_102
+  - first:
+      213: -1692087893197832880
+    second: Watergun2_291x395_103
+  - first:
+      213: -1916201263505734604
+    second: Watergun2_291x395_104
+  - first:
+      213: -8338863431425966212
+    second: Watergun2_291x395_105
+  - first:
+      213: -8745616920164967158
+    second: Watergun2_291x395_106
+  - first:
+      213: -5535838359840340009
+    second: Watergun2_291x395_107
+  - first:
+      213: -5164368493920193018
+    second: Watergun2_291x395_108
+  - first:
+      213: -2172700849733705130
+    second: Watergun2_291x395_109
+  - first:
+      213: 1019231529370283877
+    second: Watergun2_291x395_110
+  - first:
+      213: -4588879499214458576
+    second: Watergun2_291x395_111
+  - first:
+      213: -1144323099897783785
+    second: Watergun2_291x395_112
+  - first:
+      213: 4233674293695373125
+    second: Watergun2_291x395_113
+  - first:
+      213: 1911163148279773857
+    second: Watergun2_291x395_114
+  - first:
+      213: -1720237681764354532
+    second: Watergun2_291x395_115
+  - first:
+      213: -2681171997673943873
+    second: Watergun2_291x395_116
+  - first:
+      213: -1058401501207066418
+    second: Watergun2_291x395_117
+  - first:
+      213: -6852334170116626250
+    second: Watergun2_291x395_118
+  - first:
+      213: 7276821388475238621
+    second: Watergun2_291x395_119
+  - first:
+      213: -4611218675115281333
+    second: Watergun2_291x395_120
+  - first:
+      213: -5344907038597437882
+    second: Watergun2_291x395_121
+  - first:
+      213: 6638669242534792811
+    second: Watergun2_291x395_122
+  - first:
+      213: -7416889078995806987
+    second: Watergun2_291x395_123
+  - first:
+      213: 7556334114261465262
+    second: Watergun2_291x395_124
+  - first:
+      213: -1660370921215629162
+    second: Watergun2_291x395_125
+  - first:
+      213: -1966130148496188977
+    second: Watergun2_291x395_126
+  - first:
+      213: -8310774085021886755
+    second: Watergun2_291x395_127
+  - first:
+      213: -8890888292373292709
+    second: Watergun2_291x395_128
+  - first:
+      213: 5627496769623646288
+    second: Watergun2_291x395_129
+  - first:
+      213: 6019470878617816443
+    second: Watergun2_291x395_130
+  - first:
+      213: 8501090542802084706
+    second: Watergun2_291x395_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Watergun2_291x395_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea8249604e63600800000000000000
+      internalID: 447795929876573847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfe1757c73804d20800000000000000
+      internalID: 3260750700785823694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5311fa9aa635f60800000000000000
+      internalID: 8021872638296143283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf00483ff6ad76e0800000000000000
+      internalID: -1838129457806700615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_4
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1a4085717a18630800000000000000
+      internalID: 3927604068746568183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_5
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e6136a456191f0800000000000000
+      internalID: -1039938668781445107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_6
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc10364ec157c56f0800000000000000
+      internalID: -694551475570671153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_7
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2cc6a7c84c29c40800000000000000
+      internalID: 5517688601110692526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_8
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39889df36ed3e1540800000000000000
+      internalID: 4980486297041340563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_9
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee875bea4134a100800000000000000
+      internalID: 118273688064200419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_10
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cbe2b7064596460800000000000000
+      internalID: 7235407049707666546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_11
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 3555
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0ea1c602ff44fb0800000000000000
+      internalID: -4664322799331254069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad01feda2436e8650800000000000000
+      internalID: 6237031671991832794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47710c9ba5b04f000800000000000000
+      internalID: 68692378608736116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed2f0333aa822f40800000000000000
+      internalID: 5702272511745404393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_15
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddd480e348820a10800000000000000
+      internalID: 1874210220050537945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_16
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf4fc15bac405cd0800000000000000
+      internalID: -2571471088532893752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_17
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8814eb070855040800000000000000
+      internalID: 4635752613164452058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_18
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c1334fbe5b5290800000000000000
+      internalID: -7900616945732302943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_19
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650408fefb753f7d0800000000000000
+      internalID: -2885866454345826218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_20
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff923c774dd66510800000000000000
+      internalID: 1542163221517082609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_21
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c05c46bc42fa6c0800000000000000
+      internalID: -4130041877287859058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_22
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe85dffbc9d224a0800000000000000
+      internalID: -6619489032087433537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_23
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 3160
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3da6449a93241a0800000000000000
+      internalID: -6826830685980142678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2218facf250eb40800000000000000
+      internalID: 5467461192857494256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_25
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b9b87e905afe380800000000000000
+      internalID: -8939745273349170299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4856bfc0c26d043f0800000000000000
+      internalID: -918498839298873980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_27
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7fcb3acd836b950800000000000000
+      internalID: 6464416835427956688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_28
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f3911e255bb1480800000000000000
+      internalID: -8927342468763402486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_29
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93b53a7bf66f1490800000000000000
+      internalID: -7773381201545022561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_30
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad19879f0ba79f30800000000000000
+      internalID: 4582319229327973800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_31
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f726ad60f6e271c50800000000000000
+      internalID: 6635823630344938111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_32
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d61eff9ecdde730800000000000000
+      internalID: 4030120139144916374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_33
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383cbfd598f4616b0800000000000000
+      internalID: -5325982057913138301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_34
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656477aa661367590800000000000000
+      internalID: -7676894197790063018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_35
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2765
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01f50ed3a9b8a7f0800000000000000
+      internalID: -601026436798222067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9e3fa2e0a486280800000000000000
+      internalID: -9049902026490385973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_37
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8c33b74680fcbb0800000000000000
+      internalID: -4913699440781178652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_38
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5fff901550104b0800000000000000
+      internalID: -5476089826287553034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_39
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a37da4c8dd25d60800000000000000
+      internalID: 7877602292845197891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_40
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7137459a2d6fbad90800000000000000
+      internalID: -7085298204092894441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_41
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6945b794f6f200d20800000000000000
+      internalID: 3242643886727451798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_42
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0556a8b426a3590800000000000000
+      internalID: -7693728936825106267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_43
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1caba756e1a555e0800000000000000
+      internalID: -1921451655318229987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_44
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb02a45bcc66dd30800000000000000
+      internalID: 4455868501883751422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_45
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801b9f24ccd3ff080800000000000000
+      internalID: -9151527970287275768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_46
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7938507183568c170800000000000000
+      internalID: 8198914413206799255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_47
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2370
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28edfa12c0c37f780800000000000000
+      internalID: -8649378536539300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d5ecfbe8125f830800000000000000
+      internalID: 4104223532405120258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_49
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e87b66d5f1a91570800000000000000
+      internalID: 8437953454091761895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_50
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da3979c603eec00800000000000000
+      internalID: 931735415869910338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_51
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ec4d61014abe40800000000000000
+      internalID: 5672918155011088946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_52
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4598eb717d7897c40800000000000000
+      internalID: 5510584976950593876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_53
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6bfd44cd0adab80800000000000000
+      internalID: -8381866463557863683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_54
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930b2d0fb409a1330800000000000000
+      internalID: 3682414301166088249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_55
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8845fa94accaf9f90800000000000000
+      internalID: -6944642115562417016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_56
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675edac4cad487a60800000000000000
+      internalID: 7671967367641818486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_57
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fd7dfd48eab3e70800000000000000
+      internalID: 9096055758119231267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_58
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0d8445cd1531b0800000000000000
+      internalID: -5677599022134784642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_59
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1975
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c36af5c17d9b1190800000000000000
+      internalID: -7990620001860426813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593c41272f0244570800000000000000
+      internalID: 8449915026522030997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_61
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003709b53abe5a20800000000000000
+      internalID: 3053082337304064007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_62
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c4f05148f93330800000000000000
+      internalID: 3691254329021613430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_63
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d986d8d0a15cb80800000000000000
+      internalID: -8375259286516228784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_64
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ca07d496d72580800000000000000
+      internalID: -8851870607822110693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_65
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976dd802b4723e740800000000000000
+      internalID: 5180027200028399225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_66
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bfd51497254ce20800000000000000
+      internalID: 3369909101921172341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_67
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a399b371a91320450800000000000000
+      internalID: 6053455387023874362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_68
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac3e3857fe0738d0800000000000000
+      internalID: -2866806182297846622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_69
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0811ea1fb48d581b0800000000000000
+      internalID: -5654875936404926080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_70
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a8d25cf55d444f0800000000000000
+      internalID: -845316222732105098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_71
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1580
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d5b4e0d6cdbbed0800000000000000
+      internalID: -2397080015695291124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4087b7ccc787cab80800000000000000
+      internalID: -8382192329041414140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_73
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d39ffd5ce14d0760800000000000000
+      internalID: 7425663844048933840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_74
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0df5f55504761950800000000000000
+      internalID: 6419445885129063695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_75
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd48d00738dd9ad0800000000000000
+      internalID: -2693759271348711947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_76
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573db098e89c526c0800000000000000
+      internalID: -4168704266039733387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_77
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d7d253db68a580800000000000000
+      internalID: -8815677715205597413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_78
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd7c67323816e70800000000000000
+      internalID: 9106704109859756834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_79
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49fcb485d7ed55f0800000000000000
+      internalID: -766201457342088882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_80
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d80b91d501f226b0800000000000000
+      internalID: -5322426802304775979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_81
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec17ec7d3b38db540800000000000000
+      internalID: 5025317567658357198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_82
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2e9d615d468cdd0800000000000000
+      internalID: -2465609929611156780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_83
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 1185
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20dfa4bdb62d4ef0800000000000000
+      internalID: -122399018647039958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d45120c369b6400800000000000000
+      internalID: 318513383136906526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_85
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6571b0a37da232060800000000000000
+      internalID: 6927427755706095446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_86
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de244f38a0f60f4f0800000000000000
+      internalID: -797015043090398483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_87
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7d5d64e17bbcbc0800000000000000
+      internalID: -3761711723072596025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_88
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb514f5ac01cafd0800000000000000
+      internalID: -2329468445889831994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_89
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3109567d3ab3790800000000000000
+      internalID: -7549260204839267405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_90
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e936d1d6f5d0a5c60800000000000000
+      internalID: 7807567607503872926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_91
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff85a664ecfe6d0800000000000000
+      internalID: -2958919628331876406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_92
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47a5e7a76de9cf0800000000000000
+      internalID: -243521508237216601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_93
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf23e15385d23760800000000000000
+      internalID: 7436240694733385678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_94
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d4cdc3dc42ff880800000000000000
+      internalID: -8575094701582168724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_95
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 790
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff31d373c6b4c0a0800000000000000
+      internalID: -6862158981627822082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885946947d271e890800000000000000
+      internalID: -7430531641209743992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_97
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a2028c66b5a3790800000000000000
+      internalID: -7549621328330872268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_98
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01064d2a35af2c9c0800000000000000
+      internalID: -3908286289483112432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_99
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f36fcd7380898d0800000000000000
+      internalID: -2839510529033748685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_100
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c88cdefd7cccd70800000000000000
+      internalID: 9064839914570943606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_101
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb6ecc00c6059f0800000000000000
+      internalID: -481766409435169991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_102
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bc11661f2d6e580800000000000000
+      internalID: -8798112887780291687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_103
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3435b60f7488e0800000000000000
+      internalID: -1692087893197832880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_104
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43406927a194865e0800000000000000
+      internalID: -1916201263505734604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_105
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f3c5be3e7664c80800000000000000
+      internalID: -8338863431425966212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_106
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ddbe35fb351a680800000000000000
+      internalID: -8745616920164967158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_107
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 395
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d74cb38750cc23b0800000000000000
+      internalID: -5535838359840340009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606faae773a7458b0800000000000000
+      internalID: -5164368493920193018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_109
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652ee60b61409d1e0800000000000000
+      internalID: -2172700849733705130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_110
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6ef30da9052e00800000000000000
+      internalID: 1019231529370283877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_111
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031ff3c88660150c0800000000000000
+      internalID: -4588879499214458576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_112
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a915a143c8e10f0800000000000000
+      internalID: -1144323099897783785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_113
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f5a62d65801ca30800000000000000
+      internalID: 4233674293695373125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_114
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa7801f1c0d58a10800000000000000
+      internalID: 1911163148279773857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_115
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16b13151fc7028e0800000000000000
+      internalID: -1720237681764354532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_116
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc8be806409acad0800000000000000
+      internalID: -2681171997673943873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_117
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec800da317dcf41f0800000000000000
+      internalID: -1058401501207066418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_118
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b86de3a06e97e0a0800000000000000
+      internalID: -6852334170116626250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watergun2_291x395_119
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 0
+        width: 291
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd80802af767cf460800000000000000
+      internalID: 7276821388475238621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: db531d2fc1f55e34f9297fa7e09d81a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Watergun2_291x395_0: 447795929876573847
+      Watergun2_291x395_1: 3260750700785823694
+      Watergun2_291x395_10: 7235407049707666546
+      Watergun2_291x395_100: 9064839914570943606
+      Watergun2_291x395_101: -481766409435169991
+      Watergun2_291x395_102: -8798112887780291687
+      Watergun2_291x395_103: -1692087893197832880
+      Watergun2_291x395_104: -1916201263505734604
+      Watergun2_291x395_105: -8338863431425966212
+      Watergun2_291x395_106: -8745616920164967158
+      Watergun2_291x395_107: -5535838359840340009
+      Watergun2_291x395_108: -5164368493920193018
+      Watergun2_291x395_109: -2172700849733705130
+      Watergun2_291x395_11: -4664322799331254069
+      Watergun2_291x395_110: 1019231529370283877
+      Watergun2_291x395_111: -4588879499214458576
+      Watergun2_291x395_112: -1144323099897783785
+      Watergun2_291x395_113: 4233674293695373125
+      Watergun2_291x395_114: 1911163148279773857
+      Watergun2_291x395_115: -1720237681764354532
+      Watergun2_291x395_116: -2681171997673943873
+      Watergun2_291x395_117: -1058401501207066418
+      Watergun2_291x395_118: -6852334170116626250
+      Watergun2_291x395_119: 7276821388475238621
+      Watergun2_291x395_12: 6237031671991832794
+      Watergun2_291x395_13: 68692378608736116
+      Watergun2_291x395_14: 5702272511745404393
+      Watergun2_291x395_15: 1874210220050537945
+      Watergun2_291x395_16: -2571471088532893752
+      Watergun2_291x395_17: 4635752613164452058
+      Watergun2_291x395_18: -7900616945732302943
+      Watergun2_291x395_19: -2885866454345826218
+      Watergun2_291x395_2: 8021872638296143283
+      Watergun2_291x395_20: 1542163221517082609
+      Watergun2_291x395_21: -4130041877287859058
+      Watergun2_291x395_22: -6619489032087433537
+      Watergun2_291x395_23: -6826830685980142678
+      Watergun2_291x395_24: 5467461192857494256
+      Watergun2_291x395_25: -8939745273349170299
+      Watergun2_291x395_26: -918498839298873980
+      Watergun2_291x395_27: 6464416835427956688
+      Watergun2_291x395_28: -8927342468763402486
+      Watergun2_291x395_29: -7773381201545022561
+      Watergun2_291x395_3: -1838129457806700615
+      Watergun2_291x395_30: 4582319229327973800
+      Watergun2_291x395_31: 6635823630344938111
+      Watergun2_291x395_32: 4030120139144916374
+      Watergun2_291x395_33: -5325982057913138301
+      Watergun2_291x395_34: -7676894197790063018
+      Watergun2_291x395_35: -601026436798222067
+      Watergun2_291x395_36: -9049902026490385973
+      Watergun2_291x395_37: -4913699440781178652
+      Watergun2_291x395_38: -5476089826287553034
+      Watergun2_291x395_39: 7877602292845197891
+      Watergun2_291x395_4: 3927604068746568183
+      Watergun2_291x395_40: -7085298204092894441
+      Watergun2_291x395_41: 3242643886727451798
+      Watergun2_291x395_42: -7693728936825106267
+      Watergun2_291x395_43: -1921451655318229987
+      Watergun2_291x395_44: 4455868501883751422
+      Watergun2_291x395_45: -9151527970287275768
+      Watergun2_291x395_46: 8198914413206799255
+      Watergun2_291x395_47: -8649378536539300222
+      Watergun2_291x395_48: 4104223532405120258
+      Watergun2_291x395_49: 8437953454091761895
+      Watergun2_291x395_5: -1039938668781445107
+      Watergun2_291x395_50: 931735415869910338
+      Watergun2_291x395_51: 5672918155011088946
+      Watergun2_291x395_52: 5510584976950593876
+      Watergun2_291x395_53: -8381866463557863683
+      Watergun2_291x395_54: 3682414301166088249
+      Watergun2_291x395_55: -6944642115562417016
+      Watergun2_291x395_56: 7671967367641818486
+      Watergun2_291x395_57: 9096055758119231267
+      Watergun2_291x395_58: -5677599022134784642
+      Watergun2_291x395_59: -7990620001860426813
+      Watergun2_291x395_6: -694551475570671153
+      Watergun2_291x395_60: 8449915026522030997
+      Watergun2_291x395_61: 3053082337304064007
+      Watergun2_291x395_62: 3691254329021613430
+      Watergun2_291x395_63: -8375259286516228784
+      Watergun2_291x395_64: -8851870607822110693
+      Watergun2_291x395_65: 5180027200028399225
+      Watergun2_291x395_66: 3369909101921172341
+      Watergun2_291x395_67: 6053455387023874362
+      Watergun2_291x395_68: -2866806182297846622
+      Watergun2_291x395_69: -5654875936404926080
+      Watergun2_291x395_7: 5517688601110692526
+      Watergun2_291x395_70: -845316222732105098
+      Watergun2_291x395_71: -2397080015695291124
+      Watergun2_291x395_72: -8382192329041414140
+      Watergun2_291x395_73: 7425663844048933840
+      Watergun2_291x395_74: 6419445885129063695
+      Watergun2_291x395_75: -2693759271348711947
+      Watergun2_291x395_76: -4168704266039733387
+      Watergun2_291x395_77: -8815677715205597413
+      Watergun2_291x395_78: 9106704109859756834
+      Watergun2_291x395_79: -766201457342088882
+      Watergun2_291x395_8: 4980486297041340563
+      Watergun2_291x395_80: -5322426802304775979
+      Watergun2_291x395_81: 5025317567658357198
+      Watergun2_291x395_82: -2465609929611156780
+      Watergun2_291x395_83: -122399018647039958
+      Watergun2_291x395_84: 318513383136906526
+      Watergun2_291x395_85: 6927427755706095446
+      Watergun2_291x395_86: -797015043090398483
+      Watergun2_291x395_87: -3761711723072596025
+      Watergun2_291x395_88: -2329468445889831994
+      Watergun2_291x395_89: -7549260204839267405
+      Watergun2_291x395_9: 118273688064200419
+      Watergun2_291x395_90: 7807567607503872926
+      Watergun2_291x395_91: -2958919628331876406
+      Watergun2_291x395_92: -243521508237216601
+      Watergun2_291x395_93: 7436240694733385678
+      Watergun2_291x395_94: -8575094701582168724
+      Watergun2_291x395_95: -6862158981627822082
+      Watergun2_291x395_96: -7430531641209743992
+      Watergun2_291x395_97: -7549621328330872268
+      Watergun2_291x395_98: -3908286289483112432
+      Watergun2_291x395_99: -2839510529033748685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

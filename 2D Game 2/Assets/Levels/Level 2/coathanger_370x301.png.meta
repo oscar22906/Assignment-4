@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: 855caeaa6e57044428228d3f6b455e3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6474454247376498682
+    second: coathanger_370x301_0
+  - first:
+      213: -3554902692840932154
+    second: coathanger_370x301_1
+  - first:
+      213: 2702029604054623910
+    second: coathanger_370x301_2
+  - first:
+      213: 4368959739653694850
+    second: coathanger_370x301_3
+  - first:
+      213: 7129183450845009696
+    second: coathanger_370x301_4
+  - first:
+      213: -5865951683316135091
+    second: coathanger_370x301_5
+  - first:
+      213: 7425553684393850597
+    second: coathanger_370x301_6
+  - first:
+      213: 8673824562956909058
+    second: coathanger_370x301_7
+  - first:
+      213: 4483138033878940237
+    second: coathanger_370x301_8
+  - first:
+      213: 1647006810303742479
+    second: coathanger_370x301_9
+  - first:
+      213: -3527080217545924890
+    second: coathanger_370x301_10
+  - first:
+      213: 3368869217165810116
+    second: coathanger_370x301_11
+  - first:
+      213: -6006509424158033839
+    second: coathanger_370x301_12
+  - first:
+      213: -8797640045814289205
+    second: coathanger_370x301_13
+  - first:
+      213: 1239785026696775760
+    second: coathanger_370x301_14
+  - first:
+      213: 8440958541720937834
+    second: coathanger_370x301_15
+  - first:
+      213: 1152204734689606934
+    second: coathanger_370x301_16
+  - first:
+      213: -436825669193909701
+    second: coathanger_370x301_17
+  - first:
+      213: -7241517018775062034
+    second: coathanger_370x301_18
+  - first:
+      213: 8575591186165536535
+    second: coathanger_370x301_19
+  - first:
+      213: 5305964148075117332
+    second: coathanger_370x301_20
+  - first:
+      213: -6080909771720290745
+    second: coathanger_370x301_21
+  - first:
+      213: -1842642040961978145
+    second: coathanger_370x301_22
+  - first:
+      213: 6899627032160856419
+    second: coathanger_370x301_23
+  - first:
+      213: 4248499212897643134
+    second: coathanger_370x301_24
+  - first:
+      213: 6909134344551729418
+    second: coathanger_370x301_25
+  - first:
+      213: -1400676536558875450
+    second: coathanger_370x301_26
+  - first:
+      213: -3670488546977373750
+    second: coathanger_370x301_27
+  - first:
+      213: -9144987187610147585
+    second: coathanger_370x301_28
+  - first:
+      213: -8104440634056208173
+    second: coathanger_370x301_29
+  - first:
+      213: -8649614910460382252
+    second: coathanger_370x301_30
+  - first:
+      213: -2939455757096253309
+    second: coathanger_370x301_31
+  - first:
+      213: -1459814281547023153
+    second: coathanger_370x301_32
+  - first:
+      213: -2766007599690875849
+    second: coathanger_370x301_33
+  - first:
+      213: 6715968798738596672
+    second: coathanger_370x301_34
+  - first:
+      213: 6877571648634336150
+    second: coathanger_370x301_35
+  - first:
+      213: -3886178750606941512
+    second: coathanger_370x301_36
+  - first:
+      213: 7860930850847684905
+    second: coathanger_370x301_37
+  - first:
+      213: 2982111695407989952
+    second: coathanger_370x301_38
+  - first:
+      213: 8949469763147862217
+    second: coathanger_370x301_39
+  - first:
+      213: 4375064626444390308
+    second: coathanger_370x301_40
+  - first:
+      213: 8753018407283127618
+    second: coathanger_370x301_41
+  - first:
+      213: -5383052815326270698
+    second: coathanger_370x301_42
+  - first:
+      213: -5848496069244557473
+    second: coathanger_370x301_43
+  - first:
+      213: -8409021943308981254
+    second: coathanger_370x301_44
+  - first:
+      213: 4137349326937239914
+    second: coathanger_370x301_45
+  - first:
+      213: 1606623201766337386
+    second: coathanger_370x301_46
+  - first:
+      213: 149558000046443257
+    second: coathanger_370x301_47
+  - first:
+      213: -3790661021922402906
+    second: coathanger_370x301_48
+  - first:
+      213: 2925484432934054608
+    second: coathanger_370x301_49
+  - first:
+      213: -4265037218320304015
+    second: coathanger_370x301_50
+  - first:
+      213: -6718392623371512450
+    second: coathanger_370x301_51
+  - first:
+      213: 4289333044937632928
+    second: coathanger_370x301_52
+  - first:
+      213: 6517474250370859646
+    second: coathanger_370x301_53
+  - first:
+      213: 492914632224933512
+    second: coathanger_370x301_54
+  - first:
+      213: -9129659352059977033
+    second: coathanger_370x301_55
+  - first:
+      213: -8509185729270766836
+    second: coathanger_370x301_56
+  - first:
+      213: -5604363647359319442
+    second: coathanger_370x301_57
+  - first:
+      213: -2886312229179597653
+    second: coathanger_370x301_58
+  - first:
+      213: -4404669469972980228
+    second: coathanger_370x301_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coathanger_370x301_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2112
+        width: 354
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff2569b5d1e9d950800000000000000
+      internalID: 6474454247376498682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2112
+        width: 350
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccf226e5d27aaec0800000000000000
+      internalID: -3554902692840932154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2112
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6e342eb998f7520800000000000000
+      internalID: 2702029604054623910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_3
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2112
+        width: 358
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285aa084cb9a1ac30800000000000000
+      internalID: 4368959739653694850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_4
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 2112
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d5369392ffe260800000000000000
+      internalID: 7129183450845009696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_5
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2108
+        width: 358
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b465ee504f79ea0800000000000000
+      internalID: -5865951683316135091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_6
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 2112
+        width: 362
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e673e2dbbddc0760800000000000000
+      internalID: 7425553684393850597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_7
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2112
+        width: 362
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aba1feb7d9f5870800000000000000
+      internalID: 8673824562956909058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1811
+        width: 362
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ab5640a4e473e30800000000000000
+      internalID: 4483138033878940237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1811
+        width: 362
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02cdceb7f75bd610800000000000000
+      internalID: 1647006810303742479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_10
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1811
+        width: 362
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1edaba3b4d0fc0800000000000000
+      internalID: -3527080217545924890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_11
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1815
+        width: 358
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c99ae734b0a0ce20800000000000000
+      internalID: 3368869217165810116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_12
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1815
+        width: 358
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583609a08794aca0800000000000000
+      internalID: -6006509424158033839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_13
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1815
+        width: 354
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccec7f7df088e580800000000000000
+      internalID: -8797640045814289205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_14
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1815
+        width: 354
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0580c12c9e9943110800000000000000
+      internalID: 1239785026696775760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_15
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1815
+        width: 354
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a656313521f442570800000000000000
+      internalID: 8440958541720937834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1514
+        width: 358
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d72bff9147dff00800000000000000
+      internalID: 1152204734689606934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1514
+        width: 354
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3abce64e5510f9f0800000000000000
+      internalID: -436825669193909701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_18
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1510
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee977fc73a6f08b90800000000000000
+      internalID: -7241517018775062034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1510
+        width: 350
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7171e569fbe920770800000000000000
+      internalID: 8575591186165536535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_20
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1510
+        width: 346
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bb9fcc74292a940800000000000000
+      internalID: 5305964148075117332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_21
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1510
+        width: 350
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e0969d7c44c9ba0800000000000000
+      internalID: -6080909771720290745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_22
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1510
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0b24493de9d66e0800000000000000
+      internalID: -1842642040961978145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_23
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1510
+        width: 354
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36961aeda3660cf50800000000000000
+      internalID: 6899627032160856419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1209
+        width: 358
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a6a4d4683b5fa30800000000000000
+      internalID: 4248499212897643134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1209
+        width: 362
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a090578841d22ef50800000000000000
+      internalID: 6909134344551729418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_26
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1209
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc0f217c1ccf8ce0800000000000000
+      internalID: -1400676536558875450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_27
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1209
+        width: 358
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac126451d1ecf0dc0800000000000000
+      internalID: -3670488546977373750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_28
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1209
+        width: 358
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4aff6ea9a761180800000000000000
+      internalID: -9144987187610147585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1205
+        width: 354
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d096d7be2e378f80800000000000000
+      internalID: -8104440634056208173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_30
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1205
+        width: 354
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3361a011566f780800000000000000
+      internalID: -8649614910460382252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_31
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1205
+        width: 354
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3880d451094f437d0800000000000000
+      internalID: -2939455757096253309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 908
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccf85635a2bdbbe0800000000000000
+      internalID: -1459814281547023153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 908
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cf4663eba2d99d0800000000000000
+      internalID: -2766007599690875849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_34
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 908
+        width: 358
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043cb6b2a0ae33d50800000000000000
+      internalID: 6715968798738596672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_35
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 908
+        width: 362
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693b52ab9fa027f50800000000000000
+      internalID: 6877571648634336150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_36
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 908
+        width: 346
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2e6642405811ac0800000000000000
+      internalID: -3886178750606941512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_37
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 912
+        width: 350
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9297fa8b5f2a71d60800000000000000
+      internalID: 7860930850847684905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_38
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 912
+        width: 354
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c45d79c6926920800000000000000
+      internalID: 2982111695407989952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_39
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 912
+        width: 350
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c017805557e23c70800000000000000
+      internalID: 8949469763147862217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 607
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af4890091a57bc30800000000000000
+      internalID: 4375064626444390308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 611
+        width: 354
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245f09eadd7f87970800000000000000
+      internalID: 8753018407283127618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 607
+        width: 354
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61baf4f2cfd8b45b0800000000000000
+      internalID: -5383052815326270698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_43
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 607
+        width: 354
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e86acfc7f5dea0800000000000000
+      internalID: -5848496069244557473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_44
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 607
+        width: 362
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb6a9078172d4b80800000000000000
+      internalID: -8409021943308981254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_45
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 603
+        width: 358
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61bbcfca41da6930800000000000000
+      internalID: 4137349326937239914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_46
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 607
+        width: 362
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bee2d2a4fdb4610800000000000000
+      internalID: 1606623201766337386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_47
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 607
+        width: 362
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa061a6536531200800000000000000
+      internalID: 149558000046443257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 306
+        width: 362
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad556462edd46bc0800000000000000
+      internalID: -3790661021922402906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_49
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 306
+        width: 358
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da28f48798699820800000000000000
+      internalID: 2925484432934054608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_50
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 306
+        width: 358
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178b2304f3b8fc4c0800000000000000
+      internalID: -4265037218320304015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_51
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 306
+        width: 346
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75165e218973c2a0800000000000000
+      internalID: -6718392623371512450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_52
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 306
+        width: 350
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac2ad2bda5c68b30800000000000000
+      internalID: 4289333044937632928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_53
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 306
+        width: 354
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e724c16bc48b27a50800000000000000
+      internalID: 6517474250370859646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_54
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 306
+        width: 342
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8860c561f3f27d600800000000000000
+      internalID: 492914632224933512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_55
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 306
+        width: 346
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b26428b03fec4180800000000000000
+      internalID: -9129659352059977033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 350
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c032efea9ac49e980800000000000000
+      internalID: -8509185729270766836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_57
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5
+        width: 358
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620907b4fc4932b0800000000000000
+      internalID: -5604363647359319442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_58
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 5
+        width: 350
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac52e4e152c1f7d0800000000000000
+      internalID: -2886312229179597653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coathanger_370x301_59
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 5
+        width: 350
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd904934787fd2c0800000000000000
+      internalID: -4404669469972980228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      coathanger_370x301_0: 6474454247376498682
+      coathanger_370x301_1: -3554902692840932154
+      coathanger_370x301_10: -3527080217545924890
+      coathanger_370x301_11: 3368869217165810116
+      coathanger_370x301_12: -6006509424158033839
+      coathanger_370x301_13: -8797640045814289205
+      coathanger_370x301_14: 1239785026696775760
+      coathanger_370x301_15: 8440958541720937834
+      coathanger_370x301_16: 1152204734689606934
+      coathanger_370x301_17: -436825669193909701
+      coathanger_370x301_18: -7241517018775062034
+      coathanger_370x301_19: 8575591186165536535
+      coathanger_370x301_2: 2702029604054623910
+      coathanger_370x301_20: 5305964148075117332
+      coathanger_370x301_21: -6080909771720290745
+      coathanger_370x301_22: -1842642040961978145
+      coathanger_370x301_23: 6899627032160856419
+      coathanger_370x301_24: 4248499212897643134
+      coathanger_370x301_25: 6909134344551729418
+      coathanger_370x301_26: -1400676536558875450
+      coathanger_370x301_27: -3670488546977373750
+      coathanger_370x301_28: -9144987187610147585
+      coathanger_370x301_29: -8104440634056208173
+      coathanger_370x301_3: 4368959739653694850
+      coathanger_370x301_30: -8649614910460382252
+      coathanger_370x301_31: -2939455757096253309
+      coathanger_370x301_32: -1459814281547023153
+      coathanger_370x301_33: -2766007599690875849
+      coathanger_370x301_34: 6715968798738596672
+      coathanger_370x301_35: 6877571648634336150
+      coathanger_370x301_36: -3886178750606941512
+      coathanger_370x301_37: 7860930850847684905
+      coathanger_370x301_38: 2982111695407989952
+      coathanger_370x301_39: 8949469763147862217
+      coathanger_370x301_4: 7129183450845009696
+      coathanger_370x301_40: 4375064626444390308
+      coathanger_370x301_41: 8753018407283127618
+      coathanger_370x301_42: -5383052815326270698
+      coathanger_370x301_43: -5848496069244557473
+      coathanger_370x301_44: -8409021943308981254
+      coathanger_370x301_45: 4137349326937239914
+      coathanger_370x301_46: 1606623201766337386
+      coathanger_370x301_47: 149558000046443257
+      coathanger_370x301_48: -3790661021922402906
+      coathanger_370x301_49: 2925484432934054608
+      coathanger_370x301_5: -5865951683316135091
+      coathanger_370x301_50: -4265037218320304015
+      coathanger_370x301_51: -6718392623371512450
+      coathanger_370x301_52: 4289333044937632928
+      coathanger_370x301_53: 6517474250370859646
+      coathanger_370x301_54: 492914632224933512
+      coathanger_370x301_55: -9129659352059977033
+      coathanger_370x301_56: -8509185729270766836
+      coathanger_370x301_57: -5604363647359319442
+      coathanger_370x301_58: -2886312229179597653
+      coathanger_370x301_59: -4404669469972980228
+      coathanger_370x301_6: 7425553684393850597
+      coathanger_370x301_7: 8673824562956909058
+      coathanger_370x301_8: 4483138033878940237
+      coathanger_370x301_9: 1647006810303742479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

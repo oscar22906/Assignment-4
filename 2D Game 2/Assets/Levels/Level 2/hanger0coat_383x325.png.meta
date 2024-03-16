@@ -1,0 +1,1627 @@
+fileFormatVersion: 2
+guid: fcb45fcabefa2d341bb3ed975bedface
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1576392084274885286
+    second: hanger0coat_383x325_0
+  - first:
+      213: -8218362202513600129
+    second: hanger0coat_383x325_1
+  - first:
+      213: -7951566865830090041
+    second: hanger0coat_383x325_2
+  - first:
+      213: 8452518020564659665
+    second: hanger0coat_383x325_3
+  - first:
+      213: -1971394012869974477
+    second: hanger0coat_383x325_4
+  - first:
+      213: -3013077346928612077
+    second: hanger0coat_383x325_5
+  - first:
+      213: 65702137363102389
+    second: hanger0coat_383x325_6
+  - first:
+      213: 5852485106844932663
+    second: hanger0coat_383x325_7
+  - first:
+      213: 7738043509458955034
+    second: hanger0coat_383x325_8
+  - first:
+      213: -1423310309565977659
+    second: hanger0coat_383x325_9
+  - first:
+      213: 8169031748842679655
+    second: hanger0coat_383x325_10
+  - first:
+      213: -1179245955924227798
+    second: hanger0coat_383x325_11
+  - first:
+      213: -6117842675905470203
+    second: hanger0coat_383x325_12
+  - first:
+      213: -3051478719247425179
+    second: hanger0coat_383x325_13
+  - first:
+      213: -8228774780177647434
+    second: hanger0coat_383x325_14
+  - first:
+      213: -532247379548156835
+    second: hanger0coat_383x325_15
+  - first:
+      213: 3953533315971340089
+    second: hanger0coat_383x325_16
+  - first:
+      213: -8800829564533723189
+    second: hanger0coat_383x325_17
+  - first:
+      213: -2248558826263914815
+    second: hanger0coat_383x325_18
+  - first:
+      213: 3614260544246382632
+    second: hanger0coat_383x325_19
+  - first:
+      213: 2917663446722813396
+    second: hanger0coat_383x325_20
+  - first:
+      213: 3776278654692690522
+    second: hanger0coat_383x325_21
+  - first:
+      213: 23567237257612432
+    second: hanger0coat_383x325_22
+  - first:
+      213: 3584204435050910093
+    second: hanger0coat_383x325_23
+  - first:
+      213: -5311294432335093016
+    second: hanger0coat_383x325_24
+  - first:
+      213: -6669143437328508949
+    second: hanger0coat_383x325_25
+  - first:
+      213: -2929244712694767097
+    second: hanger0coat_383x325_26
+  - first:
+      213: -1914536407837657605
+    second: hanger0coat_383x325_27
+  - first:
+      213: -2584650764990437619
+    second: hanger0coat_383x325_28
+  - first:
+      213: 9070158069918760675
+    second: hanger0coat_383x325_29
+  - first:
+      213: -1111504603304279617
+    second: hanger0coat_383x325_30
+  - first:
+      213: 121031010483506611
+    second: hanger0coat_383x325_31
+  - first:
+      213: -4149467254319436221
+    second: hanger0coat_383x325_32
+  - first:
+      213: 5388540074426497400
+    second: hanger0coat_383x325_33
+  - first:
+      213: -2758729615395511727
+    second: hanger0coat_383x325_34
+  - first:
+      213: 5747570679165419928
+    second: hanger0coat_383x325_35
+  - first:
+      213: 8259571873766189375
+    second: hanger0coat_383x325_36
+  - first:
+      213: -5796382996721633360
+    second: hanger0coat_383x325_37
+  - first:
+      213: 4703374266793546713
+    second: hanger0coat_383x325_38
+  - first:
+      213: -11700040765217078
+    second: hanger0coat_383x325_39
+  - first:
+      213: 3870909863790012630
+    second: hanger0coat_383x325_40
+  - first:
+      213: 1457612674337844568
+    second: hanger0coat_383x325_41
+  - first:
+      213: -3647544523325714473
+    second: hanger0coat_383x325_42
+  - first:
+      213: -2988884444744038407
+    second: hanger0coat_383x325_43
+  - first:
+      213: 5039740306361411366
+    second: hanger0coat_383x325_44
+  - first:
+      213: 8072380493289480007
+    second: hanger0coat_383x325_45
+  - first:
+      213: -7850367923937807376
+    second: hanger0coat_383x325_46
+  - first:
+      213: 36094395657606696
+    second: hanger0coat_383x325_47
+  - first:
+      213: 9066782408879178939
+    second: hanger0coat_383x325_48
+  - first:
+      213: -6936042277393080934
+    second: hanger0coat_383x325_49
+  - first:
+      213: 4952284016175403614
+    second: hanger0coat_383x325_50
+  - first:
+      213: -5504191577013887823
+    second: hanger0coat_383x325_51
+  - first:
+      213: -8283242174099170560
+    second: hanger0coat_383x325_52
+  - first:
+      213: -3824694819290867182
+    second: hanger0coat_383x325_53
+  - first:
+      213: -6694940654035755475
+    second: hanger0coat_383x325_54
+  - first:
+      213: 3994405607076804520
+    second: hanger0coat_383x325_55
+  - first:
+      213: 4501110655207721529
+    second: hanger0coat_383x325_56
+  - first:
+      213: -2260960570396017073
+    second: hanger0coat_383x325_57
+  - first:
+      213: -8133207348270972880
+    second: hanger0coat_383x325_58
+  - first:
+      213: -2521444872215235019
+    second: hanger0coat_383x325_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hanger0coat_383x325_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2275
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dce0e50c78f1ae0800000000000000
+      internalID: -1576392084274885286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2275
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711eab9e1382fd80800000000000000
+      internalID: -8218362202513600129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2275
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca6e62901c56a190800000000000000
+      internalID: -7951566865830090041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2275
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd28593b506d4570800000000000000
+      internalID: 8452518020564659665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_4
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 2275
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336ad86179334a4e0800000000000000
+      internalID: -1971394012869974477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_5
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2275
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d2b8fed166f26d0800000000000000
+      internalID: -3013077346928612077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_6
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 2275
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf28eeebb69e000800000000000000
+      internalID: 65702137363102389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_7
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 2275
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a91c66234383150800000000000000
+      internalID: 5852485106844932663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1950
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b61dde29d036b60800000000000000
+      internalID: 7738043509458955034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1950
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb2b2180d26f3ce0800000000000000
+      internalID: -1423310309565977659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1950
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76de7ac181b3e5170800000000000000
+      internalID: 8169031748842679655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_11
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1950
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29025e0d0a72afe0800000000000000
+      internalID: -1179245955924227798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_12
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1950
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501edeeff7e091ba0800000000000000
+      internalID: -6117842675905470203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_13
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1950
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561e793b548f6a5d0800000000000000
+      internalID: -3051478719247425179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_14
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1950
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b871d27fe48dcd80800000000000000
+      internalID: -8228774780177647434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_15
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1950
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c466904d31d98f0800000000000000
+      internalID: -532247379548156835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1625
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937d42aaa95cdd630800000000000000
+      internalID: 3953533315971340089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1625
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf263dc32c2dd580800000000000000
+      internalID: -8800829564533723189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_18
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1625
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c658ff29a38bc0e0800000000000000
+      internalID: -2248558826263914815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_19
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1625
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8200489d0de682230800000000000000
+      internalID: 3614260544246382632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_20
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1625
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd1e04427f9d7820800000000000000
+      internalID: 2917663446722813396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_21
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1625
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a09d9cd69086430800000000000000
+      internalID: 3776278654692690522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_22
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1625
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc315074ab35000800000000000000
+      internalID: 23567237257612432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_23
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1625
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81d69991f6adb130800000000000000
+      internalID: 3584204435050910093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2282faadd7a46b0800000000000000
+      internalID: -5311294432335093016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_25
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1300
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be718edd0617273a0800000000000000
+      internalID: -6669143437328508949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1300
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70223af147b3957d0800000000000000
+      internalID: -2929244712694767097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_27
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1300
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5b84dd7433e65e0800000000000000
+      internalID: -1914536407837657605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_28
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1300
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07ad44c2d9712cd0800000000000000
+      internalID: -2584650764990437619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_29
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1300
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee762675bcafdd70800000000000000
+      internalID: 9070158069918760675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_30
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1300
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb146d9c3742390f0800000000000000
+      internalID: -1111504603304279617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_31
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1300
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd0da2101dfda100800000000000000
+      internalID: 121031010483506611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eac2b54812a66c0800000000000000
+      internalID: -4149467254319436221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_33
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 975
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879f522e5a0f7ca40800000000000000
+      internalID: 5388540074426497400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_34
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 975
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152200bf70607b9d0800000000000000
+      internalID: -2758729615395511727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_35
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 975
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8910b1da41973cf40800000000000000
+      internalID: 5747570679165419928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_36
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 975
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3924acabd4ef9270800000000000000
+      internalID: 8259571873766189375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_37
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 975
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7fa42006c1f8fa0800000000000000
+      internalID: -5796382996721633360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_38
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 975
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d351f1e9fdb54140800000000000000
+      internalID: 4703374266793546713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_39
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 975
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6e45affde66dff0800000000000000
+      internalID: -11700040765217078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d862cc130c38b530800000000000000
+      internalID: 3870909863790012630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 650
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85da30a210b7a3410800000000000000
+      internalID: 1457612674337844568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_42
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 650
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfcfb0e491516dc0800000000000000
+      internalID: -3647544523325714473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_43
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 650
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7475cee695586d0800000000000000
+      internalID: -2988884444744038407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_44
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 650
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627e3e06b11c0f540800000000000000
+      internalID: 5039740306361411366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_45
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 650
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fdf421a4bd60070800000000000000
+      internalID: 8072380493289480007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_46
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 650
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3f09957f3ed0390800000000000000
+      internalID: -7850367923937807376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_47
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 650
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826dd8f59ab308000800000000000000
+      internalID: 36094395657606696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb40101209ea3dd70800000000000000
+      internalID: 9066782408879178939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_49
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 325
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dd4e42c4a3ebf90800000000000000
+      internalID: -6936042277393080934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_50
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 325
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52dafa031c0ab440800000000000000
+      internalID: 4952284016175403614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_51
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 325
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcd3645cee2d93b0800000000000000
+      internalID: -5504191577013887823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_52
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 325
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bd84011230c0d80800000000000000
+      internalID: -8283242174099170560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_53
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 325
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a14e17354fbeac0800000000000000
+      internalID: -3824694819290867182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_54
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 325
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e90eb42fac613a0800000000000000
+      internalID: -6694940654035755475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_55
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 325
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a734a28cbafe6730800000000000000
+      internalID: 3994405607076804520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ac1620b48277e30800000000000000
+      internalID: 4501110655207721529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e716e17547f90e0800000000000000
+      internalID: -2260960570396017073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_58
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03046b1220b012f80800000000000000
+      internalID: -8133207348270972880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hanger0coat_383x325_59
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 383
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53671e67f37020dd0800000000000000
+      internalID: -2521444872215235019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b5449c443c9605b4aadcb699bf49c247
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hanger0coat_383x325_0: -1576392084274885286
+      hanger0coat_383x325_1: -8218362202513600129
+      hanger0coat_383x325_10: 8169031748842679655
+      hanger0coat_383x325_11: -1179245955924227798
+      hanger0coat_383x325_12: -6117842675905470203
+      hanger0coat_383x325_13: -3051478719247425179
+      hanger0coat_383x325_14: -8228774780177647434
+      hanger0coat_383x325_15: -532247379548156835
+      hanger0coat_383x325_16: 3953533315971340089
+      hanger0coat_383x325_17: -8800829564533723189
+      hanger0coat_383x325_18: -2248558826263914815
+      hanger0coat_383x325_19: 3614260544246382632
+      hanger0coat_383x325_2: -7951566865830090041
+      hanger0coat_383x325_20: 2917663446722813396
+      hanger0coat_383x325_21: 3776278654692690522
+      hanger0coat_383x325_22: 23567237257612432
+      hanger0coat_383x325_23: 3584204435050910093
+      hanger0coat_383x325_24: -5311294432335093016
+      hanger0coat_383x325_25: -6669143437328508949
+      hanger0coat_383x325_26: -2929244712694767097
+      hanger0coat_383x325_27: -1914536407837657605
+      hanger0coat_383x325_28: -2584650764990437619
+      hanger0coat_383x325_29: 9070158069918760675
+      hanger0coat_383x325_3: 8452518020564659665
+      hanger0coat_383x325_30: -1111504603304279617
+      hanger0coat_383x325_31: 121031010483506611
+      hanger0coat_383x325_32: -4149467254319436221
+      hanger0coat_383x325_33: 5388540074426497400
+      hanger0coat_383x325_34: -2758729615395511727
+      hanger0coat_383x325_35: 5747570679165419928
+      hanger0coat_383x325_36: 8259571873766189375
+      hanger0coat_383x325_37: -5796382996721633360
+      hanger0coat_383x325_38: 4703374266793546713
+      hanger0coat_383x325_39: -11700040765217078
+      hanger0coat_383x325_4: -1971394012869974477
+      hanger0coat_383x325_40: 3870909863790012630
+      hanger0coat_383x325_41: 1457612674337844568
+      hanger0coat_383x325_42: -3647544523325714473
+      hanger0coat_383x325_43: -2988884444744038407
+      hanger0coat_383x325_44: 5039740306361411366
+      hanger0coat_383x325_45: 8072380493289480007
+      hanger0coat_383x325_46: -7850367923937807376
+      hanger0coat_383x325_47: 36094395657606696
+      hanger0coat_383x325_48: 9066782408879178939
+      hanger0coat_383x325_49: -6936042277393080934
+      hanger0coat_383x325_5: -3013077346928612077
+      hanger0coat_383x325_50: 4952284016175403614
+      hanger0coat_383x325_51: -5504191577013887823
+      hanger0coat_383x325_52: -8283242174099170560
+      hanger0coat_383x325_53: -3824694819290867182
+      hanger0coat_383x325_54: -6694940654035755475
+      hanger0coat_383x325_55: 3994405607076804520
+      hanger0coat_383x325_56: 4501110655207721529
+      hanger0coat_383x325_57: -2260960570396017073
+      hanger0coat_383x325_58: -8133207348270972880
+      hanger0coat_383x325_59: -2521444872215235019
+      hanger0coat_383x325_6: 65702137363102389
+      hanger0coat_383x325_7: 5852485106844932663
+      hanger0coat_383x325_8: 7738043509458955034
+      hanger0coat_383x325_9: -1423310309565977659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

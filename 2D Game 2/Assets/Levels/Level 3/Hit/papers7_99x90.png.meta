@@ -1,0 +1,5717 @@
+fileFormatVersion: 2
+guid: e6989941a3f8bd34dbc9aec5013c5e22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8157975358978139395
+    second: papers7_99x90_0
+  - first:
+      213: 5859743397340844438
+    second: papers7_99x90_1
+  - first:
+      213: -6807846617505781244
+    second: papers7_99x90_2
+  - first:
+      213: 8695937223519903739
+    second: papers7_99x90_3
+  - first:
+      213: 4625188728629504710
+    second: papers7_99x90_4
+  - first:
+      213: 7294902002884042755
+    second: papers7_99x90_5
+  - first:
+      213: -1296316699802706797
+    second: papers7_99x90_6
+  - first:
+      213: -5651460811316947963
+    second: papers7_99x90_7
+  - first:
+      213: -2052920630349444253
+    second: papers7_99x90_8
+  - first:
+      213: -3624778901167921812
+    second: papers7_99x90_9
+  - first:
+      213: -34075468101846263
+    second: papers7_99x90_10
+  - first:
+      213: -9208322700038141761
+    second: papers7_99x90_11
+  - first:
+      213: -5485972982137714282
+    second: papers7_99x90_12
+  - first:
+      213: 7109505091966042611
+    second: papers7_99x90_13
+  - first:
+      213: 4786916979915956626
+    second: papers7_99x90_14
+  - first:
+      213: 1425682518736711073
+    second: papers7_99x90_15
+  - first:
+      213: 2104560252315539114
+    second: papers7_99x90_16
+  - first:
+      213: -1968608103776053181
+    second: papers7_99x90_17
+  - first:
+      213: 4266035499302940480
+    second: papers7_99x90_18
+  - first:
+      213: 2227809420669413268
+    second: papers7_99x90_19
+  - first:
+      213: 5854286906751335567
+    second: papers7_99x90_20
+  - first:
+      213: -885861332228864081
+    second: papers7_99x90_21
+  - first:
+      213: 308910109758096852
+    second: papers7_99x90_22
+  - first:
+      213: 5367703396590197260
+    second: papers7_99x90_23
+  - first:
+      213: -8625557289262870480
+    second: papers7_99x90_24
+  - first:
+      213: 3774066086743111555
+    second: papers7_99x90_25
+  - first:
+      213: 251787374289512178
+    second: papers7_99x90_26
+  - first:
+      213: -3043769138781668715
+    second: papers7_99x90_27
+  - first:
+      213: -2474172863389497299
+    second: papers7_99x90_28
+  - first:
+      213: -916088798026867456
+    second: papers7_99x90_29
+  - first:
+      213: -3761665681495599031
+    second: papers7_99x90_30
+  - first:
+      213: 2543233500871953181
+    second: papers7_99x90_31
+  - first:
+      213: -4724844099123893897
+    second: papers7_99x90_32
+  - first:
+      213: -6363363148626966098
+    second: papers7_99x90_33
+  - first:
+      213: -5822736253817897565
+    second: papers7_99x90_34
+  - first:
+      213: 7134106938560510111
+    second: papers7_99x90_35
+  - first:
+      213: 1067055529779798232
+    second: papers7_99x90_36
+  - first:
+      213: 6490880118891580287
+    second: papers7_99x90_37
+  - first:
+      213: 8400327138710411820
+    second: papers7_99x90_38
+  - first:
+      213: -4312962574053313015
+    second: papers7_99x90_39
+  - first:
+      213: 2867367287535305459
+    second: papers7_99x90_40
+  - first:
+      213: -1918788398468823285
+    second: papers7_99x90_41
+  - first:
+      213: 8564239763298027713
+    second: papers7_99x90_42
+  - first:
+      213: 361866369893407622
+    second: papers7_99x90_43
+  - first:
+      213: -3935172033919040199
+    second: papers7_99x90_44
+  - first:
+      213: 2020024534138953037
+    second: papers7_99x90_45
+  - first:
+      213: 5505482294693131932
+    second: papers7_99x90_46
+  - first:
+      213: 6656606452200027845
+    second: papers7_99x90_47
+  - first:
+      213: 7898837443469047198
+    second: papers7_99x90_48
+  - first:
+      213: 6687786429012626651
+    second: papers7_99x90_49
+  - first:
+      213: 2153644367639538728
+    second: papers7_99x90_50
+  - first:
+      213: -1145397565780798349
+    second: papers7_99x90_51
+  - first:
+      213: -4026806961483014780
+    second: papers7_99x90_52
+  - first:
+      213: -9120511809023864606
+    second: papers7_99x90_53
+  - first:
+      213: 6143568783160522759
+    second: papers7_99x90_54
+  - first:
+      213: -7778373533474318129
+    second: papers7_99x90_55
+  - first:
+      213: 897492525047856387
+    second: papers7_99x90_56
+  - first:
+      213: -4086161197332635307
+    second: papers7_99x90_57
+  - first:
+      213: -3054436602472903404
+    second: papers7_99x90_58
+  - first:
+      213: -4706398070782118310
+    second: papers7_99x90_59
+  - first:
+      213: 1035307390178238105
+    second: papers7_99x90_60
+  - first:
+      213: 1400774001599872647
+    second: papers7_99x90_61
+  - first:
+      213: 156817762032131001
+    second: papers7_99x90_62
+  - first:
+      213: -7914311591411340694
+    second: papers7_99x90_63
+  - first:
+      213: 8798414885838058223
+    second: papers7_99x90_64
+  - first:
+      213: -6130830606552706135
+    second: papers7_99x90_65
+  - first:
+      213: -4719339598857556857
+    second: papers7_99x90_66
+  - first:
+      213: 4153715057218857334
+    second: papers7_99x90_67
+  - first:
+      213: -8469937309506571539
+    second: papers7_99x90_68
+  - first:
+      213: 8934987112418094259
+    second: papers7_99x90_69
+  - first:
+      213: -7682527504776661255
+    second: papers7_99x90_70
+  - first:
+      213: -3702336260457068971
+    second: papers7_99x90_71
+  - first:
+      213: -6950573163141118205
+    second: papers7_99x90_72
+  - first:
+      213: 338094394463958129
+    second: papers7_99x90_73
+  - first:
+      213: 9191378933971506852
+    second: papers7_99x90_74
+  - first:
+      213: -1576621493454762264
+    second: papers7_99x90_75
+  - first:
+      213: -2186909483020992633
+    second: papers7_99x90_76
+  - first:
+      213: -6859192806136971381
+    second: papers7_99x90_77
+  - first:
+      213: 1578343292156340335
+    second: papers7_99x90_78
+  - first:
+      213: 9203491739396954814
+    second: papers7_99x90_79
+  - first:
+      213: -2661095351179689866
+    second: papers7_99x90_80
+  - first:
+      213: 8302766527782685117
+    second: papers7_99x90_81
+  - first:
+      213: -4513287281957730082
+    second: papers7_99x90_82
+  - first:
+      213: -9078504066392807154
+    second: papers7_99x90_83
+  - first:
+      213: -2917917069052123122
+    second: papers7_99x90_84
+  - first:
+      213: 6790377828332589816
+    second: papers7_99x90_85
+  - first:
+      213: -3278443200515902990
+    second: papers7_99x90_86
+  - first:
+      213: 4173475991339260706
+    second: papers7_99x90_87
+  - first:
+      213: -2130777699095849092
+    second: papers7_99x90_88
+  - first:
+      213: 6276103946443468886
+    second: papers7_99x90_89
+  - first:
+      213: -8575152941356951684
+    second: papers7_99x90_90
+  - first:
+      213: 3653548472183291001
+    second: papers7_99x90_91
+  - first:
+      213: -2443932179148915180
+    second: papers7_99x90_92
+  - first:
+      213: 1779413177488073414
+    second: papers7_99x90_93
+  - first:
+      213: 2091435239953608017
+    second: papers7_99x90_94
+  - first:
+      213: 1794970381803743780
+    second: papers7_99x90_95
+  - first:
+      213: 7096359703277747426
+    second: papers7_99x90_96
+  - first:
+      213: 6342359020964711962
+    second: papers7_99x90_97
+  - first:
+      213: 6980992033797274079
+    second: papers7_99x90_98
+  - first:
+      213: 9047268410652531595
+    second: papers7_99x90_99
+  - first:
+      213: -667984989351421282
+    second: papers7_99x90_100
+  - first:
+      213: 6872714770695585050
+    second: papers7_99x90_101
+  - first:
+      213: -1095863657527927200
+    second: papers7_99x90_102
+  - first:
+      213: -6037758587095421561
+    second: papers7_99x90_103
+  - first:
+      213: -1443114613014931170
+    second: papers7_99x90_104
+  - first:
+      213: 6271071350904465837
+    second: papers7_99x90_105
+  - first:
+      213: -4603567151825889522
+    second: papers7_99x90_106
+  - first:
+      213: 784133883736475389
+    second: papers7_99x90_107
+  - first:
+      213: -476279718362615835
+    second: papers7_99x90_108
+  - first:
+      213: -3671334533502916216
+    second: papers7_99x90_109
+  - first:
+      213: -1942532894236238667
+    second: papers7_99x90_110
+  - first:
+      213: -4438691528943815010
+    second: papers7_99x90_111
+  - first:
+      213: -1247640702198354711
+    second: papers7_99x90_112
+  - first:
+      213: 4993435803933849080
+    second: papers7_99x90_113
+  - first:
+      213: 5837458596020838187
+    second: papers7_99x90_114
+  - first:
+      213: -8648817929215858026
+    second: papers7_99x90_115
+  - first:
+      213: 3772612759388173606
+    second: papers7_99x90_116
+  - first:
+      213: 2824536150578859503
+    second: papers7_99x90_117
+  - first:
+      213: 6219194710514365589
+    second: papers7_99x90_118
+  - first:
+      213: -5736895481890470564
+    second: papers7_99x90_119
+  - first:
+      213: -360438003214692880
+    second: papers7_99x90_120
+  - first:
+      213: -6138149311606114642
+    second: papers7_99x90_121
+  - first:
+      213: -5185003330314441865
+    second: papers7_99x90_122
+  - first:
+      213: -1589186659413294877
+    second: papers7_99x90_123
+  - first:
+      213: -7450074343907593526
+    second: papers7_99x90_124
+  - first:
+      213: -6701840234430187930
+    second: papers7_99x90_125
+  - first:
+      213: -5804945351574642036
+    second: papers7_99x90_126
+  - first:
+      213: 306301736151168090
+    second: papers7_99x90_127
+  - first:
+      213: -5583857109210523607
+    second: papers7_99x90_128
+  - first:
+      213: 7634542797918272864
+    second: papers7_99x90_129
+  - first:
+      213: 4118704104108698883
+    second: papers7_99x90_130
+  - first:
+      213: -7534787010670955332
+    second: papers7_99x90_131
+  - first:
+      213: 5577473842416401608
+    second: papers7_99x90_132
+  - first:
+      213: -8547159066819542048
+    second: papers7_99x90_133
+  - first:
+      213: 8833396787204872373
+    second: papers7_99x90_134
+  - first:
+      213: 8003394502718987453
+    second: papers7_99x90_135
+  - first:
+      213: 6502144580741269593
+    second: papers7_99x90_136
+  - first:
+      213: -7840600555299465187
+    second: papers7_99x90_137
+  - first:
+      213: 3465023475843696932
+    second: papers7_99x90_138
+  - first:
+      213: -3856609824944155676
+    second: papers7_99x90_139
+  - first:
+      213: -2082986573266606963
+    second: papers7_99x90_140
+  - first:
+      213: -3680066633361562772
+    second: papers7_99x90_141
+  - first:
+      213: -6694316678163004210
+    second: papers7_99x90_142
+  - first:
+      213: 2739939070711980567
+    second: papers7_99x90_143
+  - first:
+      213: -8694556702116589708
+    second: papers7_99x90_144
+  - first:
+      213: -8624341611367661812
+    second: papers7_99x90_145
+  - first:
+      213: -291458782836687308
+    second: papers7_99x90_146
+  - first:
+      213: -6184909463825530169
+    second: papers7_99x90_147
+  - first:
+      213: -814324620308653939
+    second: papers7_99x90_148
+  - first:
+      213: -7866650983190897597
+    second: papers7_99x90_149
+  - first:
+      213: 5836013939143797542
+    second: papers7_99x90_150
+  - first:
+      213: -3449913536861535476
+    second: papers7_99x90_151
+  - first:
+      213: -8914670180935782081
+    second: papers7_99x90_152
+  - first:
+      213: -5443284463384139168
+    second: papers7_99x90_153
+  - first:
+      213: -1037004952706137738
+    second: papers7_99x90_154
+  - first:
+      213: -4193400965815475844
+    second: papers7_99x90_155
+  - first:
+      213: -6956632411620525504
+    second: papers7_99x90_156
+  - first:
+      213: -8926544070037825267
+    second: papers7_99x90_157
+  - first:
+      213: 3076900457716707982
+    second: papers7_99x90_158
+  - first:
+      213: 6968828956836910412
+    second: papers7_99x90_159
+  - first:
+      213: 9078235889072769997
+    second: papers7_99x90_160
+  - first:
+      213: 8135950314566016355
+    second: papers7_99x90_161
+  - first:
+      213: -70897736768837073
+    second: papers7_99x90_162
+  - first:
+      213: 5765955008821984837
+    second: papers7_99x90_163
+  - first:
+      213: 9085416605638269873
+    second: papers7_99x90_164
+  - first:
+      213: -733587175796433729
+    second: papers7_99x90_165
+  - first:
+      213: 3156402793894340201
+    second: papers7_99x90_166
+  - first:
+      213: 8430234837984958816
+    second: papers7_99x90_167
+  - first:
+      213: -9187828957491374387
+    second: papers7_99x90_168
+  - first:
+      213: -1528487617178365456
+    second: papers7_99x90_169
+  - first:
+      213: 4832269118947213280
+    second: papers7_99x90_170
+  - first:
+      213: 9056082979811965191
+    second: papers7_99x90_171
+  - first:
+      213: 3304732703178550188
+    second: papers7_99x90_172
+  - first:
+      213: 8567231611328976793
+    second: papers7_99x90_173
+  - first:
+      213: -5124911146616099814
+    second: papers7_99x90_174
+  - first:
+      213: 8005541776690496418
+    second: papers7_99x90_175
+  - first:
+      213: 2343236700997877720
+    second: papers7_99x90_176
+  - first:
+      213: 6933664916992973599
+    second: papers7_99x90_177
+  - first:
+      213: 6910277795275802797
+    second: papers7_99x90_178
+  - first:
+      213: -5673838700064078088
+    second: papers7_99x90_179
+  - first:
+      213: 2753349777867218659
+    second: papers7_99x90_180
+  - first:
+      213: 1079847855335894494
+    second: papers7_99x90_181
+  - first:
+      213: -6440482430787245925
+    second: papers7_99x90_182
+  - first:
+      213: -8209872411086248799
+    second: papers7_99x90_183
+  - first:
+      213: 7652669821722125376
+    second: papers7_99x90_184
+  - first:
+      213: -7288806935678542099
+    second: papers7_99x90_185
+  - first:
+      213: -1212033539857556930
+    second: papers7_99x90_186
+  - first:
+      213: -8211031771093280486
+    second: papers7_99x90_187
+  - first:
+      213: -7483652200984175170
+    second: papers7_99x90_188
+  - first:
+      213: -917412929720724928
+    second: papers7_99x90_189
+  - first:
+      213: -599088834911387143
+    second: papers7_99x90_190
+  - first:
+      213: 4142168888617916959
+    second: papers7_99x90_191
+  - first:
+      213: 3330667266172150653
+    second: papers7_99x90_192
+  - first:
+      213: -7604089435009900543
+    second: papers7_99x90_193
+  - first:
+      213: 444099243803398059
+    second: papers7_99x90_194
+  - first:
+      213: -8280088780246820432
+    second: papers7_99x90_195
+  - first:
+      213: -3123015485405230196
+    second: papers7_99x90_196
+  - first:
+      213: 5946448351742902560
+    second: papers7_99x90_197
+  - first:
+      213: -959160585446904190
+    second: papers7_99x90_198
+  - first:
+      213: -5966544014285944957
+    second: papers7_99x90_199
+  - first:
+      213: -2366437081010949845
+    second: papers7_99x90_200
+  - first:
+      213: 3567821517237645532
+    second: papers7_99x90_201
+  - first:
+      213: -114569515382204689
+    second: papers7_99x90_202
+  - first:
+      213: 7662184770765860628
+    second: papers7_99x90_203
+  - first:
+      213: 8565824494520148611
+    second: papers7_99x90_204
+  - first:
+      213: -9182148244212208684
+    second: papers7_99x90_205
+  - first:
+      213: 2811369210724744751
+    second: papers7_99x90_206
+  - first:
+      213: -1693907078834033503
+    second: papers7_99x90_207
+  - first:
+      213: 3964201155276454735
+    second: papers7_99x90_208
+  - first:
+      213: -4690183335633469550
+    second: papers7_99x90_209
+  - first:
+      213: 5093689840022844844
+    second: papers7_99x90_210
+  - first:
+      213: -5056766191720966553
+    second: papers7_99x90_211
+  - first:
+      213: 497943673533420703
+    second: papers7_99x90_212
+  - first:
+      213: 8825728041061795012
+    second: papers7_99x90_213
+  - first:
+      213: -9168059338357103482
+    second: papers7_99x90_214
+  - first:
+      213: 2785486254926153408
+    second: papers7_99x90_215
+  - first:
+      213: 4085685489239874590
+    second: papers7_99x90_216
+  - first:
+      213: 1834677822556694360
+    second: papers7_99x90_217
+  - first:
+      213: 3680119561247581913
+    second: papers7_99x90_218
+  - first:
+      213: -8236410859172357794
+    second: papers7_99x90_219
+  - first:
+      213: 8433938754955821854
+    second: papers7_99x90_220
+  - first:
+      213: -5074329462328474394
+    second: papers7_99x90_221
+  - first:
+      213: -1802945403038565608
+    second: papers7_99x90_222
+  - first:
+      213: 1287233091263131641
+    second: papers7_99x90_223
+  - first:
+      213: 7220886706680979166
+    second: papers7_99x90_224
+  - first:
+      213: -3568881913110172064
+    second: papers7_99x90_225
+  - first:
+      213: 8768207446325916371
+    second: papers7_99x90_226
+  - first:
+      213: -5392849684943478641
+    second: papers7_99x90_227
+  - first:
+      213: 2094580230215627174
+    second: papers7_99x90_228
+  - first:
+      213: 6178479793242310651
+    second: papers7_99x90_229
+  - first:
+      213: 4644070434211103454
+    second: papers7_99x90_230
+  - first:
+      213: -2870924528429866273
+    second: papers7_99x90_231
+  - first:
+      213: -6680233333133897173
+    second: papers7_99x90_232
+  - first:
+      213: 7701337505075556459
+    second: papers7_99x90_233
+  - first:
+      213: 4878896999940002970
+    second: papers7_99x90_234
+  - first:
+      213: 4734930644720615307
+    second: papers7_99x90_235
+  - first:
+      213: 237975116830628594
+    second: papers7_99x90_236
+  - first:
+      213: 1836649248167658660
+    second: papers7_99x90_237
+  - first:
+      213: 2109078954016084944
+    second: papers7_99x90_238
+  - first:
+      213: -6747812990443152422
+    second: papers7_99x90_239
+  - first:
+      213: 4922319697769617377
+    second: papers7_99x90_240
+  - first:
+      213: 6369186755958041978
+    second: papers7_99x90_241
+  - first:
+      213: -4044417566737760891
+    second: papers7_99x90_242
+  - first:
+      213: -2071483966681039794
+    second: papers7_99x90_243
+  - first:
+      213: 6032710676843360388
+    second: papers7_99x90_244
+  - first:
+      213: 4091922949441800903
+    second: papers7_99x90_245
+  - first:
+      213: -8214557764313678425
+    second: papers7_99x90_246
+  - first:
+      213: 8794856362581574557
+    second: papers7_99x90_247
+  - first:
+      213: -4753762803765884433
+    second: papers7_99x90_248
+  - first:
+      213: -6632316748373843486
+    second: papers7_99x90_249
+  - first:
+      213: 4365497230829150525
+    second: papers7_99x90_250
+  - first:
+      213: 1454480483803960767
+    second: papers7_99x90_251
+  - first:
+      213: -8683761751867738036
+    second: papers7_99x90_252
+  - first:
+      213: 374255702153353086
+    second: papers7_99x90_253
+  - first:
+      213: -3936686225980604169
+    second: papers7_99x90_254
+  - first:
+      213: -5412135940020990840
+    second: papers7_99x90_255
+  - first:
+      213: -2634321385783599799
+    second: papers7_99x90_256
+  - first:
+      213: 3087778300112258462
+    second: papers7_99x90_257
+  - first:
+      213: -4150012782106014093
+    second: papers7_99x90_258
+  - first:
+      213: -231339356885551322
+    second: papers7_99x90_259
+  - first:
+      213: -5168174352723468889
+    second: papers7_99x90_260
+  - first:
+      213: 4592430678700628813
+    second: papers7_99x90_261
+  - first:
+      213: 5764592274779869348
+    second: papers7_99x90_262
+  - first:
+      213: -8718190606410366472
+    second: papers7_99x90_263
+  - first:
+      213: 418528957329375570
+    second: papers7_99x90_264
+  - first:
+      213: 5730512897547333786
+    second: papers7_99x90_265
+  - first:
+      213: -7785212994483781759
+    second: papers7_99x90_266
+  - first:
+      213: -6810731662058147966
+    second: papers7_99x90_267
+  - first:
+      213: 8331672861708912873
+    second: papers7_99x90_268
+  - first:
+      213: 3651678820459093664
+    second: papers7_99x90_269
+  - first:
+      213: -4736760735457141740
+    second: papers7_99x90_270
+  - first:
+      213: 7825079310517349883
+    second: papers7_99x90_271
+  - first:
+      213: 5515484633017490317
+    second: papers7_99x90_272
+  - first:
+      213: -8810601849420087790
+    second: papers7_99x90_273
+  - first:
+      213: -4920009380083642309
+    second: papers7_99x90_274
+  - first:
+      213: -2655975555830779131
+    second: papers7_99x90_275
+  - first:
+      213: 918335409510710374
+    second: papers7_99x90_276
+  - first:
+      213: 2274615630007267089
+    second: papers7_99x90_277
+  - first:
+      213: 20153462451437183
+    second: papers7_99x90_278
+  - first:
+      213: 9091846314595819279
+    second: papers7_99x90_279
+  - first:
+      213: -4964620902346818259
+    second: papers7_99x90_280
+  - first:
+      213: -4224054009617910637
+    second: papers7_99x90_281
+  - first:
+      213: 960331027785521764
+    second: papers7_99x90_282
+  - first:
+      213: 6415959638201004259
+    second: papers7_99x90_283
+  - first:
+      213: -7858376137006960855
+    second: papers7_99x90_284
+  - first:
+      213: -8970087486046886675
+    second: papers7_99x90_285
+  - first:
+      213: 5511681229635918648
+    second: papers7_99x90_286
+  - first:
+      213: 5946006532414407525
+    second: papers7_99x90_287
+  - first:
+      213: 1510545311730033157
+    second: papers7_99x90_288
+  - first:
+      213: -842962235060595987
+    second: papers7_99x90_289
+  - first:
+      213: -1468530911203098622
+    second: papers7_99x90_290
+  - first:
+      213: -3081407507280504115
+    second: papers7_99x90_291
+  - first:
+      213: -7829638718035660453
+    second: papers7_99x90_292
+  - first:
+      213: 4576335570077386525
+    second: papers7_99x90_293
+  - first:
+      213: 6531315054989950392
+    second: papers7_99x90_294
+  - first:
+      213: -8611946485264785723
+    second: papers7_99x90_295
+  - first:
+      213: 4571887995865825733
+    second: papers7_99x90_296
+  - first:
+      213: 3553969746068476484
+    second: papers7_99x90_297
+  - first:
+      213: 6393914070856338502
+    second: papers7_99x90_298
+  - first:
+      213: 8857805962621422066
+    second: papers7_99x90_299
+  - first:
+      213: -3963704823103972633
+    second: papers7_99x90_300
+  - first:
+      213: -5658053671304918507
+    second: papers7_99x90_301
+  - first:
+      213: 18166289308348324
+    second: papers7_99x90_302
+  - first:
+      213: -3800801128154217653
+    second: papers7_99x90_303
+  - first:
+      213: -7193357377987931502
+    second: papers7_99x90_304
+  - first:
+      213: 5665122364120955680
+    second: papers7_99x90_305
+  - first:
+      213: 4219221334822175518
+    second: papers7_99x90_306
+  - first:
+      213: -5199891944831309209
+    second: papers7_99x90_307
+  - first:
+      213: 3543860137528187174
+    second: papers7_99x90_308
+  - first:
+      213: -3904593570489430958
+    second: papers7_99x90_309
+  - first:
+      213: 3131251433829962918
+    second: papers7_99x90_310
+  - first:
+      213: 8470663380764293381
+    second: papers7_99x90_311
+  - first:
+      213: -1656466679724609693
+    second: papers7_99x90_312
+  - first:
+      213: 6807693366313479924
+    second: papers7_99x90_313
+  - first:
+      213: 1587667268495796724
+    second: papers7_99x90_314
+  - first:
+      213: 15853940463927638
+    second: papers7_99x90_315
+  - first:
+      213: -5376846729166216730
+    second: papers7_99x90_316
+  - first:
+      213: 6169659222399757461
+    second: papers7_99x90_317
+  - first:
+      213: 1455926185889426102
+    second: papers7_99x90_318
+  - first:
+      213: -4617608923289697780
+    second: papers7_99x90_319
+  - first:
+      213: -3592143943332532483
+    second: papers7_99x90_320
+  - first:
+      213: 2153001267649832425
+    second: papers7_99x90_321
+  - first:
+      213: 1978717722238959898
+    second: papers7_99x90_322
+  - first:
+      213: 4417615311166284412
+    second: papers7_99x90_323
+  - first:
+      213: -9061280122084123562
+    second: papers7_99x90_324
+  - first:
+      213: -8873010405464296258
+    second: papers7_99x90_325
+  - first:
+      213: -3504980970583194346
+    second: papers7_99x90_326
+  - first:
+      213: 2965468981334032298
+    second: papers7_99x90_327
+  - first:
+      213: 907492418371986420
+    second: papers7_99x90_328
+  - first:
+      213: 1401118916706923505
+    second: papers7_99x90_329
+  - first:
+      213: -1908639019740142078
+    second: papers7_99x90_330
+  - first:
+      213: -30619257632267394
+    second: papers7_99x90_331
+  - first:
+      213: 4022663116255829991
+    second: papers7_99x90_332
+  - first:
+      213: -5265278060190462325
+    second: papers7_99x90_333
+  - first:
+      213: -4029950591370516562
+    second: papers7_99x90_334
+  - first:
+      213: -1409600433422664224
+    second: papers7_99x90_335
+  - first:
+      213: 1424070668031234536
+    second: papers7_99x90_336
+  - first:
+      213: 958484179595234221
+    second: papers7_99x90_337
+  - first:
+      213: -7341623818408959774
+    second: papers7_99x90_338
+  - first:
+      213: 7492057685215904462
+    second: papers7_99x90_339
+  - first:
+      213: -8236089090644752434
+    second: papers7_99x90_340
+  - first:
+      213: -1567503175038908963
+    second: papers7_99x90_341
+  - first:
+      213: -7144032240515933619
+    second: papers7_99x90_342
+  - first:
+      213: 4745560342885989864
+    second: papers7_99x90_343
+  - first:
+      213: 3300916554271063757
+    second: papers7_99x90_344
+  - first:
+      213: -4993794870351166813
+    second: papers7_99x90_345
+  - first:
+      213: -6689017757389070873
+    second: papers7_99x90_346
+  - first:
+      213: 4278548854305364119
+    second: papers7_99x90_347
+  - first:
+      213: -8810544376040761910
+    second: papers7_99x90_348
+  - first:
+      213: 8945090436371532741
+    second: papers7_99x90_349
+  - first:
+      213: 844698072899385317
+    second: papers7_99x90_350
+  - first:
+      213: 3615609330147083395
+    second: papers7_99x90_351
+  - first:
+      213: -685660792091888127
+    second: papers7_99x90_352
+  - first:
+      213: -6766724975475809496
+    second: papers7_99x90_353
+  - first:
+      213: 7580637090161731839
+    second: papers7_99x90_354
+  - first:
+      213: 3528853780991453985
+    second: papers7_99x90_355
+  - first:
+      213: -8465271800856766691
+    second: papers7_99x90_356
+  - first:
+      213: 5680026059448837419
+    second: papers7_99x90_357
+  - first:
+      213: 5755263415197267818
+    second: papers7_99x90_358
+  - first:
+      213: 510199835529853658
+    second: papers7_99x90_359
+  - first:
+      213: 3496386081382198221
+    second: papers7_99x90_360
+  - first:
+      213: 944068756164729083
+    second: papers7_99x90_361
+  - first:
+      213: -4459252406723517187
+    second: papers7_99x90_362
+  - first:
+      213: -2611734817525458405
+    second: papers7_99x90_363
+  - first:
+      213: 6409383309874654219
+    second: papers7_99x90_364
+  - first:
+      213: -6902588868987063231
+    second: papers7_99x90_365
+  - first:
+      213: 8762242180007073026
+    second: papers7_99x90_366
+  - first:
+      213: -4927634410780225829
+    second: papers7_99x90_367
+  - first:
+      213: -3635938423271607716
+    second: papers7_99x90_368
+  - first:
+      213: 5687657501019628627
+    second: papers7_99x90_369
+  - first:
+      213: 1956930362289571770
+    second: papers7_99x90_370
+  - first:
+      213: -3488928997918952129
+    second: papers7_99x90_371
+  - first:
+      213: 5544888675109157430
+    second: papers7_99x90_372
+  - first:
+      213: -6865982763598048912
+    second: papers7_99x90_373
+  - first:
+      213: 4502821706026807203
+    second: papers7_99x90_374
+  - first:
+      213: -605754125278549271
+    second: papers7_99x90_375
+  - first:
+      213: -3234884555386978092
+    second: papers7_99x90_376
+  - first:
+      213: -5169342196769378350
+    second: papers7_99x90_377
+  - first:
+      213: -512842630661197762
+    second: papers7_99x90_378
+  - first:
+      213: 322143783504546674
+    second: papers7_99x90_379
+  - first:
+      213: 2117422494383455434
+    second: papers7_99x90_380
+  - first:
+      213: 8400636940974429424
+    second: papers7_99x90_381
+  - first:
+      213: 3299520394937154885
+    second: papers7_99x90_382
+  - first:
+      213: -5406401854880364147
+    second: papers7_99x90_383
+  - first:
+      213: 6161338314001549236
+    second: papers7_99x90_384
+  - first:
+      213: -8217894415213894560
+    second: papers7_99x90_385
+  - first:
+      213: 5990117257893104779
+    second: papers7_99x90_386
+  - first:
+      213: 471529377812795252
+    second: papers7_99x90_387
+  - first:
+      213: -6581856033468652063
+    second: papers7_99x90_388
+  - first:
+      213: -3019075782846151530
+    second: papers7_99x90_389
+  - first:
+      213: -5223825267084020606
+    second: papers7_99x90_390
+  - first:
+      213: 620655064877634741
+    second: papers7_99x90_391
+  - first:
+      213: -7490542579750650891
+    second: papers7_99x90_392
+  - first:
+      213: 6151402741254497864
+    second: papers7_99x90_393
+  - first:
+      213: -7141609444644996470
+    second: papers7_99x90_394
+  - first:
+      213: -1642953223889645572
+    second: papers7_99x90_395
+  - first:
+      213: -6892340533147912899
+    second: papers7_99x90_396
+  - first:
+      213: 4222674287544334221
+    second: papers7_99x90_397
+  - first:
+      213: -3300684538861293333
+    second: papers7_99x90_398
+  - first:
+      213: 1810666928232030422
+    second: papers7_99x90_399
+  - first:
+      213: -7271437547178816443
+    second: papers7_99x90_400
+  - first:
+      213: 7664960276698877030
+    second: papers7_99x90_401
+  - first:
+      213: 2096377999764193895
+    second: papers7_99x90_402
+  - first:
+      213: -6352646559696632987
+    second: papers7_99x90_403
+  - first:
+      213: 5530321198568056590
+    second: papers7_99x90_404
+  - first:
+      213: -3690598590607011402
+    second: papers7_99x90_405
+  - first:
+      213: 38134958171501530
+    second: papers7_99x90_406
+  - first:
+      213: 8669227419310780947
+    second: papers7_99x90_407
+  - first:
+      213: -7352923463381861146
+    second: papers7_99x90_408
+  - first:
+      213: 8366417303047550342
+    second: papers7_99x90_409
+  - first:
+      213: -126997367698901872
+    second: papers7_99x90_410
+  - first:
+      213: -5563095149831283220
+    second: papers7_99x90_411
+  - first:
+      213: -2057325286298627573
+    second: papers7_99x90_412
+  - first:
+      213: -7911782274647562006
+    second: papers7_99x90_413
+  - first:
+      213: 3327919507978354124
+    second: papers7_99x90_414
+  - first:
+      213: 7343833746514067070
+    second: papers7_99x90_415
+  - first:
+      213: -95735505703023333
+    second: papers7_99x90_416
+  - first:
+      213: -6206427266178234911
+    second: papers7_99x90_417
+  - first:
+      213: 1579959130582980022
+    second: papers7_99x90_418
+  - first:
+      213: -1869304543166478397
+    second: papers7_99x90_419
+  - first:
+      213: 9146293933170892144
+    second: papers7_99x90_420
+  - first:
+      213: 8527537494394947105
+    second: papers7_99x90_421
+  - first:
+      213: 7947567106710180207
+    second: papers7_99x90_422
+  - first:
+      213: 362875824376275427
+    second: papers7_99x90_423
+  - first:
+      213: -1121394911434429947
+    second: papers7_99x90_424
+  - first:
+      213: -6734439168472197486
+    second: papers7_99x90_425
+  - first:
+      213: 6086842419050960904
+    second: papers7_99x90_426
+  - first:
+      213: 681842602434744072
+    second: papers7_99x90_427
+  - first:
+      213: -6287145202896889740
+    second: papers7_99x90_428
+  - first:
+      213: -2585170779295294073
+    second: papers7_99x90_429
+  - first:
+      213: -4802546459763690393
+    second: papers7_99x90_430
+  - first:
+      213: -3743018601545859209
+    second: papers7_99x90_431
+  - first:
+      213: 7981373346121655312
+    second: papers7_99x90_432
+  - first:
+      213: -7051884189825671192
+    second: papers7_99x90_433
+  - first:
+      213: -8045191522834161572
+    second: papers7_99x90_434
+  - first:
+      213: 1932150798689168215
+    second: papers7_99x90_435
+  - first:
+      213: 6261955750727080048
+    second: papers7_99x90_436
+  - first:
+      213: -9026039866509637172
+    second: papers7_99x90_437
+  - first:
+      213: 3063970189613444394
+    second: papers7_99x90_438
+  - first:
+      213: -4588937452415993849
+    second: papers7_99x90_439
+  - first:
+      213: 7048244467978408369
+    second: papers7_99x90_440
+  - first:
+      213: -2935944497707194878
+    second: papers7_99x90_441
+  - first:
+      213: -5115801122388748079
+    second: papers7_99x90_442
+  - first:
+      213: 8140193725272649259
+    second: papers7_99x90_443
+  - first:
+      213: 4674058419723746636
+    second: papers7_99x90_444
+  - first:
+      213: -5806123692665555830
+    second: papers7_99x90_445
+  - first:
+      213: -8022367903396206966
+    second: papers7_99x90_446
+  - first:
+      213: 3491176723956420919
+    second: papers7_99x90_447
+  - first:
+      213: -1281103922817942311
+    second: papers7_99x90_448
+  - first:
+      213: 3750350893103426616
+    second: papers7_99x90_449
+  - first:
+      213: -6912001838177903991
+    second: papers7_99x90_450
+  - first:
+      213: -6189039536727102477
+    second: papers7_99x90_451
+  - first:
+      213: 191318972652917271
+    second: papers7_99x90_452
+  - first:
+      213: 8993709801371037908
+    second: papers7_99x90_453
+  - first:
+      213: -6832858114465245457
+    second: papers7_99x90_454
+  - first:
+      213: 4275735117201524619
+    second: papers7_99x90_455
+  - first:
+      213: -7744495816024072185
+    second: papers7_99x90_456
+  - first:
+      213: -1134497120801713626
+    second: papers7_99x90_457
+  - first:
+      213: 3040755351590114196
+    second: papers7_99x90_458
+  - first:
+      213: 3505938899230296894
+    second: papers7_99x90_459
+  - first:
+      213: 5978062261163010795
+    second: papers7_99x90_460
+  - first:
+      213: -5178051009708189793
+    second: papers7_99x90_461
+  - first:
+      213: -3111073305928936942
+    second: papers7_99x90_462
+  - first:
+      213: -4416806482761696467
+    second: papers7_99x90_463
+  - first:
+      213: -2164510168678908255
+    second: papers7_99x90_464
+  - first:
+      213: 8452806663382275976
+    second: papers7_99x90_465
+  - first:
+      213: -8778741453917009834
+    second: papers7_99x90_466
+  - first:
+      213: 82713971483391788
+    second: papers7_99x90_467
+  - first:
+      213: 4187343620120757685
+    second: papers7_99x90_468
+  - first:
+      213: 7154917006523245791
+    second: papers7_99x90_469
+  - first:
+      213: -5559971510735324211
+    second: papers7_99x90_470
+  - first:
+      213: -6501270283408676684
+    second: papers7_99x90_471
+  - first:
+      213: 4048334218372710665
+    second: papers7_99x90_472
+  - first:
+      213: -8514429411938238522
+    second: papers7_99x90_473
+  - first:
+      213: -3806723194884601071
+    second: papers7_99x90_474
+  - first:
+      213: -6575889742259640891
+    second: papers7_99x90_475
+  - first:
+      213: 7185857358690121469
+    second: papers7_99x90_476
+  - first:
+      213: 8178956752129904433
+    second: papers7_99x90_477
+  - first:
+      213: 7307264697370820589
+    second: papers7_99x90_478
+  - first:
+      213: -6747332987957694863
+    second: papers7_99x90_479
+  - first:
+      213: 7188023939983873846
+    second: papers7_99x90_480
+  - first:
+      213: -8463813922402816908
+    second: papers7_99x90_481
+  - first:
+      213: -5059452244002426795
+    second: papers7_99x90_482
+  - first:
+      213: -2342523491916318181
+    second: papers7_99x90_483
+  - first:
+      213: -7479921799409646211
+    second: papers7_99x90_484
+  - first:
+      213: -8988747054015415955
+    second: papers7_99x90_485
+  - first:
+      213: -5005000611759849100
+    second: papers7_99x90_486
+  - first:
+      213: -5897380884170226285
+    second: papers7_99x90_487
+  - first:
+      213: 8594266380729892984
+    second: papers7_99x90_488
+  - first:
+      213: -5514535385601268034
+    second: papers7_99x90_489
+  - first:
+      213: -5875215121626522397
+    second: papers7_99x90_490
+  - first:
+      213: -8378713327140940286
+    second: papers7_99x90_491
+  - first:
+      213: 1260169320881321234
+    second: papers7_99x90_492
+  - first:
+      213: 356662773865223072
+    second: papers7_99x90_493
+  - first:
+      213: -6924327697810850645
+    second: papers7_99x90_494
+  - first:
+      213: 6636643620053378702
+    second: papers7_99x90_495
+  - first:
+      213: 4570330506124419888
+    second: papers7_99x90_496
+  - first:
+      213: -5425830493030835039
+    second: papers7_99x90_497
+  - first:
+      213: 4299179022593859082
+    second: papers7_99x90_498
+  - first:
+      213: 2966266606916807472
+    second: papers7_99x90_499
+  - first:
+      213: 6619288978230474452
+    second: papers7_99x90_500
+  - first:
+      213: -1108861705368334811
+    second: papers7_99x90_501
+  - first:
+      213: -1570633577858976027
+    second: papers7_99x90_502
+  - first:
+      213: -4501248584450585057
+    second: papers7_99x90_503
+  - first:
+      213: 7765265360931277818
+    second: papers7_99x90_504
+  - first:
+      213: 2382868288913612818
+    second: papers7_99x90_505
+  - first:
+      213: -5379936498782076387
+    second: papers7_99x90_506
+  - first:
+      213: -5591670383951727571
+    second: papers7_99x90_507
+  - first:
+      213: -525288107246617492
+    second: papers7_99x90_508
+  - first:
+      213: 3601029414414815442
+    second: papers7_99x90_509
+  - first:
+      213: 6850878628686850817
+    second: papers7_99x90_510
+  - first:
+      213: 8098899453904333220
+    second: papers7_99x90_511
+  - first:
+      213: -2158939228997050106
+    second: papers7_99x90_512
+  - first:
+      213: 7148071489197566829
+    second: papers7_99x90_513
+  - first:
+      213: -1000544440845117862
+    second: papers7_99x90_514
+  - first:
+      213: -8699962127360824111
+    second: papers7_99x90_515
+  - first:
+      213: 5683637406561359715
+    second: papers7_99x90_516
+  - first:
+      213: -1888598832466926458
+    second: papers7_99x90_517
+  - first:
+      213: -155555842465989322
+    second: papers7_99x90_518
+  - first:
+      213: 6932314934619479176
+    second: papers7_99x90_519
+  - first:
+      213: 3344893411425110705
+    second: papers7_99x90_520
+  - first:
+      213: 3078014052251595613
+    second: papers7_99x90_521
+  - first:
+      213: -7308994357159170580
+    second: papers7_99x90_522
+  - first:
+      213: 6533144318987514750
+    second: papers7_99x90_523
+  - first:
+      213: -445362050046174665
+    second: papers7_99x90_524
+  - first:
+      213: 7807394814422554735
+    second: papers7_99x90_525
+  - first:
+      213: -6868280557554392773
+    second: papers7_99x90_526
+  - first:
+      213: 6623497106627566058
+    second: papers7_99x90_527
+  - first:
+      213: -4600745353358520867
+    second: papers7_99x90_528
+  - first:
+      213: 3457998558303329630
+    second: papers7_99x90_529
+  - first:
+      213: 6948630457612669215
+    second: papers7_99x90_530
+  - first:
+      213: 1532354381706156614
+    second: papers7_99x90_531
+  - first:
+      213: 8540404295752324914
+    second: papers7_99x90_532
+  - first:
+      213: 7328934775065564768
+    second: papers7_99x90_533
+  - first:
+      213: 3400934930030507621
+    second: papers7_99x90_534
+  - first:
+      213: 810341202859746749
+    second: papers7_99x90_535
+  - first:
+      213: -6591539966759699369
+    second: papers7_99x90_536
+  - first:
+      213: -7497743985077176999
+    second: papers7_99x90_537
+  - first:
+      213: 6701524960220321490
+    second: papers7_99x90_538
+  - first:
+      213: 3226153823974705012
+    second: papers7_99x90_539
+  - first:
+      213: -5126387098883982928
+    second: papers7_99x90_540
+  - first:
+      213: -8293495085163527470
+    second: papers7_99x90_541
+  - first:
+      213: -7207168897781046551
+    second: papers7_99x90_542
+  - first:
+      213: 5677964468504252326
+    second: papers7_99x90_543
+  - first:
+      213: 3124871481070430871
+    second: papers7_99x90_544
+  - first:
+      213: -7434060922715872803
+    second: papers7_99x90_545
+  - first:
+      213: 899426481812487892
+    second: papers7_99x90_546
+  - first:
+      213: -636212197270851772
+    second: papers7_99x90_547
+  - first:
+      213: -2006434459542064152
+    second: papers7_99x90_548
+  - first:
+      213: 7429755118567736839
+    second: papers7_99x90_549
+  - first:
+      213: 6862659666016558821
+    second: papers7_99x90_550
+  - first:
+      213: 3257514190332432227
+    second: papers7_99x90_551
+  - first:
+      213: -6676128123322860196
+    second: papers7_99x90_552
+  - first:
+      213: -7773087751224159038
+    second: papers7_99x90_553
+  - first:
+      213: -6644958386496115598
+    second: papers7_99x90_554
+  - first:
+      213: -1787999124750620294
+    second: papers7_99x90_555
+  - first:
+      213: 1249362405731690395
+    second: papers7_99x90_556
+  - first:
+      213: -2645856827319643059
+    second: papers7_99x90_557
+  - first:
+      213: 1179409949213421478
+    second: papers7_99x90_558
+  - first:
+      213: 8446008109029981782
+    second: papers7_99x90_559
+  - first:
+      213: -4346522933714890607
+    second: papers7_99x90_560
+  - first:
+      213: -142595639419397991
+    second: papers7_99x90_561
+  - first:
+      213: -1391635546359690571
+    second: papers7_99x90_562
+  - first:
+      213: 2362433128929024427
+    second: papers7_99x90_563
+  - first:
+      213: 788635249251884895
+    second: papers7_99x90_564
+  - first:
+      213: 5422793904812820177
+    second: papers7_99x90_565
+  - first:
+      213: -6858662128667232778
+    second: papers7_99x90_566
+  - first:
+      213: 3898076768113919573
+    second: papers7_99x90_567
+  - first:
+      213: 2702162100623636556
+    second: papers7_99x90_568
+  - first:
+      213: -3695773561710858401
+    second: papers7_99x90_569
+  - first:
+      213: 4259338387876173233
+    second: papers7_99x90_570
+  - first:
+      213: -2788134309631647079
+    second: papers7_99x90_571
+  - first:
+      213: -5131145930198219945
+    second: papers7_99x90_572
+  - first:
+      213: 3668498612239276453
+    second: papers7_99x90_573
+  - first:
+      213: -7825558431647209606
+    second: papers7_99x90_574
+  - first:
+      213: 5336483233554312976
+    second: papers7_99x90_575
+  - first:
+      213: 7961225642690789466
+    second: papers7_99x90_576
+  - first:
+      213: 2267064790939398749
+    second: papers7_99x90_577
+  - first:
+      213: 4339443155349976000
+    second: papers7_99x90_578
+  - first:
+      213: 5083037364319737518
+    second: papers7_99x90_579
+  - first:
+      213: -955409165754856218
+    second: papers7_99x90_580
+  - first:
+      213: -5900733619868365266
+    second: papers7_99x90_581
+  - first:
+      213: -4225678526047895516
+    second: papers7_99x90_582
+  - first:
+      213: 1959445796872328607
+    second: papers7_99x90_583
+  - first:
+      213: 453632617970599477
+    second: papers7_99x90_584
+  - first:
+      213: 2826952112593266195
+    second: papers7_99x90_585
+  - first:
+      213: 1637492094403163260
+    second: papers7_99x90_586
+  - first:
+      213: -1874389618477855856
+    second: papers7_99x90_587
+  - first:
+      213: -6527357306184550538
+    second: papers7_99x90_588
+  - first:
+      213: -8259062248298886392
+    second: papers7_99x90_589
+  - first:
+      213: 7467283984351566253
+    second: papers7_99x90_590
+  - first:
+      213: 1084687302877674019
+    second: papers7_99x90_591
+  - first:
+      213: 4467714756061735354
+    second: papers7_99x90_592
+  - first:
+      213: 4371675524797966412
+    second: papers7_99x90_593
+  - first:
+      213: -5153640272364355417
+    second: papers7_99x90_594
+  - first:
+      213: -9191153181623543087
+    second: papers7_99x90_595
+  - first:
+      213: -1263210038042607240
+    second: papers7_99x90_596
+  - first:
+      213: -8303504303274586864
+    second: papers7_99x90_597
+  - first:
+      213: -3552061713860052288
+    second: papers7_99x90_598
+  - first:
+      213: -4151310567853755196
+    second: papers7_99x90_599
+  - first:
+      213: 123321055419258753
+    second: papers7_99x90_600
+  - first:
+      213: 7448055564598062919
+    second: papers7_99x90_601
+  - first:
+      213: 7832791515315951294
+    second: papers7_99x90_602
+  - first:
+      213: -5382969928431573453
+    second: papers7_99x90_603
+  - first:
+      213: 3373298524333295828
+    second: papers7_99x90_604
+  - first:
+      213: 7202852233841107937
+    second: papers7_99x90_605
+  - first:
+      213: -2702316017786367892
+    second: papers7_99x90_606
+  - first:
+      213: 6716455805405344428
+    second: papers7_99x90_607
+  - first:
+      213: 3571579720896295784
+    second: papers7_99x90_608
+  - first:
+      213: -2256271294475848802
+    second: papers7_99x90_609
+  - first:
+      213: 2517389448493950390
+    second: papers7_99x90_610
+  - first:
+      213: 359761294829711347
+    second: papers7_99x90_611
+  - first:
+      213: 5862046450508034280
+    second: papers7_99x90_612
+  - first:
+      213: -5014265068881038066
+    second: papers7_99x90_613
+  - first:
+      213: -6898873060878388784
+    second: papers7_99x90_614
+  - first:
+      213: 3091375630815652877
+    second: papers7_99x90_615
+  - first:
+      213: 5910188928345250068
+    second: papers7_99x90_616
+  - first:
+      213: 8215399619909265721
+    second: papers7_99x90_617
+  - first:
+      213: -6610689602671371428
+    second: papers7_99x90_618
+  - first:
+      213: -5524886566603589912
+    second: papers7_99x90_619
+  - first:
+      213: -4801900807287225423
+    second: papers7_99x90_620
+  - first:
+      213: -2923409104293903371
+    second: papers7_99x90_621
+  - first:
+      213: -1616637716472918198
+    second: papers7_99x90_622
+  - first:
+      213: -1734016359248285560
+    second: papers7_99x90_623
+  - first:
+      213: -3277419956788092111
+    second: papers7_99x90_624
+  - first:
+      213: -8091111153558568964
+    second: papers7_99x90_625
+  - first:
+      213: -1662973966434541356
+    second: papers7_99x90_626
+  - first:
+      213: -8507636080837661800
+    second: papers7_99x90_627
+  - first:
+      213: -6700297745778883533
+    second: papers7_99x90_628
+  - first:
+      213: -7053534233379019359
+    second: papers7_99x90_629
+  - first:
+      213: 1113105391898553206
+    second: papers7_99x90_630
+  - first:
+      213: -3056904671286068008
+    second: papers7_99x90_631
+  - first:
+      213: 4848743461883295147
+    second: papers7_99x90_632
+  - first:
+      213: 6526159526424749444
+    second: papers7_99x90_633
+  - first:
+      213: -735487178575961517
+    second: papers7_99x90_634
+  - first:
+      213: 6090544157767487052
+    second: papers7_99x90_635
+  - first:
+      213: -5783320862326363921
+    second: papers7_99x90_636
+  - first:
+      213: 1431265351547842932
+    second: papers7_99x90_637
+  - first:
+      213: -4799269989428704482
+    second: papers7_99x90_638
+  - first:
+      213: -1605164730618386129
+    second: papers7_99x90_639
+  - first:
+      213: 4482675428764550124
+    second: papers7_99x90_640
+  - first:
+      213: 6372128329164137853
+    second: papers7_99x90_641
+  - first:
+      213: -1989853559403429927
+    second: papers7_99x90_642
+  - first:
+      213: 5196741401053154958
+    second: papers7_99x90_643
+  - first:
+      213: 2767166509193052089
+    second: papers7_99x90_644
+  - first:
+      213: 2740829585157657475
+    second: papers7_99x90_645
+  - first:
+      213: 8593226816628313091
+    second: papers7_99x90_646
+  - first:
+      213: -2607781951568380153
+    second: papers7_99x90_647
+  - first:
+      213: -8958949126413237257
+    second: papers7_99x90_648
+  - first:
+      213: 7080109943342945214
+    second: papers7_99x90_649
+  - first:
+      213: 5083005772795847447
+    second: papers7_99x90_650
+  - first:
+      213: 4073130674106114442
+    second: papers7_99x90_651
+  - first:
+      213: -8144771834791847558
+    second: papers7_99x90_652
+  - first:
+      213: -6801537147154883689
+    second: papers7_99x90_653
+  - first:
+      213: -9061493287465607844
+    second: papers7_99x90_654
+  - first:
+      213: -4627799653092124462
+    second: papers7_99x90_655
+  - first:
+      213: -7968966731942289871
+    second: papers7_99x90_656
+  - first:
+      213: 1711119109790153160
+    second: papers7_99x90_657
+  - first:
+      213: -8927437781839304244
+    second: papers7_99x90_658
+  - first:
+      213: 5647854424131580660
+    second: papers7_99x90_659
+  - first:
+      213: -6600162306490624085
+    second: papers7_99x90_660
+  - first:
+      213: 1912425711146275082
+    second: papers7_99x90_661
+  - first:
+      213: -6265255602947184220
+    second: papers7_99x90_662
+  - first:
+      213: -4070547641924323396
+    second: papers7_99x90_663
+  - first:
+      213: -1430965489569290015
+    second: papers7_99x90_664
+  - first:
+      213: 5456373201902821693
+    second: papers7_99x90_665
+  - first:
+      213: -653653062388547151
+    second: papers7_99x90_666
+  - first:
+      213: 6917216826283930165
+    second: papers7_99x90_667
+  - first:
+      213: -6287310329084039718
+    second: papers7_99x90_668
+  - first:
+      213: -3163342969626587605
+    second: papers7_99x90_669
+  - first:
+      213: 460541477959785510
+    second: papers7_99x90_670
+  - first:
+      213: -3848239905770086085
+    second: papers7_99x90_671
+  - first:
+      213: -3819120803116822022
+    second: papers7_99x90_672
+  - first:
+      213: 998925806414177393
+    second: papers7_99x90_673
+  - first:
+      213: -4880255821912361581
+    second: papers7_99x90_674
+  - first:
+      213: -4709233530931652300
+    second: papers7_99x90_675
+  - first:
+      213: 4421412071748387634
+    second: papers7_99x90_676
+  - first:
+      213: -7329577470449141435
+    second: papers7_99x90_677
+  - first:
+      213: 6552077031261659630
+    second: papers7_99x90_678
+  - first:
+      213: 202664075275298321
+    second: papers7_99x90_679
+  - first:
+      213: -124621217333336989
+    second: papers7_99x90_680
+  - first:
+      213: 784312977740843612
+    second: papers7_99x90_681
+  - first:
+      213: -4648983814341818320
+    second: papers7_99x90_682
+  - first:
+      213: 2105163824567025458
+    second: papers7_99x90_683
+  - first:
+      213: -1575720659248632251
+    second: papers7_99x90_684
+  - first:
+      213: 2423057633085807078
+    second: papers7_99x90_685
+  - first:
+      213: -8818568956812007754
+    second: papers7_99x90_686
+  - first:
+      213: 8209886056752803462
+    second: papers7_99x90_687
+  - first:
+      213: -2313158345130955081
+    second: papers7_99x90_688
+  - first:
+      213: 9154905137871091343
+    second: papers7_99x90_689
+  - first:
+      213: -74565684196350473
+    second: papers7_99x90_690
+  - first:
+      213: -6983091685974307282
+    second: papers7_99x90_691
+  - first:
+      213: -1345177622826375339
+    second: papers7_99x90_692
+  - first:
+      213: 6171484014076705638
+    second: papers7_99x90_693
+  - first:
+      213: -6251792116404861714
+    second: papers7_99x90_694
+  - first:
+      213: 2125208304456414219
+    second: papers7_99x90_695
+  - first:
+      213: -7897881142038344420
+    second: papers7_99x90_696
+  - first:
+      213: -4208756156400872197
+    second: papers7_99x90_697
+  - first:
+      213: 1490274431319896260
+    second: papers7_99x90_698
+  - first:
+      213: -1155711283073200515
+    second: papers7_99x90_699
+  - first:
+      213: 5659308541895550461
+    second: papers7_99x90_700
+  - first:
+      213: 836686555697671461
+    second: papers7_99x90_701
+  - first:
+      213: 6571310535734987007
+    second: papers7_99x90_702
+  - first:
+      213: 1746979164842919500
+    second: papers7_99x90_703
+  - first:
+      213: -6486284637247028489
+    second: papers7_99x90_704
+  - first:
+      213: -3980021153044360831
+    second: papers7_99x90_705
+  - first:
+      213: -5833110780831718034
+    second: papers7_99x90_706
+  - first:
+      213: 4509740356744237459
+    second: papers7_99x90_707
+  - first:
+      213: -1654289942420515558
+    second: papers7_99x90_708
+  - first:
+      213: -2086770915144330943
+    second: papers7_99x90_709
+  - first:
+      213: 6792921584948217508
+    second: papers7_99x90_710
+  - first:
+      213: -512181349797276589
+    second: papers7_99x90_711
+  - first:
+      213: -6915496930245605755
+    second: papers7_99x90_712
+  - first:
+      213: 214125505617330975
+    second: papers7_99x90_713
+  - first:
+      213: 6315276592932981292
+    second: papers7_99x90_714
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: papers7_99x90_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfad7b142ac09ce80800000000000000
+      internalID: -8157975358978139395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911179d29df15150800000000000000
+      internalID: 5859743397340844438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a2936229ba581a0800000000000000
+      internalID: -6807846617505781244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff100de4dc2ea870800000000000000
+      internalID: 8695937223519903739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca2a15b4a8ff2040800000000000000
+      internalID: 4625188728629504710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3006039b8b2bc3560800000000000000
+      internalID: 7294902002884042755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_6
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c5ad764de820ee0800000000000000
+      internalID: -1296316699802706797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049967b55af191b0800000000000000
+      internalID: -5651460811316947963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_8
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b43f3409f8283e0800000000000000
+      internalID: -2052920630349444253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_9
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c652e865bc232bdc0800000000000000
+      internalID: -3624778901167921812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_10
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bfb34da80f68ff0800000000000000
+      internalID: -34075468101846263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_11
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb88f07ca47753080800000000000000
+      internalID: -9208322700038141761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_12
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6998a4083a8edd3b0800000000000000
+      internalID: -5485972982137714282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_13
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1877f96390aa260800000000000000
+      internalID: 7109505091966042611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_14
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1170
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2912d2d81ab8e6240800000000000000
+      internalID: 4786916979915956626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad29cb72ba09c310800000000000000
+      internalID: 1425682518736711073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa69ca72666e43d10800000000000000
+      internalID: 2104560252315539114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34819781c591ea4e0800000000000000
+      internalID: -1968608103776053181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f68272fa0043b30800000000000000
+      internalID: 4266035499302940480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e44a5dd4caee10800000000000000
+      internalID: 2227809420669413268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_20
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c3222acea9e3150800000000000000
+      internalID: 5854286906751335567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_21
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa78e34dfc9c4b3f0800000000000000
+      internalID: -885861332228864081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_22
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d588afab18794400800000000000000
+      internalID: 308910109758096852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_23
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a9a65ccc9ed7a40800000000000000
+      internalID: 5367703396590197260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_24
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03094b7785ddb4880800000000000000
+      internalID: -8625557289262870480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_25
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387fb2b2c1d206430800000000000000
+      internalID: 3774066086743111555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_26
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6647b68478e7300800000000000000
+      internalID: 251787374289512178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_27
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a3f98481c52c5d0800000000000000
+      internalID: -3043769138781668715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_28
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2802c4b3e8f9add0800000000000000
+      internalID: -2474172863389497299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_29
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1080
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd4e287166943f0800000000000000
+      internalID: -916088798026867456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9485daa2ef0ebcbc0800000000000000
+      internalID: -3761665681495599031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b8858f4616b4320800000000000000
+      internalID: 2543233500871953181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779ae9c335bfd6eb0800000000000000
+      internalID: -4724844099123893897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9474d4eeac0b7a0800000000000000
+      internalID: -6363363148626966098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad35623a3c713fa0800000000000000
+      internalID: -5822736253817897565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987c866670710360800000000000000
+      internalID: 7134106938560510111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_36
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d02420d951fece00800000000000000
+      internalID: 1067055529779798232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_37
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b8d26f31d341a50800000000000000
+      internalID: 6490880118891580287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_38
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a58eb9605f39470800000000000000
+      internalID: 8400327138710411820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_39
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9067ff3d3674524c0800000000000000
+      internalID: -4312962574053313015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_40
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f20e162b5feac720800000000000000
+      internalID: 2867367287535305459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_41
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0700262e181f55e0800000000000000
+      internalID: -1918788398468823285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_42
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c887ae70ba4ad670800000000000000
+      internalID: 8564239763298027713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_43
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b18a1db8b950500800000000000000
+      internalID: 361866369893407622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_44
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 990
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935443472e57369c0800000000000000
+      internalID: -3935172033919040199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d1dea7c91980c10800000000000000
+      internalID: 2020024534138953037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96f26c4af6676c40800000000000000
+      internalID: 5505482294693131932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6b4f0dc44016c50800000000000000
+      internalID: 6656606452200027845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95f6841ece4e9d60800000000000000
+      internalID: 7898837443469047198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_49
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcc9f2e25acfcc50800000000000000
+      internalID: 6687786429012626651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_50
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ceca1542843ed10800000000000000
+      internalID: 2153644367639538728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_51
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374d9058bfaba10f0800000000000000
+      internalID: -1145397565780798349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_52
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d1cb94768ed18c0800000000000000
+      internalID: -4026806961483014780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_53
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0906d05de6d6180800000000000000
+      internalID: -9120511809023864606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_54
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708367d1247524550800000000000000
+      internalID: 6143568783160522759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_55
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc896fe9b7aad0490800000000000000
+      internalID: -7778373533474318129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_56
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dbb0842b8847c00800000000000000
+      internalID: 897492525047856387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_57
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551e00a5a0a0b47c0800000000000000
+      internalID: -4086161197332635307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_58
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dc6a8d7167c95d0800000000000000
+      internalID: -3054436602472903404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_59
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 900
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56b273e3e38faeb0800000000000000
+      internalID: -4706398070782118310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e19e806962e5e00800000000000000
+      internalID: 1035307390178238105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e76f7688c807310800000000000000
+      internalID: 1400774001599872647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_62
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb95687ce02d2200800000000000000
+      internalID: 156817762032131001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aab281a87ba2290800000000000000
+      internalID: -7914311591411340694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_64
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2f2e009bf3a1a70800000000000000
+      internalID: 8798414885838058223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_65
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3555ebb0aeaeaa0800000000000000
+      internalID: -6130830606552706135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_66
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c29a393a9818eb0800000000000000
+      internalID: -4719339598857556857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_67
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679a8b356d5f4a930800000000000000
+      internalID: 4153715057218857334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_68
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2780584ecb47a80800000000000000
+      internalID: -8469937309506571539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_69
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcaf5c60737ffb70800000000000000
+      internalID: 8934987112418094259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_70
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f67e9c20fd226590800000000000000
+      internalID: -7682527504776661255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_71
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556886479c8ae9cc0800000000000000
+      internalID: -3702336260457068971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_72
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3074c99a88a9a8f90800000000000000
+      internalID: -6950573163141118205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_73
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174339a7f0721b400800000000000000
+      internalID: 338094394463958129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_74
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 810
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6516341765e8f70800000000000000
+      internalID: 9191378933971506852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0261ea17be1ae0800000000000000
+      internalID: -1576621493454762264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fb994796986a1e0800000000000000
+      internalID: -2186909483020992633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_77
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f7a400c704fc0a0800000000000000
+      internalID: -6859192806136971381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_78
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68699e9cd667e510800000000000000
+      internalID: 1578343292156340335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_79
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5ffb89fe59bf70800000000000000
+      internalID: 9203491739396954814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_80
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670cd7f80e3e11bd0800000000000000
+      internalID: -2661095351179689866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_81
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db98d75ca2a593370800000000000000
+      internalID: 8302766527782685117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_82
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed80f9521259d51c0800000000000000
+      internalID: -4513287281957730082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_83
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a7bec6aca20280800000000000000
+      internalID: -9078504066392807154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_84
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08691fa2e97187d0800000000000000
+      internalID: -2917917069052123122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_85
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2d37c68a44c3e50800000000000000
+      internalID: 6790377828332589816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_86
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f174f07741a082d0800000000000000
+      internalID: -3278443200515902990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_87
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd5665d4a2be930800000000000000
+      internalID: 4173475991339260706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_88
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c775116d8f4fd62e0800000000000000
+      internalID: -2130777699095849092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_89
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 720
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650b03d7943391750800000000000000
+      internalID: 6276103946443468886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77d5cb35dfeef880800000000000000
+      internalID: -8575152941356951684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf7266af204b230800000000000000
+      internalID: 3653548472183291001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_92
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ebeaea1a8651ed0800000000000000
+      internalID: -2443932179148915180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_93
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c263d07bdeb1b810800000000000000
+      internalID: 1779413177488073414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_94
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d2b241545460d10800000000000000
+      internalID: 2091435239953608017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_95
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a62c55d0409e810800000000000000
+      internalID: 1794970381803743780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_96
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec34405d855b7260800000000000000
+      internalID: 7096359703277747426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_97
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e88922de5940850800000000000000
+      internalID: 6342359020964711962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_98
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd97152944771e060800000000000000
+      internalID: 6980992033797274079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_99
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b9e8c5faa5e8d70800000000000000
+      internalID: 9047268410652531595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_100
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a5a6af037dab6f0800000000000000
+      internalID: -667984989351421282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_101
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1df3e5bba9c06f50800000000000000
+      internalID: 6872714770695585050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_102
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e99c24fc5bac0f0800000000000000
+      internalID: -1095863657527927200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_103
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dec90fd82953ca0800000000000000
+      internalID: -6037758587095421561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_104
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 630
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19d119c7e609fbe0800000000000000
+      internalID: -1443114613014931170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da92ac70b22570750800000000000000
+      internalID: 6271071350904465837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_106
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07d2cfe018dc10c0800000000000000
+      internalID: -4603567151825889522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_107
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c57cdc9dc1ea00800000000000000
+      internalID: 784133883736475389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_108
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efe54d9e1ae369f0800000000000000
+      internalID: -476279718362615835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_109
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8892fee71bccc0dc0800000000000000
+      internalID: -3671334533502916216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_110
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc998aef9cba05e0800000000000000
+      internalID: -1942532894236238667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_111
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96b4c552999662c0800000000000000
+      internalID: -4438691528943815010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_112
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ece522446d7faee0800000000000000
+      internalID: -1247640702198354711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_113
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5b136486f3c4540800000000000000
+      internalID: 4993435803933849080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_114
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f5fd63aa1d20150800000000000000
+      internalID: 5837458596020838187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_115
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a2f02bae939f780800000000000000
+      internalID: -8648817929215858026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_116
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625307601530b5430800000000000000
+      internalID: 3772612759388173606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_117
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed8086f9a4c23720800000000000000
+      internalID: 2824536150578859503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_118
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594723573a40f4650800000000000000
+      internalID: 6219194710514365589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_119
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 540
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55006064f37260b0800000000000000
+      internalID: -5736895481890470564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd46d6bb877ffaf0800000000000000
+      internalID: -360438003214692880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_121
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6b86fe8b9e0daa0800000000000000
+      internalID: -6138149311606114642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77be36141fa2b08b0800000000000000
+      internalID: -5185003330314441865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_123
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e081e3372312f9e0800000000000000
+      internalID: -1589186659413294877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_124
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f22d3bd40c9890800000000000000
+      internalID: -7450074343907593526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_125
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6663e5d80d74ef2a0800000000000000
+      internalID: -6701840234430187930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_126
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82a6da65f0b07fa0800000000000000
+      internalID: -5804945351574642036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_127
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5430616ec3304400800000000000000
+      internalID: 306301736151168090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_128
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92897f03b872282b0800000000000000
+      internalID: -5583857109210523607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_129
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d7f64a93853f960800000000000000
+      internalID: 7634542797918272864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_130
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30da7549f83982930800000000000000
+      internalID: 4118704104108698883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_131
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4fab2822f0f6790800000000000000
+      internalID: -7534787010670955332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_132
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3341b8ea276d40800000000000000
+      internalID: 5577473842416401608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_133
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3467f0d14626980800000000000000
+      internalID: -8547159066819542048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_134
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 450
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b85c6d9397869a70800000000000000
+      internalID: 8833396787204872373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc11eb75e4c11f60800000000000000
+      internalID: 8003394502718987453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_136
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958805ddb024c3a50800000000000000
+      internalID: 6502144580741269593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_137
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1815a31657903390800000000000000
+      internalID: -7840600555299465187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_138
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4298d082e7c361030800000000000000
+      internalID: 3465023475843696932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e31ce22cc19a7ac0800000000000000
+      internalID: -3856609824944155676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_140
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84298c6fbeb713e0800000000000000
+      internalID: -2082986573266606963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_141
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6367b015e6cdecc0800000000000000
+      internalID: -3680066633361562772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_142
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec40f1003720913a0800000000000000
+      internalID: -6694316678163004210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_143
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71260086118360620800000000000000
+      internalID: 2739939070711980567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_144
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f49d2cebab65780800000000000000
+      internalID: -8694556702116589708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_145
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f7fc88ffe205880800000000000000
+      internalID: -8624341611367661812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_146
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ef95ef7c784fbf0800000000000000
+      internalID: -291458782836687308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_147
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 360
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c24ab89c99ca2aa0800000000000000
+      internalID: -6184909463825530169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88d5a28210f2b4f0800000000000000
+      internalID: -814324620308653939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_149
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 270
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cddee2c9a04d290800000000000000
+      internalID: -7866650983190897597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_150
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 270
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62be4e2d1cfadf050800000000000000
+      internalID: 5836013939143797542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_151
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 270
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038e89aae17f10d0800000000000000
+      internalID: -3449913536861535476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_152
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 270
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f313e8fc3bab84480800000000000000
+      internalID: -8914670180935782081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_153
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 180
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ae59cce919574b0800000000000000
+      internalID: -5443284463384139168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_154
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 180
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67141a36d71db91f0800000000000000
+      internalID: -1037004952706137738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papers7_99x90_155
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 180
+        width: 99
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71e9c70a0c0ec5c0800000000000000
+      internalID: -4193400965815475844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5c0579c30a6b0042b865b14f91025a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      papers7_99x90_0: -8157975358978139395
+      papers7_99x90_1: 5859743397340844438
+      papers7_99x90_10: -34075468101846263
+      papers7_99x90_100: -667984989351421282
+      papers7_99x90_101: 6872714770695585050
+      papers7_99x90_102: -1095863657527927200
+      papers7_99x90_103: -6037758587095421561
+      papers7_99x90_104: -1443114613014931170
+      papers7_99x90_105: 6271071350904465837
+      papers7_99x90_106: -4603567151825889522
+      papers7_99x90_107: 784133883736475389
+      papers7_99x90_108: -476279718362615835
+      papers7_99x90_109: -3671334533502916216
+      papers7_99x90_11: -9208322700038141761
+      papers7_99x90_110: -1942532894236238667
+      papers7_99x90_111: -4438691528943815010
+      papers7_99x90_112: -1247640702198354711
+      papers7_99x90_113: 4993435803933849080
+      papers7_99x90_114: 5837458596020838187
+      papers7_99x90_115: -8648817929215858026
+      papers7_99x90_116: 3772612759388173606
+      papers7_99x90_117: 2824536150578859503
+      papers7_99x90_118: 6219194710514365589
+      papers7_99x90_119: -5736895481890470564
+      papers7_99x90_12: -5485972982137714282
+      papers7_99x90_120: -360438003214692880
+      papers7_99x90_121: -6138149311606114642
+      papers7_99x90_122: -5185003330314441865
+      papers7_99x90_123: -1589186659413294877
+      papers7_99x90_124: -7450074343907593526
+      papers7_99x90_125: -6701840234430187930
+      papers7_99x90_126: -5804945351574642036
+      papers7_99x90_127: 306301736151168090
+      papers7_99x90_128: -5583857109210523607
+      papers7_99x90_129: 7634542797918272864
+      papers7_99x90_13: 7109505091966042611
+      papers7_99x90_130: 4118704104108698883
+      papers7_99x90_131: -7534787010670955332
+      papers7_99x90_132: 5577473842416401608
+      papers7_99x90_133: -8547159066819542048
+      papers7_99x90_134: 8833396787204872373
+      papers7_99x90_135: 8003394502718987453
+      papers7_99x90_136: 6502144580741269593
+      papers7_99x90_137: -7840600555299465187
+      papers7_99x90_138: 3465023475843696932
+      papers7_99x90_139: -3856609824944155676
+      papers7_99x90_14: 4786916979915956626
+      papers7_99x90_140: -2082986573266606963
+      papers7_99x90_141: -3680066633361562772
+      papers7_99x90_142: -6694316678163004210
+      papers7_99x90_143: 2739939070711980567
+      papers7_99x90_144: -8694556702116589708
+      papers7_99x90_145: -8624341611367661812
+      papers7_99x90_146: -291458782836687308
+      papers7_99x90_147: -6184909463825530169
+      papers7_99x90_148: -814324620308653939
+      papers7_99x90_149: -7866650983190897597
+      papers7_99x90_15: 1425682518736711073
+      papers7_99x90_150: 5836013939143797542
+      papers7_99x90_151: -3449913536861535476
+      papers7_99x90_152: -8914670180935782081
+      papers7_99x90_153: -5443284463384139168
+      papers7_99x90_154: -1037004952706137738
+      papers7_99x90_155: -4193400965815475844
+      papers7_99x90_16: 2104560252315539114
+      papers7_99x90_17: -1968608103776053181
+      papers7_99x90_18: 4266035499302940480
+      papers7_99x90_19: 2227809420669413268
+      papers7_99x90_2: -6807846617505781244
+      papers7_99x90_20: 5854286906751335567
+      papers7_99x90_21: -885861332228864081
+      papers7_99x90_22: 308910109758096852
+      papers7_99x90_23: 5367703396590197260
+      papers7_99x90_24: -8625557289262870480
+      papers7_99x90_25: 3774066086743111555
+      papers7_99x90_26: 251787374289512178
+      papers7_99x90_27: -3043769138781668715
+      papers7_99x90_28: -2474172863389497299
+      papers7_99x90_29: -916088798026867456
+      papers7_99x90_3: 8695937223519903739
+      papers7_99x90_30: -3761665681495599031
+      papers7_99x90_31: 2543233500871953181
+      papers7_99x90_32: -4724844099123893897
+      papers7_99x90_33: -6363363148626966098
+      papers7_99x90_34: -5822736253817897565
+      papers7_99x90_35: 7134106938560510111
+      papers7_99x90_36: 1067055529779798232
+      papers7_99x90_37: 6490880118891580287
+      papers7_99x90_38: 8400327138710411820
+      papers7_99x90_39: -4312962574053313015
+      papers7_99x90_4: 4625188728629504710
+      papers7_99x90_40: 2867367287535305459
+      papers7_99x90_41: -1918788398468823285
+      papers7_99x90_42: 8564239763298027713
+      papers7_99x90_43: 361866369893407622
+      papers7_99x90_44: -3935172033919040199
+      papers7_99x90_45: 2020024534138953037
+      papers7_99x90_46: 5505482294693131932
+      papers7_99x90_47: 6656606452200027845
+      papers7_99x90_48: 7898837443469047198
+      papers7_99x90_49: 6687786429012626651
+      papers7_99x90_5: 7294902002884042755
+      papers7_99x90_50: 2153644367639538728
+      papers7_99x90_51: -1145397565780798349
+      papers7_99x90_52: -4026806961483014780
+      papers7_99x90_53: -9120511809023864606
+      papers7_99x90_54: 6143568783160522759
+      papers7_99x90_55: -7778373533474318129
+      papers7_99x90_56: 897492525047856387
+      papers7_99x90_57: -4086161197332635307
+      papers7_99x90_58: -3054436602472903404
+      papers7_99x90_59: -4706398070782118310
+      papers7_99x90_6: -1296316699802706797
+      papers7_99x90_60: 1035307390178238105
+      papers7_99x90_61: 1400774001599872647
+      papers7_99x90_62: 156817762032131001
+      papers7_99x90_63: -7914311591411340694
+      papers7_99x90_64: 8798414885838058223
+      papers7_99x90_65: -6130830606552706135
+      papers7_99x90_66: -4719339598857556857
+      papers7_99x90_67: 4153715057218857334
+      papers7_99x90_68: -8469937309506571539
+      papers7_99x90_69: 8934987112418094259
+      papers7_99x90_7: -5651460811316947963
+      papers7_99x90_70: -7682527504776661255
+      papers7_99x90_71: -3702336260457068971
+      papers7_99x90_72: -6950573163141118205
+      papers7_99x90_73: 338094394463958129
+      papers7_99x90_74: 9191378933971506852
+      papers7_99x90_75: -1576621493454762264
+      papers7_99x90_76: -2186909483020992633
+      papers7_99x90_77: -6859192806136971381
+      papers7_99x90_78: 1578343292156340335
+      papers7_99x90_79: 9203491739396954814
+      papers7_99x90_8: -2052920630349444253
+      papers7_99x90_80: -2661095351179689866
+      papers7_99x90_81: 8302766527782685117
+      papers7_99x90_82: -4513287281957730082
+      papers7_99x90_83: -9078504066392807154
+      papers7_99x90_84: -2917917069052123122
+      papers7_99x90_85: 6790377828332589816
+      papers7_99x90_86: -3278443200515902990
+      papers7_99x90_87: 4173475991339260706
+      papers7_99x90_88: -2130777699095849092
+      papers7_99x90_89: 6276103946443468886
+      papers7_99x90_9: -3624778901167921812
+      papers7_99x90_90: -8575152941356951684
+      papers7_99x90_91: 3653548472183291001
+      papers7_99x90_92: -2443932179148915180
+      papers7_99x90_93: 1779413177488073414
+      papers7_99x90_94: 2091435239953608017
+      papers7_99x90_95: 1794970381803743780
+      papers7_99x90_96: 7096359703277747426
+      papers7_99x90_97: 6342359020964711962
+      papers7_99x90_98: 6980992033797274079
+      papers7_99x90_99: 9047268410652531595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

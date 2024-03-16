@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: f8fd538de059f9945b37ce7d47729ab8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 695845433042938322
+    second: jerry_glow_176x168_0
+  - first:
+      213: 4381688843787055250
+    second: jerry_glow_176x168_1
+  - first:
+      213: 8906349475359149872
+    second: jerry_glow_176x168_2
+  - first:
+      213: 7506543717918977782
+    second: jerry_glow_176x168_3
+  - first:
+      213: -6523622890549318736
+    second: jerry_glow_176x168_4
+  - first:
+      213: 4183667479908998857
+    second: jerry_glow_176x168_5
+  - first:
+      213: 737891235968410064
+    second: jerry_glow_176x168_6
+  - first:
+      213: 8866111994389352638
+    second: jerry_glow_176x168_7
+  - first:
+      213: 325431054229955382
+    second: jerry_glow_176x168_8
+  - first:
+      213: -8846452914025647891
+    second: jerry_glow_176x168_9
+  - first:
+      213: -7466747006408306834
+    second: jerry_glow_176x168_10
+  - first:
+      213: 2545155636015577414
+    second: jerry_glow_176x168_11
+  - first:
+      213: -2772894389504289202
+    second: jerry_glow_176x168_12
+  - first:
+      213: 4562283055563837494
+    second: jerry_glow_176x168_13
+  - first:
+      213: 6997213815513710681
+    second: jerry_glow_176x168_14
+  - first:
+      213: 5890791570269233377
+    second: jerry_glow_176x168_15
+  - first:
+      213: -6150444838473328265
+    second: jerry_glow_176x168_16
+  - first:
+      213: 1956844756189199035
+    second: jerry_glow_176x168_17
+  - first:
+      213: -8901282579160922475
+    second: jerry_glow_176x168_18
+  - first:
+      213: 6013014492222124552
+    second: jerry_glow_176x168_19
+  - first:
+      213: 4893783341373942480
+    second: jerry_glow_176x168_20
+  - first:
+      213: 81618049177958494
+    second: jerry_glow_176x168_21
+  - first:
+      213: 2220151394137100480
+    second: jerry_glow_176x168_22
+  - first:
+      213: 6693173485783328107
+    second: jerry_glow_176x168_23
+  - first:
+      213: -2482410357338986739
+    second: jerry_glow_176x168_24
+  - first:
+      213: 5667365783015659899
+    second: jerry_glow_176x168_25
+  - first:
+      213: -3635752350700003919
+    second: jerry_glow_176x168_26
+  - first:
+      213: 6430824274450378269
+    second: jerry_glow_176x168_27
+  - first:
+      213: -5867388381495135080
+    second: jerry_glow_176x168_28
+  - first:
+      213: 2339426994128635526
+    second: jerry_glow_176x168_29
+  - first:
+      213: 4629710758649001075
+    second: jerry_glow_176x168_30
+  - first:
+      213: 947482889751865829
+    second: jerry_glow_176x168_31
+  - first:
+      213: -6971273833535921244
+    second: jerry_glow_176x168_32
+  - first:
+      213: -5605778061771732413
+    second: jerry_glow_176x168_33
+  - first:
+      213: -6169516840046809181
+    second: jerry_glow_176x168_34
+  - first:
+      213: -4964520301007866290
+    second: jerry_glow_176x168_35
+  - first:
+      213: -906283916251736714
+    second: jerry_glow_176x168_36
+  - first:
+      213: -5931945073822668680
+    second: jerry_glow_176x168_37
+  - first:
+      213: -3244380880094770783
+    second: jerry_glow_176x168_38
+  - first:
+      213: -2392331616324424515
+    second: jerry_glow_176x168_39
+  - first:
+      213: -7671595106969121542
+    second: jerry_glow_176x168_40
+  - first:
+      213: 8302230859932625804
+    second: jerry_glow_176x168_41
+  - first:
+      213: -279583991484660389
+    second: jerry_glow_176x168_42
+  - first:
+      213: -8546865965607050654
+    second: jerry_glow_176x168_43
+  - first:
+      213: -6790989290032298625
+    second: jerry_glow_176x168_44
+  - first:
+      213: 4044297806436794691
+    second: jerry_glow_176x168_45
+  - first:
+      213: -6662597238208828002
+    second: jerry_glow_176x168_46
+  - first:
+      213: 3258787697756767094
+    second: jerry_glow_176x168_47
+  - first:
+      213: 6141555704337234536
+    second: jerry_glow_176x168_48
+  - first:
+      213: 5542234496664396346
+    second: jerry_glow_176x168_49
+  - first:
+      213: -4870080156805876322
+    second: jerry_glow_176x168_50
+  - first:
+      213: 4796552205395624785
+    second: jerry_glow_176x168_51
+  - first:
+      213: 3186447559823486083
+    second: jerry_glow_176x168_52
+  - first:
+      213: -2350414358469293465
+    second: jerry_glow_176x168_53
+  - first:
+      213: -1080853334711710783
+    second: jerry_glow_176x168_54
+  - first:
+      213: 5154281400567321325
+    second: jerry_glow_176x168_55
+  - first:
+      213: -2385810702603801812
+    second: jerry_glow_176x168_56
+  - first:
+      213: 4812087149519299919
+    second: jerry_glow_176x168_57
+  - first:
+      213: -7998018033837868222
+    second: jerry_glow_176x168_58
+  - first:
+      213: -3036774159290304551
+    second: jerry_glow_176x168_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jerry_glow_176x168_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d92a1f0cb328a900800000000000000
+      internalID: 695845433042938322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290383ac9c2eecc30800000000000000
+      internalID: 4381688843787055250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fc444f8a5b99b70800000000000000
+      internalID: 8906349475359149872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe20857db99c2860800000000000000
+      internalID: 7506543717918977782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb63307b8f6775a0800000000000000
+      internalID: -6523622890549318736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce545e286f5f0a30800000000000000
+      internalID: 4183667479908998857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_6
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d165ca6b248d3a00800000000000000
+      internalID: 737891235968410064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_7
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0586c52e1ca0b70800000000000000
+      internalID: 8866111994389352638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_8
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1008
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633e142d1d9248400800000000000000
+      internalID: 325431054229955382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de03849f1f51b3580800000000000000
+      internalID: -8846452914025647891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f425f7829c06890800000000000000
+      internalID: -7466747006408306834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649bacee095325320800000000000000
+      internalID: 2545155636015577414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e465ce18e33b489d0800000000000000
+      internalID: -2772894389504289202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_13
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6309aab544c705f30800000000000000
+      internalID: 4562283055563837494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950862374e81b1160800000000000000
+      internalID: 6997213815513710681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e063cfe8bb40c150800000000000000
+      internalID: 5890791570269233377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_16
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7799920810b35aaa0800000000000000
+      internalID: -6150444838473328265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_17
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 840
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba3e3d10fb182b10800000000000000
+      internalID: 1956844756189199035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5968dbfb7aa487480800000000000000
+      internalID: -8901282579160922475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802fc2682d4827350800000000000000
+      internalID: 6013014492222124552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da615645063ae340800000000000000
+      internalID: 4893783341373942480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58338cee27f12100800000000000000
+      internalID: 81618049177958494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0512b1eef8fce10800000000000000
+      internalID: 2220151394137100480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ad28c2dde2ec50800000000000000
+      internalID: 6693173485783328107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_24
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d072f00bee4bc8dd0800000000000000
+      internalID: -2482410357338986739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_25
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b791ad4172786ae40800000000000000
+      internalID: 5667365783015659899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 672
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd1c3500863b8dc0800000000000000
+      internalID: -3635752350700003919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee29b0b90ee3950800000000000000
+      internalID: 6430824274450378269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8947ab19a59d29ea0800000000000000
+      internalID: -5867388381495135080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_29
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6864ff2d470577020800000000000000
+      internalID: 2339426994128635526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374f31ed769004040800000000000000
+      internalID: 4629710758649001075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_31
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9ab621ba2262d00800000000000000
+      internalID: 947482889751865829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_32
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3ad10426f014f90800000000000000
+      internalID: -6971273833535921244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_33
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a0b62bd864432b0800000000000000
+      internalID: -5605778061771732413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_34
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af28391f19716aa0800000000000000
+      internalID: -6169516840046809181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_35
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 504
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46f532e61b7a1bb0800000000000000
+      internalID: -4964520301007866290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6755a22749b3c63f0800000000000000
+      internalID: -906283916251736714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878eba7526f7dada0800000000000000
+      internalID: -5931945073822668680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9c1ed67c4a9f2d0800000000000000
+      internalID: -3244380880094770783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbceb00f11bbcced0800000000000000
+      internalID: -2392331616324424515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc0b7465e4098590800000000000000
+      internalID: -7671595106969121542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_41
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8be191eaf2773370800000000000000
+      internalID: 8302230859932625804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_42
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55cbae47d7be1cf0800000000000000
+      internalID: -279583991484660389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_43
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262ad1100be636980800000000000000
+      internalID: -8546865965607050654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_44
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 336
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75842e883f81c1a0800000000000000
+      internalID: -6790989290032298625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3418e866d6b302830800000000000000
+      internalID: 4044297806436794691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_46
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d601f9c13b983a0800000000000000
+      internalID: -6662597238208828002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6738433352a893d20800000000000000
+      internalID: 3258787697756767094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_48
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a7b4daf503b3550800000000000000
+      internalID: 6141555704337234536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_49
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32e89329e8f9ec40800000000000000
+      internalID: 5542234496664396346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_50
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9538e176eff96cb0800000000000000
+      internalID: -4870080156805876322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_51
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153093d41d6c09240800000000000000
+      internalID: 4796552205395624785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_52
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c60b25c29883c20800000000000000
+      internalID: 3186447559823486083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_53
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 168
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ac5701896a16fd0800000000000000
+      internalID: -2350414358469293465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb46326e990001f0800000000000000
+      internalID: -1080853334711710783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2d73110afa78740800000000000000
+      internalID: 5154281400567321325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_56
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ba9f97ec5e3eed0800000000000000
+      internalID: -2385810702603801812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_57
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45e15754c7f7c240800000000000000
+      internalID: 4812087149519299919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_58
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bfce939f4510190800000000000000
+      internalID: -7998018033837868222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_glow_176x168_59
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 176
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d77a6cddf53bd5d0800000000000000
+      internalID: -3036774159290304551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e4816a04159965643ab089919b00714f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jerry_glow_176x168_0: 695845433042938322
+      jerry_glow_176x168_1: 4381688843787055250
+      jerry_glow_176x168_10: -7466747006408306834
+      jerry_glow_176x168_11: 2545155636015577414
+      jerry_glow_176x168_12: -2772894389504289202
+      jerry_glow_176x168_13: 4562283055563837494
+      jerry_glow_176x168_14: 6997213815513710681
+      jerry_glow_176x168_15: 5890791570269233377
+      jerry_glow_176x168_16: -6150444838473328265
+      jerry_glow_176x168_17: 1956844756189199035
+      jerry_glow_176x168_18: -8901282579160922475
+      jerry_glow_176x168_19: 6013014492222124552
+      jerry_glow_176x168_2: 8906349475359149872
+      jerry_glow_176x168_20: 4893783341373942480
+      jerry_glow_176x168_21: 81618049177958494
+      jerry_glow_176x168_22: 2220151394137100480
+      jerry_glow_176x168_23: 6693173485783328107
+      jerry_glow_176x168_24: -2482410357338986739
+      jerry_glow_176x168_25: 5667365783015659899
+      jerry_glow_176x168_26: -3635752350700003919
+      jerry_glow_176x168_27: 6430824274450378269
+      jerry_glow_176x168_28: -5867388381495135080
+      jerry_glow_176x168_29: 2339426994128635526
+      jerry_glow_176x168_3: 7506543717918977782
+      jerry_glow_176x168_30: 4629710758649001075
+      jerry_glow_176x168_31: 947482889751865829
+      jerry_glow_176x168_32: -6971273833535921244
+      jerry_glow_176x168_33: -5605778061771732413
+      jerry_glow_176x168_34: -6169516840046809181
+      jerry_glow_176x168_35: -4964520301007866290
+      jerry_glow_176x168_36: -906283916251736714
+      jerry_glow_176x168_37: -5931945073822668680
+      jerry_glow_176x168_38: -3244380880094770783
+      jerry_glow_176x168_39: -2392331616324424515
+      jerry_glow_176x168_4: -6523622890549318736
+      jerry_glow_176x168_40: -7671595106969121542
+      jerry_glow_176x168_41: 8302230859932625804
+      jerry_glow_176x168_42: -279583991484660389
+      jerry_glow_176x168_43: -8546865965607050654
+      jerry_glow_176x168_44: -6790989290032298625
+      jerry_glow_176x168_45: 4044297806436794691
+      jerry_glow_176x168_46: -6662597238208828002
+      jerry_glow_176x168_47: 3258787697756767094
+      jerry_glow_176x168_48: 6141555704337234536
+      jerry_glow_176x168_49: 5542234496664396346
+      jerry_glow_176x168_5: 4183667479908998857
+      jerry_glow_176x168_50: -4870080156805876322
+      jerry_glow_176x168_51: 4796552205395624785
+      jerry_glow_176x168_52: 3186447559823486083
+      jerry_glow_176x168_53: -2350414358469293465
+      jerry_glow_176x168_54: -1080853334711710783
+      jerry_glow_176x168_55: 5154281400567321325
+      jerry_glow_176x168_56: -2385810702603801812
+      jerry_glow_176x168_57: 4812087149519299919
+      jerry_glow_176x168_58: -7998018033837868222
+      jerry_glow_176x168_59: -3036774159290304551
+      jerry_glow_176x168_6: 737891235968410064
+      jerry_glow_176x168_7: 8866111994389352638
+      jerry_glow_176x168_8: 325431054229955382
+      jerry_glow_176x168_9: -8846452914025647891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

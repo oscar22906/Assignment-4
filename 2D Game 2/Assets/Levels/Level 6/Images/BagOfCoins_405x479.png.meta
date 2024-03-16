@@ -1,0 +1,3212 @@
+fileFormatVersion: 2
+guid: 0559cb65bb05ca846bd843cb24e2519a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6041854836196521323
+    second: BagOfCoins_405x479_0
+  - first:
+      213: 5442526528529524523
+    second: BagOfCoins_405x479_1
+  - first:
+      213: -3446889194912595096
+    second: BagOfCoins_405x479_2
+  - first:
+      213: 2663840084753415955
+    second: BagOfCoins_405x479_3
+  - first:
+      213: -5541387241183649236
+    second: BagOfCoins_405x479_4
+  - first:
+      213: -4719147744805857052
+    second: BagOfCoins_405x479_5
+  - first:
+      213: -4383973806786204535
+    second: BagOfCoins_405x479_6
+  - first:
+      213: -6955146909559441578
+    second: BagOfCoins_405x479_7
+  - first:
+      213: -3188067398913463841
+    second: BagOfCoins_405x479_8
+  - first:
+      213: 4103270548278897162
+    second: BagOfCoins_405x479_9
+  - first:
+      213: 5881585394035752167
+    second: BagOfCoins_405x479_10
+  - first:
+      213: -4765888688848002213
+    second: BagOfCoins_405x479_11
+  - first:
+      213: 6491093159002516704
+    second: BagOfCoins_405x479_12
+  - first:
+      213: 6068739115291482133
+    second: BagOfCoins_405x479_13
+  - first:
+      213: 6864189952248896554
+    second: BagOfCoins_405x479_14
+  - first:
+      213: -8247124103487185899
+    second: BagOfCoins_405x479_15
+  - first:
+      213: -737952636971588647
+    second: BagOfCoins_405x479_16
+  - first:
+      213: -2814285319118457603
+    second: BagOfCoins_405x479_17
+  - first:
+      213: -1566086641011960004
+    second: BagOfCoins_405x479_18
+  - first:
+      213: 8308146431530904214
+    second: BagOfCoins_405x479_19
+  - first:
+      213: 8779354350321360858
+    second: BagOfCoins_405x479_20
+  - first:
+      213: -7015762008919474190
+    second: BagOfCoins_405x479_21
+  - first:
+      213: -5434538417214685193
+    second: BagOfCoins_405x479_22
+  - first:
+      213: -881183521683132615
+    second: BagOfCoins_405x479_23
+  - first:
+      213: -245071134992459514
+    second: BagOfCoins_405x479_24
+  - first:
+      213: -6335906092169590958
+    second: BagOfCoins_405x479_25
+  - first:
+      213: 8830086491719116667
+    second: BagOfCoins_405x479_26
+  - first:
+      213: 1877281586065231394
+    second: BagOfCoins_405x479_27
+  - first:
+      213: 4419489228493888613
+    second: BagOfCoins_405x479_28
+  - first:
+      213: 4660535233092089811
+    second: BagOfCoins_405x479_29
+  - first:
+      213: -7696921362412541169
+    second: BagOfCoins_405x479_30
+  - first:
+      213: -2414075253443829030
+    second: BagOfCoins_405x479_31
+  - first:
+      213: -2760632683279804076
+    second: BagOfCoins_405x479_32
+  - first:
+      213: -6933793577089680640
+    second: BagOfCoins_405x479_33
+  - first:
+      213: 1315291710078154975
+    second: BagOfCoins_405x479_34
+  - first:
+      213: 1304749211260947178
+    second: BagOfCoins_405x479_35
+  - first:
+      213: -3780382448995006990
+    second: BagOfCoins_405x479_36
+  - first:
+      213: 832485785272595402
+    second: BagOfCoins_405x479_37
+  - first:
+      213: -21530474939566288
+    second: BagOfCoins_405x479_38
+  - first:
+      213: 3636407776423876736
+    second: BagOfCoins_405x479_39
+  - first:
+      213: -6725961520855079600
+    second: BagOfCoins_405x479_40
+  - first:
+      213: -3248639533511710899
+    second: BagOfCoins_405x479_41
+  - first:
+      213: 6216762171045978374
+    second: BagOfCoins_405x479_42
+  - first:
+      213: 4088448499208756544
+    second: BagOfCoins_405x479_43
+  - first:
+      213: 1980024947253611636
+    second: BagOfCoins_405x479_44
+  - first:
+      213: 1875338850659074505
+    second: BagOfCoins_405x479_45
+  - first:
+      213: 3729133357359653349
+    second: BagOfCoins_405x479_46
+  - first:
+      213: 3289694518710394964
+    second: BagOfCoins_405x479_47
+  - first:
+      213: -8057714652791485717
+    second: BagOfCoins_405x479_48
+  - first:
+      213: -4435159399174923980
+    second: BagOfCoins_405x479_49
+  - first:
+      213: -4560063345872173036
+    second: BagOfCoins_405x479_50
+  - first:
+      213: 2875843660822937924
+    second: BagOfCoins_405x479_51
+  - first:
+      213: 3627521343378574784
+    second: BagOfCoins_405x479_52
+  - first:
+      213: -1078323476433771324
+    second: BagOfCoins_405x479_53
+  - first:
+      213: -3805523522685698691
+    second: BagOfCoins_405x479_54
+  - first:
+      213: 7144405008856534804
+    second: BagOfCoins_405x479_55
+  - first:
+      213: -1001863651559017057
+    second: BagOfCoins_405x479_56
+  - first:
+      213: -4741713860873338990
+    second: BagOfCoins_405x479_57
+  - first:
+      213: 3691019921884544542
+    second: BagOfCoins_405x479_58
+  - first:
+      213: -4892176303859193059
+    second: BagOfCoins_405x479_59
+  - first:
+      213: -2020809686815754918
+    second: BagOfCoins_405x479_60
+  - first:
+      213: -8180795830501037518
+    second: BagOfCoins_405x479_61
+  - first:
+      213: 2466740925445876564
+    second: BagOfCoins_405x479_62
+  - first:
+      213: 6782941428199077481
+    second: BagOfCoins_405x479_63
+  - first:
+      213: 7062764981192662113
+    second: BagOfCoins_405x479_64
+  - first:
+      213: -1223381123232909481
+    second: BagOfCoins_405x479_65
+  - first:
+      213: -6409803858112275687
+    second: BagOfCoins_405x479_66
+  - first:
+      213: 7186746300733215436
+    second: BagOfCoins_405x479_67
+  - first:
+      213: -8926048089775070898
+    second: BagOfCoins_405x479_68
+  - first:
+      213: 3714788085459200591
+    second: BagOfCoins_405x479_69
+  - first:
+      213: -5175479378519344405
+    second: BagOfCoins_405x479_70
+  - first:
+      213: -4287211259036220140
+    second: BagOfCoins_405x479_71
+  - first:
+      213: -6059654459051283398
+    second: BagOfCoins_405x479_72
+  - first:
+      213: -4738958317728493507
+    second: BagOfCoins_405x479_73
+  - first:
+      213: -3836326227019140111
+    second: BagOfCoins_405x479_74
+  - first:
+      213: -8959057851044796723
+    second: BagOfCoins_405x479_75
+  - first:
+      213: 9094186269795506554
+    second: BagOfCoins_405x479_76
+  - first:
+      213: -1339644961162949968
+    second: BagOfCoins_405x479_77
+  - first:
+      213: -7312176164622443680
+    second: BagOfCoins_405x479_78
+  - first:
+      213: -3198550348894518327
+    second: BagOfCoins_405x479_79
+  - first:
+      213: -946557552407619877
+    second: BagOfCoins_405x479_80
+  - first:
+      213: -6132093382470089765
+    second: BagOfCoins_405x479_81
+  - first:
+      213: 4825579619319755538
+    second: BagOfCoins_405x479_82
+  - first:
+      213: 603230191478076071
+    second: BagOfCoins_405x479_83
+  - first:
+      213: 6638743752358887790
+    second: BagOfCoins_405x479_84
+  - first:
+      213: 8600122036525517682
+    second: BagOfCoins_405x479_85
+  - first:
+      213: 463684496676574115
+    second: BagOfCoins_405x479_86
+  - first:
+      213: -6893281116220680520
+    second: BagOfCoins_405x479_87
+  - first:
+      213: -386688592764429719
+    second: BagOfCoins_405x479_88
+  - first:
+      213: -2350082251902045546
+    second: BagOfCoins_405x479_89
+  - first:
+      213: -5385783940509653447
+    second: BagOfCoins_405x479_90
+  - first:
+      213: -1657841619461888663
+    second: BagOfCoins_405x479_91
+  - first:
+      213: 7044760541754466644
+    second: BagOfCoins_405x479_92
+  - first:
+      213: -6421811463991946237
+    second: BagOfCoins_405x479_93
+  - first:
+      213: -6454931861518678719
+    second: BagOfCoins_405x479_94
+  - first:
+      213: -1008708182855417698
+    second: BagOfCoins_405x479_95
+  - first:
+      213: -2515909862454660019
+    second: BagOfCoins_405x479_96
+  - first:
+      213: -8103818457569379247
+    second: BagOfCoins_405x479_97
+  - first:
+      213: 6088075952770648386
+    second: BagOfCoins_405x479_98
+  - first:
+      213: 5159924862516248309
+    second: BagOfCoins_405x479_99
+  - first:
+      213: -5548267021808981651
+    second: BagOfCoins_405x479_100
+  - first:
+      213: -4459032576625853537
+    second: BagOfCoins_405x479_101
+  - first:
+      213: -6179066897078626165
+    second: BagOfCoins_405x479_102
+  - first:
+      213: 7412223394998307702
+    second: BagOfCoins_405x479_103
+  - first:
+      213: -8741715917978198008
+    second: BagOfCoins_405x479_104
+  - first:
+      213: -5906081751229931077
+    second: BagOfCoins_405x479_105
+  - first:
+      213: -861668979125675831
+    second: BagOfCoins_405x479_106
+  - first:
+      213: 3818379372357556184
+    second: BagOfCoins_405x479_107
+  - first:
+      213: -4875646413899974383
+    second: BagOfCoins_405x479_108
+  - first:
+      213: 8659293598439426974
+    second: BagOfCoins_405x479_109
+  - first:
+      213: -5413174027648974743
+    second: BagOfCoins_405x479_110
+  - first:
+      213: -8886340200613637258
+    second: BagOfCoins_405x479_111
+  - first:
+      213: -4354820705971257969
+    second: BagOfCoins_405x479_112
+  - first:
+      213: -8125949115186586720
+    second: BagOfCoins_405x479_113
+  - first:
+      213: -5905091353578287201
+    second: BagOfCoins_405x479_114
+  - first:
+      213: -8341751875989863425
+    second: BagOfCoins_405x479_115
+  - first:
+      213: 8589232107319352805
+    second: BagOfCoins_405x479_116
+  - first:
+      213: 5066009094091672941
+    second: BagOfCoins_405x479_117
+  - first:
+      213: -5182957174767149528
+    second: BagOfCoins_405x479_118
+  - first:
+      213: 4765725273077488049
+    second: BagOfCoins_405x479_119
+  - first:
+      213: -5543926628288618648
+    second: BagOfCoins_405x479_120
+  - first:
+      213: 6481477181503000836
+    second: BagOfCoins_405x479_121
+  - first:
+      213: -7959141136917681730
+    second: BagOfCoins_405x479_122
+  - first:
+      213: 3288181392483512640
+    second: BagOfCoins_405x479_123
+  - first:
+      213: 2067480522259113007
+    second: BagOfCoins_405x479_124
+  - first:
+      213: 2041224509974814836
+    second: BagOfCoins_405x479_125
+  - first:
+      213: -3312331777968604289
+    second: BagOfCoins_405x479_126
+  - first:
+      213: 4530783713376896148
+    second: BagOfCoins_405x479_127
+  - first:
+      213: -6906153281390566142
+    second: BagOfCoins_405x479_128
+  - first:
+      213: -7437152624910487238
+    second: BagOfCoins_405x479_129
+  - first:
+      213: -4055647748049327821
+    second: BagOfCoins_405x479_130
+  - first:
+      213: -6712148393357207919
+    second: BagOfCoins_405x479_131
+  - first:
+      213: 3550427081377163458
+    second: BagOfCoins_405x479_132
+  - first:
+      213: -1618232203007389382
+    second: BagOfCoins_405x479_133
+  - first:
+      213: -4386532428735360088
+    second: BagOfCoins_405x479_134
+  - first:
+      213: -8982232318186977376
+    second: BagOfCoins_405x479_135
+  - first:
+      213: -1399957824141549673
+    second: BagOfCoins_405x479_136
+  - first:
+      213: -5490261312228007289
+    second: BagOfCoins_405x479_137
+  - first:
+      213: 5417452654784131167
+    second: BagOfCoins_405x479_138
+  - first:
+      213: -7913732756000924309
+    second: BagOfCoins_405x479_139
+  - first:
+      213: 5093714754582871013
+    second: BagOfCoins_405x479_140
+  - first:
+      213: -9214327925474753078
+    second: BagOfCoins_405x479_141
+  - first:
+      213: 8544841668656554100
+    second: BagOfCoins_405x479_142
+  - first:
+      213: -4157231102162599485
+    second: BagOfCoins_405x479_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ac700a905072ca0800000000000000
+      internalID: -6041854836196521323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2764adba0db78b40800000000000000
+      internalID: 5442526528529524523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_2
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8634a152a803a20d0800000000000000
+      internalID: -3446889194912595096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_3
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f7c26817cd7f420800000000000000
+      internalID: 2663840084753415955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_4
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22ed56e9a90913b0800000000000000
+      internalID: -5541387241183649236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_5
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8d2441128328eb0800000000000000
+      internalID: -4719147744805857052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_6
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c24edcc0ff823c0800000000000000
+      internalID: -4383973806786204535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_7
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657bd075cba5a7f90800000000000000
+      internalID: -6955146909559441578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_8
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd962cf7795b1c3d0800000000000000
+      internalID: -3188067398913463841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_9
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a6c77d2deb1f830800000000000000
+      internalID: 4103270548278897162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_10
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec70aff0c69f9150800000000000000
+      internalID: 5881585394035752167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_11
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 4311
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53a92efc792cddb0800000000000000
+      internalID: -4765888688848002213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec205a36def41a50800000000000000
+      internalID: 6491093159002516704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_13
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5189771621e783450800000000000000
+      internalID: 6068739115291482133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_14
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cd99eb460824f50800000000000000
+      internalID: 6864189952248896554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_15
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c9511b2545c8d80800000000000000
+      internalID: -8247124103487185899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_16
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3ee3c8cf342c5f0800000000000000
+      internalID: -737952636971588647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_17
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4f859b966a1f8d0800000000000000
+      internalID: -2814285319118457603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_18
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375ffa5f74244ae0800000000000000
+      internalID: -1566086641011960004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_19
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a245939277c4370800000000000000
+      internalID: 8308146431530904214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_20
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf5f20444886d970800000000000000
+      internalID: 8779354350321360858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_21
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff7cadbf9103ae90800000000000000
+      internalID: -7015762008919474190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_22
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff74bb5a14a494b0800000000000000
+      internalID: -5434538417214685193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_23
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 3832
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f2628714865c3f0800000000000000
+      internalID: -881183521683132615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6099216e915599cf0800000000000000
+      internalID: -245071134992459514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2578ffd6af65218a0800000000000000
+      internalID: -6335906092169590958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_26
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77a4e261e4ca8a70800000000000000
+      internalID: 8830086491719116667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_27
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eccc008a17d0a10800000000000000
+      internalID: 1877281586065231394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_28
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c1b01b90e255d30800000000000000
+      internalID: 4419489228493888613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_29
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d775a71a1c8da040800000000000000
+      internalID: 4660535233092089811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_30
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be8490dca0f2590800000000000000
+      internalID: -7696921362412541169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_31
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad26b69e85b7f7ed0800000000000000
+      internalID: -2414075253443829030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_32
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45916c5733340b9d0800000000000000
+      internalID: -2760632683279804076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_33
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b3fab7a7736cf90800000000000000
+      internalID: -6933793577089680640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_34
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8793377dad04210800000000000000
+      internalID: 1315291710078154975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_35
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 3353
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0e2aae766b1210800000000000000
+      internalID: 1304749211260947178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f508842132698bc0800000000000000
+      internalID: -3780382448995006990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_37
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac33cb739659d8b00800000000000000
+      internalID: 832485785272595402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_38
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037b169a52283bff0800000000000000
+      internalID: -21530474939566288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_39
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088963c2b9d177230800000000000000
+      internalID: 3636407776423876736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_40
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ac78e1a598a2a0800000000000000
+      internalID: -6725961520855079600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_41
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d476eb96e838ae2d0800000000000000
+      internalID: -3248639533511710899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_42
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601284ab140664650800000000000000
+      internalID: 6216762171045978374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_43
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d11dd9f361db830800000000000000
+      internalID: 4088448499208756544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_44
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c867be2367a7b10800000000000000
+      internalID: 1980024947253611636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_45
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1060bafba860a10800000000000000
+      internalID: 1875338850659074505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_46
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e16b7dd70b80c330800000000000000
+      internalID: 3729133357359653349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_47
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 2874
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45068473cb757ad20800000000000000
+      internalID: 3289694518710394964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea47e2073f3d2090800000000000000
+      internalID: -8057714652791485717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43991f166062372c0800000000000000
+      internalID: -4435159399174923980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_50
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41882041c8667b0c0800000000000000
+      internalID: -4560063345872173036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_51
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44109e8929c09e720800000000000000
+      internalID: 2875843660822937924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_52
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd4a3f317b875230800000000000000
+      internalID: 3627521343378574784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_53
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4633ae2860901f0800000000000000
+      internalID: -1078323476433771324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_54
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dfce5c480103bc0800000000000000
+      internalID: -3805523522685698691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_55
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f4a6cb086062360800000000000000
+      internalID: 7144405008856534804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_56
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95f277215aa812f0800000000000000
+      internalID: -1001863651559017057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_57
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f3910cd5c023eb0800000000000000
+      internalID: -4741713860873338990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_58
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e71d62013293330800000000000000
+      internalID: 3691019921884544542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_59
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 2395
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ba3ed429f7b1cb0800000000000000
+      internalID: -4892176303859193059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55bdaaeb44a4f3e0800000000000000
+      internalID: -2020809686815754918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_61
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a2dfe2989f77e80800000000000000
+      internalID: -8180795830501037518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_62
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bae166dcf9b3220800000000000000
+      internalID: 2466740925445876564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_63
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96636189a49d12e50800000000000000
+      internalID: 6782941428199077481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_64
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c9e0c845bf30260800000000000000
+      internalID: 7062764981192662113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_65
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757b8c4a95da50fe0800000000000000
+      internalID: -1223381123232909481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_66
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b1a450a5dcb07a0800000000000000
+      internalID: -6409803858112275687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_67
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc25e0afea37cb360800000000000000
+      internalID: 7186746300733215436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_68
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4127e8fd8e402480800000000000000
+      internalID: -8926048089775070898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_69
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a26a9f4149d8330800000000000000
+      internalID: 3714788085459200591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_70
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beabef41de00d28b0800000000000000
+      internalID: -5175479378519344405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_71
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1916
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41547141314c084c0800000000000000
+      internalID: -4287211259036220140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce2aaff58c7eba0800000000000000
+      internalID: -6059654459051283398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_73
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d301962a486db3eb0800000000000000
+      internalID: -4738958317728493507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_74
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3720c4f91a2cac0800000000000000
+      internalID: -3836326227019140111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_75
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6ec420a580ba380800000000000000
+      internalID: -8959057851044796723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_76
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a795564ba3a053e70800000000000000
+      internalID: 9094186269795506554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_77
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba8dbc6100a86de0800000000000000
+      internalID: -1339644961162949968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_78
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bd994158ee58a90800000000000000
+      internalID: -7312176164622443680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_79
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3c0f187677c93d0800000000000000
+      internalID: -3198550348894518327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_80
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d741dbe62dd2f0800000000000000
+      internalID: -946557552407619877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_81
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c850de8d66eaa0800000000000000
+      internalID: -6132093382470089765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_82
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2133be4c817e7f240800000000000000
+      internalID: 4825579619319755538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_83
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 1437
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a277d0c9aa1f5800800000000000000
+      internalID: 603230191478076071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61023ae44e812c50800000000000000
+      internalID: 6638743752358887790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bcc144d65c95770800000000000000
+      internalID: 8600122036525517682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_86
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a35340d7965f6600800000000000000
+      internalID: 463684496676574115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_87
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b612c2d8552650a0800000000000000
+      internalID: -6893281116220680520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_88
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a949d06c432aaf0800000000000000
+      internalID: -386688592764429719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_89
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692bd66a4a4d26fd0800000000000000
+      internalID: -2350082251902045546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_90
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9362bec8a0ad145b0800000000000000
+      internalID: -5385783940509653447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_91
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965ad1aa4d92ef8e0800000000000000
+      internalID: -1657841619461888663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_92
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451a6f2536404c160800000000000000
+      internalID: 7044760541754466644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_93
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3049a3a6f7421e6a0800000000000000
+      internalID: -6421811463991946237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_94
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14504d0fba97b66a0800000000000000
+      internalID: -6454931861518678719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_95
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 958
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e908fd680495002f0800000000000000
+      internalID: -1008708182855417698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44fc795f41b51dd0800000000000000
+      internalID: -2515909862454660019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_97
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cb2587c04798f80800000000000000
+      internalID: -8103818457569379247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_98
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2490e72b2d03d7450800000000000000
+      internalID: 6088075952770648386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_99
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5febcf1f25cbb9740800000000000000
+      internalID: 5159924862516248309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_100
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69af062a889003b0800000000000000
+      internalID: -5548267021808981651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_101
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b325c1f755e12c0800000000000000
+      internalID: -4459032576625853537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_102
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88d04c256b8f3aa0800000000000000
+      internalID: -6179066897078626165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_103
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bc6b6f7e18dd660800000000000000
+      internalID: 7412223394998307702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_104
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800288d20bf2fa680800000000000000
+      internalID: -8741715917978198008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_105
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1e58360f1690ea0800000000000000
+      internalID: -5906081751229931077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_106
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c89d39f0acba04f0800000000000000
+      internalID: -861668979125675831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_107
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 479
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71d0bfecb9df430800000000000000
+      internalID: 3818379372357556184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119b5193b69365cb0800000000000000
+      internalID: -4875646413899974383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_109
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bcbcc16adfb2870800000000000000
+      internalID: 8659293598439426974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_110
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960cc9ee6ea80e4b0800000000000000
+      internalID: -5413174027648974743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_111
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673962d5ba06da480800000000000000
+      internalID: -8886340200613637258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_112
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d311804a19093c0800000000000000
+      internalID: -4354820705971257969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_113
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab57663554da3f80800000000000000
+      internalID: -8125949115186586720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_114
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f4cbf43b6ec0ea0800000000000000
+      internalID: -5905091353578287201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_115
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff30d238dd42c3c80800000000000000
+      internalID: -8341751875989863425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_116
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed562a0815133770800000000000000
+      internalID: 8589232107319352805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_117
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d8b322e641e4640800000000000000
+      internalID: 5066009094091672941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_118
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e11f7f8ef6218b0800000000000000
+      internalID: -5182957174767149528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BagOfCoins_405x479_119
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 0
+        width: 405
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b992eec2e1432240800000000000000
+      internalID: 4765725273077488049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5758ccebdd30b674a8561a4977ad5dbe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BagOfCoins_405x479_0: -6041854836196521323
+      BagOfCoins_405x479_1: 5442526528529524523
+      BagOfCoins_405x479_10: 5881585394035752167
+      BagOfCoins_405x479_100: -5548267021808981651
+      BagOfCoins_405x479_101: -4459032576625853537
+      BagOfCoins_405x479_102: -6179066897078626165
+      BagOfCoins_405x479_103: 7412223394998307702
+      BagOfCoins_405x479_104: -8741715917978198008
+      BagOfCoins_405x479_105: -5906081751229931077
+      BagOfCoins_405x479_106: -861668979125675831
+      BagOfCoins_405x479_107: 3818379372357556184
+      BagOfCoins_405x479_108: -4875646413899974383
+      BagOfCoins_405x479_109: 8659293598439426974
+      BagOfCoins_405x479_11: -4765888688848002213
+      BagOfCoins_405x479_110: -5413174027648974743
+      BagOfCoins_405x479_111: -8886340200613637258
+      BagOfCoins_405x479_112: -4354820705971257969
+      BagOfCoins_405x479_113: -8125949115186586720
+      BagOfCoins_405x479_114: -5905091353578287201
+      BagOfCoins_405x479_115: -8341751875989863425
+      BagOfCoins_405x479_116: 8589232107319352805
+      BagOfCoins_405x479_117: 5066009094091672941
+      BagOfCoins_405x479_118: -5182957174767149528
+      BagOfCoins_405x479_119: 4765725273077488049
+      BagOfCoins_405x479_12: 6491093159002516704
+      BagOfCoins_405x479_13: 6068739115291482133
+      BagOfCoins_405x479_14: 6864189952248896554
+      BagOfCoins_405x479_15: -8247124103487185899
+      BagOfCoins_405x479_16: -737952636971588647
+      BagOfCoins_405x479_17: -2814285319118457603
+      BagOfCoins_405x479_18: -1566086641011960004
+      BagOfCoins_405x479_19: 8308146431530904214
+      BagOfCoins_405x479_2: -3446889194912595096
+      BagOfCoins_405x479_20: 8779354350321360858
+      BagOfCoins_405x479_21: -7015762008919474190
+      BagOfCoins_405x479_22: -5434538417214685193
+      BagOfCoins_405x479_23: -881183521683132615
+      BagOfCoins_405x479_24: -245071134992459514
+      BagOfCoins_405x479_25: -6335906092169590958
+      BagOfCoins_405x479_26: 8830086491719116667
+      BagOfCoins_405x479_27: 1877281586065231394
+      BagOfCoins_405x479_28: 4419489228493888613
+      BagOfCoins_405x479_29: 4660535233092089811
+      BagOfCoins_405x479_3: 2663840084753415955
+      BagOfCoins_405x479_30: -7696921362412541169
+      BagOfCoins_405x479_31: -2414075253443829030
+      BagOfCoins_405x479_32: -2760632683279804076
+      BagOfCoins_405x479_33: -6933793577089680640
+      BagOfCoins_405x479_34: 1315291710078154975
+      BagOfCoins_405x479_35: 1304749211260947178
+      BagOfCoins_405x479_36: -3780382448995006990
+      BagOfCoins_405x479_37: 832485785272595402
+      BagOfCoins_405x479_38: -21530474939566288
+      BagOfCoins_405x479_39: 3636407776423876736
+      BagOfCoins_405x479_4: -5541387241183649236
+      BagOfCoins_405x479_40: -6725961520855079600
+      BagOfCoins_405x479_41: -3248639533511710899
+      BagOfCoins_405x479_42: 6216762171045978374
+      BagOfCoins_405x479_43: 4088448499208756544
+      BagOfCoins_405x479_44: 1980024947253611636
+      BagOfCoins_405x479_45: 1875338850659074505
+      BagOfCoins_405x479_46: 3729133357359653349
+      BagOfCoins_405x479_47: 3289694518710394964
+      BagOfCoins_405x479_48: -8057714652791485717
+      BagOfCoins_405x479_49: -4435159399174923980
+      BagOfCoins_405x479_5: -4719147744805857052
+      BagOfCoins_405x479_50: -4560063345872173036
+      BagOfCoins_405x479_51: 2875843660822937924
+      BagOfCoins_405x479_52: 3627521343378574784
+      BagOfCoins_405x479_53: -1078323476433771324
+      BagOfCoins_405x479_54: -3805523522685698691
+      BagOfCoins_405x479_55: 7144405008856534804
+      BagOfCoins_405x479_56: -1001863651559017057
+      BagOfCoins_405x479_57: -4741713860873338990
+      BagOfCoins_405x479_58: 3691019921884544542
+      BagOfCoins_405x479_59: -4892176303859193059
+      BagOfCoins_405x479_6: -4383973806786204535
+      BagOfCoins_405x479_60: -2020809686815754918
+      BagOfCoins_405x479_61: -8180795830501037518
+      BagOfCoins_405x479_62: 2466740925445876564
+      BagOfCoins_405x479_63: 6782941428199077481
+      BagOfCoins_405x479_64: 7062764981192662113
+      BagOfCoins_405x479_65: -1223381123232909481
+      BagOfCoins_405x479_66: -6409803858112275687
+      BagOfCoins_405x479_67: 7186746300733215436
+      BagOfCoins_405x479_68: -8926048089775070898
+      BagOfCoins_405x479_69: 3714788085459200591
+      BagOfCoins_405x479_7: -6955146909559441578
+      BagOfCoins_405x479_70: -5175479378519344405
+      BagOfCoins_405x479_71: -4287211259036220140
+      BagOfCoins_405x479_72: -6059654459051283398
+      BagOfCoins_405x479_73: -4738958317728493507
+      BagOfCoins_405x479_74: -3836326227019140111
+      BagOfCoins_405x479_75: -8959057851044796723
+      BagOfCoins_405x479_76: 9094186269795506554
+      BagOfCoins_405x479_77: -1339644961162949968
+      BagOfCoins_405x479_78: -7312176164622443680
+      BagOfCoins_405x479_79: -3198550348894518327
+      BagOfCoins_405x479_8: -3188067398913463841
+      BagOfCoins_405x479_80: -946557552407619877
+      BagOfCoins_405x479_81: -6132093382470089765
+      BagOfCoins_405x479_82: 4825579619319755538
+      BagOfCoins_405x479_83: 603230191478076071
+      BagOfCoins_405x479_84: 6638743752358887790
+      BagOfCoins_405x479_85: 8600122036525517682
+      BagOfCoins_405x479_86: 463684496676574115
+      BagOfCoins_405x479_87: -6893281116220680520
+      BagOfCoins_405x479_88: -386688592764429719
+      BagOfCoins_405x479_89: -2350082251902045546
+      BagOfCoins_405x479_9: 4103270548278897162
+      BagOfCoins_405x479_90: -5385783940509653447
+      BagOfCoins_405x479_91: -1657841619461888663
+      BagOfCoins_405x479_92: 7044760541754466644
+      BagOfCoins_405x479_93: -6421811463991946237
+      BagOfCoins_405x479_94: -6454931861518678719
+      BagOfCoins_405x479_95: -1008708182855417698
+      BagOfCoins_405x479_96: -2515909862454660019
+      BagOfCoins_405x479_97: -8103818457569379247
+      BagOfCoins_405x479_98: 6088075952770648386
+      BagOfCoins_405x479_99: 5159924862516248309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

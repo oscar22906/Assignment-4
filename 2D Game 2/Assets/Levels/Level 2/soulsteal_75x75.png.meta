@@ -1,0 +1,2907 @@
+fileFormatVersion: 2
+guid: 15ec6a5da39328f44a76b564bb2b1381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1570543623818801746
+    second: soulsteal_75x75_0
+  - first:
+      213: 1431148673422076373
+    second: soulsteal_75x75_1
+  - first:
+      213: 6888123376675303078
+    second: soulsteal_75x75_2
+  - first:
+      213: 6172825388866984765
+    second: soulsteal_75x75_3
+  - first:
+      213: 5776168137492341953
+    second: soulsteal_75x75_4
+  - first:
+      213: -3588109677503888617
+    second: soulsteal_75x75_5
+  - first:
+      213: 324147219117024141
+    second: soulsteal_75x75_6
+  - first:
+      213: 8785722718934821421
+    second: soulsteal_75x75_7
+  - first:
+      213: -7546049340024252202
+    second: soulsteal_75x75_8
+  - first:
+      213: -6552541603876940096
+    second: soulsteal_75x75_9
+  - first:
+      213: 1978102295372094528
+    second: soulsteal_75x75_10
+  - first:
+      213: 5689252851550767340
+    second: soulsteal_75x75_11
+  - first:
+      213: 4219331801598351498
+    second: soulsteal_75x75_12
+  - first:
+      213: -3076744039050952752
+    second: soulsteal_75x75_13
+  - first:
+      213: -3535301371699566192
+    second: soulsteal_75x75_14
+  - first:
+      213: -8748597067287566859
+    second: soulsteal_75x75_15
+  - first:
+      213: -3633854531077692118
+    second: soulsteal_75x75_16
+  - first:
+      213: 5226930890280884626
+    second: soulsteal_75x75_17
+  - first:
+      213: 1538354390624922501
+    second: soulsteal_75x75_18
+  - first:
+      213: 1060514777181991285
+    second: soulsteal_75x75_19
+  - first:
+      213: -3681546734576897542
+    second: soulsteal_75x75_20
+  - first:
+      213: -2892264506974728390
+    second: soulsteal_75x75_21
+  - first:
+      213: 4331242747705194471
+    second: soulsteal_75x75_22
+  - first:
+      213: -7900219359890117286
+    second: soulsteal_75x75_23
+  - first:
+      213: 2441438065192992910
+    second: soulsteal_75x75_24
+  - first:
+      213: -8006261827764694970
+    second: soulsteal_75x75_25
+  - first:
+      213: -5024869374200250959
+    second: soulsteal_75x75_26
+  - first:
+      213: -8381989778193697829
+    second: soulsteal_75x75_27
+  - first:
+      213: 562216536404970790
+    second: soulsteal_75x75_28
+  - first:
+      213: -2349151599619405627
+    second: soulsteal_75x75_29
+  - first:
+      213: 5127236406284321998
+    second: soulsteal_75x75_30
+  - first:
+      213: -5802841407408864948
+    second: soulsteal_75x75_31
+  - first:
+      213: 6467978660397047924
+    second: soulsteal_75x75_32
+  - first:
+      213: -2741745432571014314
+    second: soulsteal_75x75_33
+  - first:
+      213: -2709796490326124478
+    second: soulsteal_75x75_34
+  - first:
+      213: -8234852932857902348
+    second: soulsteal_75x75_35
+  - first:
+      213: -4345734681198250047
+    second: soulsteal_75x75_36
+  - first:
+      213: 6718217010839967890
+    second: soulsteal_75x75_37
+  - first:
+      213: -1192148898039835394
+    second: soulsteal_75x75_38
+  - first:
+      213: 6196071447220674236
+    second: soulsteal_75x75_39
+  - first:
+      213: -4420260088880464504
+    second: soulsteal_75x75_40
+  - first:
+      213: 5258751748709908916
+    second: soulsteal_75x75_41
+  - first:
+      213: -5983941556036609298
+    second: soulsteal_75x75_42
+  - first:
+      213: -8494010452273791715
+    second: soulsteal_75x75_43
+  - first:
+      213: 2109194786969166322
+    second: soulsteal_75x75_44
+  - first:
+      213: -8584710279101908837
+    second: soulsteal_75x75_45
+  - first:
+      213: -8953909593914048785
+    second: soulsteal_75x75_46
+  - first:
+      213: -6345382534081819426
+    second: soulsteal_75x75_47
+  - first:
+      213: -3116196971189752112
+    second: soulsteal_75x75_48
+  - first:
+      213: -7402663051301065567
+    second: soulsteal_75x75_49
+  - first:
+      213: 6498507780553740196
+    second: soulsteal_75x75_50
+  - first:
+      213: -601827833023966118
+    second: soulsteal_75x75_51
+  - first:
+      213: -2260131900867491273
+    second: soulsteal_75x75_52
+  - first:
+      213: -8572535214661100532
+    second: soulsteal_75x75_53
+  - first:
+      213: -4490627774856641870
+    second: soulsteal_75x75_54
+  - first:
+      213: -8717668964857634514
+    second: soulsteal_75x75_55
+  - first:
+      213: -7587753574881910042
+    second: soulsteal_75x75_56
+  - first:
+      213: -7487524907141897409
+    second: soulsteal_75x75_57
+  - first:
+      213: -2552002931474875928
+    second: soulsteal_75x75_58
+  - first:
+      213: 8677967623684694074
+    second: soulsteal_75x75_59
+  - first:
+      213: 3885311333880187036
+    second: soulsteal_75x75_60
+  - first:
+      213: 1064163967472316961
+    second: soulsteal_75x75_61
+  - first:
+      213: 2950841663898142229
+    second: soulsteal_75x75_62
+  - first:
+      213: 696417591842045860
+    second: soulsteal_75x75_63
+  - first:
+      213: -8372689544456335435
+    second: soulsteal_75x75_64
+  - first:
+      213: -2045869505193804229
+    second: soulsteal_75x75_65
+  - first:
+      213: 618971736914027144
+    second: soulsteal_75x75_66
+  - first:
+      213: 778111955248627179
+    second: soulsteal_75x75_67
+  - first:
+      213: -2006562892737622583
+    second: soulsteal_75x75_68
+  - first:
+      213: -6566124456259234449
+    second: soulsteal_75x75_69
+  - first:
+      213: -4558713716267849363
+    second: soulsteal_75x75_70
+  - first:
+      213: -2752173585910535535
+    second: soulsteal_75x75_71
+  - first:
+      213: -2178576000949579543
+    second: soulsteal_75x75_72
+  - first:
+      213: -8611657437325605000
+    second: soulsteal_75x75_73
+  - first:
+      213: -5664013018016939889
+    second: soulsteal_75x75_74
+  - first:
+      213: 7616342022958448584
+    second: soulsteal_75x75_75
+  - first:
+      213: 1392274242090304138
+    second: soulsteal_75x75_76
+  - first:
+      213: 8687498274735419480
+    second: soulsteal_75x75_77
+  - first:
+      213: -5368532742659847071
+    second: soulsteal_75x75_78
+  - first:
+      213: -7474554853510155388
+    second: soulsteal_75x75_79
+  - first:
+      213: -7904354129770332322
+    second: soulsteal_75x75_80
+  - first:
+      213: 8836210047226372859
+    second: soulsteal_75x75_81
+  - first:
+      213: 1711357689155765256
+    second: soulsteal_75x75_82
+  - first:
+      213: 332817798597725573
+    second: soulsteal_75x75_83
+  - first:
+      213: 2610722463496343278
+    second: soulsteal_75x75_84
+  - first:
+      213: -1477639113560253216
+    second: soulsteal_75x75_85
+  - first:
+      213: -7322100684357053000
+    second: soulsteal_75x75_86
+  - first:
+      213: 3084979282034878263
+    second: soulsteal_75x75_87
+  - first:
+      213: 7217199805418575861
+    second: soulsteal_75x75_88
+  - first:
+      213: 2811961391220282698
+    second: soulsteal_75x75_89
+  - first:
+      213: 3526884873641150094
+    second: soulsteal_75x75_90
+  - first:
+      213: 899540323726120695
+    second: soulsteal_75x75_91
+  - first:
+      213: -6556976292007417205
+    second: soulsteal_75x75_92
+  - first:
+      213: -1620567815488724791
+    second: soulsteal_75x75_93
+  - first:
+      213: -8319123547849255967
+    second: soulsteal_75x75_94
+  - first:
+      213: 5213761572905472577
+    second: soulsteal_75x75_95
+  - first:
+      213: -5013646673127541120
+    second: soulsteal_75x75_96
+  - first:
+      213: 9060720908766791040
+    second: soulsteal_75x75_97
+  - first:
+      213: 7980941814859063157
+    second: soulsteal_75x75_98
+  - first:
+      213: 4989953394414779126
+    second: soulsteal_75x75_99
+  - first:
+      213: 3898295531764941097
+    second: soulsteal_75x75_100
+  - first:
+      213: -538160810575346814
+    second: soulsteal_75x75_101
+  - first:
+      213: 4783383178409641725
+    second: soulsteal_75x75_102
+  - first:
+      213: -3948892339264080320
+    second: soulsteal_75x75_103
+  - first:
+      213: -2992355536258384290
+    second: soulsteal_75x75_104
+  - first:
+      213: 7184773968147806514
+    second: soulsteal_75x75_105
+  - first:
+      213: -2375526105157038939
+    second: soulsteal_75x75_106
+  - first:
+      213: 1986766067646042420
+    second: soulsteal_75x75_107
+  - first:
+      213: -4969204655200009773
+    second: soulsteal_75x75_108
+  - first:
+      213: -5143560192864438542
+    second: soulsteal_75x75_109
+  - first:
+      213: -4006138048033628462
+    second: soulsteal_75x75_110
+  - first:
+      213: -7256582011961437038
+    second: soulsteal_75x75_111
+  - first:
+      213: -7101192612839599112
+    second: soulsteal_75x75_112
+  - first:
+      213: 5096653276735298130
+    second: soulsteal_75x75_113
+  - first:
+      213: -8011147419875614436
+    second: soulsteal_75x75_114
+  - first:
+      213: 2095828857230948998
+    second: soulsteal_75x75_115
+  - first:
+      213: 6748771496778972053
+    second: soulsteal_75x75_116
+  - first:
+      213: 852988453746235964
+    second: soulsteal_75x75_117
+  - first:
+      213: 8428943610011645231
+    second: soulsteal_75x75_118
+  - first:
+      213: 4554155325639003366
+    second: soulsteal_75x75_119
+  - first:
+      213: 593856362056744781
+    second: soulsteal_75x75_120
+  - first:
+      213: 7644313104514126826
+    second: soulsteal_75x75_121
+  - first:
+      213: 8661315565135390708
+    second: soulsteal_75x75_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soulsteal_75x75_0
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 675
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead860e25ee443ae0800000000000000
+      internalID: -1570543623818801746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 675
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9281cc2267cd310800000000000000
+      internalID: 1431148673422076373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeabcb57b7879f50800000000000000
+      internalID: 6888123376675303078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bdde37cf74aa550800000000000000
+      internalID: 6172825388866984765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4292e4152192050800000000000000
+      internalID: 5776168137492341953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7134d394249743ec0800000000000000
+      internalID: -3588109677503888617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a66aad2a9f7400800000000000000
+      internalID: 324147219117024141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a603d93482de970800000000000000
+      internalID: 8785722718934821421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8984e1b1c074790800000000000000
+      internalID: -7546049340024252202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c652fcc022b015a0800000000000000
+      internalID: -6552541603876940096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd905ae81a37b10800000000000000
+      internalID: 1978102295372094528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8cf06535944fe40800000000000000
+      internalID: 5689252851550767340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8857c72be31e8a30800000000000000
+      internalID: 4219331801598351498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_13
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 600
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df319709953d45d0800000000000000
+      internalID: -3076744039050952752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09965ed122610fec0800000000000000
+      internalID: -3535301371699566192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5ec41c15db69680800000000000000
+      internalID: -8748597067287566859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25aba59e84f19dc0800000000000000
+      internalID: -3633854531077692118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29955b483f9c98840800000000000000
+      internalID: 5226930890280884626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b6cdfea25595510800000000000000
+      internalID: 1538354390624922501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5713cfc2294b7be00800000000000000
+      internalID: 1060514777181991285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af17b8520c488ecc0800000000000000
+      internalID: -3681546734576897542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f0d4931cc9cd7d0800000000000000
+      internalID: -2892264506974728390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e774f4c45aab1c30800000000000000
+      internalID: 4331242747705194471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5de51e6958cc5290800000000000000
+      internalID: -7900219359890117286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4c81d3099a8fb43810bec3daff40b8
+      internalID: 2441438065192992910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_25
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 525
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be66bb44cba6da4f810105b5eb81d14
+      internalID: -8006261827764694970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb0aa8e2f6d184082d9ac8ac94752d
+      internalID: -5024869374200250959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7bee8d458fd8845a350b1bcc5d2e61
+      internalID: -8381989778193697829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66c3fdcc7828fb49988248dd1e8b143
+      internalID: 562216536404970790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef93847c312e0b647b7851af9d3f80c9
+      internalID: -2349151599619405627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514e686895675cd4ea837aa95831cc2e
+      internalID: 5127236406284321998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52d04120065a794791a9e5e592a32f6
+      internalID: -5802841407408864948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50430dc55246f164580ba07b3ad65348
+      internalID: 6467978660397047924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_33
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794c4fcc26e115042bbb4e6a2a86159e
+      internalID: -2741745432571014314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0492d7c83987ab04789a8944a917cc44
+      internalID: -2709796490326124478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_35
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef6a26bc465e7459153b5341ee2a88
+      internalID: -8234852932857902348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_36
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516642d5ff85df45b37af87a41c57bd
+      internalID: -4345734681198250047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_37
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 450
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdc593c907d9d341b64732bd0f07bd6
+      internalID: 6718217010839967890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cf40f3f84d21c43917f4ccd95153b8
+      internalID: -1192148898039835394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c444ed857ee4616408a724c3787d0202
+      internalID: 6196071447220674236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c2b7ccdd729846a9415ab2a65100a
+      internalID: -4420260088880464504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e93350ad0b354684163ef35348a2d
+      internalID: 5258751748709908916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fc21f2b123d3942baadc5fd725b579
+      internalID: -5983941556036609298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_43
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce9b4e733e53c4397af8aebcb1949d
+      internalID: -8494010452273791715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20113bd58f0e8f14b8582b80947f911b
+      internalID: 2109194786969166322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_45
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2672a2d7ef28148bf60a4795018fe9
+      internalID: -8584710279101908837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c11b0e257e9694439d68494d1bd7062
+      internalID: -8953909593914048785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a336a2a3a51a4884b145dd6fcc569
+      internalID: -6345382534081819426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f19d1a7f6e3c7429690c7d25c0b6ad
+      internalID: -3116196971189752112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_49
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 375
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc788c8fe1b97e438cbdcb0784010a2
+      internalID: -7402663051301065567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8b2dcc0296cc47832a876c8c8600c
+      internalID: 6498507780553740196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac1f88cd5c53742b6f3ac1035c681d
+      internalID: -601827833023966118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d0cdfc5be4a946ad8d29533a29ad9
+      internalID: -2260131900867491273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3d6e5f13672b4da13792d388911e3
+      internalID: -8572535214661100532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7a284c40cdb545910004f71d4b2a8
+      internalID: -4490627774856641870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_55
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27e67beacb30b042a1c50d0621b37f5
+      internalID: -8717668964857634514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_56
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e9c9de188bd35468520bfc154cc4e1
+      internalID: -7587753574881910042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_57
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5149ec6acc63ff4392ead7e7a1c4cdd
+      internalID: -7487524907141897409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7fdf4ebda6ba499b0ba1aae8b1e58
+      internalID: -2552002931474875928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_59
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28550ca96cfd5884bafd105e24795b92
+      internalID: 8677967623684694074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_60
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677e0c79f6365d438834c73ff2667ad
+      internalID: 3885311333880187036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_61
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 300
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f384e4a230b1d834e8419166d3b6be6f
+      internalID: 1064163967472316961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8355239d619e2c5408aafe0185b17c4f
+      internalID: 2950841663898142229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0976d80cb9285cf40bb903b289de2e51
+      internalID: 696417591842045860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da7383a6dfe674cad07062aacd3261
+      internalID: -8372689544456335435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_65
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fbce9cefb14604b8072945769e3dff
+      internalID: -2045869505193804229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615f1a23bf60434c803fa78244c7ef9
+      internalID: 618971736914027144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_67
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8078ab061697a7a44bb6d99276306914
+      internalID: 778111955248627179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b593bda16cd4a7847b45e179618dfb13
+      internalID: -2006562892737622583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_69
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03387ce77a215468ee2e91fd953a42
+      internalID: -6566124456259234449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_70
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea49ff6723c6ccb4085c2534fba7c99e
+      internalID: -4558713716267849363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_71
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cee25ebc0488847b05e1ab2d7fb5e3
+      internalID: -2752173585910535535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_72
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a7c317cdfe9f41b64bfcb81a1becd
+      internalID: -2178576000949579543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_73
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 225
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f82877f76f16147a6d36d14ea23a7e
+      internalID: -8611657437325605000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f013a9cdfb790cf44828d8b588a0321c
+      internalID: -5664013018016939889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf936f4b12424f459b5670ea514ec53
+      internalID: 7616342022958448584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e34ff7b468fa44cbda906539afb827
+      internalID: 1392274242090304138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ab1c9a0c51fea47a696308d62bf506
+      internalID: 8687498274735419480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_78
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb81c8ee7777144b17030fcee3f79f
+      internalID: -5368532742659847071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_79
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2ee9553a1f0e14d9d2b7271f59bf9e
+      internalID: -7474554853510155388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4398061c5d77b438755edfeed60621
+      internalID: -7904354129770332322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_81
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f5e7322d221f47a3e28fac53365f7
+      internalID: 8836210047226372859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f1e8ea71132da46a8fe36128e1beb2
+      internalID: 1711357689155765256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_83
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041b8fd5c4fa994786ae079ba850775
+      internalID: 332817798597725573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_84
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a070a8b1711f40bf58ec3a22471b5
+      internalID: 2610722463496343278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_85
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 150
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f95ecd3dec27a842a5b410c292f0764
+      internalID: -1477639113560253216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd7c87b753980b4e897a6d675138adb
+      internalID: -7322100684357053000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_87
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56581f7f27b9c418fa792b5a2deaee
+      internalID: 3084979282034878263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb277f15c820614f913065a17442aa6
+      internalID: 7217199805418575861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3519f9cf1cfe9cc4ebe0468f838bf926
+      internalID: 2811961391220282698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea39bcbf593387a49a47e7b54668781a
+      internalID: 3526884873641150094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_91
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bc43a4892b4e544b85df425e29dd4a
+      internalID: 899540323726120695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_92
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206bfd81d7d9b8e46a894336bf0cb999
+      internalID: -6556976292007417205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_93
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89225372595fe894986f33bee3e7d49f
+      internalID: -1620567815488724791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_94
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46867faf4493fff46bcf2620ccab0701
+      internalID: -8319123547849255967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_95
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f7d397090d4914ca85df80e217dfa0
+      internalID: 5213761572905472577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_96
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69423b1bfa3160544984e7a7afb631ab
+      internalID: -5013646673127541120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_97
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 75
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd88374a6d46440be38609e08fa2a9
+      internalID: 9060720908766791040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e5b98667983f44f9a57c29ed42578c
+      internalID: 7980941814859063157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_99
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3becb24a469244c8dcbde62d36da5e
+      internalID: 4989953394414779126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_100
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f13997b3716874eae68e71752f4ce7
+      internalID: 3898295531764941097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_101
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b71de6edb797448b794513d1716d3c
+      internalID: -538160810575346814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df37ded60b7c9da41aabc5f520d0e383
+      internalID: 4783383178409641725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_103
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c33ee44805f8442b6817f0197ba16e
+      internalID: -3948892339264080320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_104
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf99fd995ce75fe47ae4b3215603491c
+      internalID: -2992355536258384290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_105
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cedc7961af3ff14695ecd78543fe78b
+      internalID: 7184773968147806514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde4d093c0ec3949bbfba54047f611a
+      internalID: -2375526105157038939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_107
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df404451ec6c75a4fb50c01bc26dfd81
+      internalID: 1986766067646042420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soulsteal_75x75_108
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472cfa38dc1d354980a4c1b4a1f18b4
+      internalID: -4969204655200009773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 60cfe4e377205974a9bd85ca9a107e28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      soulsteal_75x75_0: -1570543623818801746
+      soulsteal_75x75_1: 1431148673422076373
+      soulsteal_75x75_10: 1978102295372094528
+      soulsteal_75x75_100: 3898295531764941097
+      soulsteal_75x75_101: -538160810575346814
+      soulsteal_75x75_102: 4783383178409641725
+      soulsteal_75x75_103: -3948892339264080320
+      soulsteal_75x75_104: -2992355536258384290
+      soulsteal_75x75_105: 7184773968147806514
+      soulsteal_75x75_106: -2375526105157038939
+      soulsteal_75x75_107: 1986766067646042420
+      soulsteal_75x75_108: -4969204655200009773
+      soulsteal_75x75_11: 5689252851550767340
+      soulsteal_75x75_12: 4219331801598351498
+      soulsteal_75x75_13: -3076744039050952752
+      soulsteal_75x75_14: -3535301371699566192
+      soulsteal_75x75_15: -8748597067287566859
+      soulsteal_75x75_16: -3633854531077692118
+      soulsteal_75x75_17: 5226930890280884626
+      soulsteal_75x75_18: 1538354390624922501
+      soulsteal_75x75_19: 1060514777181991285
+      soulsteal_75x75_2: 6888123376675303078
+      soulsteal_75x75_20: -3681546734576897542
+      soulsteal_75x75_21: -2892264506974728390
+      soulsteal_75x75_22: 4331242747705194471
+      soulsteal_75x75_23: -7900219359890117286
+      soulsteal_75x75_24: 2441438065192992910
+      soulsteal_75x75_25: -8006261827764694970
+      soulsteal_75x75_26: -5024869374200250959
+      soulsteal_75x75_27: -8381989778193697829
+      soulsteal_75x75_28: 562216536404970790
+      soulsteal_75x75_29: -2349151599619405627
+      soulsteal_75x75_3: 6172825388866984765
+      soulsteal_75x75_30: 5127236406284321998
+      soulsteal_75x75_31: -5802841407408864948
+      soulsteal_75x75_32: 6467978660397047924
+      soulsteal_75x75_33: -2741745432571014314
+      soulsteal_75x75_34: -2709796490326124478
+      soulsteal_75x75_35: -8234852932857902348
+      soulsteal_75x75_36: -4345734681198250047
+      soulsteal_75x75_37: 6718217010839967890
+      soulsteal_75x75_38: -1192148898039835394
+      soulsteal_75x75_39: 6196071447220674236
+      soulsteal_75x75_4: 5776168137492341953
+      soulsteal_75x75_40: -4420260088880464504
+      soulsteal_75x75_41: 5258751748709908916
+      soulsteal_75x75_42: -5983941556036609298
+      soulsteal_75x75_43: -8494010452273791715
+      soulsteal_75x75_44: 2109194786969166322
+      soulsteal_75x75_45: -8584710279101908837
+      soulsteal_75x75_46: -8953909593914048785
+      soulsteal_75x75_47: -6345382534081819426
+      soulsteal_75x75_48: -3116196971189752112
+      soulsteal_75x75_49: -7402663051301065567
+      soulsteal_75x75_5: -3588109677503888617
+      soulsteal_75x75_50: 6498507780553740196
+      soulsteal_75x75_51: -601827833023966118
+      soulsteal_75x75_52: -2260131900867491273
+      soulsteal_75x75_53: -8572535214661100532
+      soulsteal_75x75_54: -4490627774856641870
+      soulsteal_75x75_55: -8717668964857634514
+      soulsteal_75x75_56: -7587753574881910042
+      soulsteal_75x75_57: -7487524907141897409
+      soulsteal_75x75_58: -2552002931474875928
+      soulsteal_75x75_59: 8677967623684694074
+      soulsteal_75x75_6: 324147219117024141
+      soulsteal_75x75_60: 3885311333880187036
+      soulsteal_75x75_61: 1064163967472316961
+      soulsteal_75x75_62: 2950841663898142229
+      soulsteal_75x75_63: 696417591842045860
+      soulsteal_75x75_64: -8372689544456335435
+      soulsteal_75x75_65: -2045869505193804229
+      soulsteal_75x75_66: 618971736914027144
+      soulsteal_75x75_67: 778111955248627179
+      soulsteal_75x75_68: -2006562892737622583
+      soulsteal_75x75_69: -6566124456259234449
+      soulsteal_75x75_7: 8785722718934821421
+      soulsteal_75x75_70: -4558713716267849363
+      soulsteal_75x75_71: -2752173585910535535
+      soulsteal_75x75_72: -2178576000949579543
+      soulsteal_75x75_73: -8611657437325605000
+      soulsteal_75x75_74: -5664013018016939889
+      soulsteal_75x75_75: 7616342022958448584
+      soulsteal_75x75_76: 1392274242090304138
+      soulsteal_75x75_77: 8687498274735419480
+      soulsteal_75x75_78: -5368532742659847071
+      soulsteal_75x75_79: -7474554853510155388
+      soulsteal_75x75_8: -7546049340024252202
+      soulsteal_75x75_80: -7904354129770332322
+      soulsteal_75x75_81: 8836210047226372859
+      soulsteal_75x75_82: 1711357689155765256
+      soulsteal_75x75_83: 332817798597725573
+      soulsteal_75x75_84: 2610722463496343278
+      soulsteal_75x75_85: -1477639113560253216
+      soulsteal_75x75_86: -7322100684357053000
+      soulsteal_75x75_87: 3084979282034878263
+      soulsteal_75x75_88: 7217199805418575861
+      soulsteal_75x75_89: 2811961391220282698
+      soulsteal_75x75_9: -6552541603876940096
+      soulsteal_75x75_90: 3526884873641150094
+      soulsteal_75x75_91: 899540323726120695
+      soulsteal_75x75_92: -6556976292007417205
+      soulsteal_75x75_93: -1620567815488724791
+      soulsteal_75x75_94: -8319123547849255967
+      soulsteal_75x75_95: 5213761572905472577
+      soulsteal_75x75_96: -5013646673127541120
+      soulsteal_75x75_97: 9060720908766791040
+      soulsteal_75x75_98: 7980941814859063157
+      soulsteal_75x75_99: 4989953394414779126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

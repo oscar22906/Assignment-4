@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: db208286badf4924199e233fb1df7298
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1980190408574263165
+    second: jerry_174x162_0
+  - first:
+      213: 1047596330925359571
+    second: jerry_174x162_1
+  - first:
+      213: -3711861868073488039
+    second: jerry_174x162_2
+  - first:
+      213: -673215112750112647
+    second: jerry_174x162_3
+  - first:
+      213: -273419854658413716
+    second: jerry_174x162_4
+  - first:
+      213: 5936956974509209303
+    second: jerry_174x162_5
+  - first:
+      213: 5698744896701430054
+    second: jerry_174x162_6
+  - first:
+      213: -8027845481690646035
+    second: jerry_174x162_7
+  - first:
+      213: -5136568773642411947
+    second: jerry_174x162_8
+  - first:
+      213: 7322225465864839814
+    second: jerry_174x162_9
+  - first:
+      213: 6813519734393155344
+    second: jerry_174x162_10
+  - first:
+      213: -5318395589467495379
+    second: jerry_174x162_11
+  - first:
+      213: 1596938436296604133
+    second: jerry_174x162_12
+  - first:
+      213: 4192151657416002574
+    second: jerry_174x162_13
+  - first:
+      213: -8096382356348974428
+    second: jerry_174x162_14
+  - first:
+      213: -6749337389654566875
+    second: jerry_174x162_15
+  - first:
+      213: -1689278604641386465
+    second: jerry_174x162_16
+  - first:
+      213: -7048910630882268353
+    second: jerry_174x162_17
+  - first:
+      213: -6287090642580834397
+    second: jerry_174x162_18
+  - first:
+      213: -1746828277771519512
+    second: jerry_174x162_19
+  - first:
+      213: 1751217134852349492
+    second: jerry_174x162_20
+  - first:
+      213: -5014878343724918071
+    second: jerry_174x162_21
+  - first:
+      213: -6261613268996562376
+    second: jerry_174x162_22
+  - first:
+      213: -2677582391678579585
+    second: jerry_174x162_23
+  - first:
+      213: 895739378760448818
+    second: jerry_174x162_24
+  - first:
+      213: -4268837539826393276
+    second: jerry_174x162_25
+  - first:
+      213: 479125533468568195
+    second: jerry_174x162_26
+  - first:
+      213: 1334804227986052991
+    second: jerry_174x162_27
+  - first:
+      213: -7498816672531954856
+    second: jerry_174x162_28
+  - first:
+      213: -7247325272146369507
+    second: jerry_174x162_29
+  - first:
+      213: -8310653820060115768
+    second: jerry_174x162_30
+  - first:
+      213: 7081388826439786115
+    second: jerry_174x162_31
+  - first:
+      213: -1796772404316830109
+    second: jerry_174x162_32
+  - first:
+      213: -6202004261046783303
+    second: jerry_174x162_33
+  - first:
+      213: -4468155623782899110
+    second: jerry_174x162_34
+  - first:
+      213: 1436607718901530029
+    second: jerry_174x162_35
+  - first:
+      213: 6110945380795170255
+    second: jerry_174x162_36
+  - first:
+      213: 7683117402567180169
+    second: jerry_174x162_37
+  - first:
+      213: -7095967173886768518
+    second: jerry_174x162_38
+  - first:
+      213: 2508582859934068519
+    second: jerry_174x162_39
+  - first:
+      213: -9001369949713419635
+    second: jerry_174x162_40
+  - first:
+      213: -9009033074007912296
+    second: jerry_174x162_41
+  - first:
+      213: -1485308772816667890
+    second: jerry_174x162_42
+  - first:
+      213: -1875690265236474006
+    second: jerry_174x162_43
+  - first:
+      213: 4603727968028314929
+    second: jerry_174x162_44
+  - first:
+      213: 1751572181230435363
+    second: jerry_174x162_45
+  - first:
+      213: 560991203761696106
+    second: jerry_174x162_46
+  - first:
+      213: 3101188886900247208
+    second: jerry_174x162_47
+  - first:
+      213: 42520196632051982
+    second: jerry_174x162_48
+  - first:
+      213: -6667008985827938823
+    second: jerry_174x162_49
+  - first:
+      213: -2030316851573084417
+    second: jerry_174x162_50
+  - first:
+      213: -2829554768602621370
+    second: jerry_174x162_51
+  - first:
+      213: 332326124418413486
+    second: jerry_174x162_52
+  - first:
+      213: 299308529535604822
+    second: jerry_174x162_53
+  - first:
+      213: 5441365887992573680
+    second: jerry_174x162_54
+  - first:
+      213: -242064101152347442
+    second: jerry_174x162_55
+  - first:
+      213: 3072196087538620903
+    second: jerry_174x162_56
+  - first:
+      213: -2446787100683980640
+    second: jerry_174x162_57
+  - first:
+      213: -2012638130385046955
+    second: jerry_174x162_58
+  - first:
+      213: 6009120022612352530
+    second: jerry_174x162_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jerry_174x162_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f54b26fac0b7b10800000000000000
+      internalID: 1980190408574263165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d10fc4005fc98e00800000000000000
+      internalID: 1047596330925359571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951792a1c41dc7cc0800000000000000
+      internalID: -3711861868073488039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970ea1bfb6248a6f0800000000000000
+      internalID: -673215112750112647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bdb80471e943cf0800000000000000
+      internalID: -273419854658413716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d63668b9ee446250800000000000000
+      internalID: 5936956974509209303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_6
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62975715a42061f40800000000000000
+      internalID: 5698744896701430054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_7
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ba18511d579090800000000000000
+      internalID: -8027845481690646035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 972
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5502ea24aed37b8b0800000000000000
+      internalID: -5136568773642411947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68261323445cd9560800000000000000
+      internalID: 7322225465864839814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f2e9e491c7e8e50800000000000000
+      internalID: 6813519734393155344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2429c2b3634136b0800000000000000
+      internalID: -5318395589467495379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e970affb07792610800000000000000
+      internalID: 1596938436296604133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_13
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c88d0b8b38d2a30800000000000000
+      internalID: 4192151657416002574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_14
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa4414b42fd3af80800000000000000
+      internalID: -8096382356348974428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_15
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528906457698552a0800000000000000
+      internalID: -6749337389654566875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_16
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10ceab2f0a7e88e0800000000000000
+      internalID: -1689278604641386465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_17
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 810
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ba9c0c02d3d2e90800000000000000
+      internalID: -7048910630882268353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7794afe54cfb8a0800000000000000
+      internalID: -6287090642580834397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e932dbbfe402c7e0800000000000000
+      internalID: -1746828277771519512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_20
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e937fa4b29d4810800000000000000
+      internalID: 1751217134852349492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca1a7267b2976ab0800000000000000
+      internalID: -5014878343724918071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832669448e74a19a0800000000000000
+      internalID: -6261613268996562376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c482f400157dad0800000000000000
+      internalID: -2677582391678579585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_24
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b785a183e4e6c00800000000000000
+      internalID: 895739378760448818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_25
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f9bc2ffda02c4c0800000000000000
+      internalID: -4268837539826393276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_26
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 648
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aa639522236a600800000000000000
+      internalID: 479125533468568195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f775ccd8f5d268210800000000000000
+      internalID: 1334804227986052991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c4fd77f9dee790800000000000000
+      internalID: -7498816672531954856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_29
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14210e10145c6b90800000000000000
+      internalID: -7247325272146369507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_30
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd214e160aaac80800000000000000
+      internalID: -8310653820060115768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e1d5c6e95264260800000000000000
+      internalID: 7081388826439786115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_32
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366887a94059017e0800000000000000
+      internalID: -1796772404316830109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2f8d4fbfd0ee9a0800000000000000
+      internalID: -6202004261046783303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_34
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52a14b222cedf1c0800000000000000
+      internalID: -4468155623782899110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_35
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 486
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadb5bedb1bdfe310800000000000000
+      internalID: 1436607718901530029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd3c1852707ec450800000000000000
+      internalID: 6110945380795170255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f73ab129aef9a60800000000000000
+      internalID: 7683117402567180169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_38
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a85ae837f068d90800000000000000
+      internalID: -7095967173886768518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_39
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe000f1d640d220800000000000000
+      internalID: 2508582859934068519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_40
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82b477d8b5b41380800000000000000
+      internalID: -9001369949713419635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_41
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890530ea62c79f280800000000000000
+      internalID: -9009033074007912296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_42
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bbd766a8f136be0800000000000000
+      internalID: -1485308772816667890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_43
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67fbef34a538f5e0800000000000000
+      internalID: -1875690265236474006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_44
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 324
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dcbd0023ab3ef30800000000000000
+      internalID: 4603727968028314929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c32bc5e95de4810800000000000000
+      internalID: 1751572181230435363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_46
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da55e078a09c700800000000000000
+      internalID: 560991203761696106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_47
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa0411acd2a90b20800000000000000
+      internalID: 3101188886900247208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_48
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e018800c4ef079000800000000000000
+      internalID: 42520196632051982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_49
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd636596a60a73a0800000000000000
+      internalID: -6667008985827938823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_50
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe2f70a49dd2d3e0800000000000000
+      internalID: -2030316851573084417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_51
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a9de8fde66bb8d0800000000000000
+      internalID: -2829554768602621370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_52
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3ba8379d8ac9400800000000000000
+      internalID: 332326124418413486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_53
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 162
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658d635958b572400800000000000000
+      internalID: 299308529535604822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fea9be027d938b40800000000000000
+      internalID: 5441365887992573680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaa0f58bf304acf0800000000000000
+      internalID: -242064101152347442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_56
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9951e7012a2aa20800000000000000
+      internalID: 3072196087538620903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_57
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a039b678144b0ed0800000000000000
+      internalID: -2446787100683980640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_58
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5523ef8a84ca114e0800000000000000
+      internalID: -2012638130385046955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerry_174x162_59
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 0
+        width: 174
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e1f78a2dea46350800000000000000
+      internalID: 6009120022612352530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb8f8b476f95a7b49946076384a80ef3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jerry_174x162_0: 1980190408574263165
+      jerry_174x162_1: 1047596330925359571
+      jerry_174x162_10: 6813519734393155344
+      jerry_174x162_11: -5318395589467495379
+      jerry_174x162_12: 1596938436296604133
+      jerry_174x162_13: 4192151657416002574
+      jerry_174x162_14: -8096382356348974428
+      jerry_174x162_15: -6749337389654566875
+      jerry_174x162_16: -1689278604641386465
+      jerry_174x162_17: -7048910630882268353
+      jerry_174x162_18: -6287090642580834397
+      jerry_174x162_19: -1746828277771519512
+      jerry_174x162_2: -3711861868073488039
+      jerry_174x162_20: 1751217134852349492
+      jerry_174x162_21: -5014878343724918071
+      jerry_174x162_22: -6261613268996562376
+      jerry_174x162_23: -2677582391678579585
+      jerry_174x162_24: 895739378760448818
+      jerry_174x162_25: -4268837539826393276
+      jerry_174x162_26: 479125533468568195
+      jerry_174x162_27: 1334804227986052991
+      jerry_174x162_28: -7498816672531954856
+      jerry_174x162_29: -7247325272146369507
+      jerry_174x162_3: -673215112750112647
+      jerry_174x162_30: -8310653820060115768
+      jerry_174x162_31: 7081388826439786115
+      jerry_174x162_32: -1796772404316830109
+      jerry_174x162_33: -6202004261046783303
+      jerry_174x162_34: -4468155623782899110
+      jerry_174x162_35: 1436607718901530029
+      jerry_174x162_36: 6110945380795170255
+      jerry_174x162_37: 7683117402567180169
+      jerry_174x162_38: -7095967173886768518
+      jerry_174x162_39: 2508582859934068519
+      jerry_174x162_4: -273419854658413716
+      jerry_174x162_40: -9001369949713419635
+      jerry_174x162_41: -9009033074007912296
+      jerry_174x162_42: -1485308772816667890
+      jerry_174x162_43: -1875690265236474006
+      jerry_174x162_44: 4603727968028314929
+      jerry_174x162_45: 1751572181230435363
+      jerry_174x162_46: 560991203761696106
+      jerry_174x162_47: 3101188886900247208
+      jerry_174x162_48: 42520196632051982
+      jerry_174x162_49: -6667008985827938823
+      jerry_174x162_5: 5936956974509209303
+      jerry_174x162_50: -2030316851573084417
+      jerry_174x162_51: -2829554768602621370
+      jerry_174x162_52: 332326124418413486
+      jerry_174x162_53: 299308529535604822
+      jerry_174x162_54: 5441365887992573680
+      jerry_174x162_55: -242064101152347442
+      jerry_174x162_56: 3072196087538620903
+      jerry_174x162_57: -2446787100683980640
+      jerry_174x162_58: -2012638130385046955
+      jerry_174x162_59: 6009120022612352530
+      jerry_174x162_6: 5698744896701430054
+      jerry_174x162_7: -8027845481690646035
+      jerry_174x162_8: -5136568773642411947
+      jerry_174x162_9: 7322225465864839814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
