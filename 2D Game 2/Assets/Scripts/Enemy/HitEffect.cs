@@ -38,9 +38,6 @@ public class HitEffect : MonoBehaviour
         // Play the audio clip corresponding to the calculated index using the punch audio source
         punchAudioSource.PlayOneShot(punchAudioClips[punchClipIndex]);
 
-        Debug.Log("Played Hit Clip " + hitClipIndex);
-        Debug.Log("Played Punch Clip " + punchClipIndex);
-
         // Check if health is less than or equal to 0
         if (currentHealth <= 0)
         {

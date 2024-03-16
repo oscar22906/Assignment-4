@@ -28,7 +28,7 @@ public class Tile : MonoBehaviour
     {
         text = GetComponentInChildren<TextMeshProUGUI>();
         fill = GetComponent<Image>();
-        outline = GetComponent<Outline>();
+        outline = GetComponentInChildren<Outline>();
         _animator = GetComponent<Animator>();
     }
 
@@ -50,7 +50,7 @@ public class Tile : MonoBehaviour
         this.letter = letter;
         text.text = letter.ToString();
         
-        fadeInCoroutine = StartCoroutine(FadeInTextCoroutine(2.0f));
+        fadeInCoroutine = StartCoroutine(FadeInTextCoroutine(1.0f));
     }
 
     public void SetState(State state)

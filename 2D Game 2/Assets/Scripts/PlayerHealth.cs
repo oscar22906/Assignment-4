@@ -1,3 +1,4 @@
+using Strobotnik.Klattersynth;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,9 +18,12 @@ public class PlayerHealth : MonoBehaviour
 
     public GameObject damageEffectPrefab; // Assign your particle effect prefab in the Unity Editor
     private Animation _animation;
+    Dialogue dialogue;
 
     void Start()
     {
+        GameObject game = GameObject.FindGameObjectWithTag("Game");
+        dialogue = game.GetComponent<Dialogue>();
         playerHealthSlider.SetMaxHealth(maxHealth);
         currentHealth = maxHealth;
         _animation = GetComponentInChildren<Animation>();
@@ -44,7 +48,7 @@ public class PlayerHealth : MonoBehaviour
         {
             Die();
         }
-        else
+        if (currentHealth > 0)
         {
             PlayDamageEffect();
         }
@@ -89,7 +93,6 @@ public class PlayerHealth : MonoBehaviour
 
     void Die()
     {
-
-        // Destroy GameObject
+        dialogue.PlayerDeath();
     }
 }

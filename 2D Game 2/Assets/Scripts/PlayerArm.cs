@@ -37,7 +37,6 @@ public class PlayerArm : MonoBehaviour
 
     public void AttackEnemy()
     {
-        Debug.Log("AttackEnemy Called");
         enemyHealthScript.TakeDamage(Random.Range(damageMin, damageMax));
     }
 

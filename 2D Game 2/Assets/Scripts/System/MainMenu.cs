@@ -38,12 +38,12 @@ public class MainMenu : MonoBehaviour
     }
     private void LoadGame()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 
     }
     private void LoadSettings()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(10);
     }
 
 

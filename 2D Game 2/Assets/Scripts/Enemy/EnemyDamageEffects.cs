@@ -6,6 +6,7 @@ using TMPro;
 public class EnemyDamageEffects : MonoBehaviour
 {
     [Header("Screen Effect")]
+    [Tooltip("Trigger = 'Damage'")]
     public bool animatedScreenEffect;
     public GameObject animatedScreenEffectObject;
     public bool fadeScreenEffect;
@@ -31,6 +32,7 @@ public class EnemyDamageEffects : MonoBehaviour
 
     public void DamageEffect()
     {
+        Debug.Log("heyyy");
         StopAllCoroutines();
         if (handEffect)
         {

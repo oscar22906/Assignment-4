@@ -4,6 +4,7 @@ using UnityEngine;
 using TMPro;
 using DG.Tweening;
 using Strobotnik.Klattersynth;
+using UnityEngine.SceneManagement;
 
 public class IntroDialogue : MonoBehaviour
 {
@@ -29,7 +30,7 @@ public class IntroDialogue : MonoBehaviour
     public Animator handAnimator;
     public Animator buttonAnimator;
     public Animator SolarGlare;
-    public CanvasGroup canvasGroup;
+    public CanvasGroup canvasCanvas;
     public CanvasGroup fadeBlack;
     public CanvasGroup textCanvas;
     public CanvasGroup bjan;
@@ -79,24 +80,27 @@ public class IntroDialogue : MonoBehaviour
                 if (animationsPlayed && currentIndex2 < texts2.Length)
                 {
                     Dialogue2();
-                    if (currentIndex2 >= texts2.Length)
+                    if (currentIndex2 >= texts2.Length && playerName == null)
                     {
                         Debug.Log("Dialogue 2 end");
-                        FadeIn(canvasGroup, 5);
+                        canvasCanvas.DOFade(1, 3);
                         boardScript.NewGame();
                         cooldown = true;
                     }
                 }
+
                 if (playerName != null && currentIndex3 < texts3.Length)
                 {
-                    FadeOut(canvasGroup, 1);
+                    FadeOut(canvasCanvas, 1);
                     Dialogue3();
                     if (currentIndex3 >= texts3.Length)
                     {
                         Debug.Log("Dialogue 3 end");
                         FadeIn(fadeBlack, 3);
+                        StartCoroutine(NextScene());
                     }
                 }
+                return;
             }
         }
     }
@@ -148,7 +152,7 @@ public class IntroDialogue : MonoBehaviour
         button.SetActive(false);
         FadeOut(bjan, 0);
         FadeOut(textCanvas, 0);
-        FadeOut(canvasGroup, 0);
+        FadeOut(canvasCanvas, 0);
     }
 
     private void FadeIn(CanvasGroup canvasGroup, float fadeTime)
@@ -164,7 +168,7 @@ public class IntroDialogue : MonoBehaviour
     {
         playerName = name.ToLower().Trim('\0');
         boardScript.playerName = playerName;
-        persistent.playerName = playerName;
+        PlayerPrefs.SetString("PlayerName", playerName);
     }
     public void CooldownStart()
     {
@@ -186,12 +190,21 @@ public class IntroDialogue : MonoBehaviour
 
     IEnumerator AnimationWait()
     {
+        dialogueBegun = false;
+        StopCoroutine(CooldownCoroutine());
+        cooldown = false;
         yield return new WaitForSeconds(5);
         handAnimator.SetBool("Leave", true);
         SolarGlare.SetBool("Grab", false);
         button.SetActive(false);
         animationsPlayed = true;
+        dialogueBegun = true;
         FadeIn(textCanvas, 1);
         Dialogue2();
+    }
+    IEnumerator NextScene()
+    {
+        yield return new WaitForSeconds(2);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

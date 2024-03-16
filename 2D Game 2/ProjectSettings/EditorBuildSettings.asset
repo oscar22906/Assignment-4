@@ -12,8 +12,32 @@ EditorBuildSettings:
     path: Assets/Scenes/Intro.unity
     guid: 3256c3b7eb30fb8429d3762bddb54f44
   - enabled: 1
-    path: Assets/Scenes/GameScene.unity
+    path: Assets/Scenes/Scene1.unity
+    guid: e34b01de245a6e1459903452991316ab
+  - enabled: 1
+    path: Assets/Scenes/Scene2.unity
+    guid: cc80fda3e872225419460a35e78c88e2
+  - enabled: 1
+    path: Assets/Scenes/Scene3.unity
+    guid: 82256923464dc7d47abe00c7bc1ac2fa
+  - enabled: 1
+    path: Assets/Scenes/Scene4.unity
+    guid: b7f720bed5a941d4c8330bc5ec13df38
+  - enabled: 1
+    path: Assets/Scenes/Scene5.unity
+    guid: ce42bf50f2757c1458705de83262f0b4
+  - enabled: 1
+    path: Assets/Scenes/Scene6.unity
+    guid: 20d9c9f68239d424b968605a91b90759
+  - enabled: 1
+    path: Assets/Scenes/Scene7.unity
     guid: f0a7079b22f5b6d409338ab949918f13
+  - enabled: 1
+    path: Assets/Scenes/Outro.unity
+    guid: e9765c5f997205c41aef745057587d5f
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 35890b9fd54ff0b4db9e774370977b43
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
       guid: 939c07995df3407439080e5b34ada3c5, type: 2}

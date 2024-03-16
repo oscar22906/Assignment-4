@@ -1,8 +1,10 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class EnemyController : MonoBehaviour
 {
+
     [Header("Move Settings")]
     public bool doMove;
     public float minMoveDelay = 1f;
@@ -18,6 +20,9 @@ public class EnemyController : MonoBehaviour
     public Vector3 rightSidePosition = new Vector3(2f, 0f, 0f);
 
     [Header("Attack")]
+    public bool useBodyAnimator;
+    public BodyAnimator bodyAnimator;
+    public bool playAudioOnDealDamage;
     public bool doAttack;
     public float minAttackDamage = 5f;
     public float maxAttackDamage = 10f;
@@ -26,9 +31,12 @@ public class EnemyController : MonoBehaviour
     public int maxAttack = 1;
 
     [Header("Effect")]
-    public bool simpleDamageEffect = true; // Whether the damage is sprite based or animated
+    public bool simpleDamage = true; // Whether the damage is sprite based or animated
     private EnemyEffects enemyEffect;
 
+    [Header("Deal Damage Audio")]
+    public AudioClip[] dealDamageAudioClips;
+    public AudioSource audioSource;
 
     [Header("Health Stage")]
     public bool increaseMovementWithStage = true; // Increase or decrease movement speed, distance, and delay with health stage
@@ -45,6 +53,10 @@ public class EnemyController : MonoBehaviour
     private EnemyHealth enemyHealth;
     private PlayerHealth playerHealth;
 
+    public bool sprinklesMode = false;
+    public Sprinkles sprinkles;
+
+    private AudioSource audio;
     void Start()
     {
         GameObject player = GameObject.FindGameObjectWithTag("Player");
@@ -57,12 +69,9 @@ public class EnemyController : MonoBehaviour
         enemyHealth = GetComponent<EnemyHealth>();
 
         StartCoroutine(MoveCoroutine());
-        if (doAttack)
-        {
-            StartCoroutine(AttackWithDelay());
-        }
 
         attackCounter = 0;
+        audio = audioSource;
     }
     
     void Update()
@@ -74,7 +83,7 @@ public class EnemyController : MonoBehaviour
     {
         float healthPercentage = (float)enemyHealth.currentHealth / enemyHealth.maxHealth;
         
-        if (!simpleDamageEffect)
+        if (!simpleDamage)
         {
             enemyEffect.DamageUpdate(healthPercentage);
         }
@@ -94,9 +103,22 @@ public class EnemyController : MonoBehaviour
             healthStage = 3;
         }
     }
+    public void PlayAudio()
+    {
+        int randomInt = Random.Range(0, dealDamageAudioClips.Length - 1);
+        audioSource.PlayOneShot(dealDamageAudioClips[randomInt]);
+    }
 
     public void DealDamage()
     {
+        if (playAudioOnDealDamage)
+        {
+            PlayAudio();
+        }
+        if (useBodyAnimator)
+        {
+            bodyAnimator.PlayAnimation();
+        }
         float damage = Random.Range(minAttackDamage, maxAttackDamage);
         playerHealth.TakeDamage(damage);
         Debug.Log("enemy dealt damage: " + damage);
@@ -106,7 +128,7 @@ public class EnemyController : MonoBehaviour
 
 
 
-    void Attack()
+    public void Attack()
     {
         StartCoroutine(AttackWithDelay());
     }
@@ -118,7 +140,17 @@ public class EnemyController : MonoBehaviour
         Debug.Log("Enemy attacked! With delay of " + attackDelay);
 
         // Call the punch animation function from the rightArm script
-        rightArm.PerformPunchAnimation(maxAttack);
+        if (rightArm != null && !sprinklesMode)
+        {
+            rightArm.PerformPunchAnimation(maxAttack);
+        }
+        if (sprinklesMode)
+        {
+            if (sprinkles != null)
+            {
+                sprinkles.StartAttack();
+            }
+        }
 
         // No delay for chained attacks
         for (int i = 1; i <= maxAttack; i++)

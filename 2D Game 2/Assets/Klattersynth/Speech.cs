@@ -18,7 +18,7 @@ namespace Strobotnik.Klattersynth
 #else
         public bool useStreamingMode = true;
 #endif
-        public DialogueController dialogueController;
+        DialogueController dialogueController;
 
         [Tooltip("Maximum amount of speech clips to automatically cache in non-streaming mode.\n(Least recently used are discarded when going over this amount.)")]
         public int maxAutoCachedClips = 10;
@@ -69,6 +69,15 @@ namespace Strobotnik.Klattersynth
                 return true; // true = we're in error situation
             }
             return false; // false = Ok
+        }
+
+        private void Start()
+        {
+            GameObject dialogueObj = GameObject.FindGameObjectWithTag("Dialogue Controller");
+            if (dialogueObj != null)
+            {
+                dialogueController = dialogueObj.GetComponent<DialogueController>();
+            }
         }
 
         // Caches a speech clip.

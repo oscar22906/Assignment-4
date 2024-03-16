@@ -12,6 +12,8 @@ TagManager:
   - Game
   - Voice
   - Enemy
+  - Fade Black
+  - Cheat Text
   layers:
   - Default
   - TransparentFX

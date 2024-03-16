@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using UnityEngine;
 using System.Collections;
 using Strobotnik.Klattersynth;
+using UnityEngine.SceneManagement;
 
 public class Board : MonoBehaviour
 {
@@ -49,8 +50,11 @@ public class Board : MonoBehaviour
 
     [Tooltip("Word challenges continue after enemy is killed")]
     public bool testingMode = false;
+    public bool dontStartGame = false;
 
     public Row[] rows;
+
+    public bool cheatMode = false;
 
     private string incorrectGuess;
     private string displayWord;
@@ -67,7 +71,13 @@ public class Board : MonoBehaviour
 
     private int currentLevel;
 
+    [Header("Louis Mode")]
+    public bool louisMode;
+    public Louis louis;
 
+    public TextMeshProUGUI cheatText;
+
+    private Dialogue dialogue;
     private bool introScene = false;
     private IntroDialogue introDialogue;
     private Persistent persistent;
@@ -76,17 +86,41 @@ public class Board : MonoBehaviour
 
     private void Awake()
     {
+        if (PlayerPrefs.HasKey("PlayerName"))
+        {
+            playerName = PlayerPrefs.GetString("PlayerName");
+        }
+        else
+        {
+            playerName = "Jerry";
+        }
+        currentLevel = SceneManager.GetActiveScene().buildIndex - 1;
+        if (currentLevel < 1)
+        {
+            currentLevel = 1;
+        }
+        cheatMode = PlayerPrefs.GetInt("CheatMode", 0) == 0 ? false : true;
+        GameObject cheat = GameObject.FindGameObjectWithTag("Cheat Text");
+        cheatText = cheat.GetComponent<TextMeshProUGUI>();
+        if (!cheatMode && cheatText != null)
+        {
+            cheatText.text = "";
+        }
+        if (cheatMode && cheatText != null)
+        {
+            cheatText.text = "Baby mode";
+        }
+
         GameObject persistentObj = GameObject.FindGameObjectWithTag("Persistent");
         if (persistentObj != null)
         {
             persistent = persistentObj.GetComponent<Persistent>();
-            playerName = persistent.playerName;
-            currentLevel = persistent.currentLevel;
+            GameObject voice = GameObject.FindGameObjectWithTag("Voice");
+            speech = voice.GetComponent<Speech>();
         }
         else
         {
-            playerName = "jerry";
-            currentLevel = 1;
+            Debug.LogWarning("No persistent found");
         }
         GameObject introObj = GameObject.FindGameObjectWithTag("Intro");
         if (introObj != null)
@@ -94,13 +128,16 @@ public class Board : MonoBehaviour
             introDialogue = introObj.GetComponent<IntroDialogue>();
         }
 
+
         rows = GetComponentsInChildren<Row>();
         GameObject game = GameObject.FindGameObjectWithTag("Game");
+        dialogue = game.GetComponent<Dialogue>();
         loadData = game.GetComponent<LoadData>();
         uIEvent.SetInvisible();
 
         if (introDialogue != null)
         {
+            dontStartGame = true;
             introScene = true;
             speech = null;
         }
@@ -109,14 +146,13 @@ public class Board : MonoBehaviour
     private void Start() 
     {
         LoadData();
-        if (!introScene)
+        if (dialogue == null || dialogue != null && !dialogue.introDialogue)
         {
             NewGame();
-        }
-        else
-        {
             return;
         }
+        dialogue.DoIntro();
+
     }
 
     public void NewGame()
@@ -157,8 +193,14 @@ public class Board : MonoBehaviour
         word = word.ToLower().Trim();
         // speak challenge word
         Debug.Log("The word is " + word);
-        speech.schedule(spellAlternatives[Random.Range(0, spellAlternatives.Length)] + word, false);
-        
+        if (cheatMode && cheatText != null)
+        {
+            cheatText.text = word;
+        }
+        if(introDialogue == null)
+        {
+            speech.schedule(spellAlternatives[Random.Range(0, spellAlternatives.Length)] + word, false);
+        }
     }
 
     private void Update()
@@ -239,6 +281,10 @@ public class Board : MonoBehaviour
             Debug.Log("Guessed " + row.word + ". word is " + word);
             if (!IsCorrect(row.word))
             {
+                if (louisMode)
+                {
+                    louis.Incorrect();
+                }
                 // guessed wrong 
                 incorrectGuesses++;
                 incorrectGuess = row.word;
@@ -253,6 +299,10 @@ public class Board : MonoBehaviour
 
             if (IsCorrect(row.word))
             {
+                if (louisMode)
+                {
+                    louis.Correct();
+                }
                 // correct guess
                 // set screen text to random compliment
                 string successPhraseString = RandomPhrase(successPhrase);
@@ -389,7 +439,7 @@ public class Board : MonoBehaviour
 
     private void OnEnable()
     {
-        
+
     }
 
     private void OnDisable()
@@ -423,6 +473,5 @@ public class Board : MonoBehaviour
             }
         }
     }
-
 
 }
